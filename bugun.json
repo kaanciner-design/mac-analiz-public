@@ -1,0 +1,230 @@
+{
+  "guncelleme_utc": "2026-10-11T22:51:35Z",
+  "mac_sayisi": 14,
+  "maclar": [
+    {
+      "mac_id": "0f2e7ff90b994f31d5cd48a9680943e1",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Atalanta BC",
+      "deplasman": "Venezia",
+      "baslama_utc": "2026-10-12T16:30:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.615,
+        "X": 0.2206,
+        "2": 0.1644
+      },
+      "tahmin": "1",
+      "guven": 0.3944,
+      "ai_metin": "Atalanta BC'nin kazanma olasılığı %61.5 ile oldukça yüksekken, Venezia'nın galibiyet şansı %16.4 ile düşük kalıyor. Beraberlik olasılığı ise %22.1, bu da maçın dengeli geçebileceğini gösteriyor. Genel olarak, Atalanta BC'nin maçı kazanma ihtimali belirgin şekilde öne çıkıyor."
+    },
+    {
+      "mac_id": "235c82b1c0433f04968008f8c269a32d",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Eyüpspor",
+      "deplasman": "Goztepe",
+      "baslama_utc": "2026-10-12T17:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2459,
+        "X": 0.2574,
+        "2": 0.4967
+      },
+      "tahmin": "2",
+      "guven": 0.2393,
+      "ai_metin": "Eyüpspor'un maçı kazanma olasılığı %24.6 ile oldukça düşükken, Goztepe'nin kazanma ihtimali %49.7 ile daha yüksek görünmektedir. Beraberlik olasılığı ise %25.7 olarak hesaplanmıştır, bu da maçın dengeli bir mücadeleye sahne olabileceğini göstermektedir. Goztepe'nin galibiyet şansı, Eyüpspor'a kıyasla belirgin bir üstünlük sağlamaktadır."
+    },
+    {
+      "mac_id": "f4a28510bb0c835280a2aca709c19d50",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Torino",
+      "deplasman": "Udinese",
+      "baslama_utc": "2026-10-12T18:45:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4032,
+        "X": 0.2993,
+        "2": 0.2975
+      },
+      "tahmin": "1",
+      "guven": 0.1039,
+      "ai_metin": "Torino'nun kazanma olasılığı %40.3 ile en yüksek iken, beraberlik ihtimali %29.9 ve Udinese'nin kazanma olasılığı ise %29.8 olarak belirlenmiştir. Bu durum, Torino'nun ev sahibi avantajıyla birlikte maçı kazanma konusunda daha önde olduğunu gösteriyor. Ancak, Udinese'nin de yakın bir ihtimalle galip gelme şansı bulunuyor."
+    },
+    {
+      "mac_id": "acd5bd945dd953ad1e300df5bfe696f9",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Coventry City",
+      "deplasman": "Newcastle United",
+      "baslama_utc": "2026-10-12T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2963,
+        "X": 0.2658,
+        "2": 0.4379
+      },
+      "tahmin": "2",
+      "guven": 0.1416,
+      "ai_metin": "Coventry City'nin maçı kazanma olasılığı %29.6 iken, Newcastle United'ın kazanma olasılığı %43.8 ile daha yüksek. Beraberlik ihtimali %26.6 olarak hesaplanmış. Bu veriler, Newcastle United'ın maçı kazanma konusunda daha avantajlı olduğunu gösteriyor."
+    },
+    {
+      "mac_id": "529fc26c7774d5b469932e275c668921",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Levante",
+      "deplasman": "Sevilla",
+      "baslama_utc": "2026-10-12T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3537,
+        "X": 0.2923,
+        "2": 0.354
+      },
+      "tahmin": "2",
+      "guven": 0.0003,
+      "ai_metin": "Levante ve Sevilla arasında oynanacak maçta, her iki takımın galibiyet olasılığı %35.4 olarak eşit durumda. Beraberlik ihtimali ise %29.2 ile biraz daha düşük. Bu durum, maçın oldukça dengeli geçeceğini ve her iki takımın da kazanma şansının benzer olduğunu gösteriyor."
+    },
+    {
+      "mac_id": "2b0a946cac613732fcbf57ce931490a1",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "RC Lens",
+      "deplasman": "Sporting Lisbon",
+      "baslama_utc": "2026-10-13T16:45:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3821,
+        "X": 0.2553,
+        "2": 0.3625
+      },
+      "tahmin": "1",
+      "guven": 0.0196,
+      "ai_metin": "RC Lens'in kazanma olasılığı %38.2 ile en yüksek, ancak Sporting Lisbon'un kazanma olasılığı da %36.2 ile oldukça yakın. Beraberlik olasılığı %25.5 ile dikkate değer bir seçenek olarak öne çıkıyor. Bu durum, maçın oldukça dengeli geçeceğini ve her iki takımın da galibiyet için mücadele edeceğini gösteriyor."
+    },
+    {
+      "mac_id": "46f726554e6876fb828c767bfbfdfdad",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Sabah FK",
+      "deplasman": "Slavia Praha",
+      "baslama_utc": "2026-10-13T16:45:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2733,
+        "X": 0.2532,
+        "2": 0.4734
+      },
+      "tahmin": "2",
+      "guven": 0.2001,
+      "ai_metin": "Sabah FK'nın kazanma olasılığı %27.3 ile düşük kalırken, Slavia Praha'nın galibiyet ihtimali %47.3 ile daha yüksek. Beraberlik olasılığı ise %25.3 olarak belirlenmiş. Bu durum, Slavia Praha'nın maçta favori olduğunu gösteriyor."
+    },
+    {
+      "mac_id": "93177465a42a0fb7802f1c8b06d6ee3a",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Arsenal",
+      "deplasman": "Lille",
+      "baslama_utc": "2026-10-13T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7691,
+        "X": 0.1549,
+        "2": 0.076
+      },
+      "tahmin": "1",
+      "guven": 0.6142,
+      "ai_metin": "Arsenal, Lille karşısında %76.9'luk bir kazanma olasılığı ile güçlü bir favori konumunda. Beraberlik olasılığı %15.5 iken, Lille'in galibiyet şansı %7.6 ile oldukça düşük. Bu durum, Arsenal'ın maçı kazanma ihtimalinin oldukça yüksek olduğunu gösteriyor."
+    },
+    {
+      "mac_id": "a9c22e08b395ee5753c8a65bc0eb97cf",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Atlético Madrid",
+      "deplasman": "Manchester United",
+      "baslama_utc": "2026-10-13T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4915,
+        "X": 0.2414,
+        "2": 0.2672
+      },
+      "tahmin": "1",
+      "guven": 0.2243,
+      "ai_metin": "Atlético Madrid'in kazanma olasılığı %49.1 ile en yüksek, bu da ev sahibi avantajının önemli bir etki yarattığını gösteriyor. Beraberlik ihtimali %24.1 ile dikkate değerken, Manchester United'ın kazanma olasılığı %26.7 olarak belirlenmiş. Bu durum, maçın oldukça dengeli geçebileceğini ve her iki takımın da galibiyet şansı bulunduğunu ortaya koyuyor."
+    },
+    {
+      "mac_id": "dd431688ed5c8f383b6434fd4f01e883",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Galatasaray",
+      "deplasman": "Barcelona",
+      "baslama_utc": "2026-10-13T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1062,
+        "X": 0.1421,
+        "2": 0.7518
+      },
+      "tahmin": "2",
+      "guven": 0.6097,
+      "ai_metin": "Galatasaray'ın Barcelona karşısında galibiyet şansı %10.6 ile oldukça düşük görünmektedir. Beraberlik olasılığı %14.2 iken, Barcelona'nın kazanma ihtimali %75.2 ile belirgin bir şekilde öne çıkmaktadır. Bu durum, Barcelona'nın maçta favori olduğunu göstermektedir."
+    },
+    {
+      "mac_id": "8a9d20b23417357011c10585a99335e9",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Viking FK",
+      "deplasman": "Bayern Munich",
+      "baslama_utc": "2026-10-13T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.0474,
+        "X": 0.0776,
+        "2": 0.875
+      },
+      "tahmin": "2",
+      "guven": 0.7974,
+      "ai_metin": "Viking FK'nin Bayern Munich karşısında galibiyet şansı %4.7 ile oldukça düşük. Beraberlik olasılığı da %7.8 olarak sınırlı kalırken, Bayern Munich'in kazanma ihtimali %87.5 ile belirgin bir üstünlük gösteriyor. Bu durum, Bayern Munich'in maçta favori olduğunu açıkça ortaya koyuyor."
+    },
+    {
+      "mac_id": "ca3f4b075d835413f9cb7bd3c439fdd0",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Inter Milan",
+      "deplasman": "Club Brugge",
+      "baslama_utc": "2026-10-13T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7524,
+        "X": 0.1578,
+        "2": 0.0898
+      },
+      "tahmin": "1",
+      "guven": 0.5946,
+      "ai_metin": "Inter Milan, %75.2'lik yüksek bir kazanma olasılığı ile maça favori olarak çıkıyor. Beraberlik olasılığı %15.8 iken, Club Brugge'un kazanma ihtimali %9.0 ile oldukça düşük. Bu durum, ev sahibi takımın galibiyet için güçlü bir konumda olduğunu gösteriyor."
+    },
+    {
+      "mac_id": "09e41b63d1d59bd4d971c54ffce154d3",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Villarreal",
+      "deplasman": "Napoli",
+      "baslama_utc": "2026-10-13T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.443,
+        "X": 0.2578,
+        "2": 0.2992
+      },
+      "tahmin": "1",
+      "guven": 0.1438,
+      "ai_metin": "Villarreal'in maçı kazanma olasılığı %44.3 ile en yüksekken, Napoli'nin kazanma ihtimali %29.9'dur. Beraberlik olasılığı ise %25.8 olarak hesaplanmıştır. Bu veriler, Villarreal'in ev sahibi avantajıyla öne çıktığını göstermektedir."
+    },
+    {
+      "mac_id": "da9e9e9eb9a238ed97827c4a8fbe6044",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "RB Leipzig",
+      "deplasman": "PSV Eindhoven",
+      "baslama_utc": "2026-10-13T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5362,
+        "X": 0.2154,
+        "2": 0.2484
+      },
+      "tahmin": "1",
+      "guven": 0.2878,
+      "ai_metin": "RB Leipzig'in maçı kazanma olasılığı %53.6 ile en yüksek seviyede yer alıyor, bu da ev sahibi takımın avantajlı olduğunu gösteriyor. PSV Eindhoven'ın galibiyet olasılığı ise %24.8, bu da onların zayıf bir ihtimalle maçı kazanabileceğini ortaya koyuyor. Beraberlik olasılığı %21.5 ile her iki takımın da eşit bir performans sergileyebileceğini düşündürüyor."
+    }
+  ]
+}

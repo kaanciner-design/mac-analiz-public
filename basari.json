@@ -1,0 +1,185 @@
+{
+  "guncelleme_utc": "2026-10-11T22:51:35Z",
+  "toplam_tahmin": 0,
+  "tutan": 0,
+  "isabet_orani": null,
+  "beklenen_isabet": null,
+  "sonuc_bekleyen": 14,
+  "lig_bazinda": {
+    "soccer_epl": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 1
+    },
+    "soccer_italy_serie_a": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 2
+    },
+    "soccer_spain_la_liga": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 1
+    },
+    "soccer_turkey_super_league": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 1
+    },
+    "soccer_uefa_champs_league": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 9
+    }
+  },
+  "guven_araligi_bazinda": {
+    "0-0.15": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 5
+    },
+    "0.15-0.30": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 4
+    },
+    "0.30+": {
+      "toplam_tahmin": 0,
+      "tutan": 0,
+      "isabet_orani": null,
+      "beklenen_isabet": null,
+      "sonuc_bekleyen": 5
+    }
+  },
+  "lig_guven_bazinda": {
+    "soccer_epl": {
+      "0-0.15": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 1
+      },
+      "0.15-0.30": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 0
+      },
+      "0.30+": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 0
+      }
+    },
+    "soccer_italy_serie_a": {
+      "0-0.15": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 1
+      },
+      "0.15-0.30": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 0
+      },
+      "0.30+": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 1
+      }
+    },
+    "soccer_spain_la_liga": {
+      "0-0.15": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 1
+      },
+      "0.15-0.30": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 0
+      },
+      "0.30+": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 0
+      }
+    },
+    "soccer_turkey_super_league": {
+      "0-0.15": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 0
+      },
+      "0.15-0.30": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 1
+      },
+      "0.30+": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 0
+      }
+    },
+    "soccer_uefa_champs_league": {
+      "0-0.15": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 2
+      },
+      "0.15-0.30": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 3
+      },
+      "0.30+": {
+        "toplam_tahmin": 0,
+        "tutan": 0,
+        "isabet_orani": null,
+        "beklenen_isabet": null,
+        "sonuc_bekleyen": 4
+      }
+    }
+  }
+}
