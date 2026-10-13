@@ -1,5 +1,116 @@
 {
-  "guncelleme_utc": "2026-10-12T08:23:55Z",
-  "mac_sayisi": 0,
-  "maclar": []
+  "guncelleme_utc": "2026-10-13T05:37:19Z",
+  "mac_sayisi": 5,
+  "maclar": [
+    {
+      "mac_id": "acd5bd945dd953ad1e300df5bfe696f9",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Coventry City",
+      "deplasman": "Newcastle United",
+      "baslama_utc": "2026-10-12T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.2963,
+        "X": 0.2658,
+        "2": 0.4379
+      },
+      "tahmin": "2",
+      "guven": 0.1416,
+      "alt_ust": null,
+      "ai_metin": "Coventry City'nin maçı kazanma olasılığı %29.6 iken, Newcastle United'ın kazanma olasılığı %43.8 ile daha yüksek. Beraberlik ihtimali %26.6 olarak hesaplanmış. Bu veriler, Newcastle United'ın maçı kazanma konusunda daha avantajlı olduğunu gösteriyor.",
+      "gercek_sonuc": "1",
+      "skor": "4-1",
+      "toplam_gol": 5,
+      "tuttu": false,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "529fc26c7774d5b469932e275c668921",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Levante",
+      "deplasman": "Sevilla",
+      "baslama_utc": "2026-10-12T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.3537,
+        "X": 0.2923,
+        "2": 0.354
+      },
+      "tahmin": "2",
+      "guven": 0.0003,
+      "alt_ust": null,
+      "ai_metin": "Levante ve Sevilla arasında oynanacak maçta, her iki takımın galibiyet olasılığı %35.4 olarak eşit durumda. Beraberlik ihtimali ise %29.2 ile biraz daha düşük. Bu durum, maçın oldukça dengeli geçeceğini ve her iki takımın da kazanma şansının benzer olduğunu gösteriyor.",
+      "gercek_sonuc": "X",
+      "skor": "3-3",
+      "toplam_gol": 6,
+      "tuttu": false,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f4a28510bb0c835280a2aca709c19d50",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Torino",
+      "deplasman": "Udinese",
+      "baslama_utc": "2026-10-12T18:45:00Z",
+      "olasiliklar": {
+        "1": 0.4032,
+        "X": 0.2993,
+        "2": 0.2975
+      },
+      "tahmin": "1",
+      "guven": 0.1039,
+      "alt_ust": null,
+      "ai_metin": "Torino'nun kazanma olasılığı %40.3 ile en yüksek iken, beraberlik ihtimali %29.9 ve Udinese'nin kazanma olasılığı ise %29.8 olarak belirlenmiştir. Bu durum, Torino'nun ev sahibi avantajıyla birlikte maçı kazanma konusunda daha önde olduğunu gösteriyor. Ancak, Udinese'nin de yakın bir ihtimalle galip gelme şansı bulunuyor.",
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "235c82b1c0433f04968008f8c269a32d",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Eyüpspor",
+      "deplasman": "Goztepe",
+      "baslama_utc": "2026-10-12T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.2459,
+        "X": 0.2574,
+        "2": 0.4967
+      },
+      "tahmin": "2",
+      "guven": 0.2393,
+      "alt_ust": null,
+      "ai_metin": "Eyüpspor'un maçı kazanma olasılığı %24.6 ile oldukça düşükken, Goztepe'nin kazanma ihtimali %49.7 ile daha yüksek görünmektedir. Beraberlik olasılığı ise %25.7 olarak hesaplanmıştır, bu da maçın dengeli bir mücadeleye sahne olabileceğini göstermektedir. Goztepe'nin galibiyet şansı, Eyüpspor'a kıyasla belirgin bir üstünlük sağlamaktadır.",
+      "gercek_sonuc": "2",
+      "skor": "0-4",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "0f2e7ff90b994f31d5cd48a9680943e1",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Atalanta BC",
+      "deplasman": "Venezia",
+      "baslama_utc": "2026-10-12T16:30:00Z",
+      "olasiliklar": {
+        "1": 0.615,
+        "X": 0.2206,
+        "2": 0.1644
+      },
+      "tahmin": "1",
+      "guven": 0.3944,
+      "alt_ust": null,
+      "ai_metin": "Atalanta BC'nin kazanma olasılığı %61.5 ile oldukça yüksekken, Venezia'nın galibiyet şansı %16.4 ile düşük kalıyor. Beraberlik olasılığı ise %22.1, bu da maçın dengeli geçebileceğini gösteriyor. Genel olarak, Atalanta BC'nin maçı kazanma ihtimali belirgin şekilde öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "3-1",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    }
+  ]
 }
