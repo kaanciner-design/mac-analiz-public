@@ -1,7 +1,286 @@
 {
-  "guncelleme_utc": "2026-10-14T05:37:19Z",
-  "mac_sayisi": 14,
+  "guncelleme_utc": "2026-10-15T05:37:20Z",
+  "mac_sayisi": 23,
   "maclar": [
+    {
+      "mac_id": "0f961390e790ad2c80ecb3f302cad4a6",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Shakhtar Donetsk",
+      "deplasman": "AEK Athens",
+      "baslama_utc": "2026-10-14T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.358,
+        "X": 0.2811,
+        "2": 0.3609
+      },
+      "tahmin": "2",
+      "guven": 0.0029,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.51,
+          "alt": 0.49
+        },
+        "tahmin": "ust",
+        "guven": 0.02,
+        "kaynak_sayisi": 16
+      },
+      "ai_metin": "Shakhtar Donetsk ve AEK Athens arasında oynanacak maçta, AEK Athens'in kazanma olasılığı %36.1 ile en yüksek ihtimallere sahipken, Shakhtar Donetsk'in kazanma olasılığı %35.8'dir. Beraberlik olasılığı %28.1 ile en düşük seviyededir. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %51.0 olarak belirlenmiştir, bu da gol açısından zengin bir karşılaşma beklenebileceğini göstermektedir.",
+      "gercek_sonuc": "1",
+      "skor": "3-1",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d4ef112438afa4c2cdbbfc9376a009c9",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "AS Roma",
+      "deplasman": "Real Madrid",
+      "baslama_utc": "2026-10-14T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.2623,
+        "X": 0.2377,
+        "2": 0.5
+      },
+      "tahmin": "2",
+      "guven": 0.2377,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6667,
+          "alt": 0.3333
+        },
+        "tahmin": "ust",
+        "guven": 0.3334,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "AS Roma'nın maçı kazanma olasılığı %26.2 iken, Real Madrid'in kazanma olasılığı %50.0 ile daha yüksek. Beraberlik olasılığı ise %23.8 olarak belirlenmiş. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %66.7 ile oldukça yüksek bir ihtimale işaret ediyor.",
+      "gercek_sonuc": "2",
+      "skor": "3-4",
+      "toplam_gol": 7,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3f3cb74e560dfcc3e795b667ed9ebdef",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Aston Villa",
+      "deplasman": "Fenerbahce",
+      "baslama_utc": "2026-10-14T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.5779,
+        "X": 0.2331,
+        "2": 0.189
+      },
+      "tahmin": "1",
+      "guven": 0.3448,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5733,
+          "alt": 0.4267
+        },
+        "tahmin": "ust",
+        "guven": 0.1466,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Aston Villa'nın maçı kazanma olasılığı %57.8 ile belirgin bir üstünlük gösterirken, Fenerbahçe'nin kazanma olasılığı %18.9 ile oldukça düşük kalıyor. Beraberlik olasılığı %23.3 ile orta seviyede yer alıyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %57.3 ile yüksek bir ihtimal taşıyor, bu da gol zenginliği beklenebileceğini gösteriyor.",
+      "gercek_sonuc": "1",
+      "skor": "6-0",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "ca87a3874b0eae31b4173ae4a9324957",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Bodø/Glimt",
+      "deplasman": "Borussia Dortmund",
+      "baslama_utc": "2026-10-14T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.2998,
+        "X": 0.235,
+        "2": 0.4651
+      },
+      "tahmin": "2",
+      "guven": 0.1653,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6811,
+          "alt": 0.3189
+        },
+        "tahmin": "ust",
+        "guven": 0.3622,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bodø/Glimt'in kazanma olasılığı %30.0 ile düşük kalırken, Borussia Dortmund'un kazanma olasılığı %46.5 ile belirgin şekilde daha yüksek. Beraberlik olasılığı ise %23.5 olarak, her iki takımın da galibiyet şanslarının gerisinde. Maçta 2.5 golden fazla gol olma olasılığı %68.1 ile oldukça yüksek, bu da maçta bol gollü bir karşılaşma beklentisini artırıyor.",
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "5a1a6a04c5561897741105e30d5d7ec4",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Manchester City",
+      "deplasman": "Paris Saint Germain",
+      "baslama_utc": "2026-10-14T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.4419,
+        "X": 0.2365,
+        "2": 0.3216
+      },
+      "tahmin": "1",
+      "guven": 0.1203,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6596,
+          "alt": 0.3404
+        },
+        "tahmin": "ust",
+        "guven": 0.3192,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Manchester City'nin maçı kazanma olasılığı %44.2 iken, Paris Saint Germain'in kazanma olasılığı %32.2 olarak belirlenmiştir. Beraberlik olasılığı %23.6 ile en düşük seviyede kalırken, maçta 2.5 golden fazla gol olma olasılığı %66.0 ile oldukça yüksek bir ihtimal sunmaktadır. Bu durum, maçta gollü bir karşılaşma beklenebileceğini göstermektedir.",
+      "gercek_sonuc": "2",
+      "skor": "2-4",
+      "toplam_gol": 6,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "4c7f87780ae5ab8bec9e83d6d6ec9909",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Real Betis",
+      "deplasman": "Porto",
+      "baslama_utc": "2026-10-14T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.4625,
+        "X": 0.257,
+        "2": 0.2805
+      },
+      "tahmin": "1",
+      "guven": 0.182,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5589,
+          "alt": 0.4411
+        },
+        "tahmin": "ust",
+        "guven": 0.1178,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Real Betis'in galibiyet olasılığı %46.2 ile en yüksek iken, Porto'nun kazanma olasılığı %28.1'dir, bu da ev sahibi takımın bir adım önde olduğunu gösteriyor. Beraberlik olasılığı %25.7 ile her iki takımın da maçı kazanma şansının yanı sıra eşitlik ihtimalinin de dikkate değer olduğunu ortaya koyuyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %55.9 ile, her iki takımın da gol atma potansiyelinin yüksek olduğunu işaret ediyor.",
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d7576351b8cb2396e32cc3de0446f3de",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "ŠK Slovan Bratislava",
+      "deplasman": "VfB Stuttgart",
+      "baslama_utc": "2026-10-14T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.1032,
+        "X": 0.156,
+        "2": 0.7408
+      },
+      "tahmin": "2",
+      "guven": 0.5848,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7083,
+          "alt": 0.2917
+        },
+        "tahmin": "ust",
+        "guven": 0.4166,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "ŠK Slovan Bratislava'nın maçı kazanma olasılığı %10.3 ile oldukça düşükken, VfB Stuttgart'ın galibiyet olasılığı %74.1 ile belirgin bir üstünlük gösteriyor. Beraberlik olasılığı ise %15.6 seviyesinde kalıyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %70.8 ile yüksek bir ihtimal taşıyor, bu da gol zenginliği beklenebileceğini gösteriyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "5d6f9accd6f79ae4216dfd29ccc342b2",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Feyenoord",
+      "deplasman": "Como",
+      "baslama_utc": "2026-10-14T16:45:00Z",
+      "olasiliklar": {
+        "1": 0.2722,
+        "X": 0.2318,
+        "2": 0.496
+      },
+      "tahmin": "2",
+      "guven": 0.2238,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6667,
+          "alt": 0.3333
+        },
+        "tahmin": "ust",
+        "guven": 0.3334,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Feyenoord'un maçı kazanma olasılığı %27.2 iken, Como'nun kazanma olasılığı %49.6 ile belirgin şekilde daha yüksektir. Beraberlik olasılığı %23.2 ile her iki takımın da galibiyet şansının altında kalmaktadır. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %66.7 ile yüksek bir gol beklentisi olduğunu göstermektedir.",
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "2903ee092f7e08c549b130a3d394ac3c",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "LASK",
+      "deplasman": "Liverpool",
+      "baslama_utc": "2026-10-14T16:45:00Z",
+      "olasiliklar": {
+        "1": 0.1013,
+        "X": 0.1542,
+        "2": 0.7445
+      },
+      "tahmin": "2",
+      "guven": 0.5903,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6952,
+          "alt": 0.3048
+        },
+        "tahmin": "ust",
+        "guven": 0.3904,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "LASK ile Liverpool arasındaki maçta Liverpool'un kazanma olasılığı %74.5 ile oldukça yüksekken, LASK'ın kazanma olasılığı %10.1'de kalıyor. Beraberlik olasılığı %15.4 ile düşük bir ihtimal olarak öne çıkıyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %69.5 ile yüksek bir ihtimale işaret ediyor.",
+      "gercek_sonuc": "2",
+      "skor": "3-6",
+      "toplam_gol": 9,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
     {
       "mac_id": "93177465a42a0fb7802f1c8b06d6ee3a",
       "lig": "soccer_uefa_champs_league",
