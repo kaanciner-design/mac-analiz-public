@@ -1,7 +1,162 @@
 {
-  "guncelleme_utc": "2026-10-16T05:37:20Z",
-  "mac_sayisi": 23,
+  "guncelleme_utc": "2026-10-17T05:37:18Z",
+  "mac_sayisi": 28,
   "maclar": [
+    {
+      "mac_id": "19ee731602634e5c9e3106630e087464",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Deportivo La Coruña",
+      "deplasman": "Levante",
+      "baslama_utc": "2026-10-16T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.4546,
+        "X": 0.2737,
+        "2": 0.2717
+      },
+      "tahmin": "1",
+      "guven": 0.1809,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4959,
+          "alt": 0.5041
+        },
+        "tahmin": "alt",
+        "guven": 0.0082,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Deportivo La Coruña, %45'lik galibiyet olasılığıyla bu maçın favorisi konumunda. Maçın gollü geçme ihtimali de %50 ile oldukça yüksek, bu da favorinin gol atarak kazanabileceği bir senaryoya işaret ediyor. Beraberlik ve Levante galibiyeti ise %27'şer olasılıkla birbirine yakın ve favoriye göre daha düşük ihtimaller.",
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "7d3160040958fe21778fd5ee485666c3",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Frosinone",
+      "deplasman": "Sassuolo",
+      "baslama_utc": "2026-10-16T18:45:00Z",
+      "olasiliklar": {
+        "1": 0.3784,
+        "X": 0.2625,
+        "2": 0.3591
+      },
+      "tahmin": "1",
+      "guven": 0.0193,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.635,
+          "alt": 0.365
+        },
+        "tahmin": "ust",
+        "guven": 0.27,
+        "kaynak_sayisi": 7
+      },
+      "ai_metin": "Bu dengeli mücadelede Frosinone'nin galibiyet olasılığı %38 ile çok hafif önde. Maçın 3 veya daha fazla golle sonuçlanma ihtimali %64. Bu durum, Frosinone'nin gollü bir galibiyet alabileceği veya karşılıklı gollerin olacağı açık bir maça işaret ediyor. Beraberlik ihtimali %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "4-2",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "66c168c030f3faad3983fcadc3060009",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Le Mans FC",
+      "deplasman": "Toulouse",
+      "baslama_utc": "2026-10-16T18:45:00Z",
+      "olasiliklar": {
+        "1": 0.3178,
+        "X": 0.2705,
+        "2": 0.4117
+      },
+      "tahmin": "2",
+      "guven": 0.0939,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5594,
+          "alt": 0.4406
+        },
+        "tahmin": "ust",
+        "guven": 0.1188,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Dengeli görünen bu karşılaşmada Toulouse'un galibiyet olasılığı %41 ile hafif önde. Maçın 2.5 gol üstü bitme ihtimali %56 olduğundan, deplasman ekibinin gollü bir galibiyet alması olası. Beraberlik ihtimali %27 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "947bd5d924835af090d9cdc7bbdf10f6",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Eintracht Frankfurt",
+      "deplasman": "1. FC Köln",
+      "baslama_utc": "2026-10-16T18:30:00Z",
+      "olasiliklar": {
+        "1": 0.4904,
+        "X": 0.2319,
+        "2": 0.2777
+      },
+      "tahmin": "1",
+      "guven": 0.2127,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7024,
+          "alt": 0.2976
+        },
+        "tahmin": "ust",
+        "guven": 0.4048,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Eintracht Frankfurt, %49 kazanma olasılığıyla bu maçın favorisi konumunda. %70 ihtimalle 2.5 gol üstü beklenen bu karşılaşma, ev sahibinin gollü bir galibiyet alabileceği senaryoyu işaret ediyor. Beraberlik %23 ile önemli bir olasılık taşırken, Köln galibiyeti %28 ile sürpriz sayılmaz.",
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b26ed2d4f1915037d1b42c40e3b7fd59",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Çorum FK",
+      "deplasman": "Çaykur Rizespor",
+      "baslama_utc": "2026-10-16T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.4614,
+        "X": 0.2575,
+        "2": 0.2811
+      },
+      "tahmin": "1",
+      "guven": 0.1803,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5423,
+          "alt": 0.4577
+        },
+        "tahmin": "ust",
+        "guven": 0.0846,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Çorum FK, %46'lık galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%54 ile 2.5 üst) favori ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %26, Çaykur Rizespor galibiyeti ise %28 ihtimalle ikinci en olası sonuç.",
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "0f961390e790ad2c80ecb3f302cad4a6",
       "lig": "soccer_uefa_champs_league",
