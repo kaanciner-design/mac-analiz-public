@@ -1,7 +1,773 @@
 {
-  "guncelleme_utc": "2026-10-17T05:37:18Z",
-  "mac_sayisi": 28,
+  "guncelleme_utc": "2026-10-18T05:37:21Z",
+  "mac_sayisi": 53,
   "maclar": [
+    {
+      "mac_id": "f00cd1ea41fa39149729d14ebc07aa6c",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Valencia",
+      "deplasman": "Athletic Bilbao",
+      "baslama_utc": "2026-10-17T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.2833,
+        "X": 0.2839,
+        "2": 0.4329
+      },
+      "tahmin": "2",
+      "guven": 0.149,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4646,
+          "alt": 0.5354
+        },
+        "tahmin": "alt",
+        "guven": 0.0708,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Bu dengeli maçta Athletic Bilbao deplasmanda çok hafif favori (%43). Maçın az gollü (%54) geçme ihtimali yüksek olduğundan, Bilbao'nun kontrollü bir galibiyet alması beklenebilir. Beraberlik ve Valencia galibiyeti de %28'er ihtimalle güçlü alternatifler olarak öne çıkıyor.",
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "18d478f469da3bcc654dd4555b85c7e3",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "AS Roma",
+      "deplasman": "Genoa",
+      "baslama_utc": "2026-10-17T18:45:00Z",
+      "olasiliklar": {
+        "1": 0.655,
+        "X": 0.2078,
+        "2": 0.1372
+      },
+      "tahmin": "1",
+      "guven": 0.4472,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5481,
+          "alt": 0.4519
+        },
+        "tahmin": "ust",
+        "guven": 0.0962,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "AS Roma, Genoa karşısında açık ara favori konumda. Yüksek galibiyet olasılığı (%66) ve 2.5 gol üstü (%55) ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik (%21) ve Genoa galibiyeti (%14) ise daha düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "ad25a350c89b64715e15c59cde5653d3",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Lille",
+      "deplasman": "Brest",
+      "baslama_utc": "2026-10-17T18:45:00Z",
+      "olasiliklar": {
+        "1": 0.5183,
+        "X": 0.243,
+        "2": 0.2386
+      },
+      "tahmin": "1",
+      "guven": 0.2753,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5641,
+          "alt": 0.4359
+        },
+        "tahmin": "ust",
+        "guven": 0.1282,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Lille, %52 kazanma olasılığıyla maçın net favorisi konumunda. Yüksek gol beklentisi (%56 ihtimalle 3+ gol) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik ve Brest galibiyetinin %24'er olasılıkla eşit ihtimale sahip olması, sürpriz bir sonucun da göz ardı edilmemesi gerektiğini gösteriyor.",
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b077aa049133c0358bcd643bfee48da3",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Troyes",
+      "deplasman": "RC Lens",
+      "baslama_utc": "2026-10-17T18:45:00Z",
+      "olasiliklar": {
+        "1": 0.2399,
+        "X": 0.2418,
+        "2": 0.5183
+      },
+      "tahmin": "2",
+      "guven": 0.2765,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6038,
+          "alt": 0.3962
+        },
+        "tahmin": "ust",
+        "guven": 0.2076,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Lens, bu deplasman maçında açık ara favori konumda. Yüksek gol beklentisiyle birlikte Lens'in gollü bir galibiyet alması en olası senaryo. Beraberlik veya Troyes galibiyeti ise eşit ve düşük olasılıklara sahip, sürpriz olarak değerlendirilebilir.",
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d1bbbdcd3d430e70091b518369b559cf",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Newcastle United",
+      "deplasman": "Aston Villa",
+      "baslama_utc": "2026-10-17T16:30:00Z",
+      "olasiliklar": {
+        "1": 0.4233,
+        "X": 0.2584,
+        "2": 0.3183
+      },
+      "tahmin": "1",
+      "guven": 0.105,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5875,
+          "alt": 0.4125
+        },
+        "tahmin": "ust",
+        "guven": 0.175,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Dengeli bir maç bizi beklese de, Newcastle United galibiyete %42 ile daha yakın görünüyor. Karşılaşmanın 2.5 üst (%59) bitme ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Aston Villa'nın kazanma olasılığı %32 ile ikinci en olası sonuç.",
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "846e496fc232b2fc20214754836727d0",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Real Betis",
+      "deplasman": "Barcelona",
+      "baslama_utc": "2026-10-17T16:30:00Z",
+      "olasiliklar": {
+        "1": 0.1559,
+        "X": 0.1666,
+        "2": 0.6775
+      },
+      "tahmin": "2",
+      "guven": 0.5109,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7571,
+          "alt": 0.2429
+        },
+        "tahmin": "ust",
+        "guven": 0.5142,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Barcelona'nın %68'lik galibiyet olasılığıyla net favori olduğu bu maçta, %76 ihtimalle 3 veya daha fazla gol bekliyoruz. Bu durum, favori ekibin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Ancak, 21 farklı veri kaynağı arasındaki görüş ayrılıkları, bu maçtaki belirsizliğin normalden yüksek olduğunu gösteriyor. Beraberlik (%17) veya Real Betis galibiyeti (%16) ise düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "2-5",
+      "toplam_gol": 7,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9a64448205fdc4b95f45641bb946706c",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Bayern Munich",
+      "deplasman": "RB Leipzig",
+      "baslama_utc": "2026-10-17T16:30:00Z",
+      "olasiliklar": {
+        "1": 0.7791,
+        "X": 0.1242,
+        "2": 0.0967
+      },
+      "tahmin": "1",
+      "guven": 0.6549,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.8409,
+          "alt": 0.1591
+        },
+        "tahmin": "ust",
+        "guven": 0.6818,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bayern Münih, bu maçın açık ara favorisi ve %78 kazanma olasılığıyla öne çıkıyor. %84 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Beraberlik ve Leipzig galibiyeti ise toplamda %22 gibi düşük bir ihtimale sahip.",
+      "gercek_sonuc": "1",
+      "skor": "6-1",
+      "toplam_gol": 7,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "1962ef365636c0cd6ad14a4cb2f7d8cd",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Fenerbahce",
+      "deplasman": "Alanyaspor",
+      "baslama_utc": "2026-10-17T16:00:00Z",
+      "olasiliklar": {
+        "1": 0.7262,
+        "X": 0.1722,
+        "2": 0.1017
+      },
+      "tahmin": "1",
+      "guven": 0.554,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5965,
+          "alt": 0.4035
+        },
+        "tahmin": "ust",
+        "guven": 0.193,
+        "kaynak_sayisi": 10
+      },
+      "ai_metin": "Fenerbahçe, %73 galibiyet olasılığıyla bu maçın net favorisi. Maçın %60 ihtimalle 2.5 gol üstü bitmesi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik (%17) veya Alanyaspor galibiyeti (%10) ise düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "3-0",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "bfefc309177723410230fee52f650315",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Bologna",
+      "deplasman": "Inter Milan",
+      "baslama_utc": "2026-10-17T16:00:00Z",
+      "olasiliklar": {
+        "1": 0.1724,
+        "X": 0.2347,
+        "2": 0.5929
+      },
+      "tahmin": "2",
+      "guven": 0.3582,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5706,
+          "alt": 0.4294
+        },
+        "tahmin": "ust",
+        "guven": 0.1412,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Inter Milan, deplasmanda %59 kazanma olasılığıyla maçın net favorisi. %57 ihtimalle 2.5 gol üstü beklenen bu karşılaşmada, Inter'in gollü bir galibiyet alması en olası senaryo. Beraberlik (%23) ise ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f3034246520a2ee4ff0ac0d5074966f8",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Strasbourg",
+      "deplasman": "Paris Saint Germain",
+      "baslama_utc": "2026-10-17T15:15:00Z",
+      "olasiliklar": {
+        "1": 0.1458,
+        "X": 0.1759,
+        "2": 0.6783
+      },
+      "tahmin": "2",
+      "guven": 0.5024,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7114,
+          "alt": 0.2886
+        },
+        "tahmin": "ust",
+        "guven": 0.4228,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Paris Saint Germain bu maçın net favorisi ve galibiyet olasılığı %68. Yüksek gol beklentisi (%71 ihtimalle 3+ gol) ile deplasman ekibinin gollü bir galibiyet alması en olası senaryo. Beraberlik ihtimali %18 iken, Strasbourg'un sürpriz galibiyeti ise oldukça düşük bir olasılık (%15).",
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "aef660734585649651415961a9d177c6",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Villarreal",
+      "deplasman": "Elche CF",
+      "baslama_utc": "2026-10-17T14:15:00Z",
+      "olasiliklar": {
+        "1": 0.6544,
+        "X": 0.1934,
+        "2": 0.1522
+      },
+      "tahmin": "1",
+      "guven": 0.461,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6493,
+          "alt": 0.3507
+        },
+        "tahmin": "ust",
+        "guven": 0.2986,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Villarreal, %65 galibiyet olasılığıyla bu maçın net favorisi. %65 ihtimalle 2.5 gol üstü beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Elche CF'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük görünüyor.",
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "8f1945e7272bc7e89016439f5ab321c7",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Brentford",
+      "deplasman": "Liverpool",
+      "baslama_utc": "2026-10-17T14:00:00Z",
+      "olasiliklar": {
+        "1": 0.3998,
+        "X": 0.2622,
+        "2": 0.338
+      },
+      "tahmin": "1",
+      "guven": 0.0618,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6062,
+          "alt": 0.3938
+        },
+        "tahmin": "ust",
+        "guven": 0.2124,
+        "kaynak_sayisi": 7
+      },
+      "ai_metin": "Bu dengeli maçta Brentford, %40 galibiyet olasılığıyla evinde hafif favori konumda. %61 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, ev sahibinin gollü bir galibiyetine işaret ediyor. Liverpool'un galibiyeti ise %34 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "7895f97f2f9577f3b13287a3d086859d",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Fulham",
+      "deplasman": "Hull City",
+      "baslama_utc": "2026-10-17T14:00:00Z",
+      "olasiliklar": {
+        "1": 0.5559,
+        "X": 0.241,
+        "2": 0.2032
+      },
+      "tahmin": "1",
+      "guven": 0.3149,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5453,
+          "alt": 0.4547
+        },
+        "tahmin": "ust",
+        "guven": 0.0906,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Fulham, %56'lık galibiyet olasılığıyla bu Premier Lig maçının net favorisi konumunda. Maçın 2.5 gol üstü ihtimali de %55 olduğundan, ev sahibinin gollü bir galibiyet alması en olası senaryo olarak öne çıkıyor. Beraberlik %24 ile ikinci en olası sonuçken, Hull City'nin galibiyet olasılığı ise oldukça düşük, sadece %20.",
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "bf2142d1ca76ba2fc9e61afce80f86c0",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Manchester City",
+      "deplasman": "Ipswich Town",
+      "baslama_utc": "2026-10-17T14:00:00Z",
+      "olasiliklar": {
+        "1": 0.7695,
+        "X": 0.1391,
+        "2": 0.0913
+      },
+      "tahmin": "1",
+      "guven": 0.6304,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6896,
+          "alt": 0.3104
+        },
+        "tahmin": "ust",
+        "guven": 0.3792,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Manchester City, %77'lik galibiyet olasılığıyla bu maçın net favorisi. %69 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, favorinin gollü bir galibiyetine işaret ediyor. Veri kaynaklarındaki belirgin görüş farkı, bu maçın ortalamadan daha fazla belirsizlik taşıdığını gösteriyor. Beraberlik ve Ipswich Town galibiyeti ise toplamda %23'lük düşük bir ihtimale sahip.",
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "0bf757f3bd903496ce2fa27bd0481869",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Elversberg",
+      "deplasman": "Augsburg",
+      "baslama_utc": "2026-10-17T13:30:00Z",
+      "olasiliklar": {
+        "1": 0.384,
+        "X": 0.2509,
+        "2": 0.3651
+      },
+      "tahmin": "1",
+      "guven": 0.0189,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6555,
+          "alt": 0.3445
+        },
+        "tahmin": "ust",
+        "guven": 0.311,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bu dengeli maçta Elversberg'in çok hafif bir galibiyet avantajı bulunuyor. Yüksek gol beklentisi (%66) ile birlikte, ev sahibinin gollü bir galibiyet alması veya karşılıklı gollerin olduğu bir senaryo olası duruyor. 23 veri kaynağının alışılmadık ölçüde hemfikir olması, bu maçın tahmin edilebilirliğini artırıyor. Augsburg'un galibiyet ihtimali ise Elversberg'e çok yakın seyrediyor.",
+      "gercek_sonuc": "1",
+      "skor": "4-3",
+      "toplam_gol": 7,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d8eac776adb07b0e7f01d8736d097291",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Union Berlin",
+      "deplasman": "Borussia Dortmund",
+      "baslama_utc": "2026-10-17T13:30:00Z",
+      "olasiliklar": {
+        "1": 0.1836,
+        "X": 0.2146,
+        "2": 0.6018
+      },
+      "tahmin": "2",
+      "guven": 0.3872,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6308,
+          "alt": 0.3692
+        },
+        "tahmin": "ust",
+        "guven": 0.2616,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Dortmund, %60 kazanma olasılığıyla maçın net favorisi konumunda. %63 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, favorinin gollü bir galibiyet alması en olası senaryo. Beraberlik ihtimali %21 seviyesinde olup, sürpriz bir sonuç olarak değerlendirilebilir.",
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "606d65d57a9a6d8f9b53faee1ad10009",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "FC Schalke 04",
+      "deplasman": "FSV Mainz 05",
+      "baslama_utc": "2026-10-17T13:30:00Z",
+      "olasiliklar": {
+        "1": 0.3172,
+        "X": 0.263,
+        "2": 0.4197
+      },
+      "tahmin": "2",
+      "guven": 0.1025,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5874,
+          "alt": 0.4126
+        },
+        "tahmin": "ust",
+        "guven": 0.1748,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Bu dengeli karşılaşmada Mainz deplasmanda çok hafif favori görünüyor. %42 galibiyet olasılığıyla Mainz'ın, %59 olasılıkla 3+ golle sonuçlanacak bir maçta galibiyete yakın olduğu söylenebilir. Ev sahibi Schalke'nin kazanma ihtimali %32 iken, beraberlik %26 ile en düşük olasılık.",
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "221916b8b36706ec52aa655a64e5f1d2",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Hamburger SV",
+      "deplasman": "VfB Stuttgart",
+      "baslama_utc": "2026-10-17T13:30:00Z",
+      "olasiliklar": {
+        "1": 0.2405,
+        "X": 0.2337,
+        "2": 0.5258
+      },
+      "tahmin": "2",
+      "guven": 0.2853,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6832,
+          "alt": 0.3168
+        },
+        "tahmin": "ust",
+        "guven": 0.3664,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bu maçta deplasman ekibi Stuttgart, %53'lük galibiyet olasılığıyla açık ara favori konumda. Yüksek gol beklentisi (%68 ihtimalle 3+ gol) Stuttgart'ın gollü bir galibiyet alabileceğine işaret ediyor. Ev sahibi Hamburger SV'nin galibiyet ihtimali ise %24 ile düşük kalıyor.",
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9a422e1aad1053828eaf629a58d901de",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Werder Bremen",
+      "deplasman": "SC Paderborn",
+      "baslama_utc": "2026-10-17T13:30:00Z",
+      "olasiliklar": {
+        "1": 0.5331,
+        "X": 0.2317,
+        "2": 0.2352
+      },
+      "tahmin": "1",
+      "guven": 0.2979,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6183,
+          "alt": 0.3817
+        },
+        "tahmin": "ust",
+        "guven": 0.2366,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Werder Bremen, bu Bundesliga mücadelesinde Paderborn karşısında açık ara favori konumda. Ev sahibi ekibin galibiyeti ve maçta 3 veya daha fazla gol olması, en olası senaryo olarak öne çıkıyor. Bu durum, gollü bir Werder Bremen galibiyetine işaret ediyor. Beraberlik ya da Paderborn galibiyeti ise daha düşük ihtimaller olarak değerlendirilebilir.",
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "e3889fbbda2e6b3c7ce98332b4a45e62",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Amed SK",
+      "deplasman": "Torku Konyaspor",
+      "baslama_utc": "2026-10-17T13:00:00Z",
+      "olasiliklar": {
+        "1": 0.4929,
+        "X": 0.2638,
+        "2": 0.2433
+      },
+      "tahmin": "1",
+      "guven": 0.2291,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5076,
+          "alt": 0.4924
+        },
+        "tahmin": "ust",
+        "guven": 0.0152,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Amed SK, %49'luk galibiyet olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%51) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Torku Konyaspor'un galibiyet ihtimali ise %24 ile oldukça düşük kalıyor.",
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "17457f4c5a7bc17fd52f807968897e54",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Genclerbirligi SK",
+      "deplasman": "Galatasaray",
+      "baslama_utc": "2026-10-17T13:00:00Z",
+      "olasiliklar": {
+        "1": 0.1312,
+        "X": 0.1837,
+        "2": 0.6851
+      },
+      "tahmin": "2",
+      "guven": 0.5014,
+      "alt_ust": null,
+      "ai_metin": "Galatasaray, bu karşılaşmada %69'luk galibiyet olasılığıyla net favori konumunda. Veri kaynakları arasındaki belirgin görüş farklılığı, bu maçın belirsizliğinin normalden yüksek olduğunu gösteriyor. Favorinin gollü bir galibiyet alması olası görünürken, beraberlik ihtimali %18 ile ikinci en olası sonuç olarak öne çıkıyor. Gençlerbirliği'nin galibiyet şansı ise %13 ile düşük bir ihtimal.",
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "907639dade64cca45d1ab639195d201e",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Venezia",
+      "deplasman": "Napoli",
+      "baslama_utc": "2026-10-17T13:00:00Z",
+      "olasiliklar": {
+        "1": 0.2041,
+        "X": 0.2351,
+        "2": 0.5608
+      },
+      "tahmin": "2",
+      "guven": 0.3257,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.56,
+          "alt": 0.44
+        },
+        "tahmin": "ust",
+        "guven": 0.12,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Napoli, bu maçta %56 olasılıkla net favori konumda. Yüksek gol beklentisiyle (%56 ihtimalle 2.5 üst), Napoli'nin gollü bir galibiyet alması en olası senaryo. Beraberlik ihtimali %24 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "6436925dd15916d7041ba32b60000d48",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Espanyol",
+      "deplasman": "Atlético Madrid",
+      "baslama_utc": "2026-10-17T12:00:00Z",
+      "olasiliklar": {
+        "1": 0.1984,
+        "X": 0.2458,
+        "2": 0.5558
+      },
+      "tahmin": "2",
+      "guven": 0.31,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5336,
+          "alt": 0.4664
+        },
+        "tahmin": "ust",
+        "guven": 0.0672,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Atlético Madrid, %56'lık galibiyet olasılığıyla bu maçın net favorisi. Maçın %53 ihtimalle 2.5 gol üstü bitmesi, favorinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik olasılığı %25 iken, Espanyol'un galibiyet ihtimali %20 ile daha düşük bir senaryo sunuyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "764e6513cb3f348881503df70ccb90e0",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Everton",
+      "deplasman": "Chelsea",
+      "baslama_utc": "2026-10-17T11:30:00Z",
+      "olasiliklar": {
+        "1": 0.2975,
+        "X": 0.2593,
+        "2": 0.4432
+      },
+      "tahmin": "2",
+      "guven": 0.1457,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.571,
+          "alt": 0.429
+        },
+        "tahmin": "ust",
+        "guven": 0.142,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Bu dengeli maçta Chelsea'nin deplasmanda çok hafif bir favori olduğunu görüyoruz. Yüksek gol olasılığı (%57) ile Chelsea'nin gollü bir galibiyet alması veya karşılıklı gollerin olduğu açık bir maç izlememiz muhtemel. 25 veri kaynağının bu maçın en olası sonucu konusunda alışılmadık ölçüde hemfikir olması, tahminlerin sağlamlığını gösteriyor. Beraberlik ihtimali ise %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "238e0ce50751d29b3c7220019cbcdf40",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Erzurum BB",
+      "deplasman": "Eyüpspor",
+      "baslama_utc": "2026-10-17T10:30:00Z",
+      "olasiliklar": {
+        "1": 0.5816,
+        "X": 0.2487,
+        "2": 0.1696
+      },
+      "tahmin": "1",
+      "guven": 0.3329,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4671,
+          "alt": 0.5329
+        },
+        "tahmin": "alt",
+        "guven": 0.0658,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Erzurum BB, bu maçta net favori olarak öne çıkıyor. Ev sahibinin galibiyeti ve maçın 2.5 gol altı bitme olasılığı, kontrollü ve az gollü bir Erzurum BB galibiyetine işaret ediyor. Eyüpspor'un kazanma ihtimali ise oldukça düşük, sadece %17.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "19ee731602634e5c9e3106630e087464",
       "lig": "soccer_spain_la_liga",
