@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-10-18T19:42:22Z",
+  "guncelleme_utc": "2026-10-19T05:37:19Z",
   "mac_sayisi": 14,
   "maclar": [
     {
@@ -143,12 +143,25 @@
       "ev_sahibi": "Sabah FK",
       "deplasman": "Borussia Dortmund",
       "baslama_utc": "2026-10-20T16:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1043,
+        "X": 0.1574,
+        "2": 0.7383
+      },
+      "tahmin": "2",
+      "guven": 0.5809,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6857,
+          "alt": 0.3143
+        },
+        "tahmin": "ust",
+        "guven": 0.3714,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Borussia Dortmund, Şampiyonlar Ligi mücadelesinde Sabah FK karşısında net favori konumunda. %74 galibiyet olasılığı ve %69 ihtimalle 2.5 gol üstü beklentisi, deplasman ekibinin gollü bir galibiyet alacağını işaret ediyor. Bu tahmin, geçmişteki %77'lik isabet oranımızla da destekleniyor. Beraberlik (%16) ise düşük bir ihtimal olarak öne çıkıyor.",
       "ucretsiz": false
     },
     {
@@ -157,12 +170,25 @@
       "ev_sahibi": "Fenerbahce",
       "deplasman": "Slavia Praha",
       "baslama_utc": "2026-10-20T16:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5693,
+        "X": 0.2295,
+        "2": 0.2011
+      },
+      "tahmin": "1",
+      "guven": 0.3398,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5795,
+          "alt": 0.4205
+        },
+        "tahmin": "ust",
+        "guven": 0.159,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Fenerbahçe, %57 kazanma olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%58 ile 2.5 üst) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Bu güven seviyesindeki tahminlerimizin %77 isabet oranı, bu senaryonun gerçekleşme ihtimalini destekliyor. Beraberlik %23, Slavia Praha galibiyeti ise %20 gibi düşük bir ihtimal taşıyor.",
       "ucretsiz": false
     },
     {
@@ -171,13 +197,26 @@
       "ev_sahibi": "Manchester City",
       "deplasman": "AEK Athens",
       "baslama_utc": "2026-10-20T19:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ucretsiz": false
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.8779,
+        "X": 0.0825,
+        "2": 0.0396
+      },
+      "tahmin": "1",
+      "guven": 0.7954,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7549,
+          "alt": 0.2451
+        },
+        "tahmin": "ust",
+        "guven": 0.5098,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Manchester City, bu Şampiyonlar Ligi mücadelesinde açık ara favori. Olasılıklar, ev sahibinin gollü bir galibiyet alarak maçı rahat kazanacağını gösteriyor; 3 veya daha fazla gol beklentisi %75 civarında. Geçmiş tahminlerimizdeki %77'lik isabet oranı, bu tür net favori maçlarda güvenimizi artırıyor. Beraberlik veya AEK Athens galibiyeti gibi diğer sonuçlar ise oldukça düşük bir ihtimal taşıyor.",
+      "ucretsiz": true
     },
     {
       "mac_id": "e3b50e57c4cf46191ab068d1e880e595",
@@ -185,12 +224,25 @@
       "ev_sahibi": "AS Roma",
       "deplasman": "ŠK Slovan Bratislava",
       "baslama_utc": "2026-10-20T19:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.8162,
+        "X": 0.1206,
+        "2": 0.0632
+      },
+      "tahmin": "1",
+      "guven": 0.6956,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7339,
+          "alt": 0.2661
+        },
+        "tahmin": "ust",
+        "guven": 0.4678,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "AS Roma, %82'lik galibiyet olasılığıyla bu maçın açık ara favorisi. %73 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, favorinin gollü bir galibiyet alması en olası senaryo. Geçmiş tahminlerimizle kıyaslandığında, bu güven seviyesindeki maçlarda %77 isabet oranımız bulunuyor. Beraberlik ve deplasman galibiyeti gibi diğer sonuçların gerçekleşme ihtimali ise oldukça düşük.",
       "ucretsiz": false
     },
     {
@@ -199,12 +251,25 @@
       "ev_sahibi": "VfB Stuttgart",
       "deplasman": "Atlético Madrid",
       "baslama_utc": "2026-10-20T19:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2918,
+        "X": 0.251,
+        "2": 0.4572
+      },
+      "tahmin": "2",
+      "guven": 0.1654,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6322,
+          "alt": 0.3678
+        },
+        "tahmin": "ust",
+        "guven": 0.2644,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bu Şampiyonlar Ligi mücadelesinde deplasman ekibi Atlético Madrid, %46'lık galibiyet olasılığıyla net favori konumunda. Veriler, %63 ihtimalle 2.5 gol üstü bir maç bekliyor; bu da favorinin gollü bir galibiyet alabileceğine işaret ediyor. 22 farklı kaynağın bu kadar hemfikir olması, tahminimizin güvenilirliğini artırıyor. Stuttgart'ın galibiyet ihtimali ise sadece %29.",
       "ucretsiz": false
     },
     {
@@ -213,12 +278,25 @@
       "ev_sahibi": "Paris Saint Germain",
       "deplasman": "Barcelona",
       "baslama_utc": "2026-10-20T19:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3965,
+        "X": 0.2125,
+        "2": 0.3911
+      },
+      "tahmin": "1",
+      "guven": 0.0054,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.8014,
+          "alt": 0.1986
+        },
+        "tahmin": "ust",
+        "guven": 0.6028,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bu Şampiyonlar Ligi mücadelesinde Paris Saint Germain, %40 galibiyet olasılığıyla çok hafif favori konumda. Yüksek gol beklentisi (%80 ihtimalle 3+ gol) ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. 22 veri kaynağının bu denli uzlaşması, bu tahminin geçmişteki %47'lik isabet oranımızla desteklendiğini gösteriyor. Barcelona'nın galibiyet ihtimali de %39 ile oldukça yakın, bu da maçın her sonuca açık olduğunu gösteriyor.",
       "ucretsiz": false
     },
     {
@@ -227,12 +305,25 @@
       "ev_sahibi": "Napoli",
       "deplasman": "Bodø/Glimt",
       "baslama_utc": "2026-10-20T19:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5943,
+        "X": 0.2146,
+        "2": 0.191
+      },
+      "tahmin": "1",
+      "guven": 0.3797,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6487,
+          "alt": 0.3513
+        },
+        "tahmin": "ust",
+        "guven": 0.2974,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Napoli, bu Şampiyonlar Ligi mücadelesinde açık ara favori konumunda ve gollü bir galibiyet bekleniyor. %59 Napoli galibiyeti ve %65 2.5 üst gol olasılığı, ev sahibinin rahat bir maç çıkaracağını işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu güven seviyesindeki maçlarda %77 isabet oranımız, bu tahmini destekliyor. Beraberlik ihtimali %21 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "ucretsiz": false
     },
     {
@@ -241,12 +332,25 @@
       "ev_sahibi": "Liverpool",
       "deplasman": "Villarreal",
       "baslama_utc": "2026-10-20T19:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6476,
+        "X": 0.1981,
+        "2": 0.1543
+      },
+      "tahmin": "1",
+      "guven": 0.4495,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6475,
+          "alt": 0.3525
+        },
+        "tahmin": "ust",
+        "guven": 0.295,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Liverpool, %65 galibiyet olasılığıyla bu maçın net favorisi. Maç sonucuna ve %65'lik 2.5 üst gol ihtimaline bakıldığında, favori ekibin gollü bir galibiyet alması en olası senaryo. Geçmiş tahminlerimizdeki %77'lik isabet oranı, bu güven seviyesindeki maçlarda beklentinin üzerinde olduğumuzu gösteriyor. Villarreal'in galibiyet olasılığı ise sadece %15 ile oldukça düşük bir ihtimal.",
       "ucretsiz": false
     },
     {
@@ -255,12 +359,25 @@
       "ev_sahibi": "Porto",
       "deplasman": "PSV Eindhoven",
       "baslama_utc": "2026-10-20T19:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5888,
+        "X": 0.2136,
+        "2": 0.1976
+      },
+      "tahmin": "1",
+      "guven": 0.3752,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6266,
+          "alt": 0.3734
+        },
+        "tahmin": "ust",
+        "guven": 0.2532,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Porto, bu Şampiyonlar Ligi mücadelesinde net favori olarak öne çıkıyor. %59'luk galibiyet olasılığı ve %63'lük 2.5 üst gol beklentisi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Bu güven seviyesindeki tahminlerimiz %77 isabet oranıyla ortalamanın üzerinde performans gösterdi. Beraberlik (%21) veya PSV galibiyeti (%20) ise daha düşük ihtimaller olarak görünüyor.",
       "ucretsiz": false
     }
   ]
