@@ -1,7 +1,162 @@
 {
-  "guncelleme_utc": "2026-10-19T05:37:19Z",
-  "mac_sayisi": 75,
+  "guncelleme_utc": "2026-10-20T05:37:22Z",
+  "mac_sayisi": 80,
   "maclar": [
+    {
+      "mac_id": "9baaf4e48b041cfef04e70e42532502e",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Tottenham Hotspur",
+      "deplasman": "Coventry City",
+      "baslama_utc": "2026-10-19T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.6424,
+        "X": 0.2049,
+        "2": 0.1526
+      },
+      "tahmin": "1",
+      "guven": 0.4375,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.602,
+          "alt": 0.398
+        },
+        "tahmin": "ust",
+        "guven": 0.204,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Tottenham, bu maçın net favorisi ve %64 kazanma olasılığıyla gollü bir galibiyet bekleniyor. %60 ihtimalle 2.5 gol üstü senaryosu, favorinin rahat bir maç çıkaracağını düşündürüyor. Geçmiş tahminlerimizdeki %77'lik isabet oranı, bu tür favori maçlarda güvenilirliğimizi gösteriyor. Coventry'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük kalıyor.",
+      "gercek_sonuc": "1",
+      "skor": "3-1",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "4a88bc4de574d43ef34677fd8d78722f",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Getafe",
+      "deplasman": "Rayo Vallecano",
+      "baslama_utc": "2026-10-19T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.3258,
+        "X": 0.3172,
+        "2": 0.357
+      },
+      "tahmin": "2",
+      "guven": 0.0312,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.3752,
+          "alt": 0.6248
+        },
+        "tahmin": "alt",
+        "guven": 0.2496,
+        "kaynak_sayisi": 10
+      },
+      "ai_metin": "Dengeli bir maç bizi bekliyor olsa da, Rayo Vallecano'nun %36'lık galibiyet olasılığıyla deplasmanda çok hafif bir avantajı bulunuyor. Maçın %62 ihtimalle 2.5 alt biteceği göz önüne alındığında, kontrollü ve az gollü bir senaryo daha olası duruyor. Geçmiş tahminlerimiz bu güven seviyesindeki maçlarda %47 isabet sağlarken, bu maçta beraberlik %32 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "07014d9adc65ca39710bd9f0c7c0d3f0",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Parma",
+      "deplasman": "Torino",
+      "baslama_utc": "2026-10-19T18:45:00Z",
+      "olasiliklar": {
+        "1": 0.2888,
+        "X": 0.3112,
+        "2": 0.4
+      },
+      "tahmin": "2",
+      "guven": 0.0888,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4041,
+          "alt": 0.5959
+        },
+        "tahmin": "alt",
+        "guven": 0.1918,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Torino, bu dengeli maçta deplasmanda %40 ile çok hafif favori konumda. Maçın genelde az gollü geçmesi beklenirken, Torino'nun galibiyeti veya beraberlik %71 ihtimalle gerçekleşebilir. Geçmiş tahminlerimizle kıyaslandığında, bu maç için verilen olasılıkların güvenilirliği ortalamanın üzerinde. Parma'nın galibiyeti ise %29 ile en düşük ihtimal.",
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "112b2db1da65ca0968d2c126edd6887e",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Trabzonspor",
+      "deplasman": "Besiktas JK",
+      "baslama_utc": "2026-10-19T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.3547,
+        "X": 0.2543,
+        "2": 0.391
+      },
+      "tahmin": "2",
+      "guven": 0.0363,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.61,
+          "alt": 0.39
+        },
+        "tahmin": "ust",
+        "guven": 0.22,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bu dengeli maçta Beşiktaş JK'nın %39 ile çok hafif favori olduğunu görüyoruz. %61'lik 2.5 üst olasılığı, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Geçmiş tahminlerimizin beklentinin üzerinde isabet kaydettiği düşünüldüğünde, bu maç için verilen olasılıkların güvenilirliği yüksek. Beraberlik %25 ile maçın en olası ikinci sonucu olarak dikkat çekiyor.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "ce94aca384a20f6af459366da6e1dd21",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Monza",
+      "deplasman": "Cagliari",
+      "baslama_utc": "2026-10-19T16:30:00Z",
+      "olasiliklar": {
+        "1": 0.3948,
+        "X": 0.3014,
+        "2": 0.3038
+      },
+      "tahmin": "1",
+      "guven": 0.091,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4548,
+          "alt": 0.5452
+        },
+        "tahmin": "alt",
+        "guven": 0.0904,
+        "kaynak_sayisi": 16
+      },
+      "ai_metin": "Monza, dengeli bir maçta Cagliari karşısında hafif favori konumunda. Maçın az gollü geçme ihtimali yüksek (%55), bu da Monza'nın kontrollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde beklentinin üzerinde isabet sağladı. Beraberlik de %30 ile oldukça olası bir sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "4-0",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
     {
       "mac_id": "eccd63bf768e2f2a358b871d3f33a63d",
       "lig": "soccer_spain_la_liga",
