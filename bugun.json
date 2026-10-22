@@ -1,468 +1,78 @@
 {
-  "guncelleme_utc": "2026-10-21T05:37:19Z",
-  "mac_sayisi": 10,
+  "guncelleme_utc": "2026-10-22T05:37:18Z",
+  "mac_sayisi": 6,
   "maclar": [
     {
-      "mac_id": "8af9379136075f45b290208b35a706c8",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Como",
-      "deplasman": "Manchester United",
-      "baslama_utc": "2026-10-21T16:45:00Z",
+      "mac_id": "81bfedfcca305af30f0f7cb7a739c878",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Alanyaspor",
+      "deplasman": "Kocaelispor",
+      "baslama_utc": "2026-10-23T17:00:00Z",
       "durum": "ok",
       "olasiliklar": {
-        "1": 0.4201,
-        "X": 0.2555,
-        "2": 0.3244
+        "1": 0.4781,
+        "X": 0.291,
+        "2": 0.2309
       },
       "tahmin": "1",
-      "guven": 0.0957,
+      "guven": 0.1871,
       "alt_ust": {
         "cizgi": 2.5,
         "olasiliklar": {
-          "ust": 0.5879,
-          "alt": 0.4121
+          "ust": 0.4032,
+          "alt": 0.5968
         },
-        "tahmin": "ust",
-        "guven": 0.1758,
-        "kaynak_sayisi": 10
-      },
-      "ai_metin": "Como, Manchester United karşısında evinde hafif favori konumda. Maçın 3 veya daha fazla golle geçme ihtimali %59 iken, Como'nun galibiyeti %42 ile öne çıkıyor; bu da ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde beklenen %41'in üzerinde, %52 isabet sağladı. Beraberlik %26 ile ikinci en olası sonuç olarak dikkat çekiyor.",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-18",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Fiorentina",
-              "ic_saha": false,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-14",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Feyenoord",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 3,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-11",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "AS Roma",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 0,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 1,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 5,
-            "yenilen": 4,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 5,
-            "yenilen": 4,
-            "ust25": 2
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-18",
-              "lig": "soccer_epl",
-              "rakip": "Leeds United",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Atlético Madrid",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-10",
-              "lig": "soccer_epl",
-              "rakip": "Tottenham Hotspur",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 0,
-            "beraberlik": 2,
-            "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 4,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 1,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 3,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "015d619d774655965e17ba67a025634e",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Lille",
-      "deplasman": "Galatasaray",
-      "baslama_utc": "2026-10-21T16:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4415,
-        "X": 0.2583,
-        "2": 0.3002
-      },
-      "tahmin": "1",
-      "guven": 0.1413,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5841,
-          "alt": 0.4159
-        },
-        "tahmin": "ust",
-        "guven": 0.1682,
+        "tahmin": "alt",
+        "guven": 0.1936,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Lille, Şampiyonlar Ligi'nde Galatasaray karşısında hafif favori konumda. %44 galibiyet olasılığı ve %58'lik 2.5 üst gol ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Bu tahminimiz, geçmişteki %52'lik isabet oranımızla uyumlu. Galatasaray'ın galibiyet olasılığı %30 ile hafife alınmamalı.",
+      "ai_metin": "Alanyaspor, Kocaelispor karşısında %48 kazanma olasılığıyla favori konumda. Maçın %60 ihtimalle 2.5 alt golle tamamlanması, kontrollü ve az gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimizdeki %62'lik isabet oranı, bu maçtaki favori tercihimizi destekliyor. Beraberlik %29 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "form": {
         "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-17",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Brest",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Arsenal",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 3,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 4,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 1,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 0,
-            "yenilen": 3,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
           "son_maclar": [
             {
               "tarih": "2026-10-17",
               "lig": "soccer_turkey_super_league",
-              "rakip": "Genclerbirligi SK",
+              "rakip": "Fenerbahce",
               "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Barcelona",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 4,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 4,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 4,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "a362cccad837f1ffae61ff43a3536688",
-      "lig": "soccer_spain_la_liga",
-      "ev_sahibi": "Levante",
-      "deplasman": "Athletic Bilbao",
-      "baslama_utc": "2026-10-21T18:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.2672,
-        "X": 0.2896,
-        "2": 0.4433
-      },
-      "tahmin": "2",
-      "guven": 0.1537,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4831,
-          "alt": 0.5169
-        },
-        "tahmin": "alt",
-        "guven": 0.0338,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "Athletic Bilbao, %44 kazanma olasılığıyla bu maçın favorisi konumunda. Genel olarak az gollü (%52) bir maç beklense de, favorinin galibiyeti durumunda 2.5 üst gol ihtimali %48'e kadar yükseliyor. Geçmiş tahminlerimiz bu güven seviyesinde %64 isabetle ortalamanın üzerinde performans gösterdi. Beraberlik (%29) ise ikinci en olası sonuç olarak dikkat çekiyor.",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-16",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Deportivo La Coruña",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-12",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Sevilla",
-              "ic_saha": true,
-              "atilan": 3,
+              "atilan": 0,
               "yenilen": 3,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 0,
-            "beraberlik": 2,
-            "maglubiyet": 0,
-            "atilan": 4,
-            "yenilen": 4,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 1,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
+              "sonuc": "M"
+            },
             {
-              "tarih": "2026-10-17",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Valencia",
-              "ic_saha": false,
+              "tarih": "2026-10-10",
+              "lig": "soccer_turkey_super_league",
+              "rakip": "Erzurum BB",
+              "ic_saha": true,
               "atilan": 0,
               "yenilen": 0,
               "sonuc": "B"
             }
           ],
           "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "2ebbccdeea2dab59717d5c3d802c3fed",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Bayern Munich",
-      "deplasman": "Arsenal",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.467,
-        "X": 0.2456,
-        "2": 0.2874
-      },
-      "tahmin": "1",
-      "guven": 0.1796,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5938,
-          "alt": 0.4062
-        },
-        "tahmin": "ust",
-        "guven": 0.1876,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Bayern Münih, bu Şampiyonlar Ligi mücadelesinde %47 galibiyet olasılığıyla favori konumda. Maçın gollü geçme ihtimali de yüksek (%59), bu da ev sahibinin gollü bir galibiyet alabileceği senaryosunu güçlendiriyor. Geçmiş tahminlerimizdeki %64'lük isabet oranıyla bu maça güvenle yaklaşıyoruz. Arsenal'in galibiyet ihtimali ise %29 ile ikinci en olası sonuç.",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-17",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "RB Leipzig",
-              "ic_saha": true,
-              "atilan": 6,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Viking FK",
-              "ic_saha": false,
-              "atilan": 3,
-              "yenilen": 3,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
             "mac": 2,
-            "galibiyet": 1,
+            "galibiyet": 0,
             "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 9,
-            "yenilen": 4,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 6,
-            "yenilen": 1,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 3,
             "ust25": 1
           },
-          "deplasman": {
+          "ic_saha": {
             "mac": 1,
             "galibiyet": 0,
             "beraberlik": 1,
             "maglubiyet": 0,
-            "atilan": 3,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
             "yenilen": 3,
             "ust25": 1
           }
@@ -471,486 +81,105 @@
           "son_maclar": [
             {
               "tarih": "2026-10-18",
-              "lig": "soccer_epl",
-              "rakip": "Nottingham Forest",
-              "ic_saha": false,
+              "lig": "soccer_turkey_super_league",
+              "rakip": "Goztepe",
+              "ic_saha": true,
               "atilan": 1,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Lille",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-10",
-              "lig": "soccer_epl",
-              "rakip": "Leeds United",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 3,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 6,
-            "yenilen": 1,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 5,
-            "yenilen": 1,
-            "ust25": 2
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "d3b3e714b6af9e5430e3030ed639e6dd",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Aston Villa",
-      "deplasman": "Viking FK",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7732,
-        "X": 0.1431,
-        "2": 0.0836
-      },
-      "tahmin": "1",
-      "guven": 0.6301,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.7406,
-          "alt": 0.2594
-        },
-        "tahmin": "ust",
-        "guven": 0.4812,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Aston Villa, %77 kazanma olasılığıyla maçın net favorisi konumunda. Yüksek gol beklentisi (%74 ile 2.5 üst) favorinin gollü bir galibiyet alacağına işaret ediyor. Geçmiş tahminlerimizin %79 isabet oranı, bu tür maçlarda güvenilirliğimizi gösteriyor. Beraberlik ve Viking FK galibiyeti ise oldukça düşük ihtimaller (%14 ve %8).",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-17",
-              "lig": "soccer_epl",
-              "rakip": "Newcastle United",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-14",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Fenerbahce",
-              "ic_saha": true,
-              "atilan": 6,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-10",
-              "lig": "soccer_epl",
-              "rakip": "Brentford",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 2,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 2,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 9,
-            "yenilen": 2,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 8,
-            "yenilen": 2,
-            "ust25": 2
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Bayern Munich",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 3,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "d306a78e402e5f505e8644fdf3f75dcd",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Club Brugge",
-      "deplasman": "RC Lens",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4701,
-        "X": 0.2383,
-        "2": 0.2917
-      },
-      "tahmin": "1",
-      "guven": 0.1784,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.646,
-          "alt": 0.354
-        },
-        "tahmin": "ust",
-        "guven": 0.292,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Club Brugge, %47 kazanma olasılığı ve %65'lik 2.5 üst gol beklentisiyle bu maça favori olarak çıkıyor; gollü bir ev sahibi galibiyeti öne çıkıyor. 22 kaynağın bu denli hemfikir olması, tahminimizin güvenilirliğini artırıyor ve geçmişteki %64'lük isabet oranımızla uyumlu. Lens'in galibiyet ihtimali %29 ile düşük olsa da, beraberlik %24 ile ikinci en olası sonuç.",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Inter Milan",
-              "ic_saha": false,
-              "atilan": 4,
-              "yenilen": 3,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 4,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 4,
-            "yenilen": 3,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-17",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Troyes",
-              "ic_saha": false,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Sporting Lisbon",
-              "ic_saha": true,
-              "atilan": 0,
               "yenilen": 2,
               "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 3,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 0,
-            "yenilen": 2,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 1,
-            "ust25": 1
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "f5905225efa837b0dc89b7dcdbb6c625",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Real Betis",
-      "deplasman": "Feyenoord",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.6103,
-        "X": 0.2011,
-        "2": 0.1886
-      },
-      "tahmin": "1",
-      "guven": 0.4092,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6957,
-          "alt": 0.3043
-        },
-        "tahmin": "ust",
-        "guven": 0.3914,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Real Betis, %61 kazanma olasılığıyla bu maçın net favorisi. %70 ihtimalle 2.5 gol üstü beklenen bu karşılaşma, favorinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizde %79 isabet oranımız varken, bu maçın olasılıkları %66'lık bir beklenti sunuyor. Beraberlik %20 ile ikinci en olası sonuçken, Feyenoord galibiyeti düşük bir ihtimal (%19).",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-17",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Barcelona",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 5,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-14",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Porto",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 2,
-              "sonuc": "G"
             },
             {
               "tarih": "2026-10-11",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "CA Osasuna",
-              "ic_saha": true,
-              "atilan": 5,
+              "lig": "soccer_turkey_super_league",
+              "rakip": "Besiktas JK",
+              "ic_saha": false,
+              "atilan": 1,
               "yenilen": 2,
-              "sonuc": "G"
+              "sonuc": "M"
             }
           ],
           "son": {
-            "mac": 3,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 10,
-            "yenilen": 9,
-            "ust25": 3
-          },
-          "ic_saha": {
-            "mac": 3,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 10,
-            "yenilen": 9,
-            "ust25": 3
-          },
-          "deplasman": {
-            "mac": 0,
+            "mac": 2,
             "galibiyet": 0,
             "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-14",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Como",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 2,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 2,
-            "ust25": 1
+            "maglubiyet": 2,
+            "atilan": 2,
+            "yenilen": 4,
+            "ust25": 2
           },
           "ic_saha": {
             "mac": 1,
-            "galibiyet": 1,
+            "galibiyet": 0,
             "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 3,
+            "maglubiyet": 1,
+            "atilan": 1,
             "yenilen": 2,
             "ust25": 1
           },
           "deplasman": {
-            "mac": 0,
+            "mac": 1,
             "galibiyet": 0,
             "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
           }
         }
       },
       "ucretsiz": false
     },
     {
-      "mac_id": "a889456204e8ef1b64294efbee8dc3e5",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Inter Milan",
-      "deplasman": "Shakhtar Donetsk",
-      "baslama_utc": "2026-10-21T19:00:00Z",
+      "mac_id": "d4d56a31d8ccd432e3a6183180e093f3",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "VfB Stuttgart",
+      "deplasman": "Borussia Monchengladbach",
+      "baslama_utc": "2026-10-23T18:30:00Z",
       "durum": "ok",
       "olasiliklar": {
-        "1": 0.7984,
-        "X": 0.1266,
-        "2": 0.075
+        "1": 0.6898,
+        "X": 0.1702,
+        "2": 0.14
       },
       "tahmin": "1",
-      "guven": 0.6718,
+      "guven": 0.5196,
       "alt_ust": {
         "cizgi": 2.5,
         "olasiliklar": {
-          "ust": 0.747,
-          "alt": 0.253
+          "ust": 0.746,
+          "alt": 0.254
         },
         "tahmin": "ust",
-        "guven": 0.494,
+        "guven": 0.492,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Inter Milan, bu maçta net favori olarak öne çıkıyor. Yüksek gol beklentisiyle birlikte ev sahibinin gollü bir galibiyet alması en olası senaryo. Bu tahminimiz, geçmişteki %79'luk isabet oranımızla uyumlu görünüyor. Beraberlik veya Shakhtar galibiyeti ise oldukça düşük ihtimaller.",
+      "ai_metin": "VfB Stuttgart, %69 kazanma olasılığıyla net favori olarak öne çıkıyor ve maçın 3 veya daha fazla golle sonuçlanma ihtimali %75. Bu durum, favori takımın gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Geçmiş tahminlerimizin %78 isabet oranıyla bu güven seviyesindeki maçlarda başarılı olduğumuzu belirtmek gerekir. Beraberlik (%17) veya Gladbach galibiyeti (%14) ise düşük birer ihtimal olarak değerlendiriliyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
             {
-              "tarih": "2026-10-17",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Bologna",
-              "ic_saha": false,
-              "atilan": 3,
+              "tarih": "2026-10-20",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "Atlético Madrid",
+              "ic_saha": true,
+              "atilan": 1,
               "yenilen": 1,
-              "sonuc": "G"
+              "sonuc": "B"
             },
             {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Club Brugge",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 4,
+              "tarih": "2026-10-17",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "Hamburger SV",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
               "sonuc": "M"
             },
             {
-              "tarih": "2026-10-10",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Parma",
-              "ic_saha": true,
+              "tarih": "2026-10-14",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "ŠK Slovan Bratislava",
+              "ic_saha": false,
               "atilan": 3,
               "yenilen": 0,
               "sonuc": "G"
@@ -958,27 +187,27 @@
           ],
           "son": {
             "mac": 3,
-            "galibiyet": 2,
-            "beraberlik": 0,
+            "galibiyet": 1,
+            "beraberlik": 1,
             "maglubiyet": 1,
-            "atilan": 9,
-            "yenilen": 5,
-            "ust25": 3
+            "atilan": 4,
+            "yenilen": 2,
+            "ust25": 1
           },
           "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 1,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "deplasman": {
             "mac": 2,
             "galibiyet": 1,
             "beraberlik": 0,
             "maglubiyet": 1,
-            "atilan": 6,
-            "yenilen": 4,
-            "ust25": 2
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
             "atilan": 3,
             "yenilen": 1,
             "ust25": 1
@@ -987,31 +216,31 @@
         "deplasman": {
           "son_maclar": [
             {
-              "tarih": "2026-10-14",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "AEK Athens",
+              "tarih": "2026-10-18",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "TSG Hoffenheim",
               "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
             }
           ],
           "son": {
             "mac": 1,
-            "galibiyet": 1,
+            "galibiyet": 0,
             "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 1,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
             "ust25": 1
           },
           "ic_saha": {
             "mac": 1,
-            "galibiyet": 1,
+            "galibiyet": 0,
             "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 1,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
             "ust25": 1
           },
           "deplasman": {
@@ -1028,185 +257,67 @@
       "ucretsiz": true
     },
     {
-      "mac_id": "8fdcaee14b3e8966e09d468a0b17ce18",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Sporting Lisbon",
-      "deplasman": "LASK",
-      "baslama_utc": "2026-10-21T19:00:00Z",
+      "mac_id": "124c70f8f3248a845bdb983a54e74720",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Torino",
+      "deplasman": "Monza",
+      "baslama_utc": "2026-10-23T18:45:00Z",
       "durum": "ok",
       "olasiliklar": {
-        "1": 0.7883,
-        "X": 0.1289,
-        "2": 0.0828
+        "1": 0.4433,
+        "X": 0.2803,
+        "2": 0.2764
       },
       "tahmin": "1",
-      "guven": 0.6594,
+      "guven": 0.163,
       "alt_ust": {
         "cizgi": 2.5,
         "olasiliklar": {
-          "ust": 0.7319,
-          "alt": 0.2681
+          "ust": 0.4836,
+          "alt": 0.5164
         },
-        "tahmin": "ust",
-        "guven": 0.4638,
-        "kaynak_sayisi": 3
+        "tahmin": "alt",
+        "guven": 0.0328,
+        "kaynak_sayisi": 17
       },
-      "ai_metin": "Sporting Lisbon bu maçın net favorisi olarak öne çıkıyor. Favorinin gollü bir galibiyet alması beklenirken, 22 veri kaynağı arasındaki belirgin görüş farkı nedeniyle belirsizlik normalden yüksek. Beraberlik ve LASK galibiyeti gibi diğer sonuçların gerçekleşme olasılığı ise oldukça düşük.",
+      "ai_metin": "Torino, Monza karşısında %44'lük galibiyet olasılığıyla favori konumda. Veri kaynaklarının bu maçtaki fikir birliği oldukça yüksek ve geçmişte benzer güven seviyesindeki tahminlerimiz %62 isabet sağladı. Düşük gollü (%52) bir senaryoda Torino'nun kontrollü bir galibiyet alması en olası sonuç gibi görünüyor. Beraberlik ve Monza galibiyeti ise %28'er olasılıkla ikinci en olası sonuçlar.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
             {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "RC Lens",
+              "tarih": "2026-10-19",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Parma",
               "ic_saha": false,
-              "atilan": 2,
+              "atilan": 3,
               "yenilen": 0,
               "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
+            },
             {
-              "tarih": "2026-10-14",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Liverpool",
+              "tarih": "2026-10-12",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Udinese",
               "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 6,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 3,
-            "yenilen": 6,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 3,
-            "yenilen": 6,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "30f27b8e9719e9ae71c25b4c8aa265f7",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Real Madrid",
-      "deplasman": "RB Leipzig",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7665,
-        "X": 0.1353,
-        "2": 0.0982
-      },
-      "tahmin": "1",
-      "guven": 0.6312,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.7866,
-          "alt": 0.2134
-        },
-        "tahmin": "ust",
-        "guven": 0.5732,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Real Madrid, bu Şampiyonlar Ligi mücadelesinde açık ara favori. Yüksek gol beklentisiyle birlikte, ev sahibinin gollü bir galibiyet alması en olası senaryo olarak öne çıkıyor. Geçmiş tahminlerimizdeki %79'luk isabet oranı, bu güven seviyesindeki maçlarda doğru yolda olduğumuzu gösteriyor. Beraberlik ya da RB Leipzig galibiyeti ise oldukça düşük bir ihtimal taşıyor.",
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-10-18",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Sevilla",
-              "ic_saha": true,
-              "atilan": 4,
+              "atilan": 2,
               "yenilen": 1,
               "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-14",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "AS Roma",
-              "ic_saha": false,
-              "atilan": 4,
-              "yenilen": 3,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-10",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Villarreal",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 0,
-              "sonuc": "G"
             }
           ],
           "son": {
-            "mac": 3,
-            "galibiyet": 3,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 9,
-            "yenilen": 4,
-            "ust25": 2
-          },
-          "ic_saha": {
             "mac": 2,
             "galibiyet": 2,
             "beraberlik": 0,
             "maglubiyet": 0,
             "atilan": 5,
+            "yenilen": 1,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
             "yenilen": 1,
             "ust25": 1
           },
@@ -1215,30 +326,30 @@
             "galibiyet": 1,
             "beraberlik": 0,
             "maglubiyet": 0,
-            "atilan": 4,
-            "yenilen": 3,
+            "atilan": 3,
+            "yenilen": 0,
             "ust25": 1
           }
         },
         "deplasman": {
           "son_maclar": [
             {
-              "tarih": "2026-10-17",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "Bayern Munich",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 6,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "PSV Eindhoven",
+              "tarih": "2026-10-19",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Cagliari",
               "ic_saha": true,
-              "atilan": 1,
+              "atilan": 4,
               "yenilen": 0,
               "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-11",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Lazio",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
             }
           ],
           "son": {
@@ -1246,16 +357,125 @@
             "galibiyet": 1,
             "beraberlik": 0,
             "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 6,
-            "ust25": 1
+            "atilan": 5,
+            "yenilen": 3,
+            "ust25": 2
           },
           "ic_saha": {
             "mac": 1,
             "galibiyet": 1,
             "beraberlik": 0,
             "maglubiyet": 0,
+            "atilan": 4,
+            "yenilen": 0,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
             "atilan": 1,
+            "yenilen": 3,
+            "ust25": 1
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "8aa36b30d655d6c81ed98bf9ec1b4039",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Brest",
+      "deplasman": "Nice",
+      "baslama_utc": "2026-10-23T18:45:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4217,
+        "X": 0.2784,
+        "2": 0.2998
+      },
+      "tahmin": "1",
+      "guven": 0.1219,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5535,
+          "alt": 0.4465
+        },
+        "tahmin": "ust",
+        "guven": 0.107,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Brest, Nice karşısında çok hafif bir favori olarak öne çıkıyor. Veri kaynaklarımızın %55'i 2.5 üst gol beklerken, ev sahibinin galibiyeti ve gollü bir maç senaryosu oldukça olası görünüyor. Bu maç, 21 kaynağın alışılmadık derecede hemfikir olduğu, güven seviyesi yüksek tahminlerimizden biri. Beraberlik ihtimali %28 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-10-17",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lille",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 1,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 1,
+            "yenilen": 1,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lyon",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
             "yenilen": 0,
             "ust25": 0
           },
@@ -1265,8 +485,253 @@
             "beraberlik": 0,
             "maglubiyet": 1,
             "atilan": 1,
-            "yenilen": 6,
+            "yenilen": 2,
             "ust25": 1
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d0202960708a442401d7fc7bd74a0183",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Ipswich Town",
+      "deplasman": "Nottingham Forest",
+      "baslama_utc": "2026-10-23T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3016,
+        "X": 0.2739,
+        "2": 0.4246
+      },
+      "tahmin": "2",
+      "guven": 0.123,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5459,
+          "alt": 0.4541
+        },
+        "tahmin": "ust",
+        "guven": 0.0918,
+        "kaynak_sayisi": 16
+      },
+      "ai_metin": "Bu dengeli maçta Nottingham Forest deplasmanda çok hafif favori (%42), ancak %55 olasılıkla 2.5 gol üstü beklentisiyle gollü bir karşılaşma öngörüyoruz. 24 veri kaynağının alışılmadık fikir birliği, bu tahminin güvenilirliğini artırıyor. Forest'ın galibiyeti en olası senaryo olsa da, beraberlik ihtimali (%27) de göz ardı edilmemeli.",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-10-17",
+              "lig": "soccer_epl",
+              "rakip": "Manchester City",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-10",
+              "lig": "soccer_epl",
+              "rakip": "Fulham",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 4,
+            "yenilen": 4,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 2,
+            "yenilen": 3,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_epl",
+              "rakip": "Arsenal",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-11",
+              "lig": "soccer_epl",
+              "rakip": "Crystal Palace",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 1,
+            "yenilen": 4,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 3,
+            "ust25": 1
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "903eb4941471ffe20d525b02dd3b77aa",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Alavés",
+      "deplasman": "Málaga",
+      "baslama_utc": "2026-10-23T19:00:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5422,
+        "X": 0.2608,
+        "2": 0.197
+      },
+      "tahmin": "1",
+      "guven": 0.2814,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4683,
+          "alt": 0.5317
+        },
+        "tahmin": "alt",
+        "guven": 0.0634,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Alavés, %54 kazanma olasılığıyla bu maçın net favorisi. Maçın %53 ihtimalle 2.5 alt biteceği göz önüne alındığında, ev sahibinin kontrollü ve az gollü bir galibiyet alması bekleniyor. Geçmiş tahminlerimiz bu güven seviyesinde %62 isabet sağlarken, bu maç için beklenen isabet oranı %49. Beraberlik %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Celta Vigo",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-10",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Atlético Madrid",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 2,
+            "yenilen": 4,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Real Sociedad",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 5,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 2,
+            "yenilen": 5,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 2,
+            "yenilen": 5,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
           }
         }
       },
