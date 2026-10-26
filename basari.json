@@ -1,52 +1,52 @@
 {
-  "guncelleme_utc": "2026-10-25T05:37:19Z",
-  "toplam_tahmin": 127,
-  "tutan": 80,
-  "isabet_orani": 0.6299,
-  "beklenen_isabet": 0.538,
-  "sonuc_bekleyen": 29,
+  "guncelleme_utc": "2026-10-26T05:37:31Z",
+  "toplam_tahmin": 151,
+  "tutan": 93,
+  "isabet_orani": 0.6159,
+  "beklenen_isabet": 0.5348,
+  "sonuc_bekleyen": 8,
   "lig_bazinda": {
     "soccer_epl": {
-      "toplam_tahmin": 16,
-      "tutan": 9,
-      "isabet_orani": 0.5625,
-      "beklenen_isabet": 0.5246,
-      "sonuc_bekleyen": 5
+      "toplam_tahmin": 21,
+      "tutan": 11,
+      "isabet_orani": 0.5238,
+      "beklenen_isabet": 0.5066,
+      "sonuc_bekleyen": 0
     },
     "soccer_france_ligue_one": {
-      "toplam_tahmin": 11,
-      "tutan": 7,
-      "isabet_orani": 0.6364,
-      "beklenen_isabet": 0.4796,
-      "sonuc_bekleyen": 7
-    },
-    "soccer_germany_bundesliga": {
-      "toplam_tahmin": 16,
-      "tutan": 9,
-      "isabet_orani": 0.5625,
-      "beklenen_isabet": 0.5441,
-      "sonuc_bekleyen": 2
-    },
-    "soccer_italy_serie_a": {
-      "toplam_tahmin": 17,
-      "tutan": 13,
-      "isabet_orani": 0.7647,
-      "beklenen_isabet": 0.5051,
-      "sonuc_bekleyen": 5
-    },
-    "soccer_spain_la_liga": {
       "toplam_tahmin": 17,
       "tutan": 9,
       "isabet_orani": 0.5294,
-      "beklenen_isabet": 0.5132,
-      "sonuc_bekleyen": 5
+      "beklenen_isabet": 0.4895,
+      "sonuc_bekleyen": 1
+    },
+    "soccer_germany_bundesliga": {
+      "toplam_tahmin": 18,
+      "tutan": 10,
+      "isabet_orani": 0.5556,
+      "beklenen_isabet": 0.545,
+      "sonuc_bekleyen": 0
+    },
+    "soccer_italy_serie_a": {
+      "toplam_tahmin": 22,
+      "tutan": 17,
+      "isabet_orani": 0.7727,
+      "beklenen_isabet": 0.5215,
+      "sonuc_bekleyen": 3
+    },
+    "soccer_spain_la_liga": {
+      "toplam_tahmin": 21,
+      "tutan": 11,
+      "isabet_orani": 0.5238,
+      "beklenen_isabet": 0.5204,
+      "sonuc_bekleyen": 1
     },
     "soccer_turkey_super_league": {
-      "toplam_tahmin": 14,
-      "tutan": 11,
-      "isabet_orani": 0.7857,
-      "beklenen_isabet": 0.5112,
-      "sonuc_bekleyen": 5
+      "toplam_tahmin": 16,
+      "tutan": 13,
+      "isabet_orani": 0.8125,
+      "beklenen_isabet": 0.506,
+      "sonuc_bekleyen": 3
     },
     "soccer_uefa_champs_league": {
       "toplam_tahmin": 36,
@@ -58,81 +58,81 @@
   },
   "guven_araligi_bazinda": {
     "0-0.15": {
-      "toplam_tahmin": 38,
-      "tutan": 21,
-      "isabet_orani": 0.5526,
-      "beklenen_isabet": 0.4075,
-      "sonuc_bekleyen": 8
+      "toplam_tahmin": 45,
+      "tutan": 23,
+      "isabet_orani": 0.5111,
+      "beklenen_isabet": 0.4081,
+      "sonuc_bekleyen": 1
     },
     "0.15-0.30": {
-      "toplam_tahmin": 36,
-      "tutan": 19,
-      "isabet_orani": 0.5278,
-      "beklenen_isabet": 0.4848,
-      "sonuc_bekleyen": 9
+      "toplam_tahmin": 43,
+      "tutan": 23,
+      "isabet_orani": 0.5349,
+      "beklenen_isabet": 0.4845,
+      "sonuc_bekleyen": 4
     },
     "0.30+": {
-      "toplam_tahmin": 53,
-      "tutan": 40,
-      "isabet_orani": 0.7547,
-      "beklenen_isabet": 0.6678,
-      "sonuc_bekleyen": 12
+      "toplam_tahmin": 63,
+      "tutan": 47,
+      "isabet_orani": 0.746,
+      "beklenen_isabet": 0.6596,
+      "sonuc_bekleyen": 3
     }
   },
   "lig_guven_bazinda": {
     "soccer_epl": {
       "0-0.15": {
-        "toplam_tahmin": 7,
-        "tutan": 2,
-        "isabet_orani": 0.2857,
-        "beklenen_isabet": 0.422,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 10,
+        "tutan": 3,
+        "isabet_orani": 0.3,
+        "beklenen_isabet": 0.418,
+        "sonuc_bekleyen": 0
       },
       "0.15-0.30": {
-        "toplam_tahmin": 1,
-        "tutan": 1,
+        "toplam_tahmin": 2,
+        "tutan": 2,
         "isabet_orani": 1.0,
-        "beklenen_isabet": 0.4535,
-        "sonuc_bekleyen": 1
+        "beklenen_isabet": 0.4543,
+        "sonuc_bekleyen": 0
       },
       "0.30+": {
-        "toplam_tahmin": 8,
+        "toplam_tahmin": 9,
         "tutan": 6,
-        "isabet_orani": 0.75,
-        "beklenen_isabet": 0.6233,
-        "sonuc_bekleyen": 1
+        "isabet_orani": 0.6667,
+        "beklenen_isabet": 0.6166,
+        "sonuc_bekleyen": 0
       }
     },
     "soccer_france_ligue_one": {
       "0-0.15": {
-        "toplam_tahmin": 5,
+        "toplam_tahmin": 6,
         "tutan": 3,
-        "isabet_orani": 0.6,
-        "beklenen_isabet": 0.4125,
-        "sonuc_bekleyen": 1
+        "isabet_orani": 0.5,
+        "beklenen_isabet": 0.4091,
+        "sonuc_bekleyen": 0
       },
       "0.15-0.30": {
-        "toplam_tahmin": 4,
-        "tutan": 2,
-        "isabet_orani": 0.5,
-        "beklenen_isabet": 0.4912,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 7,
+        "tutan": 3,
+        "isabet_orani": 0.4286,
+        "beklenen_isabet": 0.4885,
+        "sonuc_bekleyen": 0
       },
       "0.30+": {
-        "toplam_tahmin": 2,
-        "tutan": 2,
-        "isabet_orani": 1.0,
-        "beklenen_isabet": 0.6243,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 4,
+        "tutan": 3,
+        "isabet_orani": 0.75,
+        "beklenen_isabet": 0.6119,
+        "sonuc_bekleyen": 1
       }
     },
     "soccer_germany_bundesliga": {
       "0-0.15": {
-        "toplam_tahmin": 3,
+        "toplam_tahmin": 4,
         "tutan": 3,
-        "isabet_orani": 1.0,
-        "beklenen_isabet": 0.4071,
-        "sonuc_bekleyen": 1
+        "isabet_orani": 0.75,
+        "beklenen_isabet": 0.4091,
+        "sonuc_bekleyen": 0
       },
       "0.15-0.30": {
         "toplam_tahmin": 6,
@@ -142,11 +142,11 @@
         "sonuc_bekleyen": 0
       },
       "0.30+": {
-        "toplam_tahmin": 7,
-        "tutan": 4,
-        "isabet_orani": 0.5714,
-        "beklenen_isabet": 0.6425,
-        "sonuc_bekleyen": 1
+        "toplam_tahmin": 8,
+        "tutan": 5,
+        "isabet_orani": 0.625,
+        "beklenen_isabet": 0.6483,
+        "sonuc_bekleyen": 0
       }
     },
     "soccer_italy_serie_a": {
@@ -158,27 +158,27 @@
         "sonuc_bekleyen": 0
       },
       "0.15-0.30": {
-        "toplam_tahmin": 4,
-        "tutan": 3,
-        "isabet_orani": 0.75,
-        "beklenen_isabet": 0.4851,
+        "toplam_tahmin": 6,
+        "tutan": 4,
+        "isabet_orani": 0.6667,
+        "beklenen_isabet": 0.4842,
         "sonuc_bekleyen": 2
       },
       "0.30+": {
-        "toplam_tahmin": 7,
-        "tutan": 5,
-        "isabet_orani": 0.7143,
-        "beklenen_isabet": 0.6154,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 10,
+        "tutan": 8,
+        "isabet_orani": 0.8,
+        "beklenen_isabet": 0.6229,
+        "sonuc_bekleyen": 1
       }
     },
     "soccer_spain_la_liga": {
       "0-0.15": {
-        "toplam_tahmin": 6,
+        "toplam_tahmin": 7,
         "tutan": 3,
-        "isabet_orani": 0.5,
-        "beklenen_isabet": 0.4031,
-        "sonuc_bekleyen": 1
+        "isabet_orani": 0.4286,
+        "beklenen_isabet": 0.4048,
+        "sonuc_bekleyen": 0
       },
       "0.15-0.30": {
         "toplam_tahmin": 6,
@@ -188,27 +188,27 @@
         "sonuc_bekleyen": 1
       },
       "0.30+": {
-        "toplam_tahmin": 5,
-        "tutan": 4,
-        "isabet_orani": 0.8,
-        "beklenen_isabet": 0.6812,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 8,
+        "tutan": 6,
+        "isabet_orani": 0.75,
+        "beklenen_isabet": 0.6494,
+        "sonuc_bekleyen": 0
       }
     },
     "soccer_turkey_super_league": {
       "0-0.15": {
-        "toplam_tahmin": 4,
-        "tutan": 2,
-        "isabet_orani": 0.5,
-        "beklenen_isabet": 0.4007,
-        "sonuc_bekleyen": 2
+        "toplam_tahmin": 5,
+        "tutan": 3,
+        "isabet_orani": 0.6,
+        "beklenen_isabet": 0.4068,
+        "sonuc_bekleyen": 1
       },
       "0.15-0.30": {
-        "toplam_tahmin": 5,
-        "tutan": 4,
-        "isabet_orani": 0.8,
-        "beklenen_isabet": 0.4778,
-        "sonuc_bekleyen": 2
+        "toplam_tahmin": 6,
+        "tutan": 5,
+        "isabet_orani": 0.8333,
+        "beklenen_isabet": 0.4827,
+        "sonuc_bekleyen": 1
       },
       "0.30+": {
         "toplam_tahmin": 5,
@@ -245,83 +245,83 @@
   "aylik": {
     "2026-10": {
       "genel": {
-        "toplam_tahmin": 127,
-        "tutan": 80,
-        "isabet_orani": 0.6299,
-        "beklenen_isabet": 0.538,
-        "sonuc_bekleyen": 29
-      },
-      "0-0.15": {
-        "toplam_tahmin": 38,
-        "tutan": 21,
-        "isabet_orani": 0.5526,
-        "beklenen_isabet": 0.4075,
+        "toplam_tahmin": 151,
+        "tutan": 93,
+        "isabet_orani": 0.6159,
+        "beklenen_isabet": 0.5348,
         "sonuc_bekleyen": 8
       },
+      "0-0.15": {
+        "toplam_tahmin": 45,
+        "tutan": 23,
+        "isabet_orani": 0.5111,
+        "beklenen_isabet": 0.4081,
+        "sonuc_bekleyen": 1
+      },
       "0.15-0.30": {
-        "toplam_tahmin": 36,
-        "tutan": 19,
-        "isabet_orani": 0.5278,
-        "beklenen_isabet": 0.4848,
-        "sonuc_bekleyen": 9
+        "toplam_tahmin": 43,
+        "tutan": 23,
+        "isabet_orani": 0.5349,
+        "beklenen_isabet": 0.4845,
+        "sonuc_bekleyen": 4
       },
       "0.30+": {
-        "toplam_tahmin": 53,
-        "tutan": 40,
-        "isabet_orani": 0.7547,
-        "beklenen_isabet": 0.6678,
-        "sonuc_bekleyen": 12
+        "toplam_tahmin": 63,
+        "tutan": 47,
+        "isabet_orani": 0.746,
+        "beklenen_isabet": 0.6596,
+        "sonuc_bekleyen": 3
       }
     }
   },
   "alt_ust": {
-    "toplam_tahmin": 112,
-    "tutan": 68,
-    "isabet_orani": 0.6071,
-    "beklenen_isabet": 0.6057,
-    "sonuc_bekleyen": 27,
+    "toplam_tahmin": 136,
+    "tutan": 81,
+    "isabet_orani": 0.5956,
+    "beklenen_isabet": 0.6044,
+    "sonuc_bekleyen": 6,
     "lig_bazinda": {
       "soccer_epl": {
-        "toplam_tahmin": 15,
-        "tutan": 6,
+        "toplam_tahmin": 20,
+        "tutan": 8,
         "isabet_orani": 0.4,
-        "beklenen_isabet": 0.5783,
-        "sonuc_bekleyen": 5
+        "beklenen_isabet": 0.58,
+        "sonuc_bekleyen": 0
       },
       "soccer_france_ligue_one": {
-        "toplam_tahmin": 11,
-        "tutan": 9,
-        "isabet_orani": 0.8182,
-        "beklenen_isabet": 0.5743,
-        "sonuc_bekleyen": 7
+        "toplam_tahmin": 17,
+        "tutan": 12,
+        "isabet_orani": 0.7059,
+        "beklenen_isabet": 0.5757,
+        "sonuc_bekleyen": 1
       },
       "soccer_germany_bundesliga": {
-        "toplam_tahmin": 16,
-        "tutan": 8,
-        "isabet_orani": 0.5,
-        "beklenen_isabet": 0.6688,
-        "sonuc_bekleyen": 2
+        "toplam_tahmin": 18,
+        "tutan": 10,
+        "isabet_orani": 0.5556,
+        "beklenen_isabet": 0.6751,
+        "sonuc_bekleyen": 0
       },
       "soccer_italy_serie_a": {
-        "toplam_tahmin": 15,
-        "tutan": 7,
-        "isabet_orani": 0.4667,
-        "beklenen_isabet": 0.5582,
-        "sonuc_bekleyen": 5
+        "toplam_tahmin": 20,
+        "tutan": 10,
+        "isabet_orani": 0.5,
+        "beklenen_isabet": 0.5626,
+        "sonuc_bekleyen": 3
       },
       "soccer_spain_la_liga": {
-        "toplam_tahmin": 16,
-        "tutan": 10,
-        "isabet_orani": 0.625,
-        "beklenen_isabet": 0.5788,
-        "sonuc_bekleyen": 5
+        "toplam_tahmin": 20,
+        "tutan": 12,
+        "isabet_orani": 0.6,
+        "beklenen_isabet": 0.5897,
+        "sonuc_bekleyen": 1
       },
       "soccer_turkey_super_league": {
-        "toplam_tahmin": 12,
-        "tutan": 6,
+        "toplam_tahmin": 14,
+        "tutan": 7,
         "isabet_orani": 0.5,
-        "beklenen_isabet": 0.5476,
-        "sonuc_bekleyen": 3
+        "beklenen_isabet": 0.5479,
+        "sonuc_bekleyen": 1
       },
       "soccer_uefa_champs_league": {
         "toplam_tahmin": 27,
@@ -333,42 +333,42 @@
     },
     "guven_araligi_bazinda": {
       "0-0.15": {
-        "toplam_tahmin": 48,
-        "tutan": 26,
-        "isabet_orani": 0.5417,
-        "beklenen_isabet": 0.5382,
-        "sonuc_bekleyen": 12
+        "toplam_tahmin": 59,
+        "tutan": 30,
+        "isabet_orani": 0.5085,
+        "beklenen_isabet": 0.5378,
+        "sonuc_bekleyen": 4
       },
       "0.15-0.30": {
-        "toplam_tahmin": 36,
-        "tutan": 21,
-        "isabet_orani": 0.5833,
-        "beklenen_isabet": 0.6115,
-        "sonuc_bekleyen": 8
+        "toplam_tahmin": 43,
+        "tutan": 24,
+        "isabet_orani": 0.5581,
+        "beklenen_isabet": 0.6094,
+        "sonuc_bekleyen": 1
       },
       "0.30+": {
-        "toplam_tahmin": 28,
-        "tutan": 21,
-        "isabet_orani": 0.75,
-        "beklenen_isabet": 0.7141,
-        "sonuc_bekleyen": 7
+        "toplam_tahmin": 34,
+        "tutan": 27,
+        "isabet_orani": 0.7941,
+        "beklenen_isabet": 0.7136,
+        "sonuc_bekleyen": 1
       }
     },
     "lig_guven_bazinda": {
       "soccer_epl": {
         "0-0.15": {
-          "toplam_tahmin": 8,
-          "tutan": 1,
-          "isabet_orani": 0.125,
-          "beklenen_isabet": 0.5393,
-          "sonuc_bekleyen": 2
+          "toplam_tahmin": 10,
+          "tutan": 2,
+          "isabet_orani": 0.2,
+          "beklenen_isabet": 0.5434,
+          "sonuc_bekleyen": 0
         },
         "0.15-0.30": {
-          "toplam_tahmin": 6,
-          "tutan": 4,
-          "isabet_orani": 0.6667,
-          "beklenen_isabet": 0.6118,
-          "sonuc_bekleyen": 3
+          "toplam_tahmin": 9,
+          "tutan": 5,
+          "isabet_orani": 0.5556,
+          "beklenen_isabet": 0.6085,
+          "sonuc_bekleyen": 0
         },
         "0.30+": {
           "toplam_tahmin": 1,
@@ -380,25 +380,25 @@
       },
       "soccer_france_ligue_one": {
         "0-0.15": {
-          "toplam_tahmin": 7,
-          "tutan": 5,
-          "isabet_orani": 0.7143,
-          "beklenen_isabet": 0.5474,
-          "sonuc_bekleyen": 3
+          "toplam_tahmin": 10,
+          "tutan": 6,
+          "isabet_orani": 0.6,
+          "beklenen_isabet": 0.5439,
+          "sonuc_bekleyen": 0
         },
         "0.15-0.30": {
-          "toplam_tahmin": 3,
-          "tutan": 3,
-          "isabet_orani": 1.0,
-          "beklenen_isabet": 0.5913,
-          "sonuc_bekleyen": 2
+          "toplam_tahmin": 5,
+          "tutan": 4,
+          "isabet_orani": 0.8,
+          "beklenen_isabet": 0.5944,
+          "sonuc_bekleyen": 0
         },
         "0.30+": {
-          "toplam_tahmin": 1,
-          "tutan": 1,
+          "toplam_tahmin": 2,
+          "tutan": 2,
           "isabet_orani": 1.0,
-          "beklenen_isabet": 0.7114,
-          "sonuc_bekleyen": 2
+          "beklenen_isabet": 0.6879,
+          "sonuc_bekleyen": 1
         }
       },
       "soccer_germany_bundesliga": {
@@ -417,19 +417,19 @@
           "sonuc_bekleyen": 0
         },
         "0.30+": {
-          "toplam_tahmin": 8,
-          "tutan": 5,
-          "isabet_orani": 0.625,
-          "beklenen_isabet": 0.7197,
-          "sonuc_bekleyen": 2
+          "toplam_tahmin": 10,
+          "tutan": 7,
+          "isabet_orani": 0.7,
+          "beklenen_isabet": 0.7209,
+          "sonuc_bekleyen": 0
         }
       },
       "soccer_italy_serie_a": {
         "0-0.15": {
-          "toplam_tahmin": 12,
-          "tutan": 6,
-          "isabet_orani": 0.5,
-          "beklenen_isabet": 0.5405,
+          "toplam_tahmin": 15,
+          "tutan": 7,
+          "isabet_orani": 0.4667,
+          "beklenen_isabet": 0.5348,
           "sonuc_bekleyen": 3
         },
         "0.15-0.30": {
@@ -440,43 +440,43 @@
           "sonuc_bekleyen": 0
         },
         "0.30+": {
-          "toplam_tahmin": 1,
-          "tutan": 0,
-          "isabet_orani": 0.0,
-          "beklenen_isabet": 0.6561,
-          "sonuc_bekleyen": 2
+          "toplam_tahmin": 3,
+          "tutan": 2,
+          "isabet_orani": 0.6667,
+          "beklenen_isabet": 0.6664,
+          "sonuc_bekleyen": 0
         }
       },
       "soccer_spain_la_liga": {
         "0-0.15": {
-          "toplam_tahmin": 10,
+          "toplam_tahmin": 11,
           "tutan": 7,
-          "isabet_orani": 0.7,
-          "beklenen_isabet": 0.5378,
-          "sonuc_bekleyen": 2
+          "isabet_orani": 0.6364,
+          "beklenen_isabet": 0.5375,
+          "sonuc_bekleyen": 1
         },
         "0.15-0.30": {
-          "toplam_tahmin": 4,
-          "tutan": 1,
-          "isabet_orani": 0.25,
-          "beklenen_isabet": 0.6149,
-          "sonuc_bekleyen": 2
+          "toplam_tahmin": 6,
+          "tutan": 2,
+          "isabet_orani": 0.3333,
+          "beklenen_isabet": 0.6078,
+          "sonuc_bekleyen": 0
         },
         "0.30+": {
-          "toplam_tahmin": 2,
-          "tutan": 2,
+          "toplam_tahmin": 3,
+          "tutan": 3,
           "isabet_orani": 1.0,
-          "beklenen_isabet": 0.7116,
-          "sonuc_bekleyen": 1
+          "beklenen_isabet": 0.745,
+          "sonuc_bekleyen": 0
         }
       },
       "soccer_turkey_super_league": {
         "0-0.15": {
-          "toplam_tahmin": 8,
-          "tutan": 4,
+          "toplam_tahmin": 10,
+          "tutan": 5,
           "isabet_orani": 0.5,
-          "beklenen_isabet": 0.5227,
-          "sonuc_bekleyen": 2
+          "beklenen_isabet": 0.5281,
+          "sonuc_bekleyen": 0
         },
         "0.15-0.30": {
           "toplam_tahmin": 4,
@@ -520,32 +520,32 @@
     "aylik": {
       "2026-10": {
         "genel": {
-          "toplam_tahmin": 112,
-          "tutan": 68,
-          "isabet_orani": 0.6071,
-          "beklenen_isabet": 0.6057,
-          "sonuc_bekleyen": 27
+          "toplam_tahmin": 136,
+          "tutan": 81,
+          "isabet_orani": 0.5956,
+          "beklenen_isabet": 0.6044,
+          "sonuc_bekleyen": 6
         },
         "0-0.15": {
-          "toplam_tahmin": 48,
-          "tutan": 26,
-          "isabet_orani": 0.5417,
-          "beklenen_isabet": 0.5382,
-          "sonuc_bekleyen": 12
+          "toplam_tahmin": 59,
+          "tutan": 30,
+          "isabet_orani": 0.5085,
+          "beklenen_isabet": 0.5378,
+          "sonuc_bekleyen": 4
         },
         "0.15-0.30": {
-          "toplam_tahmin": 36,
-          "tutan": 21,
-          "isabet_orani": 0.5833,
-          "beklenen_isabet": 0.6115,
-          "sonuc_bekleyen": 8
+          "toplam_tahmin": 43,
+          "tutan": 24,
+          "isabet_orani": 0.5581,
+          "beklenen_isabet": 0.6094,
+          "sonuc_bekleyen": 1
         },
         "0.30+": {
-          "toplam_tahmin": 28,
-          "tutan": 21,
-          "isabet_orani": 0.75,
-          "beklenen_isabet": 0.7141,
-          "sonuc_bekleyen": 7
+          "toplam_tahmin": 34,
+          "tutan": 27,
+          "isabet_orani": 0.7941,
+          "beklenen_isabet": 0.7136,
+          "sonuc_bekleyen": 1
         }
       }
     }
