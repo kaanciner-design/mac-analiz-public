@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-10-27T05:37:25Z",
+  "guncelleme_utc": "2026-10-27T16:14:55Z",
   "mac_sayisi": 8,
   "maclar": [
     {
@@ -26,7 +26,7 @@
         "guven": 0.127,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Lazio, %44 kazanma olasılığıyla Sassuolo deplasmanında favori konumda. Maçın %56 ihtimalle 2.5 gol üstü bitmesi, Lazio'nun gollü bir galibiyet alabileceğine işaret ediyor. Son 3 maçında 8 gol atan Lazio'nun bu performansı, genel ortalamamızın üzerinde bir gollü maç beklentisi yaratıyor. Beraberlik (%27) veya Sassuolo galibiyeti (%29) ise daha düşük ihtimaller.",
+      "ai_metin": "Lazio, %44 kazanma olasılığıyla Sassuolo deplasmanında favori konumda. Maçın %56 ihtimalle 3 veya daha fazla golle bitmesi, Lazio'nun gollü bir galibiyet alabileceğine işaret ediyor. Son 3 maçında 8 gol atan Lazio'nun bu performansı, genel ortalamamızın üzerinde bir gollü maç beklentisi yaratıyor. Beraberlik (%27) veya Sassuolo galibiyeti (%29) ise daha düşük ihtimaller.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -334,7 +334,7 @@
         "guven": 0.1304,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Bu Serie A mücadelesinde Como, %54 galibiyet olasılığıyla deplasmanda favori konumda. Maçın 2.5 üst golle (%57) sonuçlanma ihtimali yüksek, bu da Como'nun gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Torino'nun son üç maçındaki gollü galibiyet serisi, bu maçta da gol potansiyelini destekliyor. Beraberlik %25 ile ikinci en olası sonuçken, Torino'nun galibiyeti %21 ile daha düşük bir ihtimal taşıyor.",
+      "ai_metin": "Bu Serie A mücadelesinde Como, %54 galibiyet olasılığıyla deplasmanda favori konumda. Maçın 3 veya daha fazla golle (%57) sonuçlanma ihtimali yüksek, bu da Como'nun gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Torino'nun son üç maçındaki gollü galibiyet serisi, bu maçta da gol potansiyelini destekliyor. Beraberlik %25 ile ikinci en olası sonuçken, Torino'nun galibiyeti %21 ile daha düşük bir ihtimal taşıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -805,7 +805,7 @@
         "guven": 0.126,
         "kaynak_sayisi": 15
       },
-      "ai_metin": "Bu dengeli maçta Udinese'nin çok hafif bir favori olduğunu görüyoruz. İki takımın da son üç maçını kaybetmesi ve bol gol yemesi, 2.5 üst gol olasılığının %44 olmasını destekliyor. Geçmiş tahminlerimiz bu güven seviyesinde %51 isabetle beklentinin üzerinde performans gösterdi. Beraberlik ihtimali de %30 ile oldukça yüksek bir seçenek olarak öne çıkıyor.",
+      "ai_metin": "Bu dengeli maçta Udinese'nin çok hafif bir favori olduğunu görüyoruz. İki takımın da son üç maçını kaybetmesi ve bol gol yemesi, 3 veya daha fazla gol olasılığının %44 olmasını destekliyor. Geçmiş tahminlerimiz bu güven seviyesinde %51 isabetle beklentinin üzerinde performans gösterdi. Beraberlik ihtimali de %30 ile oldukça yüksek bir seçenek olarak öne çıkıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -950,7 +950,7 @@
         "guven": 0.0812,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Juventus, deplasmanda %57 kazanma olasılığıyla maçın net favorisi. Maçın 2.5 alt gol ihtimali %54 ile öne çıkarken, kontrollü ve az gollü bir Juventus galibiyeti senaryosu daha olası görünüyor. Kendi verilerimize göre bu güven seviyesindeki tahminlerimiz %80 isabetle beklentimizin üzerinde performans gösterdi. Beraberlik (%25) veya Genoa galibiyeti (%18) ise daha düşük olasılıklı sonuçlar.",
+      "ai_metin": "Juventus, deplasmanda %57 kazanma olasılığıyla maçın net favorisi. Maçın en fazla 2 gol ihtimali %54 ile öne çıkarken, kontrollü ve az gollü bir Juventus galibiyeti senaryosu daha olası görünüyor. Kendi verilerimize göre bu güven seviyesindeki tahminlerimiz %80 isabetle beklentimizin üzerinde performans gösterdi. Beraberlik (%25) veya Genoa galibiyeti (%18) ise daha düşük olasılıklı sonuçlar.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1095,7 +1095,7 @@
         "guven": 0.1038,
         "kaynak_sayisi": 15
       },
-      "ai_metin": "Napoli, %54'lük galibiyet olasılığıyla bu maçın net favorisi. Maçın %55 ihtimalle 2.5 gol üstü bitmesi, deplasman ekibinin gollü bir galibiyet alabileceğine işaret ediyor; Napoli'nin son 5 maçının 4'ü 3+ golle sonuçlandı. Beraberlik (%24) ve Monza galibiyeti (%22) ise oldukça düşük ihtimaller.",
+      "ai_metin": "Napoli, %54'lük galibiyet olasılığıyla bu maçın net favorisi. Maçın %55 ihtimalle 3 veya daha fazla golle bitmesi, deplasman ekibinin gollü bir galibiyet alabileceğine işaret ediyor; Napoli'nin son 5 maçının 4'ü 3+ golle sonuçlandı. Beraberlik (%24) ve Monza galibiyeti (%22) ise oldukça düşük ihtimaller.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
