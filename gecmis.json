@@ -1,7 +1,144 @@
 {
-  "guncelleme_utc": "2026-10-26T05:37:31Z",
-  "mac_sayisi": 151,
+  "guncelleme_utc": "2026-10-27T05:37:25Z",
+  "mac_sayisi": 156,
   "maclar": [
+    {
+      "mac_id": "85e464708d03287f24590e1478aeca31",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Sevilla",
+      "deplasman": "CA Osasuna",
+      "baslama_utc": "2026-10-26T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4954,
+        "X": 0.2785,
+        "2": 0.226
+      },
+      "tahmin": "1",
+      "guven": 0.2169,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4449,
+          "alt": 0.5551
+        },
+        "tahmin": "alt",
+        "guven": 0.1102,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Sevilla, %50 kazanma olasılığıyla bu maçın net favorisi konumunda. Düşük gol beklentisi (%56 ile 2.5 alt) favorinin kontrollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu maçın olasılıkları ortalamamızın biraz altında kalıyor. Beraberlik %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "8664b2167f22c59026d86615421463b1",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Paris Saint Germain",
+      "deplasman": "Lyon",
+      "baslama_utc": "2026-10-26T19:30:00Z",
+      "olasiliklar": {
+        "1": 0.669,
+        "X": 0.181,
+        "2": 0.15
+      },
+      "tahmin": "1",
+      "guven": 0.488,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6886,
+          "alt": 0.3114
+        },
+        "tahmin": "ust",
+        "guven": 0.3772,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Paris Saint Germain, Lyon karşısında açık ara favori. Yüksek gol beklentisiyle (%69) favorinin gollü bir galibiyet alması en olası senaryo; PSG'nin son 3 maçında da 3+ gol olması bu beklentiyi destekliyor. Geçmiş tahminlerimiz bu güven seviyesinde %77 isabetle beklentinin üzerinde performans gösterdi. Lyon'un galibiyet ihtimali ise sadece %15 ile oldukça düşük.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a05d15a5f230d25da72b18dc92084f8f",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Galatasaray",
+      "deplasman": "Fenerbahce",
+      "baslama_utc": "2026-10-26T18:30:00Z",
+      "olasiliklar": {
+        "1": 0.4414,
+        "X": 0.2477,
+        "2": 0.3108
+      },
+      "tahmin": "1",
+      "guven": 0.1306,
+      "alt_ust": null,
+      "ai_metin": "Galatasaray, ev sahibi avantajıyla çok hafif önde olsa da, bu derbi dengeli bir mücadeleye işaret ediyor. Her iki takımın da son maçlarında yüksek gol ortalamaları göz önüne alındığında, gollü bir karşılaşma (%75 ihtimalle 3+ gol) bekleyebiliriz. Belirsizliğin normalden yüksek olması, sürpriz sonuçlara açık bir maç olabileceğini gösteriyor. Beraberlik ihtimali %25 iken, Fenerbahçe'nin galibiyeti de %31 ile göz ardı edilmemeli.",
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "54ecd2cf77168d62e84f2fd5ccc54a82",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Besiktas JK",
+      "deplasman": "Basaksehir",
+      "baslama_utc": "2026-10-26T16:00:00Z",
+      "olasiliklar": {
+        "1": 0.6917,
+        "X": 0.1785,
+        "2": 0.1298
+      },
+      "tahmin": "1",
+      "guven": 0.5132,
+      "alt_ust": null,
+      "ai_metin": "Beşiktaş, bu maçta %69 kazanma olasılığıyla net favori konumunda. Veriler, favorinin gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Bu güven seviyesindeki geçmiş tahminlerimiz, beklenen %68 isabet oranının üzerinde seyrediyor. Beraberlik ihtimali %18 ile ikinci en olası sonuçken, Başakşehir'in galibiyeti %13 ile oldukça düşük bir olasılık.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": null,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "e1c9aa56abe5e911eb57403d78376270",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Çaykur Rizespor",
+      "deplasman": "Trabzonspor",
+      "baslama_utc": "2026-10-26T16:00:00Z",
+      "olasiliklar": {
+        "1": 0.2655,
+        "X": 0.2478,
+        "2": 0.4868
+      },
+      "tahmin": "2",
+      "guven": 0.2213,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6037,
+          "alt": 0.3963
+        },
+        "tahmin": "ust",
+        "guven": 0.2074,
+        "kaynak_sayisi": 10
+      },
+      "ai_metin": "Trabzonspor, %49 kazanma olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%60 ile 2.5 üst) favorinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizdeki %56'lık isabet oranı, bu tür maçlarda ortalamanın üzerinde başarı gösterdiğimizi gösteriyor. Beraberlik (%25) veya Rizespor galibiyeti (%27) sürpriz olarak değerlendirilebilir.",
+      "gercek_sonuc": "2",
+      "skor": "3-4",
+      "toplam_gol": 7,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "72089d103a5fe6a922c35e17efba6ffc",
       "lig": "soccer_spain_la_liga",
