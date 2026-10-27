@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-10-27T05:37:25Z",
+  "guncelleme_utc": "2026-10-27T16:35:03Z",
   "mac_sayisi": 156,
   "maclar": [
     {
@@ -25,7 +25,7 @@
         "guven": 0.1102,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Sevilla, %50 kazanma olasılığıyla bu maçın net favorisi konumunda. Düşük gol beklentisi (%56 ile 2.5 alt) favorinin kontrollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu maçın olasılıkları ortalamamızın biraz altında kalıyor. Beraberlik %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Sevilla, %50 kazanma olasılığıyla bu maçın net favorisi konumunda. Düşük gol beklentisi (%56 ile en fazla 2 gol) favorinin kontrollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu maçın olasılıkları ortalamamızın biraz altında kalıyor. Beraberlik %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -131,7 +131,7 @@
         "guven": 0.2074,
         "kaynak_sayisi": 10
       },
-      "ai_metin": "Trabzonspor, %49 kazanma olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%60 ile 2.5 üst) favorinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizdeki %56'lık isabet oranı, bu tür maçlarda ortalamanın üzerinde başarı gösterdiğimizi gösteriyor. Beraberlik (%25) veya Rizespor galibiyeti (%27) sürpriz olarak değerlendirilebilir.",
+      "ai_metin": "Trabzonspor, %49 kazanma olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%60 ile 3 veya daha fazla gol) favorinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizdeki %56'lık isabet oranı, bu tür maçlarda ortalamanın üzerinde başarı gösterdiğimizi gösteriyor. Beraberlik (%25) veya Rizespor galibiyeti (%27) sürpriz olarak değerlendirilebilir.",
       "gercek_sonuc": "2",
       "skor": "3-4",
       "toplam_gol": 7,
@@ -162,7 +162,7 @@
         "guven": 0.6234,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Barcelona bu El Clásico'da açık favori konumunda. %59'luk galibiyet olasılığı ve %81'lik 2.5 üst gol beklentisi, ev sahibinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Her iki takımın da son maçlarında yüksek gol ortalamaları tutturması, bu beklentiyi destekliyor. Real Madrid'in galibiyet ihtimali %24 ile düşük kalırken, beraberlik %17 ile sürpriz bir sonuç olabilir.",
+      "ai_metin": "Barcelona bu El Clásico'da açık favori konumunda. %59'luk galibiyet olasılığı ve %81'lik 3 veya daha fazla gol beklentisi, ev sahibinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Her iki takımın da son maçlarında yüksek gol ortalamaları tutturması, bu beklentiyi destekliyor. Real Madrid'in galibiyet ihtimali %24 ile düşük kalırken, beraberlik %17 ile sürpriz bir sonuç olabilir.",
       "gercek_sonuc": "2",
       "skor": "1-2",
       "toplam_gol": 3,
@@ -193,7 +193,7 @@
         "guven": 0.019,
         "kaynak_sayisi": 17
       },
-      "ai_metin": "AC Milan, deplasmanda Udinese karşısında %57 ile net favori konumunda. Maçın 2.5 üst gol (%51) ihtimali, favorinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Bu güven seviyesindeki tahminlerimizin %79 isabet oranı, bu maç için de olumlu bir beklenti oluşturuyor. Beraberlik (%25) ise daha düşük bir ihtimal olarak öne çıkıyor.",
+      "ai_metin": "AC Milan, deplasmanda Udinese karşısında %57 ile net favori konumunda. Maçın 3 veya daha fazla gol (%51) ihtimali, favorinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Bu güven seviyesindeki tahminlerimizin %79 isabet oranı, bu maç için de olumlu bir beklenti oluşturuyor. Beraberlik (%25) ise daha düşük bir ihtimal olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "0-2",
       "toplam_gol": 2,
@@ -255,7 +255,7 @@
         "guven": 0.03,
         "kaynak_sayisi": 16
       },
-      "ai_metin": "Juventus, %65 kazanma olasılığıyla bu maçın net favorisi. Maçın 2.5 üstü gol bitme ihtimali %52 olduğundan, deplasman ekibinin gollü bir galibiyet alması olası görünüyor. Bu seviyedeki tahminlerimizde %79'luk isabet oranımız, bu senaryonun güvenilirliğini artırıyor. Beraberlik (%22) veya Lecce galibiyeti (%13) ise düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "Juventus, %65 kazanma olasılığıyla bu maçın net favorisi. Maçın 3 veya daha fazla golle bitme ihtimali %52 olduğundan, deplasman ekibinin gollü bir galibiyet alması olası görünüyor. Bu seviyedeki tahminlerimizde %79'luk isabet oranımız, bu senaryonun güvenilirliğini artırıyor. Beraberlik (%22) veya Lecce galibiyeti (%13) ise düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "0-2",
       "toplam_gol": 2,
@@ -286,7 +286,7 @@
         "guven": 0.1028,
         "kaynak_sayisi": 17
       },
-      "ai_metin": "Dengeli bir Premier Lig mücadelesi bizi bekliyor; Leeds United deplasmanda çok hafif önde görünüyor. Az gollü bir senaryo (%55 alt) ile Leeds galibiyeti (%38) birleşince, kontrollü bir maçta tek farklı bir deplasman zaferi öne çıkıyor. Geçmişteki yüksek güvenli tahminlerimizin %54 isabet oranı, bu maça olan beklentimizi artırıyor. Beraberlik de %30 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "ai_metin": "Dengeli bir Premier Lig mücadelesi bizi bekliyor; Leeds United deplasmanda çok hafif önde görünüyor. Az gollü bir senaryo (%55 ihtimalle en fazla 2 gol) ile Leeds galibiyeti (%38) birleşince, kontrollü bir maçta tek farklı bir deplasman zaferi öne çıkıyor. Geçmişteki yüksek güvenli tahminlerimizin %54 isabet oranı, bu maça olan beklentimizi artırıyor. Beraberlik de %30 ile ikinci en olası sonuç olarak dikkat çekiyor.",
       "gercek_sonuc": "X",
       "skor": "0-0",
       "toplam_gol": 0,
@@ -348,7 +348,7 @@
         "guven": 0.0588,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Bu dengeli Ligue 1 mücadelesinde Lorient, %39 kazanma olasılığıyla çok hafif favori konumda. Veri kaynaklarımızın alışılmadık fikir birliği, Lorient'in az gollü (%53 alt) bir maçta galibiyetini işaret ediyor. Geçmiş tahminlerimizdeki yüksek isabet oranı bu senaryoyu destekliyor. Angers'in galibiyet ihtimali ise %32 ile ikinci sırada yer alıyor.",
+      "ai_metin": "Bu dengeli Ligue 1 mücadelesinde Lorient, %39 kazanma olasılığıyla çok hafif favori konumda. Veri kaynaklarımızın alışılmadık fikir birliği, Lorient'in az gollü (%53 ihtimalle en fazla 2 gol) bir maçta galibiyetini işaret ediyor. Geçmiş tahminlerimizdeki yüksek isabet oranı bu senaryoyu destekliyor. Angers'in galibiyet ihtimali ise %32 ile ikinci sırada yer alıyor.",
       "gercek_sonuc": "X",
       "skor": "0-0",
       "toplam_gol": 0,
@@ -379,7 +379,7 @@
         "guven": 0.1094,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Auxerre, %46 galibiyet olasılığıyla Le Mans karşısında favori konumda. Maçın %55 ihtimalle 2.5 gol üstü bitmesi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %59 isabetle ortalamanın üzerinde performans gösterdi. Beraberlik (%26) veya Le Mans galibiyeti (%28) ise daha düşük olasılıklar olarak öne çıkıyor.",
+      "ai_metin": "Auxerre, %46 galibiyet olasılığıyla Le Mans karşısında favori konumda. Maçın %55 ihtimalle 3 veya daha fazla golle bitmesi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %59 isabetle ortalamanın üzerinde performans gösterdi. Beraberlik (%26) veya Le Mans galibiyeti (%28) ise daha düşük olasılıklar olarak öne çıkıyor.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -441,7 +441,7 @@
         "guven": 0.3288,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Rennes, %54 kazanma olasılığıyla bu maçın net favorisi. %66 ihtimalle 2.5 gol üstü beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Geçmiş tahminlerimizin %59 isabet oranı, bu güven seviyesindeki maçlarda ortalamanın üzerinde performans gösterdiğimizi belirtiyor. Beraberlik (%22) veya Strasbourg galibiyeti (%24) daha düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "Rennes, %54 kazanma olasılığıyla bu maçın net favorisi. %66 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Geçmiş tahminlerimizin %59 isabet oranı, bu güven seviyesindeki maçlarda ortalamanın üzerinde performans gösterdiğimizi belirtiyor. Beraberlik (%22) veya Strasbourg galibiyeti (%24) daha düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "3-0",
       "toplam_gol": 3,
@@ -503,7 +503,7 @@
         "guven": 0.146,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Göztepe, Çorum FK karşısında çok hafif favori olsa da, bu maçta belirgin bir belirsizlik hakim. Yüksek gol beklentisi (%57 olasılıkla 2.5 üst) ev sahibinin gollü bir galibiyetini işaret edebilir. 19 farklı kaynaktan gelen görüş ayrılığı, bu maçın tahminini ortalamanın üzerine taşıyor; geçmiş tahminlerimizde bu güven seviyesinde %54 isabet sağladık. Beraberlik ihtimali %26 ile ikinci en olası sonuç.",
+      "ai_metin": "Göztepe, Çorum FK karşısında çok hafif favori olsa da, bu maçta belirgin bir belirsizlik hakim. Yüksek gol beklentisi (%57 olasılıkla 3 veya daha fazla gol) ev sahibinin gollü bir galibiyetini işaret edebilir. 19 farklı kaynaktan gelen görüş ayrılığı, bu maçın tahminini ortalamanın üzerine taşıyor; geçmiş tahminlerimizde bu güven seviyesinde %54 isabet sağladık. Beraberlik ihtimali %26 ile ikinci en olası sonuç.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -534,7 +534,7 @@
         "guven": 0.0686,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Bu dengeli mücadelede Real Betis'in galibiyet olasılığı %42 ile çok hafif önde görünüyor. Deplasman ekibinin son dönemdeki gollü maçları ve 2.5 üst gol ihtimalinin %53 olması, karşılıklı gollerin olabileceği açık bir karşılaşmaya işaret ediyor. Geçmiş tahminlerimizdeki %54'lük isabet oranı, bu tür maçlarda beklentinin üzerinde performans gösterdiğimizi gösteriyor. Beraberlik ihtimali %28 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "ai_metin": "Bu dengeli mücadelede Real Betis'in galibiyet olasılığı %42 ile çok hafif önde görünüyor. Deplasman ekibinin son dönemdeki gollü maçları ve 3 veya daha fazla gol ihtimalinin %53 olması, karşılıklı gollerin olabileceği açık bir karşılaşmaya işaret ediyor. Geçmiş tahminlerimizdeki %54'lük isabet oranı, bu tür maçlarda beklentinin üzerinde performans gösterdiğimizi gösteriyor. Beraberlik ihtimali %28 ile ikinci en olası sonuç olarak dikkat çekiyor.",
       "gercek_sonuc": "X",
       "skor": "0-0",
       "toplam_gol": 0,
@@ -596,7 +596,7 @@
         "guven": 0.1642,
         "kaynak_sayisi": 12
       },
-      "ai_metin": "Manchester United bu dengeli maçta çok hafif favori olsa da, son dört maçındaki kötü performansı ve az gol atması dikkat çekiyor. Maçın 2.5 üst golle bitme olasılığı %58, bu da ev sahibinin galibiyetine rağmen gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %54 isabetle ortalamanın üzerinde. Beraberlik ihtimali %26 ile ikinci en olası sonuç.",
+      "ai_metin": "Manchester United bu dengeli maçta çok hafif favori olsa da, son dört maçındaki kötü performansı ve az gol atması dikkat çekiyor. Maçın 3 veya daha fazla golle bitme olasılığı %58, bu da ev sahibinin galibiyetine rağmen gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %54 isabetle ortalamanın üzerinde. Beraberlik ihtimali %26 ile ikinci en olası sonuç.",
       "gercek_sonuc": "2",
       "skor": "0-3",
       "toplam_gol": 3,
@@ -627,7 +627,7 @@
         "guven": 0.1374,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Brentford, bu Premier Lig maçında deplasmanda net favori konumunda. %56 galibiyet olasılığıyla öne çıkarken, maçın %57 ihtimalle 2.5 gol üstü bitmesi, favorinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %79 isabet sağladığından, bu maç için de olumlu bir beklentimiz var. Beraberlik %24 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "ai_metin": "Brentford, bu Premier Lig maçında deplasmanda net favori konumunda. %56 galibiyet olasılığıyla öne çıkarken, maçın %57 ihtimalle 3 veya daha fazla golle bitmesi, favorinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %79 isabet sağladığından, bu maç için de olumlu bir beklentimiz var. Beraberlik %24 ile ikinci en olası sonuç olarak dikkat çekiyor.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -658,7 +658,7 @@
         "guven": 0.243,
         "kaynak_sayisi": 7
       },
-      "ai_metin": "Liverpool, %46 galibiyet olasılığıyla bu maçın favorisi olarak öne çıkıyor. Maçın %62 ihtimalle 2.5 gol üstü bitmesi, favorinin gollü bir galibiyet alabileceği bir senaryoya işaret ediyor; bu durum Liverpool'un son 4 maçındaki yüksek gol ortalamasıyla da uyumlu. Geçmiş tahminlerimizdeki %59'luk isabet oranı, bu güven seviyesindeki beklentimizin üzerinde. Beraberlik (%25) veya Brighton galibiyeti (%30) ise daha düşük ihtimaller olarak görünüyor.",
+      "ai_metin": "Liverpool, %46 galibiyet olasılığıyla bu maçın favorisi olarak öne çıkıyor. Maçın %62 ihtimalle 3 veya daha fazla golle bitmesi, favorinin gollü bir galibiyet alabileceği bir senaryoya işaret ediyor; bu durum Liverpool'un son 4 maçındaki yüksek gol ortalamasıyla da uyumlu. Geçmiş tahminlerimizdeki %59'luk isabet oranı, bu güven seviyesindeki beklentimizin üzerinde. Beraberlik (%25) veya Brighton galibiyeti (%30) ise daha düşük ihtimaller olarak görünüyor.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -689,7 +689,7 @@
         "guven": 0.204,
         "kaynak_sayisi": 10
       },
-      "ai_metin": "Bu dengeli maçta Newcastle United, %41 ile çok hafif favori konumda. Veri kaynaklarının alışılmadık fikir birliği, %60 olasılıkla 2.5 üst golle birlikte Newcastle'ın gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %54 isabet sağladı. Beraberlik %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Bu dengeli maçta Newcastle United, %41 ile çok hafif favori konumda. Veri kaynaklarının alışılmadık fikir birliği, %60 olasılıkla 3 veya daha fazla golle birlikte Newcastle'ın gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %54 isabet sağladı. Beraberlik %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "0-2",
       "toplam_gol": 2,
@@ -720,7 +720,7 @@
         "guven": 0.3462,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Atalanta bu maçta açık ara favori konumunda ve %52'lik kazanma olasılığıyla öne çıkıyor. Yüksek gol beklentisi (%67 ile 2.5 üst) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz, bu güven seviyesindeki maçlarda beklenen %48'in üzerinde, %59 isabet oranıyla başarılıydı. Beraberlik (%23) ve Frosinone galibiyeti (%25) ise daha düşük ihtimaller olarak dikkat çekiyor.",
+      "ai_metin": "Atalanta bu maçta açık ara favori konumunda ve %52'lik kazanma olasılığıyla öne çıkıyor. Yüksek gol beklentisi (%67 ile 3 veya daha fazla gol) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz, bu güven seviyesindeki maçlarda beklenen %48'in üzerinde, %59 isabet oranıyla başarılıydı. Beraberlik (%23) ve Frosinone galibiyeti (%25) ise daha düşük ihtimaller olarak dikkat çekiyor.",
       "gercek_sonuc": "X",
       "skor": "4-4",
       "toplam_gol": 8,
@@ -751,7 +751,7 @@
         "guven": 0.0228,
         "kaynak_sayisi": 17
       },
-      "ai_metin": "Genoa, %44 kazanma olasılığıyla bu maçın favorisi konumunda. Ortalama gol beklentisi 2.5 altı yönünde olsa da, 2.5 üstü gol ihtimali %49 ile oldukça yakın. Geçmiş tahminlerimizin bu güven seviyesinde %59 isabet oranıyla beklentinin üzerinde performans gösterdiğini belirtelim. Beraberlik (%29) ve Venezia galibiyeti (%27) arasındaki farkın düşük olması, maçın her sonuca açık olabileceğine işaret ediyor.",
+      "ai_metin": "Genoa, %44 kazanma olasılığıyla bu maçın favorisi konumunda. Ortalama gol beklentisi en fazla 2 gol yönünde olsa da, 3 veya daha fazla gol ihtimali %49 ile oldukça yakın. Geçmiş tahminlerimizin bu güven seviyesinde %59 isabet oranıyla beklentinin üzerinde performans gösterdiğini belirtelim. Beraberlik (%29) ve Venezia galibiyeti (%27) arasındaki farkın düşük olması, maçın her sonuca açık olabileceğine işaret ediyor.",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -782,7 +782,7 @@
         "guven": 0.0464,
         "kaynak_sayisi": 15
       },
-      "ai_metin": "Monaco, %46 galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%52 ile 2.5 üst) Monaco'nun gollü bir galibiyet alabileceğine işaret ediyor. Lille'in son üç maçında iki kez 3+ gol olması, bu senaryoyu destekliyor. Beraberlik %28 ile ikinci en olası sonuç.",
+      "ai_metin": "Monaco, %46 galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%52 ile 3 veya daha fazla gol) Monaco'nun gollü bir galibiyet alabileceğine işaret ediyor. Lille'in son üç maçında iki kez 3+ gol olması, bu senaryoyu destekliyor. Beraberlik %28 ile ikinci en olası sonuç.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -813,7 +813,7 @@
         "guven": 0.0538,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Ev sahibi Konyaspor, %51 kazanma olasılığıyla bu maçın favorisi konumunda. Düşük gol beklentisi (%53 ile 2.5 alt) göz önüne alındığında, Konyaspor'un kontrollü bir galibiyet alması olası. Geçmiş tahminlerimizde bu güven seviyesinde beklenen %48 isabet oranının üzerinde, %59 başarı yakaladık. Beraberlik %27 ile ikinci en olası sonuçken, Gençlerbirliği'nin galibiyet ihtimali %22 ile daha düşük.",
+      "ai_metin": "Ev sahibi Konyaspor, %51 kazanma olasılığıyla bu maçın favorisi konumunda. Düşük gol beklentisi (%53 ile en fazla 2 gol) göz önüne alındığında, Konyaspor'un kontrollü bir galibiyet alması olası. Geçmiş tahminlerimizde bu güven seviyesinde beklenen %48 isabet oranının üzerinde, %59 başarı yakaladık. Beraberlik %27 ile ikinci en olası sonuçken, Gençlerbirliği'nin galibiyet ihtimali %22 ile daha düşük.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -844,7 +844,7 @@
         "guven": 0.1644,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Athletic Bilbao, %60 kazanma olasılığıyla bu maçın net favorisi. Ancak %58 ile 2.5 alt gol beklentisi, favorinin kontrollü ve az gollü bir galibiyetine işaret ediyor. Bu güven seviyesindeki geçmiş tahminlerimiz %79 isabet oranıyla beklentinin üzerinde performans gösterdi. Getafe'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük.",
+      "ai_metin": "Athletic Bilbao, %60 kazanma olasılığıyla bu maçın net favorisi. Ancak %58 ile en fazla 2 gol beklentisi, favorinin kontrollü ve az gollü bir galibiyetine işaret ediyor. Bu güven seviyesindeki geçmiş tahminlerimiz %79 isabet oranıyla beklentinin üzerinde performans gösterdi. Getafe'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük.",
       "gercek_sonuc": "1",
       "skor": "4-0",
       "toplam_gol": 4,
@@ -937,7 +937,7 @@
         "guven": 0.0352,
         "kaynak_sayisi": 17
       },
-      "ai_metin": "Lazio, Parma karşısında %68'lik galibiyet olasılığıyla net favori konumunda. Maçın 2.5 üst gol ihtimalinin %52 olması, favori ekibin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Bu güven seviyesindeki tahminlerimizde %79 isabet oranımızla ortalamanın üzerinde bir başarı yakaladık. Beraberlik (%20) ve Parma galibiyeti (%12) düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "Lazio, Parma karşısında %68'lik galibiyet olasılığıyla net favori konumunda. Maçın 3 veya daha fazla gol ihtimalinin %52 olması, favori ekibin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Bu güven seviyesindeki tahminlerimizde %79 isabet oranımızla ortalamanın üzerinde bir başarı yakaladık. Beraberlik (%20) ve Parma galibiyeti (%12) düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "2-1",
       "toplam_gol": 3,
@@ -999,7 +999,7 @@
         "guven": 0.2718,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Chelsea, Tottenham karşısında %56 kazanma olasılığıyla net favori. %64 ihtimalle 2.5 gol üstü beklenen bu maç, favori ev sahibinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu güven seviyesindeki maçlarda %79 isabet oranımızla ortalamanın üzerinde bir başarı sergiliyoruz. Beraberlik %23 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Chelsea, Tottenham karşısında %56 kazanma olasılığıyla net favori. %64 ihtimalle 3 veya daha fazla gol beklenen bu maç, favori ev sahibinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu güven seviyesindeki maçlarda %79 isabet oranımızla ortalamanın üzerinde bir başarı sergiliyoruz. Beraberlik %23 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "0-2",
       "toplam_gol": 2,
@@ -1092,7 +1092,7 @@
         "guven": 0.0294,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Bu Süper Lig maçında Amed SK, %46 galibiyet olasılığıyla deplasmanda favori konumda. Maçın 2.5 üst golle (%51) tamamlanması beklenirken, bu durum favorinin gollü bir galibiyet alabileceğine işaret ediyor. 19 veri kaynağı arasındaki belirgin görüş farkı, bu maçtaki belirsizliğin normalden yüksek olduğunu gösteriyor. Samsunspor'un galibiyeti ise %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Bu Süper Lig maçında Amed SK, %46 galibiyet olasılığıyla deplasmanda favori konumda. Maçın 3 veya daha fazla golle (%51) tamamlanması beklenirken, bu durum favorinin gollü bir galibiyet alabileceğine işaret ediyor. 19 veri kaynağı arasındaki belirgin görüş farkı, bu maçtaki belirsizliğin normalden yüksek olduğunu gösteriyor. Samsunspor'un galibiyeti ise %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "1-2",
       "toplam_gol": 3,
@@ -1247,7 +1247,7 @@
         "guven": 0.194,
         "kaynak_sayisi": 12
       },
-      "ai_metin": "Köln, %46 kazanma olasılığıyla Schalke karşısında favori görünüyor ve maçın 2.5 gol üstü (%60) bitme ihtimali yüksek. Bu durum, ev sahibinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. 22 veri kaynağının bu denli hemfikir olması, tahminimizin güvenilirliğini artırıyor. Beraberlik %25, Schalke galibiyeti ise %29 ihtimalle ikinci en olası sonuçlar.",
+      "ai_metin": "Köln, %46 kazanma olasılığıyla Schalke karşısında favori görünüyor ve maçın 3 veya daha fazla gol (%60) bitme ihtimali yüksek. Bu durum, ev sahibinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. 22 veri kaynağının bu denli hemfikir olması, tahminimizin güvenilirliğini artırıyor. Beraberlik %25, Schalke galibiyeti ise %29 ihtimalle ikinci en olası sonuçlar.",
       "gercek_sonuc": "X",
       "skor": "0-0",
       "toplam_gol": 0,
@@ -1278,7 +1278,7 @@
         "guven": 0.2694,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Augsburg, %52 kazanma olasılığıyla bu maçın net favorisi. %63 ihtimalle 2.5 gol üstü beklenen bu karşılaşma, ev sahibinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizin %59 isabet oranı, bu güven seviyesindeki maçlarda ortalamanın üzerinde performans gösterdiğimizi belirtiyor. Beraberlik %24 ile ikinci en olası sonuçken, Union Berlin'in galibiyet ihtimali %25 ile oldukça düşük.",
+      "ai_metin": "Augsburg, %52 kazanma olasılığıyla bu maçın net favorisi. %63 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, ev sahibinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizin %59 isabet oranı, bu güven seviyesindeki maçlarda ortalamanın üzerinde performans gösterdiğimizi belirtiyor. Beraberlik %24 ile ikinci en olası sonuçken, Union Berlin'in galibiyet ihtimali %25 ile oldukça düşük.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -1340,7 +1340,7 @@
         "guven": 0.2482,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Mainz, %55 kazanma olasılığıyla bu maçın net favorisi. Maçın 2.5 üst (%62) beklentisiyle birlikte, ev sahibinin gollü bir galibiyet alması en olası senaryo olarak öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz %79 isabet oranıyla beklentinin üzerinde performans gösterdi. Beraberlik %23 ile ikinci en olası sonuçken, Werder Bremen'in galibiyeti (%22) düşük bir ihtimal olarak görünüyor.",
+      "ai_metin": "Mainz, %55 kazanma olasılığıyla bu maçın net favorisi. Maçın 3 veya daha fazla gol (%62) beklentisiyle birlikte, ev sahibinin gollü bir galibiyet alması en olası senaryo olarak öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz %79 isabet oranıyla beklentinin üzerinde performans gösterdi. Beraberlik %23 ile ikinci en olası sonuçken, Werder Bremen'in galibiyeti (%22) düşük bir ihtimal olarak görünüyor.",
       "gercek_sonuc": "2",
       "skor": "2-3",
       "toplam_gol": 5,
@@ -1371,7 +1371,7 @@
         "guven": 0.207,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Bu dengeli maçta ev sahibi Paderborn'un çok hafif bir üstünlüğü bulunuyor (%42 galibiyet olasılığı). Yüksek gol beklentisi (%60 ihtimalle 2.5 üst) Paderborn'un gollü bir galibiyet alabileceği senaryosunu güçlendiriyor. Bu güven seviyesindeki tahminlerimiz geçmişte %54 isabet sağladı. Beraberlik (%26) veya Hamburg galibiyeti (%33) de göz ardı edilmemeli.",
+      "ai_metin": "Bu dengeli maçta ev sahibi Paderborn'un çok hafif bir üstünlüğü bulunuyor (%42 galibiyet olasılığı). Yüksek gol beklentisi (%60 ihtimalle 3 veya daha fazla gol) Paderborn'un gollü bir galibiyet alabileceği senaryosunu güçlendiriyor. Bu güven seviyesindeki tahminlerimiz geçmişte %54 isabet sağladı. Beraberlik (%26) veya Hamburg galibiyeti (%33) de göz ardı edilmemeli.",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -1402,7 +1402,7 @@
         "guven": 0.0994,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Gazişehir Gaziantep, evinde Erzurum BB karşısında çok hafif favori konumda. Maçın dengeli geçmesi beklenirken, 2.5 alt gol ihtimali %55 ile daha yüksek olduğundan kontrollü ve az gollü bir senaryo öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz ortalamanın üzerinde isabet sağladı. Beraberlik de %30 ile oldukça olası bir sonuç.",
+      "ai_metin": "Gazişehir Gaziantep, evinde Erzurum BB karşısında çok hafif favori konumda. Maçın dengeli geçmesi beklenirken, en fazla 2 gol ihtimali %55 ile daha yüksek olduğundan kontrollü ve az gollü bir senaryo öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz ortalamanın üzerinde isabet sağladı. Beraberlik de %30 ile oldukça olası bir sonuç.",
       "gercek_sonuc": "2",
       "skor": "1-3",
       "toplam_gol": 4,
@@ -1495,7 +1495,7 @@
         "guven": 0.0448,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Rayo Vallecano, %54'lük galibiyet olasılığıyla Elche karşısında net favori konumda. Maçın 2.5 üstü gol (%52) ihtimali, ev sahibinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Geçmiş tahminlerimizin bu güven seviyesinde ortalamanın üzerinde isabet kaydettiğini görüyoruz. Beraberlik (%25) veya Elche galibiyeti (%21) ise daha düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "Rayo Vallecano, %54'lük galibiyet olasılığıyla Elche karşısında net favori konumda. Maçın 3 veya daha fazla gol (%52) ihtimali, ev sahibinin gollü bir galibiyet alabileceği senaryosuna işaret ediyor. Geçmiş tahminlerimizin bu güven seviyesinde ortalamanın üzerinde isabet kaydettiğini görüyoruz. Beraberlik (%25) veya Elche galibiyeti (%21) ise daha düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "0-3",
       "toplam_gol": 3,
@@ -1557,7 +1557,7 @@
         "guven": 0.024,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Kasımpaşa SK, %60 kazanma olasılığıyla bu maçın net favorisi. Maçın 2.5 gol altı ihtimali %51 ile biraz daha yüksek olsa da, favorinin gollü bir galibiyet alması da olası. Geçmiş tahminlerimiz, bu güven seviyesindeki maçlarda %79 isabet oranıyla beklentinin üzerinde performans gösterdi. Beraberlik %23 ile ikinci en olası sonuçken, ev sahibi Eyüpspor'un galibiyet ihtimali %16 ile oldukça düşük kalıyor.",
+      "ai_metin": "Kasımpaşa SK, %60 kazanma olasılığıyla bu maçın net favorisi. Maçın en fazla 2 gol ihtimali %51 ile biraz daha yüksek olsa da, favorinin gollü bir galibiyet alması da olası. Geçmiş tahminlerimiz, bu güven seviyesindeki maçlarda %79 isabet oranıyla beklentinin üzerinde performans gösterdi. Beraberlik %23 ile ikinci en olası sonuçken, ev sahibi Eyüpspor'un galibiyet ihtimali %16 ile oldukça düşük kalıyor.",
       "gercek_sonuc": "2",
       "skor": "0-1",
       "toplam_gol": 1,
@@ -1588,7 +1588,7 @@
         "guven": 0.0918,
         "kaynak_sayisi": 16
       },
-      "ai_metin": "Bu dengeli maçta Nottingham Forest deplasmanda çok hafif favori (%42), ancak %55 olasılıkla 2.5 gol üstü beklentisiyle gollü bir karşılaşma öngörüyoruz. 24 veri kaynağının alışılmadık fikir birliği, bu tahminin güvenilirliğini artırıyor. Forest'ın galibiyeti en olası senaryo olsa da, beraberlik ihtimali (%27) de göz ardı edilmemeli.",
+      "ai_metin": "Bu dengeli maçta Nottingham Forest deplasmanda çok hafif favori (%42), ancak %55 olasılıkla 3 veya daha fazla gol beklentisiyle gollü bir karşılaşma öngörüyoruz. 24 veri kaynağının alışılmadık fikir birliği, bu tahminin güvenilirliğini artırıyor. Forest'ın galibiyeti en olası senaryo olsa da, beraberlik ihtimali (%27) de göz ardı edilmemeli.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -1619,7 +1619,7 @@
         "guven": 0.0634,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Alavés, %54 kazanma olasılığıyla bu maçın net favorisi. Maçın %53 ihtimalle 2.5 alt biteceği göz önüne alındığında, ev sahibinin kontrollü ve az gollü bir galibiyet alması bekleniyor. Geçmiş tahminlerimiz bu güven seviyesinde %62 isabet sağlarken, bu maç için beklenen isabet oranı %49. Beraberlik %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Alavés, %54 kazanma olasılığıyla bu maçın net favorisi. Maçın %53 ihtimalle en fazla 2 golle biteceği göz önüne alındığında, ev sahibinin kontrollü ve az gollü bir galibiyet alması bekleniyor. Geçmiş tahminlerimiz bu güven seviyesinde %62 isabet sağlarken, bu maç için beklenen isabet oranı %49. Beraberlik %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -1681,7 +1681,7 @@
         "guven": 0.107,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Brest, Nice karşısında çok hafif bir favori olarak öne çıkıyor. Veri kaynaklarımızın %55'i 2.5 üst gol beklerken, ev sahibinin galibiyeti ve gollü bir maç senaryosu oldukça olası görünüyor. Bu maç, 21 kaynağın alışılmadık derecede hemfikir olduğu, güven seviyesi yüksek tahminlerimizden biri. Beraberlik ihtimali %28 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "ai_metin": "Brest, Nice karşısında çok hafif bir favori olarak öne çıkıyor. Veri kaynaklarımızın %55'i 3 veya daha fazla gol beklerken, ev sahibinin galibiyeti ve gollü bir maç senaryosu oldukça olası görünüyor. Bu maç, 21 kaynağın alışılmadık derecede hemfikir olduğu, güven seviyesi yüksek tahminlerimizden biri. Beraberlik ihtimali %28 ile ikinci en olası sonuç olarak dikkat çekiyor.",
       "gercek_sonuc": "2",
       "skor": "1-2",
       "toplam_gol": 3,
@@ -1743,7 +1743,7 @@
         "guven": 0.1936,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Alanyaspor, Kocaelispor karşısında %48 kazanma olasılığıyla favori konumda. Maçın %60 ihtimalle 2.5 alt golle tamamlanması, kontrollü ve az gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimizdeki %62'lik isabet oranı, bu maçtaki favori tercihimizi destekliyor. Beraberlik %29 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Alanyaspor, Kocaelispor karşısında %48 kazanma olasılığıyla favori konumda. Maçın %60 ihtimalle en fazla 2 golle tamamlanması, kontrollü ve az gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimizdeki %62'lik isabet oranı, bu maçtaki favori tercihimizi destekliyor. Beraberlik %29 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "1-2",
       "toplam_gol": 3,
@@ -1805,7 +1805,7 @@
         "guven": 0.4812,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Aston Villa, %77 kazanma olasılığıyla maçın net favorisi konumunda. Yüksek gol beklentisi (%74 ile 2.5 üst) favorinin gollü bir galibiyet alacağına işaret ediyor. Geçmiş tahminlerimizin %79 isabet oranı, bu tür maçlarda güvenilirliğimizi gösteriyor. Beraberlik ve Viking FK galibiyeti ise oldukça düşük ihtimaller (%14 ve %8).",
+      "ai_metin": "Aston Villa, %77 kazanma olasılığıyla maçın net favorisi konumunda. Yüksek gol beklentisi (%74 ile 3 veya daha fazla gol) favorinin gollü bir galibiyet alacağına işaret ediyor. Geçmiş tahminlerimizin %79 isabet oranı, bu tür maçlarda güvenilirliğimizi gösteriyor. Beraberlik ve Viking FK galibiyeti ise oldukça düşük ihtimaller (%14 ve %8).",
       "gercek_sonuc": "1",
       "skor": "3-1",
       "toplam_gol": 4,
@@ -1836,7 +1836,7 @@
         "guven": 0.292,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Club Brugge, %47 kazanma olasılığı ve %65'lik 2.5 üst gol beklentisiyle bu maça favori olarak çıkıyor; gollü bir ev sahibi galibiyeti öne çıkıyor. 22 kaynağın bu denli hemfikir olması, tahminimizin güvenilirliğini artırıyor ve geçmişteki %64'lük isabet oranımızla uyumlu. Lens'in galibiyet ihtimali %29 ile düşük olsa da, beraberlik %24 ile ikinci en olası sonuç.",
+      "ai_metin": "Club Brugge, %47 kazanma olasılığı ve %65'lik 3 veya daha fazla gol beklentisiyle bu maça favori olarak çıkıyor; gollü bir ev sahibi galibiyeti öne çıkıyor. 22 kaynağın bu denli hemfikir olması, tahminimizin güvenilirliğini artırıyor ve geçmişteki %64'lük isabet oranımızla uyumlu. Lens'in galibiyet ihtimali %29 ile düşük olsa da, beraberlik %24 ile ikinci en olası sonuç.",
       "gercek_sonuc": "1",
       "skor": "3-0",
       "toplam_gol": 3,
@@ -1867,7 +1867,7 @@
         "guven": 0.3914,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Real Betis, %61 kazanma olasılığıyla bu maçın net favorisi. %70 ihtimalle 2.5 gol üstü beklenen bu karşılaşma, favorinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizde %79 isabet oranımız varken, bu maçın olasılıkları %66'lık bir beklenti sunuyor. Beraberlik %20 ile ikinci en olası sonuçken, Feyenoord galibiyeti düşük bir ihtimal (%19).",
+      "ai_metin": "Real Betis, %61 kazanma olasılığıyla bu maçın net favorisi. %70 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, favorinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizde %79 isabet oranımız varken, bu maçın olasılıkları %66'lık bir beklenti sunuyor. Beraberlik %20 ile ikinci en olası sonuçken, Feyenoord galibiyeti düşük bir ihtimal (%19).",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -1991,7 +1991,7 @@
         "guven": 0.0338,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Athletic Bilbao, %44 kazanma olasılığıyla bu maçın favorisi konumunda. Genel olarak az gollü (%52) bir maç beklense de, favorinin galibiyeti durumunda 2.5 üst gol ihtimali %48'e kadar yükseliyor. Geçmiş tahminlerimiz bu güven seviyesinde %64 isabetle ortalamanın üzerinde performans gösterdi. Beraberlik (%29) ise ikinci en olası sonuç olarak dikkat çekiyor.",
+      "ai_metin": "Athletic Bilbao, %44 kazanma olasılığıyla bu maçın favorisi konumunda. Genel olarak az gollü (%52) bir maç beklense de, favorinin galibiyeti durumunda 3 veya daha fazla gol ihtimali %48'e kadar yükseliyor. Geçmiş tahminlerimiz bu güven seviyesinde %64 isabetle ortalamanın üzerinde performans gösterdi. Beraberlik (%29) ise ikinci en olası sonuç olarak dikkat çekiyor.",
       "gercek_sonuc": "1",
       "skor": "3-1",
       "toplam_gol": 4,
@@ -2053,7 +2053,7 @@
         "guven": 0.1682,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Lille, Şampiyonlar Ligi'nde Galatasaray karşısında hafif favori konumda. %44 galibiyet olasılığı ve %58'lik 2.5 üst gol ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Bu tahminimiz, geçmişteki %52'lik isabet oranımızla uyumlu. Galatasaray'ın galibiyet olasılığı %30 ile hafife alınmamalı.",
+      "ai_metin": "Lille, Şampiyonlar Ligi'nde Galatasaray karşısında hafif favori konumda. %44 galibiyet olasılığı ve %58'lik 3 veya daha fazla gol ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Bu tahminimiz, geçmişteki %52'lik isabet oranımızla uyumlu. Galatasaray'ın galibiyet olasılığı %30 ile hafife alınmamalı.",
       "gercek_sonuc": "2",
       "skor": "2-4",
       "toplam_gol": 6,
@@ -2146,7 +2146,7 @@
         "guven": 0.2644,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Bu Şampiyonlar Ligi mücadelesinde deplasman ekibi Atlético Madrid, %46'lık galibiyet olasılığıyla net favori konumunda. Veriler, %63 ihtimalle 2.5 gol üstü bir maç bekliyor; bu da favorinin gollü bir galibiyet alabileceğine işaret ediyor. 22 farklı kaynağın bu kadar hemfikir olması, tahminimizin güvenilirliğini artırıyor. Stuttgart'ın galibiyet ihtimali ise sadece %29.",
+      "ai_metin": "Bu Şampiyonlar Ligi mücadelesinde deplasman ekibi Atlético Madrid, %46'lık galibiyet olasılığıyla net favori konumunda. Veriler, %63 ihtimalle 3 veya daha fazla gol bir maç bekliyor; bu da favorinin gollü bir galibiyet alabileceğine işaret ediyor. 22 farklı kaynağın bu kadar hemfikir olması, tahminimizin güvenilirliğini artırıyor. Stuttgart'ın galibiyet ihtimali ise sadece %29.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -2208,7 +2208,7 @@
         "guven": 0.2974,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Napoli, bu Şampiyonlar Ligi mücadelesinde açık ara favori konumunda ve gollü bir galibiyet bekleniyor. %59 Napoli galibiyeti ve %65 2.5 üst gol olasılığı, ev sahibinin rahat bir maç çıkaracağını işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu güven seviyesindeki maçlarda %77 isabet oranımız, bu tahmini destekliyor. Beraberlik ihtimali %21 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Napoli, bu Şampiyonlar Ligi mücadelesinde açık ara favori konumunda ve gollü bir galibiyet bekleniyor. %59 Napoli galibiyeti ve %65 3 veya daha fazla gol olasılığı, ev sahibinin rahat bir maç çıkaracağını işaret ediyor. Geçmiş tahminlerimizle kıyaslandığında, bu güven seviyesindeki maçlarda %77 isabet oranımız, bu tahmini destekliyor. Beraberlik ihtimali %21 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "4-3",
       "toplam_gol": 7,
@@ -2239,7 +2239,7 @@
         "guven": 0.295,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Liverpool, %65 galibiyet olasılığıyla bu maçın net favorisi. Maç sonucuna ve %65'lik 2.5 üst gol ihtimaline bakıldığında, favori ekibin gollü bir galibiyet alması en olası senaryo. Geçmiş tahminlerimizdeki %77'lik isabet oranı, bu güven seviyesindeki maçlarda beklentinin üzerinde olduğumuzu gösteriyor. Villarreal'in galibiyet olasılığı ise sadece %15 ile oldukça düşük bir ihtimal.",
+      "ai_metin": "Liverpool, %65 galibiyet olasılığıyla bu maçın net favorisi. Maç sonucuna ve %65'lik 3 veya daha fazla gol ihtimaline bakıldığında, favori ekibin gollü bir galibiyet alması en olası senaryo. Geçmiş tahminlerimizdeki %77'lik isabet oranı, bu güven seviyesindeki maçlarda beklentinin üzerinde olduğumuzu gösteriyor. Villarreal'in galibiyet olasılığı ise sadece %15 ile oldukça düşük bir ihtimal.",
       "gercek_sonuc": "1",
       "skor": "4-3",
       "toplam_gol": 7,
@@ -2270,7 +2270,7 @@
         "guven": 0.2532,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Porto, bu Şampiyonlar Ligi mücadelesinde net favori olarak öne çıkıyor. %59'luk galibiyet olasılığı ve %63'lük 2.5 üst gol beklentisi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Bu güven seviyesindeki tahminlerimiz %77 isabet oranıyla ortalamanın üzerinde performans gösterdi. Beraberlik (%21) veya PSV galibiyeti (%20) ise daha düşük ihtimaller olarak görünüyor.",
+      "ai_metin": "Porto, bu Şampiyonlar Ligi mücadelesinde net favori olarak öne çıkıyor. %59'luk galibiyet olasılığı ve %63'lük 3 veya daha fazla gol beklentisi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Bu güven seviyesindeki tahminlerimiz %77 isabet oranıyla ortalamanın üzerinde performans gösterdi. Beraberlik (%21) veya PSV galibiyeti (%20) ise daha düşük ihtimaller olarak görünüyor.",
       "gercek_sonuc": "2",
       "skor": "0-1",
       "toplam_gol": 1,
@@ -2301,7 +2301,7 @@
         "guven": 0.3714,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Borussia Dortmund, Şampiyonlar Ligi mücadelesinde Sabah FK karşısında net favori konumunda. %74 galibiyet olasılığı ve %69 ihtimalle 2.5 gol üstü beklentisi, deplasman ekibinin gollü bir galibiyet alacağını işaret ediyor. Bu tahmin, geçmişteki %77'lik isabet oranımızla da destekleniyor. Beraberlik (%16) ise düşük bir ihtimal olarak öne çıkıyor.",
+      "ai_metin": "Borussia Dortmund, Şampiyonlar Ligi mücadelesinde Sabah FK karşısında net favori konumunda. %74 galibiyet olasılığı ve %69 ihtimalle 3 veya daha fazla gol beklentisi, deplasman ekibinin gollü bir galibiyet alacağını işaret ediyor. Bu tahmin, geçmişteki %77'lik isabet oranımızla da destekleniyor. Beraberlik (%16) ise düşük bir ihtimal olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "1-2",
       "toplam_gol": 3,
@@ -2332,7 +2332,7 @@
         "guven": 0.159,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Fenerbahçe, %57 kazanma olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%58 ile 2.5 üst) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Bu güven seviyesindeki tahminlerimizin %77 isabet oranı, bu senaryonun gerçekleşme ihtimalini destekliyor. Beraberlik %23, Slavia Praha galibiyeti ise %20 gibi düşük bir ihtimal taşıyor.",
+      "ai_metin": "Fenerbahçe, %57 kazanma olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%58 ile 3 veya daha fazla gol) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Bu güven seviyesindeki tahminlerimizin %77 isabet oranı, bu senaryonun gerçekleşme ihtimalini destekliyor. Beraberlik %23, Slavia Praha galibiyeti ise %20 gibi düşük bir ihtimal taşıyor.",
       "gercek_sonuc": "X",
       "skor": "2-2",
       "toplam_gol": 4,
@@ -2363,7 +2363,7 @@
         "guven": 0.204,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Tottenham, bu maçın net favorisi ve %64 kazanma olasılığıyla gollü bir galibiyet bekleniyor. %60 ihtimalle 2.5 gol üstü senaryosu, favorinin rahat bir maç çıkaracağını düşündürüyor. Geçmiş tahminlerimizdeki %77'lik isabet oranı, bu tür favori maçlarda güvenilirliğimizi gösteriyor. Coventry'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük kalıyor.",
+      "ai_metin": "Tottenham, bu maçın net favorisi ve %64 kazanma olasılığıyla gollü bir galibiyet bekleniyor. %60 ihtimalle 3 veya daha fazla gol senaryosu, favorinin rahat bir maç çıkaracağını düşündürüyor. Geçmiş tahminlerimizdeki %77'lik isabet oranı, bu tür favori maçlarda güvenilirliğimizi gösteriyor. Coventry'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük kalıyor.",
       "gercek_sonuc": "1",
       "skor": "3-1",
       "toplam_gol": 4,
@@ -2394,7 +2394,7 @@
         "guven": 0.2496,
         "kaynak_sayisi": 10
       },
-      "ai_metin": "Dengeli bir maç bizi bekliyor olsa da, Rayo Vallecano'nun %36'lık galibiyet olasılığıyla deplasmanda çok hafif bir avantajı bulunuyor. Maçın %62 ihtimalle 2.5 alt biteceği göz önüne alındığında, kontrollü ve az gollü bir senaryo daha olası duruyor. Geçmiş tahminlerimiz bu güven seviyesindeki maçlarda %47 isabet sağlarken, bu maçta beraberlik %32 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Dengeli bir maç bizi bekliyor olsa da, Rayo Vallecano'nun %36'lık galibiyet olasılığıyla deplasmanda çok hafif bir avantajı bulunuyor. Maçın %62 ihtimalle en fazla 2 golle biteceği göz önüne alındığında, kontrollü ve az gollü bir senaryo daha olası duruyor. Geçmiş tahminlerimiz bu güven seviyesindeki maçlarda %47 isabet sağlarken, bu maçta beraberlik %32 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -2456,7 +2456,7 @@
         "guven": 0.22,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Bu dengeli maçta Beşiktaş JK'nın %39 ile çok hafif favori olduğunu görüyoruz. %61'lik 2.5 üst olasılığı, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Geçmiş tahminlerimizin beklentinin üzerinde isabet kaydettiği düşünüldüğünde, bu maç için verilen olasılıkların güvenilirliği yüksek. Beraberlik %25 ile maçın en olası ikinci sonucu olarak dikkat çekiyor.",
+      "ai_metin": "Bu dengeli maçta Beşiktaş JK'nın %39 ile çok hafif favori olduğunu görüyoruz. %61'lik 3 veya daha fazla gol olasılığı, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Geçmiş tahminlerimizin beklentinin üzerinde isabet kaydettiği düşünüldüğünde, bu maç için verilen olasılıkların güvenilirliği yüksek. Beraberlik %25 ile maçın en olası ikinci sonucu olarak dikkat çekiyor.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -2518,7 +2518,7 @@
         "guven": 0.3322,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Real Madrid, bu maçta %77'lik galibiyet olasılığıyla açık ara favori konumunda. %67 ihtimalle 2.5 gol üstü beklenen maçta, favorinin gollü bir galibiyet alması en olası senaryo. Beraberlik ve Sevilla galibiyeti ise sırasıyla %14 ve %8 ile oldukça düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "Real Madrid, bu maçta %77'lik galibiyet olasılığıyla açık ara favori konumunda. %67 ihtimalle 3 veya daha fazla gol beklenen maçta, favorinin gollü bir galibiyet alması en olası senaryo. Beraberlik ve Sevilla galibiyeti ise sırasıyla %14 ve %8 ile oldukça düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "4-1",
       "toplam_gol": 5,
@@ -2549,7 +2549,7 @@
         "guven": 0.0204,
         "kaynak_sayisi": 17
       },
-      "ai_metin": "Juventus, Lazio karşısında %57 ile net favori konumda. Maçın 2.5 gol altı ihtimalinin %51 olması, ev sahibinin kontrollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %25 ile ikinci en olası sonuçken, Lazio'nun kazanma ihtimali oldukça düşük (%18).",
+      "ai_metin": "Juventus, Lazio karşısında %57 ile net favori konumda. Maçın en fazla 2 gol ihtimalinin %51 olması, ev sahibinin kontrollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %25 ile ikinci en olası sonuçken, Lazio'nun kazanma ihtimali oldukça düşük (%18).",
       "gercek_sonuc": "2",
       "skor": "0-3",
       "toplam_gol": 3,
@@ -2580,7 +2580,7 @@
         "guven": 0.1396,
         "kaynak_sayisi": 12
       },
-      "ai_metin": "Lyon, bu maçta %57'lik galibiyet olasılığıyla net favori konumunda. %57 ihtimalle 2.5 gol üstü beklentisi, favori Lyon'un gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %23 ile ikinci en olası sonuçken, Nice'in galibiyet ihtimali %20 ile nispeten düşük kalıyor.",
+      "ai_metin": "Lyon, bu maçta %57'lik galibiyet olasılığıyla net favori konumunda. %57 ihtimalle 3 veya daha fazla gol beklentisi, favori Lyon'un gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %23 ile ikinci en olası sonuçken, Nice'in galibiyet ihtimali %20 ile nispeten düşük kalıyor.",
       "gercek_sonuc": "1",
       "skor": "2-1",
       "toplam_gol": 3,
@@ -2611,7 +2611,7 @@
         "guven": 0.0732,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Real Sociedad, bu maçta %44 kazanma olasılığıyla favori konumda. Maçın 2.5 gol üstü bitme ihtimali %54 olduğundan, deplasman ekibinin gollü bir galibiyet alması bekleniyor. Beraberlik olasılığı %27 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Real Sociedad, bu maçta %44 kazanma olasılığıyla favori konumda. Maçın 3 veya daha fazla golle bitme ihtimali %54 olduğundan, deplasman ekibinin gollü bir galibiyet alması bekleniyor. Beraberlik olasılığı %27 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "2-5",
       "toplam_gol": 7,
@@ -2673,7 +2673,7 @@
         "guven": 0.0888,
         "kaynak_sayisi": 15
       },
-      "ai_metin": "AC Milan, evinde Atalanta karşısında %53'lük galibiyet olasılığıyla favori konumda. Maçın 2.5 gol üstü bitme ihtimalinin %54 olması, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %25 ile ikinci en olası sonuçken, Atalanta'nın galibiyet ihtimali ise %22 ile düşük kalıyor.",
+      "ai_metin": "AC Milan, evinde Atalanta karşısında %53'lük galibiyet olasılığıyla favori konumda. Maçın 3 veya daha fazla golle bitme ihtimalinin %54 olması, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %25 ile ikinci en olası sonuçken, Atalanta'nın galibiyet ihtimali ise %22 ile düşük kalıyor.",
       "gercek_sonuc": "1",
       "skor": "3-2",
       "toplam_gol": 5,
@@ -2735,7 +2735,7 @@
         "guven": 0.359,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Deplasman ekibi Hoffenheim, %46'lık galibiyet olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%68 ile 2.5 üst) ise, Hoffenheim'ın gollü bir galibiyet alabileceği veya karşılıklı gollerin olabileceği açık bir karşılaşmaya işaret ediyor. Ev sahibi Monchengladbach'ın galibiyet ihtimali %31 ile oldukça düşük kalırken, beraberlik %23 ile maçın en az olası sonucu olarak öne çıkıyor.",
+      "ai_metin": "Deplasman ekibi Hoffenheim, %46'lık galibiyet olasılığıyla bu maçın net favorisi konumunda. Yüksek gol beklentisi (%68 ile 3 veya daha fazla gol) ise, Hoffenheim'ın gollü bir galibiyet alabileceği veya karşılıklı gollerin olabileceği açık bir karşılaşmaya işaret ediyor. Ev sahibi Monchengladbach'ın galibiyet ihtimali %31 ile oldukça düşük kalırken, beraberlik %23 ile maçın en az olası sonucu olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "1-2",
       "toplam_gol": 3,
@@ -2766,7 +2766,7 @@
         "guven": 0.0026,
         "kaynak_sayisi": 15
       },
-      "ai_metin": "AS Monaco, %46'lık galibiyet olasılığıyla bu maçın favorisi. %50 ihtimalle 2.5 gol üstü beklenen bu karşılaşmada, Monaco'nun gollü bir galibiyet alması muhtemel görünüyor. Beraberlik olasılığı %28 iken, Lorient'in galibiyeti ise %26 ile sürpriz bir sonuç olacaktır.",
+      "ai_metin": "AS Monaco, %46'lık galibiyet olasılığıyla bu maçın favorisi. %50 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, Monaco'nun gollü bir galibiyet alması muhtemel görünüyor. Beraberlik olasılığı %28 iken, Lorient'in galibiyeti ise %26 ile sürpriz bir sonuç olacaktır.",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -2797,7 +2797,7 @@
         "guven": 0.0186,
         "kaynak_sayisi": 15
       },
-      "ai_metin": "Le Havre, dengeli geçmesi beklenen bu maçta evinde çok hafif favori. %51 olasılıkla 2.5 gol üstü beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Auxerre'in galibiyet ihtimali ise %31 ile düşük değil, sürpriz bir sonuç da görülebilir.",
+      "ai_metin": "Le Havre, dengeli geçmesi beklenen bu maçta evinde çok hafif favori. %51 olasılıkla 3 veya daha fazla gol beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Auxerre'in galibiyet ihtimali ise %31 ile düşük değil, sürpriz bir sonuç da görülebilir.",
       "gercek_sonuc": "2",
       "skor": "1-3",
       "toplam_gol": 4,
@@ -2859,7 +2859,7 @@
         "guven": 0.1492,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Celta Vigo, Alavés karşısında %43 kazanma olasılığıyla hafif favori olsa da, maçın dengeli geçmesi bekleniyor. Veri kaynaklarımızın alışılmadık derecede hemfikir olması, Celta Vigo galibiyetinin ve 2.5 alt gol senaryosunun (%57) öne çıktığını gösteriyor. Bu durum, kontrollü ve az gollü bir Celta Vigo galibiyetine işaret ediyor. Beraberlik ihtimali %29 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "ai_metin": "Celta Vigo, Alavés karşısında %43 kazanma olasılığıyla hafif favori olsa da, maçın dengeli geçmesi bekleniyor. Veri kaynaklarımızın alışılmadık derecede hemfikir olması, Celta Vigo galibiyetinin ve en fazla 2 gol senaryosunun (%57) öne çıktığını gösteriyor. Bu durum, kontrollü ve az gollü bir Celta Vigo galibiyetine işaret ediyor. Beraberlik ihtimali %29 ile ikinci en olası sonuç olarak dikkat çekiyor.",
       "gercek_sonuc": "1",
       "skor": "2-1",
       "toplam_gol": 3,
@@ -2921,7 +2921,7 @@
         "guven": 0.0034,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Göztepe, bu dengeli maçta çok hafif bir favori olarak öne çıkıyor. Gollü bir karşılaşma (%50 ihtimalle 2.5 üst) beklenen bu mücadelede, 19 veri kaynağının alışılmadık fikir birliği, Göztepe galibiyetini en olası senaryo olarak işaret ediyor. Beraberlik de %28 ile göz ardı edilmemesi gereken bir ihtimal.",
+      "ai_metin": "Göztepe, bu dengeli maçta çok hafif bir favori olarak öne çıkıyor. Gollü bir karşılaşma (%50 ihtimalle 3 veya daha fazla gol) beklenen bu mücadelede, 19 veri kaynağının alışılmadık fikir birliği, Göztepe galibiyetini en olası senaryo olarak işaret ediyor. Beraberlik de %28 ile göz ardı edilmemesi gereken bir ihtimal.",
       "gercek_sonuc": "2",
       "skor": "1-2",
       "toplam_gol": 3,
@@ -2952,7 +2952,7 @@
         "guven": 0.0194,
         "kaynak_sayisi": 18
       },
-      "ai_metin": "Bournemouth, %45 kazanma olasılığıyla bu maçın favorisi konumunda. %51 ihtimalle 2.5 gol üstü beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması muhtemel görünüyor. Beraberlik ve Sunderland galibiyeti %27'şer olasılıkla daha düşük ihtimaller.",
+      "ai_metin": "Bournemouth, %45 kazanma olasılığıyla bu maçın favorisi konumunda. %51 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması muhtemel görünüyor. Beraberlik ve Sunderland galibiyeti %27'şer olasılıkla daha düşük ihtimaller.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -3014,7 +3014,7 @@
         "guven": 0.1462,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Dengeli bir maç bizi bekliyor olsa da Leeds United, %41'lik galibiyet olasılığıyla evinde çok hafif favori. Maçın 2.5 gol üstü bitme ihtimali %57 ile yüksek, bu da Leeds'in önde olduğu gollü bir senaryoya işaret ediyor. Veri kaynaklarımızın bu maçın en olası sonucu konusunda alışılmadık derecede hemfikir olması dikkat çekici. Manchester United'ın galibiyet olasılığı ise %33 ile ikinci en olası sonuç.",
+      "ai_metin": "Dengeli bir maç bizi bekliyor olsa da Leeds United, %41'lik galibiyet olasılığıyla evinde çok hafif favori. Maçın 3 veya daha fazla golle bitme ihtimali %57 ile yüksek, bu da Leeds'in önde olduğu gollü bir senaryoya işaret ediyor. Veri kaynaklarımızın bu maçın en olası sonucu konusunda alışılmadık derecede hemfikir olması dikkat çekici. Manchester United'ın galibiyet olasılığı ise %33 ile ikinci en olası sonuç.",
       "gercek_sonuc": "X",
       "skor": "1-1",
       "toplam_gol": 2,
@@ -3045,7 +3045,7 @@
         "guven": 0.1466,
         "kaynak_sayisi": 12
       },
-      "ai_metin": "Deplasman ekibi Como, %46'lık galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%57 ile 2.5 üst) ise, favori Como'nun gollü bir galibiyet alabileceğine işaret ediyor. Fiorentina'nın kazanma ihtimali %28 ile düşük kalsa da, beraberlik olasılığı %26 ile dikkat çekiyor.",
+      "ai_metin": "Deplasman ekibi Como, %46'lık galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%57 ile 3 veya daha fazla gol) ise, favori Como'nun gollü bir galibiyet alabileceğine işaret ediyor. Fiorentina'nın kazanma ihtimali %28 ile düşük kalsa da, beraberlik olasılığı %26 ile dikkat çekiyor.",
       "gercek_sonuc": "2",
       "skor": "1-3",
       "toplam_gol": 4,
@@ -3107,7 +3107,7 @@
         "guven": 0.1604,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Osasuna, %48'lik galibiyet olasılığıyla bu maçın favorisi konumunda. %58'lik 2.5 üst gol olasılığı, ev sahibinin gollü bir galibiyet alabileceği veya karşılıklı gollerin görülebileceği açık bir maça işaret ediyor. Beraberlik ve Racing Santander galibiyeti ise %26'şar olasılıkla daha düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "Osasuna, %48'lik galibiyet olasılığıyla bu maçın favorisi konumunda. %58'lik 3 veya daha fazla gol olasılığı, ev sahibinin gollü bir galibiyet alabileceği veya karşılıklı gollerin görülebileceği açık bir maça işaret ediyor. Beraberlik ve Racing Santander galibiyeti ise %26'şar olasılıkla daha düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -3138,7 +3138,7 @@
         "guven": 0.0408,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Kasımpaşa, dengeli geçmesi beklenen bu maçta evinde %38'lik galibiyet olasılığıyla çok hafif favori konumda. Maçın 2.5 alt golle (%52) sonuçlanma ihtimali, kontrollü ve az gollü bir mücadeleye işaret ediyor. Beraberlik (%28) ise Kasımpaşa galibiyetinden sonra en olası ikinci sonuç olarak öne çıkıyor.",
+      "ai_metin": "Kasımpaşa, dengeli geçmesi beklenen bu maçta evinde %38'lik galibiyet olasılığıyla çok hafif favori konumda. Maçın en fazla 2 golle (%52) sonuçlanma ihtimali, kontrollü ve az gollü bir mücadeleye işaret ediyor. Beraberlik (%28) ise Kasımpaşa galibiyetinden sonra en olası ikinci sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "4-1",
       "toplam_gol": 5,
@@ -3231,7 +3231,7 @@
         "guven": 0.0962,
         "kaynak_sayisi": 12
       },
-      "ai_metin": "AS Roma, Genoa karşısında açık ara favori konumda. Yüksek galibiyet olasılığı (%66) ve 2.5 gol üstü (%55) ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik (%21) ve Genoa galibiyeti (%14) ise daha düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "AS Roma, Genoa karşısında açık ara favori konumda. Yüksek galibiyet olasılığı (%66) ve 3 veya daha fazla gol (%55) ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik (%21) ve Genoa galibiyeti (%14) ise daha düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -3324,7 +3324,7 @@
         "guven": 0.175,
         "kaynak_sayisi": 12
       },
-      "ai_metin": "Dengeli bir maç bizi beklese de, Newcastle United galibiyete %42 ile daha yakın görünüyor. Karşılaşmanın 2.5 üst (%59) bitme ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Aston Villa'nın kazanma olasılığı %32 ile ikinci en olası sonuç.",
+      "ai_metin": "Dengeli bir maç bizi beklese de, Newcastle United galibiyete %42 ile daha yakın görünüyor. Karşılaşmanın 3 veya daha fazla gol (%59) bitme ihtimali, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Aston Villa'nın kazanma olasılığı %32 ile ikinci en olası sonuç.",
       "gercek_sonuc": "2",
       "skor": "0-1",
       "toplam_gol": 1,
@@ -3417,7 +3417,7 @@
         "guven": 0.193,
         "kaynak_sayisi": 10
       },
-      "ai_metin": "Fenerbahçe, %73 galibiyet olasılığıyla bu maçın net favorisi. Maçın %60 ihtimalle 2.5 gol üstü bitmesi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik (%17) veya Alanyaspor galibiyeti (%10) ise düşük ihtimaller olarak öne çıkıyor.",
+      "ai_metin": "Fenerbahçe, %73 galibiyet olasılığıyla bu maçın net favorisi. Maçın %60 ihtimalle 3 veya daha fazla golle bitmesi, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik (%17) veya Alanyaspor galibiyeti (%10) ise düşük ihtimaller olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "3-0",
       "toplam_gol": 3,
@@ -3448,7 +3448,7 @@
         "guven": 0.1412,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Inter Milan, deplasmanda %59 kazanma olasılığıyla maçın net favorisi. %57 ihtimalle 2.5 gol üstü beklenen bu karşılaşmada, Inter'in gollü bir galibiyet alması en olası senaryo. Beraberlik (%23) ise ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Inter Milan, deplasmanda %59 kazanma olasılığıyla maçın net favorisi. %57 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, Inter'in gollü bir galibiyet alması en olası senaryo. Beraberlik (%23) ise ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "2",
       "skor": "1-3",
       "toplam_gol": 4,
@@ -3510,7 +3510,7 @@
         "guven": 0.2986,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Villarreal, %65 galibiyet olasılığıyla bu maçın net favorisi. %65 ihtimalle 2.5 gol üstü beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Elche CF'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük görünüyor.",
+      "ai_metin": "Villarreal, %65 galibiyet olasılığıyla bu maçın net favorisi. %65 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, ev sahibinin gollü bir galibiyet alması en olası senaryo. Elche CF'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük görünüyor.",
       "gercek_sonuc": "X",
       "skor": "0-0",
       "toplam_gol": 0,
@@ -3572,7 +3572,7 @@
         "guven": 0.0906,
         "kaynak_sayisi": 17
       },
-      "ai_metin": "Fulham, %56'lık galibiyet olasılığıyla bu Premier Lig maçının net favorisi konumunda. Maçın 2.5 gol üstü ihtimali de %55 olduğundan, ev sahibinin gollü bir galibiyet alması en olası senaryo olarak öne çıkıyor. Beraberlik %24 ile ikinci en olası sonuçken, Hull City'nin galibiyet olasılığı ise oldukça düşük, sadece %20.",
+      "ai_metin": "Fulham, %56'lık galibiyet olasılığıyla bu Premier Lig maçının net favorisi konumunda. Maçın 3 veya daha fazla gol ihtimali de %55 olduğundan, ev sahibinin gollü bir galibiyet alması en olası senaryo olarak öne çıkıyor. Beraberlik %24 ile ikinci en olası sonuçken, Hull City'nin galibiyet olasılığı ise oldukça düşük, sadece %20.",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -3842,7 +3842,7 @@
         "guven": 0.12,
         "kaynak_sayisi": 15
       },
-      "ai_metin": "Napoli, bu maçta %56 olasılıkla net favori konumda. Yüksek gol beklentisiyle (%56 ihtimalle 2.5 üst), Napoli'nin gollü bir galibiyet alması en olası senaryo. Beraberlik ihtimali %24 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metin": "Napoli, bu maçta %56 olasılıkla net favori konumda. Yüksek gol beklentisiyle (%56 ihtimalle 3 veya daha fazla gol), Napoli'nin gollü bir galibiyet alması en olası senaryo. Beraberlik ihtimali %24 ile ikinci en olası sonuç olarak öne çıkıyor.",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -3873,7 +3873,7 @@
         "guven": 0.0672,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Atlético Madrid, %56'lık galibiyet olasılığıyla bu maçın net favorisi. Maçın %53 ihtimalle 2.5 gol üstü bitmesi, favorinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik olasılığı %25 iken, Espanyol'un galibiyet ihtimali %20 ile daha düşük bir senaryo sunuyor.",
+      "ai_metin": "Atlético Madrid, %56'lık galibiyet olasılığıyla bu maçın net favorisi. Maçın %53 ihtimalle 3 veya daha fazla golle bitmesi, favorinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik olasılığı %25 iken, Espanyol'un galibiyet ihtimali %20 ile daha düşük bir senaryo sunuyor.",
       "gercek_sonuc": "2",
       "skor": "0-1",
       "toplam_gol": 1,
@@ -3935,7 +3935,7 @@
         "guven": 0.0658,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Erzurum BB, bu maçta net favori olarak öne çıkıyor. Ev sahibinin galibiyeti ve maçın 2.5 gol altı bitme olasılığı, kontrollü ve az gollü bir Erzurum BB galibiyetine işaret ediyor. Eyüpspor'un kazanma ihtimali ise oldukça düşük, sadece %17.",
+      "ai_metin": "Erzurum BB, bu maçta net favori olarak öne çıkıyor. Ev sahibinin galibiyeti ve maçın en fazla 2 golle bitme olasılığı, kontrollü ve az gollü bir Erzurum BB galibiyetine işaret ediyor. Eyüpspor'un kazanma ihtimali ise oldukça düşük, sadece %17.",
       "gercek_sonuc": "1",
       "skor": "2-0",
       "toplam_gol": 2,
@@ -4028,7 +4028,7 @@
         "guven": 0.1188,
         "kaynak_sayisi": 14
       },
-      "ai_metin": "Dengeli görünen bu karşılaşmada Toulouse'un galibiyet olasılığı %41 ile hafif önde. Maçın 2.5 gol üstü bitme ihtimali %56 olduğundan, deplasman ekibinin gollü bir galibiyet alması olası. Beraberlik ihtimali %27 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "ai_metin": "Dengeli görünen bu karşılaşmada Toulouse'un galibiyet olasılığı %41 ile hafif önde. Maçın 3 veya daha fazla golle bitme ihtimali %56 olduğundan, deplasman ekibinin gollü bir galibiyet alması olası. Beraberlik ihtimali %27 ile ikinci en olası sonuç olarak dikkat çekiyor.",
       "gercek_sonuc": "2",
       "skor": "0-3",
       "toplam_gol": 3,
@@ -4059,7 +4059,7 @@
         "guven": 0.4048,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Eintracht Frankfurt, %49 kazanma olasılığıyla bu maçın favorisi konumunda. %70 ihtimalle 2.5 gol üstü beklenen bu karşılaşma, ev sahibinin gollü bir galibiyet alabileceği senaryoyu işaret ediyor. Beraberlik %23 ile önemli bir olasılık taşırken, Köln galibiyeti %28 ile sürpriz sayılmaz.",
+      "ai_metin": "Eintracht Frankfurt, %49 kazanma olasılığıyla bu maçın favorisi konumunda. %70 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, ev sahibinin gollü bir galibiyet alabileceği senaryoyu işaret ediyor. Beraberlik %23 ile önemli bir olasılık taşırken, Köln galibiyeti %28 ile sürpriz sayılmaz.",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -4090,7 +4090,7 @@
         "guven": 0.0846,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Çorum FK, %46'lık galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%54 ile 2.5 üst) favori ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %26, Çaykur Rizespor galibiyeti ise %28 ihtimalle ikinci en olası sonuç.",
+      "ai_metin": "Çorum FK, %46'lık galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%54 ile 3 veya daha fazla gol) favori ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Beraberlik %26, Çaykur Rizespor galibiyeti ise %28 ihtimalle ikinci en olası sonuç.",
       "gercek_sonuc": "1",
       "skor": "2-1",
       "toplam_gol": 3,
@@ -4121,7 +4121,7 @@
         "guven": 0.02,
         "kaynak_sayisi": 16
       },
-      "ai_metin": "Shakhtar Donetsk ve AEK Athens arasında oynanacak maçta, AEK Athens'in kazanma olasılığı %36.1 ile en yüksek ihtimallere sahipken, Shakhtar Donetsk'in kazanma olasılığı %35.8'dir. Beraberlik olasılığı %28.1 ile en düşük seviyededir. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %51.0 olarak belirlenmiştir, bu da gol açısından zengin bir karşılaşma beklenebileceğini göstermektedir.",
+      "ai_metin": "Shakhtar Donetsk ve AEK Athens arasında oynanacak maçta, AEK Athens'in kazanma olasılığı %36.1 ile en yüksek ihtimallere sahipken, Shakhtar Donetsk'in kazanma olasılığı %35.8'dir. Beraberlik olasılığı %28.1 ile en düşük seviyededir. Ayrıca, maçta 3 veya daha fazla gol olma olasılığı %51.0 olarak belirlenmiştir, bu da gol açısından zengin bir karşılaşma beklenebileceğini göstermektedir.",
       "gercek_sonuc": "1",
       "skor": "3-1",
       "toplam_gol": 4,
@@ -4152,7 +4152,7 @@
         "guven": 0.3334,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "AS Roma'nın maçı kazanma olasılığı %26.2 iken, Real Madrid'in kazanma olasılığı %50.0 ile daha yüksek. Beraberlik olasılığı ise %23.8 olarak belirlenmiş. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %66.7 ile oldukça yüksek bir ihtimale işaret ediyor.",
+      "ai_metin": "AS Roma'nın maçı kazanma olasılığı %26.2 iken, Real Madrid'in kazanma olasılığı %50.0 ile daha yüksek. Beraberlik olasılığı ise %23.8 olarak belirlenmiş. Ayrıca, maçta 3 veya daha fazla gol olma olasılığı %66.7 ile oldukça yüksek bir ihtimale işaret ediyor.",
       "gercek_sonuc": "2",
       "skor": "3-4",
       "toplam_gol": 7,
@@ -4183,7 +4183,7 @@
         "guven": 0.1466,
         "kaynak_sayisi": 11
       },
-      "ai_metin": "Aston Villa'nın maçı kazanma olasılığı %57.8 ile belirgin bir üstünlük gösterirken, Fenerbahçe'nin kazanma olasılığı %18.9 ile oldukça düşük kalıyor. Beraberlik olasılığı %23.3 ile orta seviyede yer alıyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %57.3 ile yüksek bir ihtimal taşıyor, bu da gol zenginliği beklenebileceğini gösteriyor.",
+      "ai_metin": "Aston Villa'nın maçı kazanma olasılığı %57.8 ile belirgin bir üstünlük gösterirken, Fenerbahçe'nin kazanma olasılığı %18.9 ile oldukça düşük kalıyor. Beraberlik olasılığı %23.3 ile orta seviyede yer alıyor. Ayrıca, maçta 3 veya daha fazla gol olma olasılığı %57.3 ile yüksek bir ihtimal taşıyor, bu da gol zenginliği beklenebileceğini gösteriyor.",
       "gercek_sonuc": "1",
       "skor": "6-0",
       "toplam_gol": 6,
@@ -4214,7 +4214,7 @@
         "guven": 0.3622,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Bodø/Glimt'in kazanma olasılığı %30.0 ile düşük kalırken, Borussia Dortmund'un kazanma olasılığı %46.5 ile belirgin şekilde daha yüksek. Beraberlik olasılığı ise %23.5 olarak, her iki takımın da galibiyet şanslarının gerisinde. Maçta 2.5 golden fazla gol olma olasılığı %68.1 ile oldukça yüksek, bu da maçta bol gollü bir karşılaşma beklentisini artırıyor.",
+      "ai_metin": "Bodø/Glimt'in kazanma olasılığı %30.0 ile düşük kalırken, Borussia Dortmund'un kazanma olasılığı %46.5 ile belirgin şekilde daha yüksek. Beraberlik olasılığı ise %23.5 olarak, her iki takımın da galibiyet şanslarının gerisinde. Maçta 3 veya daha fazla gol olma olasılığı %68.1 ile oldukça yüksek, bu da maçta bol gollü bir karşılaşma beklentisini artırıyor.",
       "gercek_sonuc": "1",
       "skor": "1-0",
       "toplam_gol": 1,
@@ -4245,7 +4245,7 @@
         "guven": 0.3192,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Manchester City'nin maçı kazanma olasılığı %44.2 iken, Paris Saint Germain'in kazanma olasılığı %32.2 olarak belirlenmiştir. Beraberlik olasılığı %23.6 ile en düşük seviyede kalırken, maçta 2.5 golden fazla gol olma olasılığı %66.0 ile oldukça yüksek bir ihtimal sunmaktadır. Bu durum, maçta gollü bir karşılaşma beklenebileceğini göstermektedir.",
+      "ai_metin": "Manchester City'nin maçı kazanma olasılığı %44.2 iken, Paris Saint Germain'in kazanma olasılığı %32.2 olarak belirlenmiştir. Beraberlik olasılığı %23.6 ile en düşük seviyede kalırken, maçta 3 veya daha fazla gol olma olasılığı %66.0 ile oldukça yüksek bir ihtimal sunmaktadır. Bu durum, maçta gollü bir karşılaşma beklenebileceğini göstermektedir.",
       "gercek_sonuc": "2",
       "skor": "2-4",
       "toplam_gol": 6,
@@ -4276,7 +4276,7 @@
         "guven": 0.1178,
         "kaynak_sayisi": 13
       },
-      "ai_metin": "Real Betis'in galibiyet olasılığı %46.2 ile en yüksek iken, Porto'nun kazanma olasılığı %28.1'dir, bu da ev sahibi takımın bir adım önde olduğunu gösteriyor. Beraberlik olasılığı %25.7 ile her iki takımın da maçı kazanma şansının yanı sıra eşitlik ihtimalinin de dikkate değer olduğunu ortaya koyuyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %55.9 ile, her iki takımın da gol atma potansiyelinin yüksek olduğunu işaret ediyor.",
+      "ai_metin": "Real Betis'in galibiyet olasılığı %46.2 ile en yüksek iken, Porto'nun kazanma olasılığı %28.1'dir, bu da ev sahibi takımın bir adım önde olduğunu gösteriyor. Beraberlik olasılığı %25.7 ile her iki takımın da maçı kazanma şansının yanı sıra eşitlik ihtimalinin de dikkate değer olduğunu ortaya koyuyor. Ayrıca, maçta 3 veya daha fazla gol olma olasılığı %55.9 ile, her iki takımın da gol atma potansiyelinin yüksek olduğunu işaret ediyor.",
       "gercek_sonuc": "1",
       "skor": "3-2",
       "toplam_gol": 5,
@@ -4307,7 +4307,7 @@
         "guven": 0.4166,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "ŠK Slovan Bratislava'nın maçı kazanma olasılığı %10.3 ile oldukça düşükken, VfB Stuttgart'ın galibiyet olasılığı %74.1 ile belirgin bir üstünlük gösteriyor. Beraberlik olasılığı ise %15.6 seviyesinde kalıyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %70.8 ile yüksek bir ihtimal taşıyor, bu da gol zenginliği beklenebileceğini gösteriyor.",
+      "ai_metin": "ŠK Slovan Bratislava'nın maçı kazanma olasılığı %10.3 ile oldukça düşükken, VfB Stuttgart'ın galibiyet olasılığı %74.1 ile belirgin bir üstünlük gösteriyor. Beraberlik olasılığı ise %15.6 seviyesinde kalıyor. Ayrıca, maçta 3 veya daha fazla gol olma olasılığı %70.8 ile yüksek bir ihtimal taşıyor, bu da gol zenginliği beklenebileceğini gösteriyor.",
       "gercek_sonuc": "2",
       "skor": "0-3",
       "toplam_gol": 3,
@@ -4338,7 +4338,7 @@
         "guven": 0.3334,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "Feyenoord'un maçı kazanma olasılığı %27.2 iken, Como'nun kazanma olasılığı %49.6 ile belirgin şekilde daha yüksektir. Beraberlik olasılığı %23.2 ile her iki takımın da galibiyet şansının altında kalmaktadır. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %66.7 ile yüksek bir gol beklentisi olduğunu göstermektedir.",
+      "ai_metin": "Feyenoord'un maçı kazanma olasılığı %27.2 iken, Como'nun kazanma olasılığı %49.6 ile belirgin şekilde daha yüksektir. Beraberlik olasılığı %23.2 ile her iki takımın da galibiyet şansının altında kalmaktadır. Ayrıca, maçta 3 veya daha fazla gol olma olasılığı %66.7 ile yüksek bir gol beklentisi olduğunu göstermektedir.",
       "gercek_sonuc": "1",
       "skor": "3-2",
       "toplam_gol": 5,
@@ -4369,7 +4369,7 @@
         "guven": 0.3904,
         "kaynak_sayisi": 3
       },
-      "ai_metin": "LASK ile Liverpool arasındaki maçta Liverpool'un kazanma olasılığı %74.5 ile oldukça yüksekken, LASK'ın kazanma olasılığı %10.1'de kalıyor. Beraberlik olasılığı %15.4 ile düşük bir ihtimal olarak öne çıkıyor. Ayrıca, maçta 2.5 golden fazla gol olma olasılığı %69.5 ile yüksek bir ihtimale işaret ediyor.",
+      "ai_metin": "LASK ile Liverpool arasındaki maçta Liverpool'un kazanma olasılığı %74.5 ile oldukça yüksekken, LASK'ın kazanma olasılığı %10.1'de kalıyor. Beraberlik olasılığı %15.4 ile düşük bir ihtimal olarak öne çıkıyor. Ayrıca, maçta 3 veya daha fazla gol olma olasılığı %69.5 ile yüksek bir ihtimale işaret ediyor.",
       "gercek_sonuc": "2",
       "skor": "3-6",
       "toplam_gol": 9,
