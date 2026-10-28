@@ -1,7 +1,100 @@
 {
-  "guncelleme_utc": "2026-10-27T16:35:03Z",
-  "mac_sayisi": 156,
+  "guncelleme_utc": "2026-10-28T05:37:21Z",
+  "mac_sayisi": 159,
   "maclar": [
+    {
+      "mac_id": "7eecf109ae6a5f87441a79b0e4111982",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "AS Roma",
+      "deplasman": "Cagliari",
+      "baslama_utc": "2026-10-27T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.703,
+        "X": 0.1891,
+        "2": 0.1079
+      },
+      "tahmin": "1",
+      "guven": 0.5139,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5689,
+          "alt": 0.4311
+        },
+        "tahmin": "ust",
+        "guven": 0.1378,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "AS Roma, Cagliari karşısında net favori konumda. Yüksek gol beklentisiyle birlikte, ev sahibinin gollü bir galibiyet alması en olası senaryo gibi duruyor. Son 5 maçında 12 gol atan Roma'nın iç sahadaki üretkenliği bu beklentiyi destekliyor. Ancak, 21 veri kaynağındaki belirgin görüş farkı, bu maçta normalden yüksek bir belirsizliğe işaret ediyor. Beraberlik (%19) veya Cagliari galibiyeti (%11) ise düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "4-2",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "7d989a0a7bae47eb957731e97c5bd9c1",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Torino",
+      "deplasman": "Como",
+      "baslama_utc": "2026-10-27T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.2096,
+        "X": 0.2507,
+        "2": 0.5397
+      },
+      "tahmin": "2",
+      "guven": 0.289,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5652,
+          "alt": 0.4348
+        },
+        "tahmin": "ust",
+        "guven": 0.1304,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Bu Serie A mücadelesinde Como, %54 galibiyet olasılığıyla deplasmanda favori konumda. Maçın 3 veya daha fazla golle (%57) sonuçlanma ihtimali yüksek, bu da Como'nun gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Torino'nun son üç maçındaki gollü galibiyet serisi, bu maçta da gol potansiyelini destekliyor. Beraberlik %25 ile ikinci en olası sonuçken, Torino'nun galibiyeti %21 ile daha düşük bir ihtimal taşıyor.",
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c7445242bf16a8f37afef7863af45a78",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Sassuolo",
+      "deplasman": "Lazio",
+      "baslama_utc": "2026-10-27T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.2889,
+        "X": 0.2666,
+        "2": 0.4445
+      },
+      "tahmin": "2",
+      "guven": 0.1556,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5635,
+          "alt": 0.4365
+        },
+        "tahmin": "ust",
+        "guven": 0.127,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Lazio, %44 kazanma olasılığıyla Sassuolo deplasmanında favori konumda. Maçın %56 ihtimalle 3 veya daha fazla golle bitmesi, Lazio'nun gollü bir galibiyet alabileceğine işaret ediyor. Son 3 maçında 8 gol atan Lazio'nun bu performansı, genel ortalamamızın üzerinde bir gollü maç beklentisi yaratıyor. Beraberlik (%27) veya Sassuolo galibiyeti (%29) ise daha düşük ihtimaller.",
+      "gercek_sonuc": "2",
+      "skor": "2-6",
+      "toplam_gol": 8,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "85e464708d03287f24590e1478aeca31",
       "lig": "soccer_spain_la_liga",
