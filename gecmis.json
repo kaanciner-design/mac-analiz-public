@@ -1,7 +1,162 @@
 {
-  "guncelleme_utc": "2026-10-28T05:37:21Z",
-  "mac_sayisi": 159,
+  "guncelleme_utc": "2026-10-29T05:37:21Z",
+  "mac_sayisi": 164,
   "maclar": [
+    {
+      "mac_id": "34848497b90b1392f6a767fc183d3ac1",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Genoa",
+      "deplasman": "Juventus",
+      "baslama_utc": "2026-10-28T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.1786,
+        "X": 0.2547,
+        "2": 0.5667
+      },
+      "tahmin": "2",
+      "guven": 0.312,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4594,
+          "alt": 0.5406
+        },
+        "tahmin": "alt",
+        "guven": 0.0812,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Juventus, deplasmanda %57 kazanma olasılığıyla maçın net favorisi. Maçın en fazla 2 gol ihtimali %54 ile öne çıkarken, kontrollü ve az gollü bir Juventus galibiyeti senaryosu daha olası görünüyor. Kendi verilerimize göre bu güven seviyesindeki tahminlerimiz %80 isabetle beklentimizin üzerinde performans gösterdi. Beraberlik (%25) veya Genoa galibiyeti (%18) ise daha düşük olasılıklı sonuçlar.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "abec89862e33762414fcb8b2232aba08",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Monza",
+      "deplasman": "Napoli",
+      "baslama_utc": "2026-10-28T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.2193,
+        "X": 0.2407,
+        "2": 0.54
+      },
+      "tahmin": "2",
+      "guven": 0.2993,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5519,
+          "alt": 0.4481
+        },
+        "tahmin": "ust",
+        "guven": 0.1038,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Napoli, %54'lük galibiyet olasılığıyla bu maçın net favorisi. Maçın %55 ihtimalle 3 veya daha fazla golle bitmesi, deplasman ekibinin gollü bir galibiyet alabileceğine işaret ediyor; Napoli'nin son 5 maçının 4'ü 3+ golle sonuçlandı. Beraberlik (%24) ve Monza galibiyeti (%22) ise oldukça düşük ihtimaller.",
+      "gercek_sonuc": "2",
+      "skor": "1-4",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3d0b0fbec194258530882514714c74be",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "AC Milan",
+      "deplasman": "Bologna",
+      "baslama_utc": "2026-10-28T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.589,
+        "X": 0.2377,
+        "2": 0.1733
+      },
+      "tahmin": "1",
+      "guven": 0.3513,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5221,
+          "alt": 0.4779
+        },
+        "tahmin": "ust",
+        "guven": 0.0442,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "AC Milan, Bologna karşısında açık favori konumunda. Maçın 3 veya daha fazla golle Milan galibiyetiyle sonuçlanması en olası senaryo olarak öne çıkıyor. Geçmiş tahminlerimizde bu güven seviyesindeki %80'lik isabet oranımız, bu maç için de olumlu bir beklenti oluşturuyor. Bologna'nın galibiyet ihtimali ise oldukça düşük, %17 civarında.",
+      "gercek_sonuc": "2",
+      "skor": "2-4",
+      "toplam_gol": 6,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "33320ad169692216a91dec030e7ef6a6",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Venezia",
+      "deplasman": "Inter Milan",
+      "baslama_utc": "2026-10-28T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.1238,
+        "X": 0.1688,
+        "2": 0.7074
+      },
+      "tahmin": "2",
+      "guven": 0.5386,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7098,
+          "alt": 0.2902
+        },
+        "tahmin": "ust",
+        "guven": 0.4196,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Inter Milan, deplasmanda %71 kazanma olasılığıyla maçın net favorisi. Maçın %71 ihtimalle 3 veya daha fazla golle tamamlanması, favorinin gollü bir galibiyet alabileceğine işaret ediyor; Inter'in son 5 maçının 4'ünde bu senaryo gerçekleşti. Geçmiş tahminlerimizde bu güven seviyesinde %80 isabet sağladık. Beraberlik (%17) veya Venezia galibiyeti (%12) düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "482c18a8081afdfa310324fa8f37e95a",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Parma",
+      "deplasman": "Udinese",
+      "baslama_utc": "2026-10-28T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.3195,
+        "X": 0.3024,
+        "2": 0.3781
+      },
+      "tahmin": "2",
+      "guven": 0.0586,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.437,
+          "alt": 0.563
+        },
+        "tahmin": "alt",
+        "guven": 0.126,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Bu dengeli maçta Udinese'nin çok hafif bir favori olduğunu görüyoruz. İki takımın da son üç maçını kaybetmesi ve bol gol yemesi, 3 veya daha fazla gol olasılığının %44 olmasını destekliyor. Geçmiş tahminlerimiz bu güven seviyesinde %51 isabetle beklentinin üzerinde performans gösterdi. Beraberlik ihtimali de %30 ile oldukça yüksek bir seçenek olarak öne çıkıyor.",
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "7eecf109ae6a5f87441a79b0e4111982",
       "lig": "soccer_italy_serie_a",
