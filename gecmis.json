@@ -1,7 +1,69 @@
 {
-  "guncelleme_utc": "2026-10-29T05:37:21Z",
-  "mac_sayisi": 164,
+  "guncelleme_utc": "2026-10-30T05:37:21Z",
+  "mac_sayisi": 166,
   "maclar": [
+    {
+      "mac_id": "da159a6b84dbb548b4d7b94c722caac5",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Fiorentina",
+      "deplasman": "Atalanta BC",
+      "baslama_utc": "2026-10-29T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.4316,
+        "X": 0.2608,
+        "2": 0.3077
+      },
+      "tahmin": "1",
+      "guven": 0.1239,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5808,
+          "alt": 0.4192
+        },
+        "tahmin": "ust",
+        "guven": 0.1616,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Fiorentina'nın evinde hafif favori olduğu dengeli bir maç bizi bekliyor. Yüksek gol beklentisiyle birlikte, ev sahibinin galibiyeti (%43) veya karşılıklı gollerin olacağı açık bir maç senaryosu öne çıkıyor. Bu maçtaki ev sahibi galibiyet olasılığı, Serie A ortalamasının (%40) biraz üzerinde. Beraberlik (%26) de göz ardı edilmemesi gereken bir ihtimal.",
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "667cf69986b200753742c90cb9c5126c",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Frosinone",
+      "deplasman": "Lecce",
+      "baslama_utc": "2026-10-29T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.5653,
+        "X": 0.2304,
+        "2": 0.2043
+      },
+      "tahmin": "1",
+      "guven": 0.3349,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.65,
+          "alt": 0.35
+        },
+        "tahmin": "ust",
+        "guven": 0.3,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Frosinone, %57 kazanma olasılığıyla net favori olarak öne çıkıyor ve bu durum Serie A ortalamasının oldukça üzerinde. Maçın %65 ihtimalle 3 veya daha fazla golle geçmesi beklenirken, Frosinone'nin son 3 maçının tamamında yüksek gol sayısı dikkat çekiyor. Geçmiş tahminlerimizin bu güven seviyesinde %80 isabet oranıyla başarılı olduğunu düşünürsek, favorinin gollü bir galibiyet alması muhtemel. Beraberlik %23, Lecce galibiyeti ise %20 gibi düşük bir ihtimal taşıyor.",
+      "gercek_sonuc": "1",
+      "skor": "5-1",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
     {
       "mac_id": "34848497b90b1392f6a767fc183d3ac1",
       "lig": "soccer_italy_serie_a",
