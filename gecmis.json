@@ -1,7 +1,193 @@
 {
-  "guncelleme_utc": "2026-10-30T05:37:21Z",
-  "mac_sayisi": 166,
+  "guncelleme_utc": "2026-10-31T05:37:21Z",
+  "mac_sayisi": 172,
   "maclar": [
+    {
+      "mac_id": "7932d9a82dcdb164a3e4ef5e03694ee3",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Lille",
+      "deplasman": "RC Lens",
+      "baslama_utc": "2026-10-30T20:05:00Z",
+      "olasiliklar": {
+        "1": 0.3827,
+        "X": 0.2686,
+        "2": 0.3487
+      },
+      "tahmin": "1",
+      "guven": 0.034,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5621,
+          "alt": 0.4379
+        },
+        "tahmin": "ust",
+        "guven": 0.1242,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Lille, %38 kazanma olasılığıyla bu dengeli derbide çok hafif favori. Maçın %56 ihtimalle gollü geçmesi beklenirken, Lille'in son dört maçtaki kötü formu ve yediği goller dikkat çekiyor. RC Lens'in de son maçlarında gol yollarında aktif olması, iki tarafın da gol bulabileceği açık bir senaryoyu düşündürüyor. Beraberlik (%27) veya RC Lens galibiyeti (%35) de sürpriz sayılmayacak sonuçlar arasında.",
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "00b03cb40c27ed23e2ecb18f062a5122",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Villarreal",
+      "deplasman": "Espanyol",
+      "baslama_utc": "2026-10-30T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.6668,
+        "X": 0.1905,
+        "2": 0.1426
+      },
+      "tahmin": "1",
+      "guven": 0.4763,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6308,
+          "alt": 0.3692
+        },
+        "tahmin": "ust",
+        "guven": 0.2616,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Villarreal, Espanyol karşısında %67 galibiyet olasılığıyla net favori konumda. Maçın %63 ihtimalle 3 veya daha fazla golle sonuçlanması, favori ekibin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizde bu güven seviyesinde %76 isabet yakaladık. Beraberlik %19, Espanyol galibiyeti ise sadece %14 ihtimalle düşük bir sürpriz olarak görünüyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b275fe870ec88a9f0054c9220beb2673",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Elversberg",
+      "deplasman": "FSV Mainz 05",
+      "baslama_utc": "2026-10-30T19:30:00Z",
+      "olasiliklar": {
+        "1": 0.305,
+        "X": 0.2466,
+        "2": 0.4484
+      },
+      "tahmin": "2",
+      "guven": 0.1434,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6473,
+          "alt": 0.3527
+        },
+        "tahmin": "ust",
+        "guven": 0.2946,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bu dengeli maçta FSV Mainz 05'in %45 ile hafif favori olduğunu görüyoruz. Yüksek gol beklentisi (%65 ile 3 veya daha fazla gol) deplasman ekibinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizde bu güven seviyesindeki isabet oranımız beklenen %41'in üzerinde, bu da bu tahmine olan güvenimizi artırıyor. Beraberlik %25 ile ikinci en olası sonuçken, Elversberg'in galibiyet ihtimali %30.",
+      "gercek_sonuc": "1",
+      "skor": "4-1",
+      "toplam_gol": 5,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9a9f6c78276f74f15f42b013b033aa5d",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Le Havre",
+      "deplasman": "Paris Saint Germain",
+      "baslama_utc": "2026-10-30T18:00:00Z",
+      "olasiliklar": {
+        "1": 0.0905,
+        "X": 0.1383,
+        "2": 0.7712
+      },
+      "tahmin": "2",
+      "guven": 0.6329,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7147,
+          "alt": 0.2853
+        },
+        "tahmin": "ust",
+        "guven": 0.4294,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Paris Saint Germain, Le Havre karşısında %77 kazanma olasılığıyla net favori. Deplasman ekibinin gollü bir galibiyet alması bekleniyor, zira maçın %71 ihtimalle 3 veya daha fazla golle sonuçlanacağı öngörülüyor. PSG'nin son dört maçında üç kez 3 veya daha fazla gol olması, bu senaryoyu destekliyor. Beraberlik (%14) veya Le Havre galibiyeti (%9) ise oldukça düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "1-5",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "a547720e6b4661d6319c4f11dbdf8e1f",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Nice",
+      "deplasman": "Rennes",
+      "baslama_utc": "2026-10-30T18:00:00Z",
+      "olasiliklar": {
+        "1": 0.3482,
+        "X": 0.2547,
+        "2": 0.3971
+      },
+      "tahmin": "2",
+      "guven": 0.0489,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6072,
+          "alt": 0.3928
+        },
+        "tahmin": "ust",
+        "guven": 0.2144,
+        "kaynak_sayisi": 5
+      },
+      "ai_metin": "Bu dengeli mücadelede Rennes %40 ile galibiyete daha yakın görünse de, Nice'in %35'lik kazanma olasılığıyla sürpriz yapma potansiyeli yüksek. %61 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, açık ve gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimizdeki %52'lik isabet oranı, bu tür maçlarda beklentinin üzerinde performans gösterdiğimizi ortaya koyuyor. Beraberlik ise %25 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "gercek_sonuc": "1",
+      "skor": "5-2",
+      "toplam_gol": 7,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "feb03ec355aa5c94e0d7ae612a59b813",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Torku Konyaspor",
+      "deplasman": "Galatasaray",
+      "baslama_utc": "2026-10-30T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.1911,
+        "X": 0.2266,
+        "2": 0.5823
+      },
+      "tahmin": "2",
+      "guven": 0.3557,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5797,
+          "alt": 0.4203
+        },
+        "tahmin": "ust",
+        "guven": 0.1594,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Galatasaray, deplasmanda %58 kazanma olasılığıyla maçın net favorisi. Maçın gollü geçme ihtimali de yüksek (%58), bu da favorinin gollü bir galibiyet alabileceğine işaret ediyor. Veri kaynaklarındaki belirgin görüş farkı, bu maçtaki belirsizliğin normalden yüksek olduğunu gösteriyor. Beraberlik %23 ile ikinci en olası sonuçken, Konyaspor'un galibiyeti düşük bir ihtimal (%19).",
+      "gercek_sonuc": "2",
+      "skor": "0-4",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "da159a6b84dbb548b4d7b94c722caac5",
       "lig": "soccer_italy_serie_a",
