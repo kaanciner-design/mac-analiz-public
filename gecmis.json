@@ -1,7 +1,193 @@
 {
-  "guncelleme_utc": "2026-11-02T05:37:21Z",
-  "mac_sayisi": 217,
+  "guncelleme_utc": "2026-11-03T05:37:22Z",
+  "mac_sayisi": 223,
   "maclar": [
+    {
+      "mac_id": "0f552d9c6990c69474f50ff2fb54e9a3",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Newcastle United",
+      "deplasman": "Everton",
+      "baslama_utc": "2026-11-02T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4057,
+        "X": 0.2686,
+        "2": 0.3256
+      },
+      "tahmin": "1",
+      "guven": 0.0801,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5561,
+          "alt": 0.4439
+        },
+        "tahmin": "ust",
+        "guven": 0.1122,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Newcastle United, Premier Lig ortalamasının biraz üzerinde bir galibiyet olasılığıyla bu dengeli maçta çok hafif favori konumunda. %56 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, ev sahibinin gollü bir galibiyetine işaret ediyor. Veri kaynaklarının alışılmadık ölçüde hemfikir olması dikkat çekici olsa da, geçmiş tahminlerimizde bu güven seviyesinde isabet oranımız beklentinin altında kaldı. Beraberlik %27 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "7a2cd2744fdf15ea675423a6c23df46b",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Deportivo La Coruña",
+      "deplasman": "CA Osasuna",
+      "baslama_utc": "2026-11-02T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.439,
+        "X": 0.2911,
+        "2": 0.2699
+      },
+      "tahmin": "1",
+      "guven": 0.1479,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4327,
+          "alt": 0.5673
+        },
+        "tahmin": "alt",
+        "guven": 0.1346,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Deportivo La Coruña, evinde Osasuna'ya karşı çok hafif favori konumunda. Maçın en olası senaryosu, ev sahibinin kontrollü bir galibiyetle en fazla 2 golle sahadan ayrılması. La Liga ortalamalarına göre bu maçta daha az gol bekliyoruz. Beraberlik olasılığı %29 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "2e488800d615a94e5377c195810303c0",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Atalanta BC",
+      "deplasman": "Parma",
+      "baslama_utc": "2026-11-02T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.6349,
+        "X": 0.2101,
+        "2": 0.155
+      },
+      "tahmin": "1",
+      "guven": 0.4248,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5782,
+          "alt": 0.4218
+        },
+        "tahmin": "ust",
+        "guven": 0.1564,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Atalanta, %63 kazanma olasılığıyla Parma karşısında net favori konumunda. Ev sahibinin gollü bir galibiyet alması (%58 ihtimalle 3 veya daha fazla gol) en olası senaryo gibi duruyor; bu durum, Serie A ortalamasının üzerinde bir gollü maç beklentisine işaret ediyor. Geçmiş tahminlerimizin %73 isabet oranıyla bu güven seviyesindeki maçlarda başarılı olduğumuzu belirtmek gerekir. Beraberlik (%21) ise ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "5118966f484adf525196d196a61bc5d6",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Lorient",
+      "deplasman": "Brest",
+      "baslama_utc": "2026-11-02T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.3871,
+        "X": 0.2918,
+        "2": 0.321
+      },
+      "tahmin": "1",
+      "guven": 0.0661,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4617,
+          "alt": 0.5383
+        },
+        "tahmin": "alt",
+        "guven": 0.0766,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Lorient, dengeli bir maçta evinde çok hafif favori konumunda (%39). Veriler, kontrollü ve az gollü bir mücadeleye işaret ediyor; en fazla 2 gol olasılığı %54. Geçmiş tahminlerimiz bu güven seviyesinde %49 isabet sağlarken, bu maçta beklenen isabet oranı %41. Beraberlik %29 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "66608b64d462d1d3deabe573c8456d86",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Sassuolo",
+      "deplasman": "Fiorentina",
+      "baslama_utc": "2026-11-02T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.3345,
+        "X": 0.2592,
+        "2": 0.4064
+      },
+      "tahmin": "2",
+      "guven": 0.0719,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6037,
+          "alt": 0.3963
+        },
+        "tahmin": "ust",
+        "guven": 0.2074,
+        "kaynak_sayisi": 8
+      },
+      "ai_metin": "Fiorentina deplasmanda hafif favori olsa da, dengeli bir maç bekleniyor. Her iki takımın da son maçlarındaki yüksek gol ortalamaları ve genel Serie A ortalamasının üzerindeki %60'lık 3 veya daha fazla gol olasılığı, açık ve gollü bir karşılaşmaya işaret ediyor. Geçmiş tahminlerimizin isabet oranı göz önüne alındığında, bu maçın da benzer bir dinamikte geçmesi muhtemel. Beraberlik %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "2-4",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "10a70d197a090f08183739878151539d",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Genclerbirligi SK",
+      "deplasman": "Alanyaspor",
+      "baslama_utc": "2026-11-02T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.3564,
+        "X": 0.2899,
+        "2": 0.3537
+      },
+      "tahmin": "1",
+      "guven": 0.0027,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4589,
+          "alt": 0.5411
+        },
+        "tahmin": "alt",
+        "guven": 0.0822,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Genel tabloya göre dengeli görünen maçta ev sahibi Gençlerbirliği'nin çok hafif bir galibiyet olasılığı bulunuyor (%36). İki takımın da son üç maçtaki kötü performansı ve az gol atması, en fazla 2 gol olasılığının (%54) daha yüksek olduğunu gösteriyor. Geçmiş tahminlerimizle kıyaslandığında, bu maçın ortalamadan daha az gollü geçmesi muhtemel. Beraberlik ve Alanyaspor galibiyeti ise benzer, düşük olasılıklar taşıyor.",
+      "gercek_sonuc": "1",
+      "skor": "5-0",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
     {
       "mac_id": "3757bcd765c7da1538cdf2785e784038",
       "lig": "soccer_spain_la_liga",
