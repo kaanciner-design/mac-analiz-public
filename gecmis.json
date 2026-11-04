@@ -1,7 +1,286 @@
 {
-  "guncelleme_utc": "2026-11-03T05:37:22Z",
-  "mac_sayisi": 223,
+  "guncelleme_utc": "2026-11-04T05:37:24Z",
+  "mac_sayisi": 232,
   "maclar": [
+    {
+      "mac_id": "bc0b6614c9714816038d5a0ff8963144",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Manchester United",
+      "deplasman": "AS Roma",
+      "baslama_utc": "2026-11-03T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4102,
+        "X": 0.2413,
+        "2": 0.3485
+      },
+      "tahmin": "1",
+      "guven": 0.0617,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6235,
+          "alt": 0.3765
+        },
+        "tahmin": "ust",
+        "guven": 0.247,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Manchester United, ev sahibi olmasına rağmen AS Roma karşısında sadece hafif bir favori (%41). AS Roma'nın son dönemdeki yüksek skorlu galibiyetleri ve Manchester United'ın savunma zaafiyeti, %62 olasılıkla 3 veya daha fazla gol beklenen açık bir maça işaret ediyor. Bu maç, Şampiyonlar Ligi ortalamasından daha dengeli bir tablo sunarken, beraberlik ihtimali %24 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "bd680c6ad693dae859030f86e1be2769",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Barcelona",
+      "deplasman": "Aston Villa",
+      "baslama_utc": "2026-11-03T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.7666,
+        "X": 0.1342,
+        "2": 0.0992
+      },
+      "tahmin": "1",
+      "guven": 0.6324,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7911,
+          "alt": 0.2089
+        },
+        "tahmin": "ust",
+        "guven": 0.5822,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Barcelona, %77 galibiyet olasılığıyla bu Şampiyonlar Ligi maçının net favorisi. Ev sahibinin gollü bir galibiyet alması bekleniyor; zira %79 ihtimalle 3 veya daha fazla gol atılacak. Bu, Şampiyonlar Ligi ortalamasının oldukça üzerinde bir ev sahibi galibiyeti beklentisi. Aston Villa'nın galibiyet ihtimali ise sadece %10 ile oldukça düşük.",
+      "gercek_sonuc": "1",
+      "skor": "3-0",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "61b42fd619617a7a2a3770c2444e8a40",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Atlético Madrid",
+      "deplasman": "Bayern Munich",
+      "baslama_utc": "2026-11-03T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.3627,
+        "X": 0.2465,
+        "2": 0.3909
+      },
+      "tahmin": "2",
+      "guven": 0.0282,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6614,
+          "alt": 0.3386
+        },
+        "tahmin": "ust",
+        "guven": 0.3228,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bayern Münih, deplasmanda çok hafif bir favori olarak öne çıkarken, maçın dengeli geçmesi bekleniyor. Yüksek gol beklentisi (%66 ihtimalle 3 veya daha fazla gol) Bayern'in son maçlarındaki gollü performansıyla uyumlu. Şampiyonlar Ligi ortalamasının aksine, ev sahibi Atlético'nun kazanma olasılığı bu maçta daha düşük. Beraberlik de %25 ile önemli bir ihtimal olarak dikkat çekiyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "1a5a84045050d0d7baf1301909d3b465",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Bodø/Glimt",
+      "deplasman": "Lille",
+      "baslama_utc": "2026-11-03T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.5165,
+        "X": 0.2352,
+        "2": 0.2483
+      },
+      "tahmin": "1",
+      "guven": 0.2682,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6378,
+          "alt": 0.3622
+        },
+        "tahmin": "ust",
+        "guven": 0.2756,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bodø/Glimt, %52 kazanma olasılığıyla bu Şampiyonlar Ligi maçında net favori. Yüksek gol beklentisi (%64 ihtimalle 3 veya daha fazla gol) ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Lille'in son 5 maçtaki formsuzluğu ve yediği 9 gol, bu senaryoyu destekliyor. Beraberlik %24, Lille galibiyeti ise %25 gibi düşük bir ihtimal taşıyor.",
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f6f3cf01c2b20b7f746b5a06097a0569",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Feyenoord",
+      "deplasman": "Inter Milan",
+      "baslama_utc": "2026-11-03T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.2449,
+        "X": 0.2255,
+        "2": 0.5296
+      },
+      "tahmin": "2",
+      "guven": 0.2847,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6764,
+          "alt": 0.3236
+        },
+        "tahmin": "ust",
+        "guven": 0.3528,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Inter Milan, %53 kazanma olasılığıyla bu Şampiyonlar Ligi maçının net favorisi. Deplasman ekibinin son 5 maçının 3'ü gollü geçtiği ve toplam gol için %68'lik yüksek bir olasılık olduğu göz önüne alındığında, Inter'in gollü bir galibiyet alması muhtemel. Bu maç, %33 olan Şampiyonlar Ligi deplasman galibiyeti ortalamasının oldukça üzerinde bir favorilik taşıyor. Beraberlik (%23) ise ikinci en olası sonuç olarak dikkat çekiyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "adf608a0e9be02eb1d8b0a6f464a12b1",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "LASK",
+      "deplasman": "ŠK Slovan Bratislava",
+      "baslama_utc": "2026-11-03T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.6703,
+        "X": 0.1861,
+        "2": 0.1435
+      },
+      "tahmin": "1",
+      "guven": 0.4842,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6811,
+          "alt": 0.3189
+        },
+        "tahmin": "ust",
+        "guven": 0.3622,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "LASK, Şampiyonlar Ligi ortalamasının oldukça üzerinde, %67'lik galibiyet olasılığıyla net favori konumunda. Maçın %68 ihtimalle 3 veya daha fazla golle tamamlanması, ev sahibinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizin %74 isabet oranı, bu güven seviyesindeki maçlarda beklentiyi karşılıyor. Beraberlik ve deplasman galibiyeti ise oldukça düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "4-0",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a341241606cb5b1b59e425d00be64883",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Villarreal",
+      "deplasman": "Paris Saint Germain",
+      "baslama_utc": "2026-11-03T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.1969,
+        "X": 0.2057,
+        "2": 0.5975
+      },
+      "tahmin": "2",
+      "guven": 0.3918,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7083,
+          "alt": 0.2917
+        },
+        "tahmin": "ust",
+        "guven": 0.4166,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Paris Saint Germain, Şampiyonlar Ligi ortalamasının oldukça üzerinde bir deplasman favorisi olarak öne çıkıyor. Yüksek gol beklentisiyle birlikte, deplasman ekibinin gollü bir galibiyet alması en olası senaryo. Villarreal'in son 5 maçının 3'ü, PSG'nin ise 4'ü 3 veya daha fazla golle sonuçlandı. Beraberlik (%21) ve Villarreal galibiyeti (%20) düşük ihtimaller olarak görünüyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-6",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9b8076d3ffa027df6f6cb3189de46706",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Galatasaray",
+      "deplasman": "VfB Stuttgart",
+      "baslama_utc": "2026-11-03T17:45:00Z",
+      "olasiliklar": {
+        "1": 0.4373,
+        "X": 0.2344,
+        "2": 0.3282
+      },
+      "tahmin": "1",
+      "guven": 0.1091,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6751,
+          "alt": 0.3249
+        },
+        "tahmin": "ust",
+        "guven": 0.3502,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bu dengeli Şampiyonlar Ligi maçında Galatasaray evinde çok hafif önde görünüyor. Yüksek gol beklentisi (%68) ve Galatasaray'ın son maçlarındaki gol ortalaması, gollü bir ev sahibi galibiyetine işaret ediyor. VfB Stuttgart'ın deplasman performansı da bu senaryoyu desteklerken, beraberlik %23 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "55e0f74a61f7d72defa7ea0c83532ea5",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Shakhtar Donetsk",
+      "deplasman": "Sporting Lisbon",
+      "baslama_utc": "2026-11-03T17:45:00Z",
+      "olasiliklar": {
+        "1": 0.2636,
+        "X": 0.2518,
+        "2": 0.4846
+      },
+      "tahmin": "2",
+      "guven": 0.221,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5638,
+          "alt": 0.4362
+        },
+        "tahmin": "ust",
+        "guven": 0.1276,
+        "kaynak_sayisi": 10
+      },
+      "ai_metin": "Şampiyonlar Ligi ortalamasının aksine, bu maçta Sporting Lizbon %48 ile deplasmanda favori görünüyor. Yüksek gol beklentisi (%56 ihtimalle 3 veya daha fazla gol) favori ekibin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizin %50 isabet oranıyla bu güven seviyesindeki maçlarda başarılı olduğumuzu belirtelim. Beraberlik %25 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": false
+    },
     {
       "mac_id": "0f552d9c6990c69474f50ff2fb54e9a3",
       "lig": "soccer_epl",
