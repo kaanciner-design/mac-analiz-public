@@ -1,7 +1,286 @@
 {
-  "guncelleme_utc": "2026-11-04T05:37:24Z",
-  "mac_sayisi": 232,
+  "guncelleme_utc": "2026-11-05T05:37:20Z",
+  "mac_sayisi": 241,
   "maclar": [
+    {
+      "mac_id": "a5910ae3b314876faea7f5c03b8aeaad",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Slavia Praha",
+      "deplasman": "Arsenal",
+      "baslama_utc": "2026-11-04T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.0945,
+        "X": 0.1553,
+        "2": 0.7502
+      },
+      "tahmin": "2",
+      "guven": 0.5949,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6235,
+          "alt": 0.3765
+        },
+        "tahmin": "ust",
+        "guven": 0.247,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Arsenal, deplasmanda net favori olarak öne çıkarken, Şampiyonlar Ligi ortalamasının oldukça üzerinde bir galibiyet olasılığına sahip. Maçın gollü geçme ihtimali yüksek; %62 ile 3 veya daha fazla gol bekleniyor. Arsenal'in son 5 maçlık yenilmezlik serisi ve gol performansı bu senaryoyu destekliyor. Beraberlik %16 ile düşük bir ihtimal olarak görünüyor.",
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "6d386ed81fabf67aa19fbd442c0d8c60",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Borussia Dortmund",
+      "deplasman": "Real Betis",
+      "baslama_utc": "2026-11-04T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.5512,
+        "X": 0.2312,
+        "2": 0.2175
+      },
+      "tahmin": "1",
+      "guven": 0.32,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6266,
+          "alt": 0.3734
+        },
+        "tahmin": "ust",
+        "guven": 0.2532,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Borussia Dortmund, Şampiyonlar Ligi ortalamasının üzerinde bir favori olarak Real Betis karşısına çıkıyor. Maçın gollü geçme ihtimali yüksek (%63), bu da ev sahibinin galibiyetinin bol golle gelebileceğine işaret ediyor. Real Betis'in son maçlarındaki gol yeme ortalaması, bu senaryoyu destekliyor. Beraberlik %23 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "449d718632202f0e5997d2e4b7273483",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "PSV Eindhoven",
+      "deplasman": "Club Brugge",
+      "baslama_utc": "2026-11-04T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4653,
+        "X": 0.2225,
+        "2": 0.3123
+      },
+      "tahmin": "1",
+      "guven": 0.153,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7034,
+          "alt": 0.2966
+        },
+        "tahmin": "ust",
+        "guven": 0.4068,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "PSV Eindhoven, Şampiyonlar Ligi ortalamasına paralel bir favori olarak öne çıkıyor. Maçın yüksek skorlu geçme olasılığı (%70) göz önüne alındığında, ev sahibinin gollü bir galibiyet alması en muhtemel senaryo. Geçmiş tahminlerimizle uyumlu bu maçta, beraberlik ihtimali ise %22 ile daha düşük bir seçenek olarak duruyor.",
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "013cecbf40f5b4530342632a80f35b00",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "RC Lens",
+      "deplasman": "Como",
+      "baslama_utc": "2026-11-04T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.3174,
+        "X": 0.2441,
+        "2": 0.4385
+      },
+      "tahmin": "2",
+      "guven": 0.1211,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6167,
+          "alt": 0.3833
+        },
+        "tahmin": "ust",
+        "guven": 0.2334,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Como, deplasmanda Lens karşısında hafif favori görünüyor. Yüksek gol beklentisiyle birlikte Como'nun gollü bir galibiyet alması en olası senaryo. Bu maç, Şampiyonlar Ligi ortalamasına göre deplasman galibiyeti için daha yüksek bir olasılık sunuyor. Beraberlik ise %24 ile ikinci en olası sonuç olarak dikkat çekiyor.",
+      "gercek_sonuc": "2",
+      "skor": "1-9",
+      "toplam_gol": 10,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "df7d2d81b9e2f3f11c6aeddaee6b7085",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "RB Leipzig",
+      "deplasman": "Manchester City",
+      "baslama_utc": "2026-11-04T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.1836,
+        "X": 0.1996,
+        "2": 0.6168
+      },
+      "tahmin": "2",
+      "guven": 0.4172,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7039,
+          "alt": 0.2961
+        },
+        "tahmin": "ust",
+        "guven": 0.4078,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Manchester City, %62 galibiyet olasılığıyla bu deplasman maçının net favorisi. Maçın %70 ihtimalle 3 veya daha fazla golle geçmesi, City'nin gollü bir galibiyet alabileceğine işaret ediyor. Şampiyonlar Ligi ortalamasının oldukça üzerinde bir deplasman galibiyeti olasılığına sahip bu maçta, beraberlik %20 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "2-3",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "ba82ee37f64a66a30d85f8b90082ec2f",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Porto",
+      "deplasman": "Napoli",
+      "baslama_utc": "2026-11-04T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4844,
+        "X": 0.2572,
+        "2": 0.2584
+      },
+      "tahmin": "1",
+      "guven": 0.226,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5516,
+          "alt": 0.4484
+        },
+        "tahmin": "ust",
+        "guven": 0.1032,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Porto, %48 kazanma olasılığıyla bu maçın favorisi olarak öne çıkıyor. Maçın %55 ihtimalle 3 veya daha fazla golle geçmesi beklenirken, Napoli'nin deplasmanda son 4 maçının 3'ünü kaybetmesi ev sahibi avantajını destekliyor. Şampiyonlar Ligi ortalamasına göre ev sahibi kazanma olasılığı bu maçta biraz daha yüksek. Beraberlik ve Napoli galibiyeti ise %26'lık eşit bir ihtimalle ikinci en olası sonuçlar olarak görünüyor.",
+      "gercek_sonuc": "1",
+      "skor": "4-1",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "6277e639c064e641265fcb98a0e200b9",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Viking FK",
+      "deplasman": "Sabah FK",
+      "baslama_utc": "2026-11-04T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.6539,
+        "X": 0.1924,
+        "2": 0.1537
+      },
+      "tahmin": "1",
+      "guven": 0.4615,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6751,
+          "alt": 0.3249
+        },
+        "tahmin": "ust",
+        "guven": 0.3502,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Viking FK, bu Şampiyonlar Ligi maçında net favori olarak öne çıkıyor. Yüksek gol beklentisiyle birlikte ev sahibinin gollü bir galibiyet alması en olası senaryo. Bu maç, Şampiyonlar Ligi ortalamasının üzerinde bir ev sahibi galibiyeti olasılığına sahip. Sabah FK'nın galibiyet ihtimali ise sadece %15 ile oldukça düşük.",
+      "gercek_sonuc": "1",
+      "skor": "4-1",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f43ef699c987e112e115f7035114854e",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "AEK Athens",
+      "deplasman": "Real Madrid",
+      "baslama_utc": "2026-11-04T17:45:00Z",
+      "olasiliklar": {
+        "1": 0.0956,
+        "X": 0.1416,
+        "2": 0.7628
+      },
+      "tahmin": "2",
+      "guven": 0.6212,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7199,
+          "alt": 0.2801
+        },
+        "tahmin": "ust",
+        "guven": 0.4398,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Real Madrid'in açık ara favori olduğu bu maçta, deplasman ekibinin gollü bir galibiyet alması bekleniyor. Real Madrid'in son 5 maçının tamamında 3 veya daha fazla gol olması, bu senaryoyu destekliyor. Şampiyonlar Ligi ortalamasının üzerinde bir gol beklentisiyle, maçın hareketli geçmesi olası. Beraberlik (%14) veya AEK galibiyeti (%10) ise oldukça düşük ihtimaller olarak öne çıkıyor.",
+      "gercek_sonuc": "2",
+      "skor": "2-3",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "e901dbcdd6e2255fb24d84032b9d437a",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Fenerbahce",
+      "deplasman": "Liverpool",
+      "baslama_utc": "2026-11-04T17:45:00Z",
+      "olasiliklar": {
+        "1": 0.1743,
+        "X": 0.2055,
+        "2": 0.6202
+      },
+      "tahmin": "2",
+      "guven": 0.4147,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6475,
+          "alt": 0.3525
+        },
+        "tahmin": "ust",
+        "guven": 0.295,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Liverpool, Şampiyonlar Ligi ortalamasının oldukça üzerinde bir deplasman favorisi olarak sahaya çıkıyor. Gollü bir maç beklentisi yüksek; Liverpool'un son 5 maçının 3'ü, Fenerbahçe'nin ise 5'i 3 veya daha fazla golle sonuçlandı. Fenerbahçe'nin son dönemdeki savunma zaafiyeti ve Liverpool'un golcü performansı, deplasman ekibinin gollü bir galibiyetini işaret ediyor. Beraberlik olasılığı %21 ile düşük bir ihtimal olarak öne çıkıyor.",
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "bc0b6614c9714816038d5a0ff8963144",
       "lig": "soccer_uefa_champs_league",
