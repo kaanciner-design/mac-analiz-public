@@ -1,7 +1,131 @@
 {
-  "guncelleme_utc": "2026-11-06T19:30:44Z",
-  "mac_sayisi": 243,
+  "guncelleme_utc": "2026-11-06T20:30:45Z",
+  "mac_sayisi": 247,
   "maclar": [
+    {
+      "mac_id": "586bec023ee8ac2f0645d963bd2c9d25",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Everton",
+      "deplasman": "Coventry City",
+      "baslama_utc": "2026-11-06T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.5581,
+        "X": 0.2401,
+        "2": 0.2018
+      },
+      "tahmin": "1",
+      "guven": 0.318,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5539,
+          "alt": 0.4461
+        },
+        "tahmin": "ust",
+        "guven": 0.1078,
+        "kaynak_sayisi": 16
+      },
+      "ai_metin": "Everton bu maçta net favori olarak öne çıkıyor. Yüksek gol beklentisiyle birlikte ev sahibinin gollü bir galibiyet alması en olası senaryo. Coventry City'nin son maçlarındaki gol performansı, bu maçın Premier Lig ortalamasından daha gollü geçebileceğini düşündürüyor. Beraberlik ihtimali ise %24 ile düşük bir seçenek olarak duruyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "9dd0014685fd62d9b2890d7c33a8c9ab",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Sevilla",
+      "deplasman": "Alavés",
+      "baslama_utc": "2026-11-06T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4891,
+        "X": 0.2796,
+        "2": 0.2313
+      },
+      "tahmin": "1",
+      "guven": 0.2095,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4289,
+          "alt": 0.5711
+        },
+        "tahmin": "alt",
+        "guven": 0.1422,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Sevilla, %49 kazanma olasılığıyla Alavés karşısında favori durumda. Her iki takımın son maçlarındaki yüksek gol ortalamasına rağmen, bu maç için en fazla 2 gol olasılığı %57 ile daha yüksek görünüyor. La Liga ortalamasının altında bir ev sahibi galibiyeti beklenen bu karşılaşmada, beraberlik %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "fa069801a5c9b49143447a1a1d173fd1",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Venezia",
+      "deplasman": "Udinese",
+      "baslama_utc": "2026-11-06T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.4267,
+        "X": 0.2706,
+        "2": 0.3027
+      },
+      "tahmin": "1",
+      "guven": 0.124,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5406,
+          "alt": 0.4594
+        },
+        "tahmin": "ust",
+        "guven": 0.0812,
+        "kaynak_sayisi": 16
+      },
+      "ai_metin": "Venezia, %43 kazanma olasılığıyla Udinese karşısında çok hafif favori görünüyor. Maçın gollü geçme ihtimali %54 ile ortalamanın biraz üzerinde; bu durum ev sahibinin gollü bir galibiyet alabileceği senaryosunu güçlendiriyor. Udinese'nin son 5 maçının 3'ünde 3 veya daha fazla gol olması, bu beklentiyi destekliyor. Beraberlik (%27) veya Udinese galibiyeti (%30) de düşük ihtimaller değil.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "5e7d141f719835de18877ed95bedcb32",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Toulouse",
+      "deplasman": "Strasbourg",
+      "baslama_utc": "2026-11-06T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.4629,
+        "X": 0.2527,
+        "2": 0.2844
+      },
+      "tahmin": "1",
+      "guven": 0.1785,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.598,
+          "alt": 0.402
+        },
+        "tahmin": "ust",
+        "guven": 0.196,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Toulouse, %46 kazanma olasılığıyla bu maçın favorisi konumunda. %60 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, ev sahibinin gollü bir galibiyetine işaret ediyor. Strasbourg'un son 3 maçının tamamında 3 veya daha fazla gol olması, bu beklentiyi güçlendiriyor. Beraberlik (%25) ve Strasbourg galibiyeti (%28) düşük olasılıklar olarak öne çıkıyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "295076c39e49863cb54db085ac3cd340",
       "lig": "soccer_germany_bundesliga",
