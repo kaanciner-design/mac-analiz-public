@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-06T20:30:45Z",
+  "guncelleme_utc": "2026-11-06T21:30:42Z",
   "mac_sayisi": 51,
   "maclar": [
     {
@@ -8036,49 +8036,6 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-06",
-        "maclar": [
-          {
-            "mac_id": "586bec023ee8ac2f0645d963bd2c9d25",
-            "lig": "soccer_epl",
-            "ev_sahibi": "Everton",
-            "deplasman": "Coventry City",
-            "baslama_utc": "2026-11-06T20:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.5581,
-            "guven": 0.318,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "9dd0014685fd62d9b2890d7c33a8c9ab",
-            "lig": "soccer_spain_la_liga",
-            "ev_sahibi": "Sevilla",
-            "deplasman": "Alavés",
-            "baslama_utc": "2026-11-06T20:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.4891,
-            "guven": 0.2095,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "5e7d141f719835de18877ed95bedcb32",
-            "lig": "soccer_france_ligue_one",
-            "ev_sahibi": "Toulouse",
-            "deplasman": "Strasbourg",
-            "baslama_utc": "2026-11-06T19:45:00Z",
-            "tahmin": "1",
-            "olasilik": 0.4629,
-            "guven": 0.1785,
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "tutan": 0,
-        "sonuclanan": 0
-      },
-      {
         "tarih": "2026-11-07",
         "maclar": [
           {
@@ -8122,7 +8079,49 @@
         "sonuclanan": 0
       }
     ],
-    "dun": null,
+    "dun": {
+      "tarih": "2026-11-06",
+      "maclar": [
+        {
+          "mac_id": "586bec023ee8ac2f0645d963bd2c9d25",
+          "lig": "soccer_epl",
+          "ev_sahibi": "Everton",
+          "deplasman": "Coventry City",
+          "baslama_utc": "2026-11-06T20:00:00Z",
+          "tahmin": "1",
+          "olasilik": 0.5581,
+          "guven": 0.318,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "9dd0014685fd62d9b2890d7c33a8c9ab",
+          "lig": "soccer_spain_la_liga",
+          "ev_sahibi": "Sevilla",
+          "deplasman": "Alavés",
+          "baslama_utc": "2026-11-06T20:00:00Z",
+          "tahmin": "1",
+          "olasilik": 0.4891,
+          "guven": 0.2095,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "5e7d141f719835de18877ed95bedcb32",
+          "lig": "soccer_france_ligue_one",
+          "ev_sahibi": "Toulouse",
+          "deplasman": "Strasbourg",
+          "baslama_utc": "2026-11-06T19:45:00Z",
+          "tahmin": "1",
+          "olasilik": 0.4629,
+          "guven": 0.1785,
+          "skor": null,
+          "tuttu": null
+        }
+      ],
+      "tutan": 0,
+      "sonuclanan": 0
+    },
     "genel": {
       "gun": 0,
       "tam_isabet_gun": 0,
