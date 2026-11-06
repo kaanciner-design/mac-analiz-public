@@ -1,7 +1,38 @@
 {
-  "guncelleme_utc": "2026-11-06T17:30:46Z",
-  "mac_sayisi": 242,
+  "guncelleme_utc": "2026-11-06T19:30:44Z",
+  "mac_sayisi": 243,
   "maclar": [
+    {
+      "mac_id": "295076c39e49863cb54db085ac3cd340",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Hamburger SV",
+      "deplasman": "Borussia Monchengladbach",
+      "baslama_utc": "2026-11-06T19:30:00Z",
+      "olasiliklar": {
+        "1": 0.3943,
+        "X": 0.2602,
+        "2": 0.3455
+      },
+      "tahmin": "1",
+      "guven": 0.0488,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5897,
+          "alt": 0.4103
+        },
+        "tahmin": "ust",
+        "guven": 0.1794,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Ev sahibi Hamburger SV'nin çok hafif favori olduğu dengeli bir maç bekliyoruz. Yüksek gol olasılığı (%59) ile Hamburger'in gollü bir galibiyet alması muhtemel görünüyor. Geçmiş tahminlerimizde beklenen isabet oranının üzerinde performans gösterdiğimiz bu tip maçlarda, Mönchengladbach'ın galibiyeti de %35 ile küçümsenmemeli. Beraberlik ise %26 ile daha düşük bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "51baab3ec98943f452377895491bfd6a",
       "lig": "soccer_turkey_super_league",
@@ -26,11 +57,11 @@
         "kaynak_sayisi": 14
       },
       "ai_metin": "Dengeli görünen maçta ev sahibi Gazişehir Gaziantep'in çok hafif bir galibiyet olasılığı bulunuyor (%37). Kasimpasa SK'nın son 3 maçtaki hücum performansı ve iki takımın da gollü maçlara yatkınlığı, 3 veya daha fazla gol olma ihtimalini %50'ye çıkarıyor. Gazişehir'in son 4 maçtaki kötü serisi bu tahmini zorlarken, Kasimpasa'nın yükselen form grafiği dikkat çekiyor. Beraberlik %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
