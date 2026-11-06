@@ -1,7 +1,38 @@
 {
-  "guncelleme_utc": "2026-11-06T14:30:46Z",
-  "mac_sayisi": 241,
+  "guncelleme_utc": "2026-11-06T17:30:46Z",
+  "mac_sayisi": 242,
   "maclar": [
+    {
+      "mac_id": "51baab3ec98943f452377895491bfd6a",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Gazişehir Gaziantep",
+      "deplasman": "Kasimpasa SK",
+      "baslama_utc": "2026-11-06T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.3718,
+        "X": 0.2823,
+        "2": 0.3459
+      },
+      "tahmin": "1",
+      "guven": 0.0259,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4967,
+          "alt": 0.5033
+        },
+        "tahmin": "alt",
+        "guven": 0.0066,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Dengeli görünen maçta ev sahibi Gazişehir Gaziantep'in çok hafif bir galibiyet olasılığı bulunuyor (%37). Kasimpasa SK'nın son 3 maçtaki hücum performansı ve iki takımın da gollü maçlara yatkınlığı, 3 veya daha fazla gol olma ihtimalini %50'ye çıkarıyor. Gazişehir'in son 4 maçtaki kötü serisi bu tahmini zorlarken, Kasimpasa'nın yükselen form grafiği dikkat çekiyor. Beraberlik %28 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "a5910ae3b314876faea7f5c03b8aeaad",
       "lig": "soccer_uefa_champs_league",
