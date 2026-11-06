@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-05T23:47:05Z",
+  "guncelleme_utc": "2026-11-06T05:37:19Z",
   "mac_sayisi": 29,
   "maclar": [
     {
@@ -959,12 +959,25 @@
       "ev_sahibi": "Eyüpspor",
       "deplasman": "Kocaelispor",
       "baslama_utc": "2026-11-07T10:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2381,
+        "X": 0.2803,
+        "2": 0.4816
+      },
+      "tahmin": "2",
+      "guven": 0.2013,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4451,
+          "alt": 0.5549
+        },
+        "tahmin": "alt",
+        "guven": 0.1098,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Kocaelispor %48 ile açık ara olmasa da net favori. Eyüpspor'un galibiyet ihtimali %24 seviyesinde kalıyor. Gol tarafında en fazla 2 gol (%55) hafif önde, yani kontrollü ve az gollü bir deplasman galibiyeti öne çıkıyor. Eyüpspor son 4 maçında hiç puan alamadı, 12 gol yedi ve yalnızca 1 gol attı; bu tablo Kocaelispor lehine okumayı destekliyor. Bu güven seviyesindeki tahminlerimiz %60 isabet yakalamıştı. En olası ikinci sonuç %28 ile beraberlik; düşük sayılmaz, ciddiye alınmalı.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1109,12 +1122,25 @@
       "ev_sahibi": "Leeds United",
       "deplasman": "Tottenham Hotspur",
       "baslama_utc": "2026-11-07T12:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.348,
+        "X": 0.2831,
+        "2": 0.3689
+      },
+      "tahmin": "2",
+      "guven": 0.0209,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4903,
+          "alt": 0.5097
+        },
+        "tahmin": "alt",
+        "guven": 0.0194,
+        "kaynak_sayisi": 18
+      },
+      "ai_metin": "Maç dengeli görünüyor; Tottenham %37 ile çok hafif önde, Leeds ise %35 ile hemen arkasında. Toplam gol dağılımı da neredeyse yarı yarıya (%49 ile 3 veya daha fazla gol), yani iki tarafın da kontrolü ele alabileceği, net bir gol akışı sunmayan bir senaryo öne çıkıyor. Premier Lig ortalamasında 3 veya daha fazla gol %57 olduğundan, bu maç lig normalinin biraz altında gollü bir beklentiyle geliyor. Tottenham son 4 maçta 8 gol atıp 2 yerken Leeds'in galibiyetsiz kalması deplasman lehine bir işaret; yine de en olası ikinci sonuç olan Leeds galibiyeti %35 ile hiç de düşük bir ihtimal değil.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1259,12 +1285,25 @@
       "ev_sahibi": "Samsunspor",
       "deplasman": "Torku Konyaspor",
       "baslama_utc": "2026-11-07T13:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4112,
+        "X": 0.2823,
+        "2": 0.3065
+      },
+      "tahmin": "1",
+      "guven": 0.1047,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4861,
+          "alt": 0.5139
+        },
+        "tahmin": "alt",
+        "guven": 0.0278,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Samsunspor %41 ile çok hafif önde, ancak maç dengeli görünüyor. Gol olasılıkları da neredeyse yarı yarıya bölünmüş (3 veya daha fazla gol %49, en fazla 2 gol %51), yani iki senaryo da açık. Samsunspor son 4 maçını kaybetti ve 14 gol yedi, bu dört maçın hepsinde de 3 veya daha fazla gol vardı; bu seri, Konyaspor'un son 4 maçında yalnızca birinde gol sayısının 3'e ulaşmasıyla keskin bir fark oluşturuyor. Konyaspor'un galibiyeti %31 ile beraberliğin (%28) biraz önünde, yani en olası ikinci sonuç ve bu ihtimal hiç de küçümsenecek düzeyde değil.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1409,12 +1448,25 @@
       "ev_sahibi": "Málaga",
       "deplasman": "Real Racing Club de Santander",
       "baslama_utc": "2026-11-07T13:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3974,
+        "X": 0.269,
+        "2": 0.3336
+      },
+      "tahmin": "1",
+      "guven": 0.0638,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5767,
+          "alt": 0.4233
+        },
+        "tahmin": "ust",
+        "guven": 0.1534,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Málaga %40 ile çok hafif önde; ancak maç dengeli görünüyor ve Santander de %33 ile hemen arkasında. 3 veya daha fazla gol olasılığı %58 ile ligin %55 ortalamasının biraz üzerinde, bu da iki tarafın da gol bulabileceği, görece açık bir senaryoya işaret ediyor. Santander'in son 4 maçının 3'ünde, Málaga'nın son 3 maçının 2'sinde en az 3 gol çıkması ve iki takımın da 8'er gol yemesi bu açık tabloyu destekliyor. Bunun yanında arşivimizde La Liga'da ev sahibi galibiyeti ortalama %45 iken Málaga'nın bunun altında kalması dikkat çekiyor. Santander'in kazanması %33 ile hiç de küçümsenmeyecek bir ikinci ihtimal.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1550,12 +1602,25 @@
       "ev_sahibi": "Cagliari",
       "deplasman": "Frosinone",
       "baslama_utc": "2026-11-07T14:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3495,
+        "X": 0.2603,
+        "2": 0.3902
+      },
+      "tahmin": "2",
+      "guven": 0.0407,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6057,
+          "alt": 0.3943
+        },
+        "tahmin": "ust",
+        "guven": 0.2114,
+        "kaynak_sayisi": 7
+      },
+      "ai_metin": "Cagliari-Frosinone dengeli görünüyor; Frosinone %39 ile çok hafif önde. %61'lik 3 veya daha fazla gol olasılığı, Serie A ortalaması olan %55'in üzerinde ve iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Frosinone son 5 maçta 15 gol atarken Cagliari 13 gol yedi; 23 veri kaynağının alışılmadık uyumu ve bu güven seviyesindeki 12 maçta %75 isabetimiz de dikkat çekiyor. Cagliari'nin galibiyeti %35 ile hâlâ güçlü bir ikinci ihtimal.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1718,12 +1783,25 @@
       "ev_sahibi": "Torino",
       "deplasman": "Lecce",
       "baslama_utc": "2026-11-07T14:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.526,
+        "X": 0.2597,
+        "2": 0.2143
+      },
+      "tahmin": "1",
+      "guven": 0.2663,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.495,
+          "alt": 0.505
+        },
+        "tahmin": "alt",
+        "guven": 0.01,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Torino %53 ile net favori, ancak Serie A ortalamasında ev sahibi galibiyeti %42 olduğundan bu maçta ev sahibi lehine belirgin bir fark var. Toplam gol dengede (3 veya daha fazla gol %50, en fazla 2 gol %50); iki takımın da son 5 maçının dördünde 3 veya daha fazla gol görülmesi, Torino'nun gollü bir galibiyetine de açık bir maça da işaret edebilir. Lecce'nin son 5 maçta yediği 11 gol, bu senaryoyu destekliyor. En olası ikinci sonuç olan beraberlik %26 ile makul bir ihtimal taşıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1886,12 +1964,25 @@
       "ev_sahibi": "RB Leipzig",
       "deplasman": "Augsburg",
       "baslama_utc": "2026-11-07T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6504,
+        "X": 0.1799,
+        "2": 0.1698
+      },
+      "tahmin": "1",
+      "guven": 0.4705,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7547,
+          "alt": 0.2453
+        },
+        "tahmin": "ust",
+        "guven": 0.5094,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "RB Leipzig bu maça net favori olarak giriyor; galibiyet olasılığı %65 ile rakibinin epey önünde. 3 veya daha fazla gol olasılığının %75 olması, favorinin gollü bir galibiyetine işaret ediyor. Leipzig'in son 5 maçının 4'ünde en az 3 gol görülmesi bu beklentiyle uyumlu, ancak 3 mağlubiyet ve 13 yenilen gol savunmada açık verdiğini gösteriyor. Augsburg'un kazanma ihtimali %17 ile düşük ama göz ardı edilecek kadar küçük değil.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2036,12 +2127,25 @@
       "ev_sahibi": "FSV Mainz 05",
       "deplasman": "Bayern Munich",
       "baslama_utc": "2026-11-07T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1322,
+        "X": 0.1505,
+        "2": 0.7173
+      },
+      "tahmin": "2",
+      "guven": 0.5668,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.779,
+          "alt": 0.221
+        },
+        "tahmin": "ust",
+        "guven": 0.558,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bundesliga'da Bayern Munich, %72 ile deplasmanda net favori görünüyor. 3 veya daha fazla gol ihtimali %78 olduğundan, senaryo favorinin gollü bir galibiyetine işaret ediyor. Bayern'in son 5 maçının 4'ünde en az 3 gol çıkması ve 15 gol atması bu beklentiyle örtüşüyor; Mainz'in son 3 maçta 7 gol yemesi de açık bir oyuna işaret ediyor. En olası ikinci sonuç olan beraberlik %15 ile düşük bir ihtimal değil ama zayıf kalıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2186,12 +2290,25 @@
       "ev_sahibi": "Borussia Dortmund",
       "deplasman": "Elversberg",
       "baslama_utc": "2026-11-07T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7316,
+        "X": 0.1567,
+        "2": 0.1117
+      },
+      "tahmin": "1",
+      "guven": 0.5749,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7048,
+          "alt": 0.2952
+        },
+        "tahmin": "ust",
+        "guven": 0.4096,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Dortmund bu maça net favori olarak giriyor; galibiyet ihtimali %73 ile Elversberg'in epey önünde. %70'lik \"3 veya daha fazla gol\" ihtimaliyle birlikte bakınca, senaryo favorinin gollü galibiyetine işaret ediyor. Dortmund'un son 5 maçının 3'ünde, Elversberg'in son 3 maçının hepsinde en az 3 gol çıkması bu beklentiyi destekliyor. Elversberg'in kazanma ihtimali %11 ile düşük, beraberlik ise %16 ile ikinci en olası sonuç.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2336,12 +2453,25 @@
       "ev_sahibi": "SC Paderborn",
       "deplasman": "Eintracht Frankfurt",
       "baslama_utc": "2026-11-07T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3129,
+        "X": 0.2469,
+        "2": 0.4402
+      },
+      "tahmin": "2",
+      "guven": 0.1273,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6544,
+          "alt": 0.3456
+        },
+        "tahmin": "ust",
+        "guven": 0.3088,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Maç dengeli görünüyor; Eintracht Frankfurt %44 ile deplasmanda çok hafif önde. %65'lik \"3 veya daha fazla gol\" ihtimali, iki tarafın da fırsat bulabileceği, gollü ve açık bir senaryoya işaret ediyor. Ancak iki takımın son 3 maçında yalnızca birer kez 3 veya daha fazla gol çıkması, bu beklentinin yakın dönem eğilimlerinden biraz ayrıştığını gösteriyor. En olası ikinci sonuç Paderborn galibiyeti, %31 ile hiç de küçümsenecek bir ihtimal değil.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2468,12 +2598,25 @@
       "ev_sahibi": "Arsenal",
       "deplasman": "Hull City",
       "baslama_utc": "2026-11-07T15:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.8232,
+        "X": 0.1217,
+        "2": 0.0551
+      },
+      "tahmin": "1",
+      "guven": 0.7015,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6368,
+          "alt": 0.3632
+        },
+        "tahmin": "ust",
+        "guven": 0.2736,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Arsenal bu maça net favori olarak giriyor; galibiyet ihtimali %82 ile Hull City'nin açık farkla önünde. %64'lük 3 veya daha fazla gol olasılığı, ortalamanın (%57) üzerinde olduğundan favorinin gollü galibiyeti senaryosunu öne çıkarıyor. Arsenal'in iç sahada son 3 maçta 3 galibiyet alıp 7 gol atması bu tabloyu destekliyor. Beraberlik %12 ile en olası ikinci sonuç, ancak düşük bir ihtimal; yine de veri kaynakları arasındaki görüş ayrılığı belirsizliği artırıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2627,12 +2770,25 @@
       "ev_sahibi": "Fulham",
       "deplasman": "Newcastle United",
       "baslama_utc": "2026-11-07T15:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4598,
+        "X": 0.2599,
+        "2": 0.2803
+      },
+      "tahmin": "1",
+      "guven": 0.1795,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5712,
+          "alt": 0.4288
+        },
+        "tahmin": "ust",
+        "guven": 0.1424,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Fulham %46 ile öne çıkıyor, ancak fark çok büyük değil. 3 veya daha fazla gol olasılığı %57 ile Premier Lig ortalamasıyla aynı, yani sonuç ve gol dengesi maçı çok açık ya da çok kapalı bir senaryoya itmiyor. Newcastle United'ın son 4 maçta 6 gol yemesi ve 3 mağlubiyet alması, Fulham'ın 2 galibiyetle gelmesiyle birlikte ev sahibi lehine hafif bir eğilim yaratıyor. En olası ikinci sonuç Newcastle United galibiyeti %28 ile düşük sayılmaz, hesaba katılmalı.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2777,12 +2933,25 @@
       "ev_sahibi": "Espanyol",
       "deplasman": "Deportivo La Coruña",
       "baslama_utc": "2026-11-07T15:15:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4151,
+        "X": 0.2868,
+        "2": 0.2981
+      },
+      "tahmin": "1",
+      "guven": 0.117,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.473,
+          "alt": 0.527
+        },
+        "tahmin": "alt",
+        "guven": 0.054,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Espanyol hafif önde, ama dengeli bir maç bekleniyor: ev sahibi galibiyeti %42 ile Deportivo'nun %30'unun yalnızca bir miktar üzerinde. Gol tarafında en fazla 2 gol (%53) biraz öne çıkıyor; bu da sonucu tek farkla ya da kontrollü şekilde belirlenecek bir maça işaret ediyor. La Liga ortalamasında 3 veya daha fazla gol olasılığı %55 iken burada %47'ye inmesi, maçın ligin genel eğiliminden daha az gollü görüldüğünü gösteriyor. Deplasman galibiyeti %30 ile ikinci en olası sonuç ve düşük sayılmaz.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2918,12 +3087,16 @@
       "ev_sahibi": "Galatasaray",
       "deplasman": "Amed SK",
       "baslama_utc": "2026-11-07T16:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6746,
+        "X": 0.1847,
+        "2": 0.1407
+      },
+      "tahmin": "1",
+      "guven": 0.4899,
       "alt_ust": null,
-      "ai_metin": null,
+      "ai_metin": "Galatasaray bu maça net favori olarak giriyor; kazanma olasılığı %67 ve rakibinin epey önünde. Toplam gol olasılığı verilmediği için gol beklentisini ancak son maçlardan okuyabiliyoruz: Galatasaray'ın son 5 maçının 3'ünde, Amed SK'nin son 4 maçının 3'ünde 3 veya daha fazla gol çıktı. Bu, favorinin gollü bir galibiyetine işaret eden bir senaryo olabilir. Ancak 18 kaynak arasındaki görüş farkı belirsizliği artırıyor; benzer güven seviyesindeki Süper Lig tahminlerimiz 11 maçta %82 isabet bulmuştu. En olası ikinci sonuç beraberlik, ihtimali %18 ile düşük ama göz ardı edilecek kadar da küçük değil.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3077,12 +3250,25 @@
       "ev_sahibi": "Goztepe",
       "deplasman": "Basaksehir",
       "baslama_utc": "2026-11-07T16:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4693,
+        "X": 0.2545,
+        "2": 0.2761
+      },
+      "tahmin": "1",
+      "guven": 0.1932,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5848,
+          "alt": 0.4152
+        },
+        "tahmin": "ust",
+        "guven": 0.1696,
+        "kaynak_sayisi": 7
+      },
+      "ai_metin": "Göztepe, %47 ile bu maça önde giriyor ancak fark çok büyük değil. 3 veya daha fazla gol %58 ile öne çıkıyor; senaryo, ev sahibinin öne geçtiği ve gollerin geldiği bir maça işaret ediyor. Göztepe son 4 maçını kazandı, 10 gol attı ve 3 maçta 3 veya daha fazla gol gördü; bu da gollü beklentiyi destekliyor. Bizim geçmiş tahminlerimiz bu güven seviyesinde %60 isabet yakaladı, beklenen %49'du. En olası ikinci sonuç Başakşehir galibiyeti: %28 ile hiç de küçümsenecek bir ihtimal değil.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3227,12 +3413,25 @@
       "ev_sahibi": "Parma",
       "deplasman": "Bologna",
       "baslama_utc": "2026-11-07T17:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2131,
+        "X": 0.2711,
+        "2": 0.5158
+      },
+      "tahmin": "2",
+      "guven": 0.2447,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4471,
+          "alt": 0.5529
+        },
+        "tahmin": "alt",
+        "guven": 0.1058,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Bologna bu maça açık farkla önde başlıyor: deplasman galibiyeti %52, Parma'nın şansı ise %21. Toplam gol dağılımı dengeli (en fazla 2 gol %55), yani Bologna'nın kontrollü bir üstünlük kurduğu, çok gollü olmayan bir maç daha olası görünüyor. Serie A'da deplasman galibiyeti ortalaması %34 iken Bologna'nın bu seviyede olması, deplasmandaki son 3 maçını da kazanmasıyla (8 gol attı, 3 yedi) örtüşüyor. En olası ikinci sonuç %27 ile beraberlik; Parma'nın galibiyeti ise %21 ile daha düşük kalıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3395,12 +3594,25 @@
       "ev_sahibi": "Nottingham Forest",
       "deplasman": "Manchester City",
       "baslama_utc": "2026-11-07T17:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2073,
+        "X": 0.2337,
+        "2": 0.559
+      },
+      "tahmin": "2",
+      "guven": 0.3253,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5824,
+          "alt": 0.4176
+        },
+        "tahmin": "ust",
+        "guven": 0.1648,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Manchester City deplasmanda net favori; kazanma olasılığı %56, Nottingham Forest'ın ise %21. Üç veya daha fazla gol %58 ile ortalamaya (%57) çok yakın, yani City'nin gollü bir galibiyeti makul bir senaryo. Forest son 4 maçında yalnızca 2 gol atıp 7 yedi ve hiç kazanamadı. City'nin son 5 maçta 12 gol atması da bu tabloyu destekliyor. En olası ikinci sonuç %23 ile beraberlik; ihtimali var ama City'nin öne çıktığı tabloyu değiştirmiyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3554,12 +3766,25 @@
       "ev_sahibi": "CA Osasuna",
       "deplasman": "Athletic Bilbao",
       "baslama_utc": "2026-11-07T17:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.264,
+        "X": 0.2767,
+        "2": 0.4593
+      },
+      "tahmin": "2",
+      "guven": 0.1826,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4584,
+          "alt": 0.5416
+        },
+        "tahmin": "alt",
+        "guven": 0.0832,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Athletic Bilbao deplasmanda %46 ile favori, ancak fark çok büyük değil. Toplam gol dağılımı dengeli (en fazla 2 gol %54), yani Athletic'in kontrollü ve az gollü bir galibiyeti daha olası bir senaryo. Arşivimizde La Liga'da deplasman galibiyeti ortalaması %31 iken bu maçta belirgin biçimde yüksek; ayrıca Osasuna'nın son 4 maçta 3 yenilgi alması bu tabloyla uyumlu. En olası ikinci sonuç beraberlik, %28 ile hiç de küçümsenecek bir ihtimal değil.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3704,12 +3929,25 @@
       "ev_sahibi": "VfB Stuttgart",
       "deplasman": "Werder Bremen",
       "baslama_utc": "2026-11-07T17:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5787,
+        "X": 0.2077,
+        "2": 0.2136
+      },
+      "tahmin": "1",
+      "guven": 0.3651,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7213,
+          "alt": 0.2787
+        },
+        "tahmin": "ust",
+        "guven": 0.4426,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "VfB Stuttgart %58 ile belirgin favori, ancak bu üstünlük kesin bir sonuç anlamına gelmiyor. %72'lik 3 veya daha fazla gol olasılığı, ev sahibinin gollü bir galibiyetine ya da Bremen'in de gol bulduğu açık bir maça işaret ediyor. Stuttgart son 5 maçında 3 mağlubiyet aldı ve 9 gol yedi; bu da favori konumunun son forma tam oturmadığını gösteriyor. Bremen'in son 3 maçta yenilmemesine rağmen ikinci sonuç olan Bremen galibiyeti %21 ile sınırlı kalıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3854,12 +4092,25 @@
       "ev_sahibi": "Auxerre",
       "deplasman": "Paris FC",
       "baslama_utc": "2026-11-07T18:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2232,
+        "X": 0.2411,
+        "2": 0.5357
+      },
+      "tahmin": "2",
+      "guven": 0.2946,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5572,
+          "alt": 0.4428
+        },
+        "tahmin": "ust",
+        "guven": 0.1144,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Paris FC deplasmanda net bir favori görünüyor; galibiyet olasılığı %54 ile Auxerre'nin (%22) epey önünde. 3 veya daha fazla gol ihtimali %56 olduğundan, senaryo favorinin gollü bir galibiyetine daha yakın duruyor. Paris FC son 3 maçının üçünde 3 veya daha fazla gol gördü, Auxerre'nin maçlarında bu sayı ikide kaldı. Ayrıca bu güven seviyesindeki tahminlerimiz 65 maçta %60 isabet yakaladı, beklenen %49'un üzerinde. En olası ikinci sonuç %24 ile beraberlik; bu da makul ama ana senaryonun gerisinde kalan bir ihtimal.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3986,12 +4237,25 @@
       "ev_sahibi": "AS Roma",
       "deplasman": "Sassuolo",
       "baslama_utc": "2026-11-07T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7335,
+        "X": 0.1579,
+        "2": 0.1086
+      },
+      "tahmin": "1",
+      "guven": 0.5756,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6995,
+          "alt": 0.3005
+        },
+        "tahmin": "ust",
+        "guven": 0.399,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "AS Roma bu maça net favori olarak giriyor: kazanma olasılığı %73. %70'lik 3 veya daha fazla gol ihtimaliyle birlikte bakınca, Roma'nın gollü galibiyeti en olası senaryo. Serie A ortalaması olan %55'in belirgin üzerinde bu gol beklentisi, Roma'nın son 5 maçının tamamında en az 3 gol görülmesiyle de uyumlu. Sassuolo'nun son 5 maçta 17 gol yemesi bu tabloyu destekliyor, ancak 24 kaynak arasındaki görüş ayrılığı belirsizliği artırıyor. En olası ikinci sonuç %16 ile beraberlik; düşük bir ihtimal.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4154,12 +4418,25 @@
       "ev_sahibi": "Valencia",
       "deplasman": "Real Madrid",
       "baslama_utc": "2026-11-07T20:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1023,
+        "X": 0.1507,
+        "2": 0.747
+      },
+      "tahmin": "2",
+      "guven": 0.5963,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6713,
+          "alt": 0.3287
+        },
+        "tahmin": "ust",
+        "guven": 0.3426,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Real Madrid, %75 ile bu maçta net favori; La Liga arşivimizde deplasman galibiyeti ortalaması yalnızca %31 olduğundan tablo ortalamadan belirgin biçimde ayrışıyor. %67'lik 3 veya daha fazla gol olasılığı (ligde %55) ve Real Madrid'in son 5 maçının hepsinde bu sayıya ulaşılması, favorinin gollü galibiyeti senaryosunu öne çıkarıyor. Valencia'nın son 4 maçta 4 gol atıp 4 gol yemesi, ev sahibinin de en azından bir gol bulabileceğine işaret ediyor. En olası ikinci sonuç olan beraberlik %15 ile düşük bir ihtimal olarak kalıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4313,12 +4590,25 @@
       "ev_sahibi": "Paris Saint Germain",
       "deplasman": "Troyes",
       "baslama_utc": "2026-11-07T20:05:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.8586,
+        "X": 0.0913,
+        "2": 0.0501
+      },
+      "tahmin": "1",
+      "guven": 0.7673,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.758,
+          "alt": 0.242
+        },
+        "tahmin": "ust",
+        "guven": 0.516,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Paris Saint Germain bu maça açık ara önde giriyor ve galibiyet olasılığı %86 ile oldukça belirgin. %76'lık \"3 veya daha fazla gol\" ihtimaliyle birlikte bakınca, ev sahibinin gollü bir galibiyeti en olası senaryo gibi duruyor. PSG'nin son 5 maçta 5 galibiyet alıp 20 gol atması bu tabloyu destekliyor; Troyes'in son 3 maçında ise yalnızca 1'inde 3 veya daha fazla gol görüldü. Beraberlik %9 ile düşük bir ihtimal olarak kalıyor.",
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4455,7 +4745,7 @@
           }
         }
       },
-      "ucretsiz": false
+      "ucretsiz": true
     }
   ],
   "en_guclu_3": {
@@ -4496,6 +4786,49 @@
             "tahmin": "1",
             "olasilik": 0.4629,
             "guven": 0.1785,
+            "skor": null,
+            "tuttu": null
+          }
+        ],
+        "tutan": 0,
+        "sonuclanan": 0
+      },
+      {
+        "tarih": "2026-11-07",
+        "maclar": [
+          {
+            "mac_id": "f7b240389fa5ec055c58a48ab153dcdd",
+            "lig": "soccer_france_ligue_one",
+            "ev_sahibi": "Paris Saint Germain",
+            "deplasman": "Troyes",
+            "baslama_utc": "2026-11-07T20:05:00Z",
+            "tahmin": "1",
+            "olasilik": 0.8586,
+            "guven": 0.7673,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "842fcc5b9feb8c63054a661ad1fc8926",
+            "lig": "soccer_epl",
+            "ev_sahibi": "Arsenal",
+            "deplasman": "Hull City",
+            "baslama_utc": "2026-11-07T15:00:00Z",
+            "tahmin": "1",
+            "olasilik": 0.8232,
+            "guven": 0.7015,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "5b386dfdf6f76705116fbb4120ee8493",
+            "lig": "soccer_spain_la_liga",
+            "ev_sahibi": "Valencia",
+            "deplasman": "Real Madrid",
+            "baslama_utc": "2026-11-07T20:00:00Z",
+            "tahmin": "2",
+            "olasilik": 0.747,
+            "guven": 0.5963,
             "skor": null,
             "tuttu": null
           }
