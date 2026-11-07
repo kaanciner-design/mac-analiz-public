@@ -1,7 +1,38 @@
 {
-  "guncelleme_utc": "2026-11-07T17:30:46Z",
-  "mac_sayisi": 266,
+  "guncelleme_utc": "2026-11-07T19:30:41Z",
+  "mac_sayisi": 267,
   "maclar": [
+    {
+      "mac_id": "8553a80cf1ae5cbe3e7a69b76ce8167f",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Auxerre",
+      "deplasman": "Paris FC",
+      "baslama_utc": "2026-11-07T18:00:00Z",
+      "olasiliklar": {
+        "1": 0.2232,
+        "X": 0.2411,
+        "2": 0.5357
+      },
+      "tahmin": "2",
+      "guven": 0.2946,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5572,
+          "alt": 0.4428
+        },
+        "tahmin": "ust",
+        "guven": 0.1144,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Paris FC deplasmanda net bir favori görünüyor; galibiyet olasılığı %54 ile Auxerre'nin (%22) epey önünde. 3 veya daha fazla gol ihtimali %56 olduğundan, senaryo favorinin gollü bir galibiyetine daha yakın duruyor. Paris FC son 3 maçının üçünde 3 veya daha fazla gol gördü, Auxerre'nin maçlarında bu sayı ikide kaldı. Ayrıca bu güven seviyesindeki tahminlerimiz 65 maçta %60 isabet yakaladı, beklenen %49'un üzerinde. En olası ikinci sonuç %24 ile beraberlik; bu da makul ama ana senaryonun gerisinde kalan bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "59c5f635cfe11613c07e9a5520ced5c1",
       "lig": "soccer_epl",
@@ -119,11 +150,11 @@
         "kaynak_sayisi": 15
       },
       "ai_metin": "Bologna bu maça açık farkla önde başlıyor: deplasman galibiyeti %52, Parma'nın şansı ise %21. Toplam gol dağılımı dengeli (en fazla 2 gol %55), yani Bologna'nın kontrollü bir üstünlük kurduğu, çok gollü olmayan bir maç daha olası görünüyor. Serie A'da deplasman galibiyeti ortalaması %34 iken Bologna'nın bu seviyede olması, deplasmandaki son 3 maçını da kazanmasıyla (8 gol attı, 3 yedi) örtüşüyor. En olası ikinci sonuç %27 ile beraberlik; Parma'nın galibiyeti ise %21 ile daha düşük kalıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -141,10 +172,10 @@
       "guven": 0.4899,
       "alt_ust": null,
       "ai_metin": "Galatasaray bu maça net favori olarak giriyor; kazanma olasılığı %67 ve rakibinin epey önünde. Toplam gol olasılığı verilmediği için gol beklentisini ancak son maçlardan okuyabiliyoruz: Galatasaray'ın son 5 maçının 3'ünde, Amed SK'nin son 4 maçının 3'ünde 3 veya daha fazla gol çıktı. Bu, favorinin gollü bir galibiyetine işaret eden bir senaryo olabilir. Ancak 18 kaynak arasındaki görüş farkı belirsizliği artırıyor; benzer güven seviyesindeki Süper Lig tahminlerimiz 11 maçta %82 isabet bulmuştu. En olası ikinci sonuç beraberlik, ihtimali %18 ile düşük ama göz ardı edilecek kadar da küçük değil.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "4-3",
+      "toplam_gol": 7,
+      "tuttu": true,
       "alt_ust_tuttu": null,
       "ucretsiz": false
     },
@@ -172,11 +203,11 @@
         "kaynak_sayisi": 7
       },
       "ai_metin": "Göztepe, %47 ile bu maça önde giriyor ancak fark çok büyük değil. 3 veya daha fazla gol %58 ile öne çıkıyor; senaryo, ev sahibinin öne geçtiği ve gollerin geldiği bir maça işaret ediyor. Göztepe son 4 maçını kazandı, 10 gol attı ve 3 maçta 3 veya daha fazla gol gördü; bu da gollü beklentiyi destekliyor. Bizim geçmiş tahminlerimiz bu güven seviyesinde %60 isabet yakaladı, beklenen %49'du. En olası ikinci sonuç Başakşehir galibiyeti: %28 ile hiç de küçümsenecek bir ihtimal değil.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -203,11 +234,11 @@
         "kaynak_sayisi": 15
       },
       "ai_metin": "Espanyol hafif önde, ama dengeli bir maç bekleniyor: ev sahibi galibiyeti %42 ile Deportivo'nun %30'unun yalnızca bir miktar üzerinde. Gol tarafında en fazla 2 gol (%53) biraz öne çıkıyor; bu da sonucu tek farkla ya da kontrollü şekilde belirlenecek bir maça işaret ediyor. La Liga ortalamasında 3 veya daha fazla gol olasılığı %55 iken burada %47'ye inmesi, maçın ligin genel eğiliminden daha az gollü görüldüğünü gösteriyor. Deplasman galibiyeti %30 ile ikinci en olası sonuç ve düşük sayılmaz.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
