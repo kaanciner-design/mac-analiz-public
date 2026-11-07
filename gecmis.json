@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-07T21:30:41Z",
+  "guncelleme_utc": "2026-11-07T22:30:43Z",
   "mac_sayisi": 270,
   "maclar": [
     {
@@ -26,11 +26,11 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Paris Saint Germain bu maça açık ara önde giriyor ve galibiyet olasılığı %86 ile oldukça belirgin. %76'lık \"3 veya daha fazla gol\" ihtimaliyle birlikte bakınca, ev sahibinin gollü bir galibiyeti en olası senaryo gibi duruyor. PSG'nin son 5 maçta 5 galibiyet alıp 20 gol atması bu tabloyu destekliyor; Troyes'in son 3 maçında ise yalnızca 1'inde 3 veya daha fazla gol görüldü. Beraberlik %9 ile düşük bir ihtimal olarak kalıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": true
     },
     {
@@ -57,11 +57,11 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Real Madrid, %75 ile bu maçta net favori; La Liga arşivimizde deplasman galibiyeti ortalaması yalnızca %31 olduğundan tablo ortalamadan belirgin biçimde ayrışıyor. %67'lik 3 veya daha fazla gol olasılığı (ligde %55) ve Real Madrid'in son 5 maçının hepsinde bu sayıya ulaşılması, favorinin gollü galibiyeti senaryosunu öne çıkarıyor. Valencia'nın son 4 maçta 4 gol atıp 4 gol yemesi, ev sahibinin de en azından bir gol bulabileceğine işaret ediyor. En olası ikinci sonuç olan beraberlik %15 ile düşük bir ihtimal olarak kalıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -88,11 +88,11 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "AS Roma bu maça net favori olarak giriyor: kazanma olasılığı %73. %70'lik 3 veya daha fazla gol ihtimaliyle birlikte bakınca, Roma'nın gollü galibiyeti en olası senaryo. Serie A ortalaması olan %55'in belirgin üzerinde bu gol beklentisi, Roma'nın son 5 maçının tamamında en az 3 gol görülmesiyle de uyumlu. Sassuolo'nun son 5 maçta 17 gol yemesi bu tabloyu destekliyor, ancak 24 kaynak arasındaki görüş ayrılığı belirsizliği artırıyor. En olası ikinci sonuç %16 ile beraberlik; düşük bir ihtimal.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-0",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
