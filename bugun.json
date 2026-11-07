@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-07T20:30:42Z",
+  "guncelleme_utc": "2026-11-07T21:30:41Z",
   "mac_sayisi": 28,
   "maclar": [
     {
@@ -4597,49 +4597,6 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-07",
-        "maclar": [
-          {
-            "mac_id": "f7b240389fa5ec055c58a48ab153dcdd",
-            "lig": "soccer_france_ligue_one",
-            "ev_sahibi": "Paris Saint Germain",
-            "deplasman": "Troyes",
-            "baslama_utc": "2026-11-07T20:05:00Z",
-            "tahmin": "1",
-            "olasilik": 0.8586,
-            "guven": 0.7673,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "842fcc5b9feb8c63054a661ad1fc8926",
-            "lig": "soccer_epl",
-            "ev_sahibi": "Arsenal",
-            "deplasman": "Hull City",
-            "baslama_utc": "2026-11-07T15:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.8232,
-            "guven": 0.7015,
-            "skor": "1-0",
-            "tuttu": true
-          },
-          {
-            "mac_id": "5b386dfdf6f76705116fbb4120ee8493",
-            "lig": "soccer_spain_la_liga",
-            "ev_sahibi": "Valencia",
-            "deplasman": "Real Madrid",
-            "baslama_utc": "2026-11-07T20:00:00Z",
-            "tahmin": "2",
-            "olasilik": 0.747,
-            "guven": 0.5963,
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "tutan": 1,
-        "sonuclanan": 1
-      },
-      {
         "tarih": "2026-11-08",
         "maclar": [
           {
@@ -4684,47 +4641,47 @@
       }
     ],
     "dun": {
-      "tarih": "2026-11-06",
+      "tarih": "2026-11-07",
       "maclar": [
         {
-          "mac_id": "586bec023ee8ac2f0645d963bd2c9d25",
-          "lig": "soccer_epl",
-          "ev_sahibi": "Everton",
-          "deplasman": "Coventry City",
-          "baslama_utc": "2026-11-06T20:00:00Z",
-          "tahmin": "1",
-          "olasilik": 0.5581,
-          "guven": 0.318,
-          "skor": "3-1",
-          "tuttu": true
-        },
-        {
-          "mac_id": "9dd0014685fd62d9b2890d7c33a8c9ab",
-          "lig": "soccer_spain_la_liga",
-          "ev_sahibi": "Sevilla",
-          "deplasman": "Alavés",
-          "baslama_utc": "2026-11-06T20:00:00Z",
-          "tahmin": "1",
-          "olasilik": 0.4891,
-          "guven": 0.2095,
-          "skor": "0-0",
-          "tuttu": false
-        },
-        {
-          "mac_id": "5e7d141f719835de18877ed95bedcb32",
+          "mac_id": "f7b240389fa5ec055c58a48ab153dcdd",
           "lig": "soccer_france_ligue_one",
-          "ev_sahibi": "Toulouse",
-          "deplasman": "Strasbourg",
-          "baslama_utc": "2026-11-06T19:45:00Z",
+          "ev_sahibi": "Paris Saint Germain",
+          "deplasman": "Troyes",
+          "baslama_utc": "2026-11-07T20:05:00Z",
           "tahmin": "1",
-          "olasilik": 0.4629,
-          "guven": 0.1785,
-          "skor": "3-1",
+          "olasilik": 0.8586,
+          "guven": 0.7673,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "842fcc5b9feb8c63054a661ad1fc8926",
+          "lig": "soccer_epl",
+          "ev_sahibi": "Arsenal",
+          "deplasman": "Hull City",
+          "baslama_utc": "2026-11-07T15:00:00Z",
+          "tahmin": "1",
+          "olasilik": 0.8232,
+          "guven": 0.7015,
+          "skor": "1-0",
           "tuttu": true
+        },
+        {
+          "mac_id": "5b386dfdf6f76705116fbb4120ee8493",
+          "lig": "soccer_spain_la_liga",
+          "ev_sahibi": "Valencia",
+          "deplasman": "Real Madrid",
+          "baslama_utc": "2026-11-07T20:00:00Z",
+          "tahmin": "2",
+          "olasilik": 0.747,
+          "guven": 0.5963,
+          "skor": null,
+          "tuttu": null
         }
       ],
-      "tutan": 2,
-      "sonuclanan": 3
+      "tutan": 1,
+      "sonuclanan": 1
     },
     "genel": {
       "gun": 1,
