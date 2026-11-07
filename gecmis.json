@@ -1,7 +1,100 @@
 {
-  "guncelleme_utc": "2026-11-07T19:30:41Z",
-  "mac_sayisi": 267,
+  "guncelleme_utc": "2026-11-07T20:30:42Z",
+  "mac_sayisi": 270,
   "maclar": [
+    {
+      "mac_id": "f7b240389fa5ec055c58a48ab153dcdd",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Paris Saint Germain",
+      "deplasman": "Troyes",
+      "baslama_utc": "2026-11-07T20:05:00Z",
+      "olasiliklar": {
+        "1": 0.8586,
+        "X": 0.0913,
+        "2": 0.0501
+      },
+      "tahmin": "1",
+      "guven": 0.7673,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.758,
+          "alt": 0.242
+        },
+        "tahmin": "ust",
+        "guven": 0.516,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Paris Saint Germain bu maça açık ara önde giriyor ve galibiyet olasılığı %86 ile oldukça belirgin. %76'lık \"3 veya daha fazla gol\" ihtimaliyle birlikte bakınca, ev sahibinin gollü bir galibiyeti en olası senaryo gibi duruyor. PSG'nin son 5 maçta 5 galibiyet alıp 20 gol atması bu tabloyu destekliyor; Troyes'in son 3 maçında ise yalnızca 1'inde 3 veya daha fazla gol görüldü. Beraberlik %9 ile düşük bir ihtimal olarak kalıyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "5b386dfdf6f76705116fbb4120ee8493",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Valencia",
+      "deplasman": "Real Madrid",
+      "baslama_utc": "2026-11-07T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.1023,
+        "X": 0.1507,
+        "2": 0.747
+      },
+      "tahmin": "2",
+      "guven": 0.5963,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6713,
+          "alt": 0.3287
+        },
+        "tahmin": "ust",
+        "guven": 0.3426,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Real Madrid, %75 ile bu maçta net favori; La Liga arşivimizde deplasman galibiyeti ortalaması yalnızca %31 olduğundan tablo ortalamadan belirgin biçimde ayrışıyor. %67'lik 3 veya daha fazla gol olasılığı (ligde %55) ve Real Madrid'in son 5 maçının hepsinde bu sayıya ulaşılması, favorinin gollü galibiyeti senaryosunu öne çıkarıyor. Valencia'nın son 4 maçta 4 gol atıp 4 gol yemesi, ev sahibinin de en azından bir gol bulabileceğine işaret ediyor. En olası ikinci sonuç olan beraberlik %15 ile düşük bir ihtimal olarak kalıyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f110107bca066ac1a598c89661c88fa3",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "AS Roma",
+      "deplasman": "Sassuolo",
+      "baslama_utc": "2026-11-07T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.7335,
+        "X": 0.1579,
+        "2": 0.1086
+      },
+      "tahmin": "1",
+      "guven": 0.5756,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6995,
+          "alt": 0.3005
+        },
+        "tahmin": "ust",
+        "guven": 0.399,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "AS Roma bu maça net favori olarak giriyor: kazanma olasılığı %73. %70'lik 3 veya daha fazla gol ihtimaliyle birlikte bakınca, Roma'nın gollü galibiyeti en olası senaryo. Serie A ortalaması olan %55'in belirgin üzerinde bu gol beklentisi, Roma'nın son 5 maçının tamamında en az 3 gol görülmesiyle de uyumlu. Sassuolo'nun son 5 maçta 17 gol yemesi bu tabloyu destekliyor, ancak 24 kaynak arasındaki görüş ayrılığı belirsizliği artırıyor. En olası ikinci sonuç %16 ile beraberlik; düşük bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "8553a80cf1ae5cbe3e7a69b76ce8167f",
       "lig": "soccer_france_ligue_one",
@@ -26,11 +119,11 @@
         "kaynak_sayisi": 13
       },
       "ai_metin": "Paris FC deplasmanda net bir favori görünüyor; galibiyet olasılığı %54 ile Auxerre'nin (%22) epey önünde. 3 veya daha fazla gol ihtimali %56 olduğundan, senaryo favorinin gollü bir galibiyetine daha yakın duruyor. Paris FC son 3 maçının üçünde 3 veya daha fazla gol gördü, Auxerre'nin maçlarında bu sayı ikide kaldı. Ayrıca bu güven seviyesindeki tahminlerimiz 65 maçta %60 isabet yakaladı, beklenen %49'un üzerinde. En olası ikinci sonuç %24 ile beraberlik; bu da makul ama ana senaryonun gerisinde kalan bir ihtimal.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -57,11 +150,11 @@
         "kaynak_sayisi": 13
       },
       "ai_metin": "Manchester City deplasmanda net favori; kazanma olasılığı %56, Nottingham Forest'ın ise %21. Üç veya daha fazla gol %58 ile ortalamaya (%57) çok yakın, yani City'nin gollü bir galibiyeti makul bir senaryo. Forest son 4 maçında yalnızca 2 gol atıp 7 yedi ve hiç kazanamadı. City'nin son 5 maçta 12 gol atması da bu tabloyu destekliyor. En olası ikinci sonuç %23 ile beraberlik; ihtimali var ama City'nin öne çıktığı tabloyu değiştirmiyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-1",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -88,11 +181,11 @@
         "kaynak_sayisi": 14
       },
       "ai_metin": "Athletic Bilbao deplasmanda %46 ile favori, ancak fark çok büyük değil. Toplam gol dağılımı dengeli (en fazla 2 gol %54), yani Athletic'in kontrollü ve az gollü bir galibiyeti daha olası bir senaryo. Arşivimizde La Liga'da deplasman galibiyeti ortalaması %31 iken bu maçta belirgin biçimde yüksek; ayrıca Osasuna'nın son 4 maçta 3 yenilgi alması bu tabloyla uyumlu. En olası ikinci sonuç beraberlik, %28 ile hiç de küçümsenecek bir ihtimal değil.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -119,11 +212,11 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "VfB Stuttgart %58 ile belirgin favori, ancak bu üstünlük kesin bir sonuç anlamına gelmiyor. %72'lik 3 veya daha fazla gol olasılığı, ev sahibinin gollü bir galibiyetine ya da Bremen'in de gol bulduğu açık bir maça işaret ediyor. Stuttgart son 5 maçında 3 mağlubiyet aldı ve 9 gol yedi; bu da favori konumunun son forma tam oturmadığını gösteriyor. Bremen'in son 3 maçta yenilmemesine rağmen ikinci sonuç olan Bremen galibiyeti %21 ile sınırlı kalıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
