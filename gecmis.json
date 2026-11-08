@@ -1,7 +1,100 @@
 {
-  "guncelleme_utc": "2026-11-08T19:30:43Z",
-  "mac_sayisi": 295,
+  "guncelleme_utc": "2026-11-08T20:30:43Z",
+  "mac_sayisi": 298,
   "maclar": [
+    {
+      "mac_id": "dd247b356d8fc53e4b4f9bfcfe09c924",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Atlético Madrid",
+      "deplasman": "Barcelona",
+      "baslama_utc": "2026-11-08T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.2478,
+        "X": 0.2214,
+        "2": 0.5308
+      },
+      "tahmin": "2",
+      "guven": 0.283,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7193,
+          "alt": 0.2807
+        },
+        "tahmin": "ust",
+        "guven": 0.4386,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Barcelona %53 ile açık ara önde, ancak bu fark maçı tek taraflı göstermeyecek kadar ölçülü. %72'lik 3 veya daha fazla gol olasılığı, arşivdeki %55 ortalamanın belirgin üzerinde ve Barcelona'nın gollü bir galibiyetine işaret ediyor; Barcelona'nın son 5 maçının tamamında 3 veya daha fazla gol olurken Atlético'nun hiçbirinde olmaması ise bu beklentiyle çelişen bir tablo çiziyor. Atlético'nun %25'lik galibiyet ihtimali düşük olmasa da arşivdeki deplasman galibiyeti ortalamasının (%33) gerisinde kalan Barcelona'nın bu maçta ortalamanın epey üzerinde olduğunu gösteriyor. En olası ikinci sonuç Atlético galibiyeti, ihtimali %25 ile ciddiye alınır düzeyde.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "7f50eb7deaebfbcd45c3f4e7cd3724e4",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Fiorentina",
+      "deplasman": "Juventus",
+      "baslama_utc": "2026-11-08T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.2748,
+        "X": 0.2697,
+        "2": 0.4556
+      },
+      "tahmin": "2",
+      "guven": 0.1808,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5363,
+          "alt": 0.4637
+        },
+        "tahmin": "ust",
+        "guven": 0.0726,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Juventus deplasmanda hafif favori: %46 ile öne çıkıyor, ancak Fiorentina ile beraberliğin payı da %27 olduğu için fark çok belirgin değil. Toplam gol dağılımı dengeli (3 veya daha fazla gol %54), yani maç tek taraflı bir skordan çok, iki yönlü açılabilecek bir senaryoya işaret ediyor. Fiorentina'nın son 5 maçının tamamında 3 veya daha fazla gol çıkarken Juventus'un maçlarında bu yalnızca 1 kez yaşandı. Bu da gol beklentisini ortalamanın (%55) hemen altında tutan bir denge yaratıyor. İkinci en olası sonuç olan Fiorentina galibiyeti ya da beraberlik %27 ile düşük sayılmaz, ciddi bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "4e917e19b59093a02a0e12bcf9a5ecc4",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "RC Lens",
+      "deplasman": "Marseille",
+      "baslama_utc": "2026-11-08T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.4223,
+        "X": 0.2459,
+        "2": 0.3318
+      },
+      "tahmin": "1",
+      "guven": 0.0905,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.644,
+          "alt": 0.356
+        },
+        "tahmin": "ust",
+        "guven": 0.288,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Maç dengeli görünüyor; RC Lens %42 ile çok hafif önde, Marseille ise %33 ile hemen arkasında. %64'lük 3 veya daha fazla gol ihtimaliyle, Ligue 1 ortalaması olan %58'in üzerinde, iki tarafın da gol bulabileceği açık bir maç öne çıkıyor. Lens'in son 5 maçında 15 gol yemesi ve Marseille'in son 3 maçta 11 gol atması bu senaryoyu destekliyor. İkinci en olası sonuç olan Marseille galibiyeti %33 ile hiç de küçümsenecek bir ihtimal değil.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "8963081c3457212ee238b498bbc33a03",
       "lig": "soccer_germany_bundesliga",
@@ -48,10 +141,10 @@
       "guven": 0.6357,
       "alt_ust": null,
       "ai_metin": "Beşiktaş, %78 ile maça net favori olarak giriyor. Son dört maçta iki takımın da ikişer karşılaşmasında 3 veya daha fazla gol çıkması, toplam gol tarafında verilerin belirgin bir yön göstermediğini düşündürüyor; yani favorinin kontrollü galibiyeti de, gollü bir akış da mümkün. Süper Lig arşivimizde ev sahibi galibiyeti ortalaması %43 iken bu maçın bu kadar yukarıda olması dikkat çekici, ancak kaynaklar arasındaki görüş farkı belirsizliği artırıyor. Beraberlik %14 ile düşük bir ihtimal olarak kalıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-0",
+      "toplam_gol": 3,
+      "tuttu": true,
       "alt_ust_tuttu": null,
       "ucretsiz": true
     },
@@ -79,11 +172,11 @@
         "kaynak_sayisi": 15
       },
       "ai_metin": "Celta Vigo bu maça açık ara değil, ılımlı bir favori olarak giriyor; ev sahibinin galibiyeti %51 ile önde. Toplam gol dengesi tam yarı yarıya (%50), yani senaryo gollü bir favori galibiyetinden çok, tek bir yöne yaslanmayan ve kontrollü de açılabilecek bir maça işaret ediyor. Levante'nin son 5 maçının 3'ünde 3 veya daha fazla gol çıkarken Celta'nın son 4 maçında bu sayı 2 kaldı; lig ortalaması olan %55'in biraz altındaki beklenti bu yüzden makul görünüyor. En olası ikinci sonuç beraberlik: %26 ile düşük sayılmaz, hesaba katılmalı.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -110,11 +203,11 @@
         "kaynak_sayisi": 15
       },
       "ai_metin": "Villarreal bu maça net favori olarak giriyor; evinde kazanma olasılığı %66. Gol tarafı dengeli: 3 veya daha fazla gol %53 ile en fazla 2 gol %47 birbirine yakın, yani Villarreal'in kazandığı ama skorun açık kalabildiği bir senaryo öne çıkıyor. Arşivimizde La Liga'da ev sahibi galibiyeti ortalaması %43 olduğundan bu olasılık ortalamanın belirgin üzerinde, oysa Villarreal'in son 5 maçtaki 12 yediği gol savunmada açık verdiğini gösteriyor. Getafe'nin kazanma ihtimali %13 ile düşük kalıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
