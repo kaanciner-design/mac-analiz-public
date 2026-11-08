@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-08T20:30:43Z",
+  "guncelleme_utc": "2026-11-08T21:30:48Z",
   "mac_sayisi": 298,
   "maclar": [
     {
@@ -119,11 +119,11 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Hoffenheim, %59 ile bu maça net favori olarak giriyor. 3 veya daha fazla gol olasılığı %64 ile gollü bir galibiyet senaryosuna işaret ediyor, ancak Bundesliga ortalamasının (%68) biraz altında kalıyor. Arşivimizdeki Bundesliga maçlarında ev sahibi kazanma ortalaması %45 iken bu maçta belirgin biçimde yukarıda; Schalke'nin son 3 maçta hiç gol atamaması da bu tabloyu destekliyor. En olası ikinci sonuç olan beraberlik %22 ile düşük ama tamamen göz ardı edilmeyecek bir ihtimal.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {

@@ -1,90 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-08T20:30:43Z",
+  "guncelleme_utc": "2026-11-08T21:30:48Z",
   "mac_sayisi": 0,
   "maclar": [],
   "en_guclu_3": {
-    "gunler": [
-      {
-        "tarih": "2026-11-08",
-        "maclar": [
-          {
-            "mac_id": "1fa78d1150755a8ec1d24cc1e19eeb0a",
-            "lig": "soccer_turkey_super_league",
-            "ev_sahibi": "Besiktas JK",
-            "deplasman": "Genclerbirligi SK",
-            "baslama_utc": "2026-11-08T18:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7759,
-            "guven": 0.6357,
-            "skor": "3-0",
-            "tuttu": true
-          },
-          {
-            "mac_id": "81ad04996f63fb60b494d243b13ac586",
-            "lig": "soccer_spain_la_liga",
-            "ev_sahibi": "Villarreal",
-            "deplasman": "Getafe",
-            "baslama_utc": "2026-11-08T17:30:00Z",
-            "tahmin": "1",
-            "olasilik": 0.6631,
-            "guven": 0.4562,
-            "skor": "2-0",
-            "tuttu": true
-          },
-          {
-            "mac_id": "c1b9696d88719cb8832d794b986cdd68",
-            "lig": "soccer_germany_bundesliga",
-            "ev_sahibi": "SC Freiburg",
-            "deplasman": "Union Berlin",
-            "baslama_utc": "2026-11-08T16:30:00Z",
-            "tahmin": "1",
-            "olasilik": 0.6332,
-            "guven": 0.4236,
-            "skor": "2-0",
-            "tuttu": true
-          }
-        ],
-        "tutan": 3,
-        "sonuclanan": 3
-      }
-    ],
+    "gunler": [],
     "dun": {
-      "tarih": "2026-11-07",
+      "tarih": "2026-11-08",
       "maclar": [
         {
-          "mac_id": "f7b240389fa5ec055c58a48ab153dcdd",
-          "lig": "soccer_france_ligue_one",
-          "ev_sahibi": "Paris Saint Germain",
-          "deplasman": "Troyes",
-          "baslama_utc": "2026-11-07T20:05:00Z",
+          "mac_id": "1fa78d1150755a8ec1d24cc1e19eeb0a",
+          "lig": "soccer_turkey_super_league",
+          "ev_sahibi": "Besiktas JK",
+          "deplasman": "Genclerbirligi SK",
+          "baslama_utc": "2026-11-08T18:00:00Z",
           "tahmin": "1",
-          "olasilik": 0.8586,
-          "guven": 0.7673,
-          "skor": "1-0",
+          "olasilik": 0.7759,
+          "guven": 0.6357,
+          "skor": "3-0",
           "tuttu": true
         },
         {
-          "mac_id": "842fcc5b9feb8c63054a661ad1fc8926",
-          "lig": "soccer_epl",
-          "ev_sahibi": "Arsenal",
-          "deplasman": "Hull City",
-          "baslama_utc": "2026-11-07T15:00:00Z",
-          "tahmin": "1",
-          "olasilik": 0.8232,
-          "guven": 0.7015,
-          "skor": "1-0",
-          "tuttu": true
-        },
-        {
-          "mac_id": "5b386dfdf6f76705116fbb4120ee8493",
+          "mac_id": "81ad04996f63fb60b494d243b13ac586",
           "lig": "soccer_spain_la_liga",
-          "ev_sahibi": "Valencia",
-          "deplasman": "Real Madrid",
-          "baslama_utc": "2026-11-07T20:00:00Z",
-          "tahmin": "2",
-          "olasilik": 0.747,
-          "guven": 0.5963,
-          "skor": "0-3",
+          "ev_sahibi": "Villarreal",
+          "deplasman": "Getafe",
+          "baslama_utc": "2026-11-08T17:30:00Z",
+          "tahmin": "1",
+          "olasilik": 0.6631,
+          "guven": 0.4562,
+          "skor": "2-0",
+          "tuttu": true
+        },
+        {
+          "mac_id": "c1b9696d88719cb8832d794b986cdd68",
+          "lig": "soccer_germany_bundesliga",
+          "ev_sahibi": "SC Freiburg",
+          "deplasman": "Union Berlin",
+          "baslama_utc": "2026-11-08T16:30:00Z",
+          "tahmin": "1",
+          "olasilik": 0.6332,
+          "guven": 0.4236,
+          "skor": "2-0",
           "tuttu": true
         }
       ],
@@ -92,10 +48,10 @@
       "sonuclanan": 3
     },
     "genel": {
-      "gun": 2,
-      "tam_isabet_gun": 1,
-      "tahmin": 6,
-      "tutan": 5
+      "gun": 3,
+      "tam_isabet_gun": 2,
+      "tahmin": 9,
+      "tutan": 8
     }
   }
 }
