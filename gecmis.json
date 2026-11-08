@@ -1,7 +1,348 @@
 {
-  "guncelleme_utc": "2026-11-08T14:30:43Z",
-  "mac_sayisi": 282,
+  "guncelleme_utc": "2026-11-08T17:30:42Z",
+  "mac_sayisi": 293,
   "maclar": [
+    {
+      "mac_id": "0d2e199bfba0db42871696c10037bad3",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Celta Vigo",
+      "deplasman": "Levante",
+      "baslama_utc": "2026-11-08T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.5103,
+        "X": 0.2573,
+        "2": 0.2324
+      },
+      "tahmin": "1",
+      "guven": 0.253,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5014,
+          "alt": 0.4986
+        },
+        "tahmin": "ust",
+        "guven": 0.0028,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Celta Vigo bu maça açık ara değil, ılımlı bir favori olarak giriyor; ev sahibinin galibiyeti %51 ile önde. Toplam gol dengesi tam yarı yarıya (%50), yani senaryo gollü bir favori galibiyetinden çok, tek bir yöne yaslanmayan ve kontrollü de açılabilecek bir maça işaret ediyor. Levante'nin son 5 maçının 3'ünde 3 veya daha fazla gol çıkarken Celta'nın son 4 maçında bu sayı 2 kaldı; lig ortalaması olan %55'in biraz altındaki beklenti bu yüzden makul görünüyor. En olası ikinci sonuç beraberlik: %26 ile düşük sayılmaz, hesaba katılmalı.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "81ad04996f63fb60b494d243b13ac586",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Villarreal",
+      "deplasman": "Getafe",
+      "baslama_utc": "2026-11-08T17:30:00Z",
+      "olasiliklar": {
+        "1": 0.6631,
+        "X": 0.2069,
+        "2": 0.13
+      },
+      "tahmin": "1",
+      "guven": 0.4562,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5315,
+          "alt": 0.4685
+        },
+        "tahmin": "ust",
+        "guven": 0.063,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Villarreal bu maça net favori olarak giriyor; evinde kazanma olasılığı %66. Gol tarafı dengeli: 3 veya daha fazla gol %53 ile en fazla 2 gol %47 birbirine yakın, yani Villarreal'in kazandığı ama skorun açık kalabildiği bir senaryo öne çıkıyor. Arşivimizde La Liga'da ev sahibi galibiyeti ortalaması %43 olduğundan bu olasılık ortalamanın belirgin üzerinde, oysa Villarreal'in son 5 maçtaki 12 yediği gol savunmada açık verdiğini gösteriyor. Getafe'nin kazanma ihtimali %13 ile düşük kalıyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "657fd1ac35832f65fcc6feba93970e10",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Inter Milan",
+      "deplasman": "Como",
+      "baslama_utc": "2026-11-08T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.5032,
+        "X": 0.2344,
+        "2": 0.2625
+      },
+      "tahmin": "1",
+      "guven": 0.2407,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6378,
+          "alt": 0.3622
+        },
+        "tahmin": "ust",
+        "guven": 0.2756,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Inter Milan öne çıkıyor ama fark çok büyük değil: ev sahibinin kazanma ihtimali %50, Como ise %26 ile hiç de geride sayılmaz. 3 veya daha fazla gol ihtimalinin %64 olması, Serie A ortalaması olan %55'in üzerinde, yani gollü ve açık bir maç bekleniyor. Como'nun son 5 maçta 5 galibiyetle 19 gol atması, deplasmanda da 4 maçta 17 gol bulması bu tabloyu destekliyor. En olası ikinci sonuç Como galibiyeti; %26 ile hiç küçümsenmeyecek bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b0a4b5448a7e02d9ad1eaa817599fff0",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Manchester United",
+      "deplasman": "Aston Villa",
+      "baslama_utc": "2026-11-08T16:30:00Z",
+      "olasiliklar": {
+        "1": 0.4422,
+        "X": 0.2569,
+        "2": 0.3009
+      },
+      "tahmin": "1",
+      "guven": 0.1413,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5949,
+          "alt": 0.4051
+        },
+        "tahmin": "ust",
+        "guven": 0.1898,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Manchester United %44 ile hafif önde, ancak Aston Villa'nın %30'luk payı farkı küçük tutuyor. %59'luk 3 veya daha fazla gol ihtimaliyle iki tarafın da gol bulabileceği açık bir maç öne çıkıyor. United son 5 maçta 12 gol yedi ve Villa'nın son 5 maçta 3 galibiyeti var; bu da skoru açık tutan bir tablo. 25 veri kaynağı aynı sonuçta birleşse de bu güven seviyesindeki 14 maçlık geçmiş tahminlerimiz %29 isabet etti, bu yüzden temkinli olmak gerekir. İkinci en olası sonuç Villa galibiyeti %30 ile hiç de küçümsenecek bir ihtimal değil.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c1b9696d88719cb8832d794b986cdd68",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "SC Freiburg",
+      "deplasman": "Union Berlin",
+      "baslama_utc": "2026-11-08T16:30:00Z",
+      "olasiliklar": {
+        "1": 0.6332,
+        "X": 0.2096,
+        "2": 0.1572
+      },
+      "tahmin": "1",
+      "guven": 0.4236,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5949,
+          "alt": 0.4051
+        },
+        "tahmin": "ust",
+        "guven": 0.1898,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "SC Freiburg bu maça net favori olarak giriyor; galibiyet olasılığı %63 ile Bundesliga arşivimizdeki %45'lik ev sahibi ortalamasının epey üzerinde. 3 veya daha fazla gol olasılığı %59 ise lig ortalaması olan %68'in altında kalıyor. Bu da Freiburg'un kazandığı ama çok açık geçmeyen bir senaryoya işaret ediyor. Freiburg'un son 3 maçının üçünde de 3 veya daha fazla gol çıkarken, Union Berlin'in son 3 maçı 3 beraberlikle ve gol azlığıyla bitti. Beraberlik %21 ile ikinci en olası sonuç, ancak bu belirgin biçimde ikinci planda kalan bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a529e5762f18d97981194ec3668dc3d3",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Le Mans FC",
+      "deplasman": "AS Monaco",
+      "baslama_utc": "2026-11-08T16:15:00Z",
+      "olasiliklar": {
+        "1": 0.2148,
+        "X": 0.2281,
+        "2": 0.5571
+      },
+      "tahmin": "2",
+      "guven": 0.329,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5967,
+          "alt": 0.4033
+        },
+        "tahmin": "ust",
+        "guven": 0.1934,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "AS Monaco, deplasmanda %56 ile net favori görünüyor. Üstelik 3 veya daha fazla gol ihtimali %60 ile Ligue 1 ortalaması olan %58'in biraz üzerinde, bu yüzden Monaco'nun gollü bir galibiyeti öne çıkan senaryo. Le Mans son 3 maçta 6 gol yedi, Monaco ise 5; iki savunmanın da zorlandığı bu tablo gollü senaryoyu destekliyor. Arşivdeki ortalamada deplasman galibiyeti %33 iken burada belirgin biçimde yüksek. Ancak kaynaklar arasında görüş ayrılığı var, bu yüzden belirsizlik normalden fazla. En olası ikinci sonuç %23 ile beraberlik; orta düzeyde bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "54fae64b1421d836e07a17cad0536c73",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Angers",
+      "deplasman": "Nice",
+      "baslama_utc": "2026-11-08T16:15:00Z",
+      "olasiliklar": {
+        "1": 0.2747,
+        "X": 0.2614,
+        "2": 0.4639
+      },
+      "tahmin": "2",
+      "guven": 0.1892,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.55,
+          "alt": 0.45
+        },
+        "tahmin": "ust",
+        "guven": 0.1,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Nice, %46 ile deplasmanda önde başlıyor; ancak Angers'in %27'lik kazanma ihtimali de tamamen göz ardı edilecek düzeyde değil. 3 veya daha fazla gol %55 ile hafif öne çıkıyor, yani Nice'in gollü bir galibiyeti en makul senaryo gibi duruyor. Nice'in son 3 maçının üçünde 3 veya daha fazla gol çıkması bu tabloyu desteklerken, Ligue 1 ortalaması olan %58'e göre beklenti biraz daha temkinli. Ayrıca 22 kaynağın alışılmadık uyumu dikkat çekici; bu güven seviyesindeki tahminlerimiz 10 maçta %60 isabet etti. Angers'in galibiyeti %27 ile ikinci sonuç olup düşük sayılmaz.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "cc9731ee7796fe0d532f11ca2aa522c9",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Brest",
+      "deplasman": "Lyon",
+      "baslama_utc": "2026-11-08T16:15:00Z",
+      "olasiliklar": {
+        "1": 0.3425,
+        "X": 0.2747,
+        "2": 0.3828
+      },
+      "tahmin": "2",
+      "guven": 0.0403,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5125,
+          "alt": 0.4875
+        },
+        "tahmin": "ust",
+        "guven": 0.025,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Maç dengeli görünüyor; Lyon %38 ile Brest'in (%34) çok az önünde. Gol tarafı da ikiye bölünmüş durumda: 3 veya daha fazla gol %51, yani açık ve gollü bir maçtan çok, her iki yöne de gidebilecek bir senaryo var. Ligue 1'de 3 veya daha fazla gol ortalaması %58 olduğundan, bu maç genel eğilimin biraz altında kalıyor. Ayrıca Lyon'un deplasman kazanma olasılığı arşivimizdeki %33'ün üzerinde. En olası ikinci sonuç Brest galibiyeti ve %34'lük ihtimali hiç de küçümsenecek gibi değil.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3e9954446f26494c04c4967db523d375",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Le Havre",
+      "deplasman": "Lorient",
+      "baslama_utc": "2026-11-08T16:15:00Z",
+      "olasiliklar": {
+        "1": 0.3379,
+        "X": 0.2873,
+        "2": 0.3748
+      },
+      "tahmin": "2",
+      "guven": 0.0369,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4763,
+          "alt": 0.5237
+        },
+        "tahmin": "alt",
+        "guven": 0.0474,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Le Havre ile Lorient arasındaki maç dengeli görünüyor; Lorient %37 ile çok hafif önde, Le Havre ise %34'te kalıyor. Toplam gol dağılımı da neredeyse yarı yarıya (en fazla 2 gol %52), yani ne bir gol yağmuru ne de tamamen kapalı bir maç öne çıkıyor. Ligue 1 ortalamasında 3 veya daha fazla gol %58 iken bu maçta %48'e inmesi, ortalamadan daha kontrollü bir senaryoyu işaret ediyor; Le Havre'ın son 3 maçının üçünde 3 veya daha fazla gol çıkması bu tabloyla tam örtüşmüyor. En olası ikinci sonuç Le Havre galibiyeti %34 ve düşük bir ihtimal değil; beraberlik %29 ile onu yakından izliyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a85eafd97e49ac329956fa1022be891d",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Alanyaspor",
+      "deplasman": "Trabzonspor",
+      "baslama_utc": "2026-11-08T15:30:00Z",
+      "olasiliklar": {
+        "1": 0.1934,
+        "X": 0.238,
+        "2": 0.5686
+      },
+      "tahmin": "2",
+      "guven": 0.3306,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5558,
+          "alt": 0.4442
+        },
+        "tahmin": "ust",
+        "guven": 0.1116,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Trabzonspor %57 ile açık ara önde; deplasman net favori. %56'lık 3 veya daha fazla gol olasılığı, favorinin gollü kazandığı bir senaryoya işaret ediyor. Süper Lig arşivimizde deplasman galibiyeti %32 iken bu maçta bu ihtimalin belirgin biçimde yüksek olması dikkat çekiyor; üstelik Trabzonspor son 4 maçını kazanıp 11 gol atarken, Alanyaspor aynı sürede 10 gol yedi. En olası ikinci sonuç beraberlik, %24 ile makul bir ihtimal; Alanyaspor galibiyeti ise %19 ile daha düşük kalıyor.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "339a6465fa5153fd8f31e487cf557cf0",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Real Sociedad",
+      "deplasman": "Rayo Vallecano",
+      "baslama_utc": "2026-11-08T15:15:00Z",
+      "olasiliklar": {
+        "1": 0.5601,
+        "X": 0.2303,
+        "2": 0.2096
+      },
+      "tahmin": "1",
+      "guven": 0.3298,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6009,
+          "alt": 0.3991
+        },
+        "tahmin": "ust",
+        "guven": 0.2018,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Real Sociedad %56 ile net favori; Rayo Vallecano'nun kazanma ihtimali %21'de kalıyor. 3 veya daha fazla gol ihtimali %60 olduğundan senaryo, ev sahibinin gollü bir galibiyetine işaret ediyor; üstelik Real Sociedad'ın son 4 maçının tamamında en az 3 gol görüldü ve ligdeki %55'lik ortalamanın biraz üzerindeyiz. Bu güven seviyesindeki geçmiş tahminlerimiz 13 maçta %77 isabet yakalamıştı. En olası ikinci sonuç beraberlik, ancak %23 ile makul ama ikinci planda bir ihtimal.",
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "c70f9f21f48464daa93973147502e183",
       "lig": "soccer_germany_bundesliga",
@@ -26,11 +367,11 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Leverkusen deplasmanda net favori; %52 ile Köln'ün önünde, ancak fark kesin bir üstünlük sayılmaz. %67'lik 3 veya daha fazla gol olasılığı, Leverkusen'in gollü kazandığı ya da maçın açık geçtiği bir senaryoyu işaret ediyor. Leverkusen'in son 3 maçının üçünde de 3 veya daha fazla gol olması, Bundesliga ortalaması olan %68'e yakın bu beklentiyi destekliyor; Köln'ün son 3 maçında ise böyle bir gol sayısı görülmedi. En olası ikinci sonuç olan Köln galibiyeti %25 ile düşük bir ihtimal değil, ama Leverkusen'in belirgin gerisinde.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -57,11 +398,11 @@
         "kaynak_sayisi": 14
       },
       "ai_metin": "Bournemouth, %50 ile deplasmanda net favori görünüyor. %56'lık 3 veya daha fazla gol ihtimali de birleşince, deplasman ekibinin gollü bir galibiyeti öne çıkan senaryo. Ipswich'in son 4 maçının 3'ünde en az 3 gol çıkması bu açık maç eğilimini destekliyor; ayrıca Premier Lig'de arşivimizdeki ev sahibi kazanır ortalaması %44 iken burada %25'e inmesi belirgin bir sapma. En olası ikinci sonuç %26 ile beraberlik; ev sahisi galibiyeti ise %25'te kalıyor, ikisi de küçümsenmeyecek bir ihtimal.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -88,11 +429,11 @@
         "kaynak_sayisi": 11
       },
       "ai_metin": "Brighton bu maça belirgin favori olarak giriyor; galibiyet ihtimali %50, Brentford'un iki katı. 3 veya daha fazla gol ihtimali %60 ile ortalamanın (%57) biraz üstünde, bu da Brighton'ın gollü bir galibiyetine işaret ediyor. Brighton'ın son 4 maçında attığı 8 gole karşın yalnızca 1 maçta 3 veya daha fazla gol görülmesi, golleri farklı dağıttığını gösteriyor. En olası ikinci sonuç %25 ile beraberlik; Brentford galibiyeti de aynı seviyede, dolayısıyla sürpriz ihtimali küçümsenmemeli.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -119,11 +460,11 @@
         "kaynak_sayisi": 16
       },
       "ai_metin": "Chelsea deplasmanda %48 ile açık ama ezici olmayan bir favori; Sunderland'in kazanma olasılığı %26. Toplamda 3 veya daha fazla gol %53 ile hafif önde olduğundan, Chelsea'nin galibiyetiyle sonuçlanan, görece açık bir maç senaryosu öne çıkıyor. Ancak Premier Lig ortalaması olan %57'nin biraz altında kalınması, golün çok bol olmasını beklemediğimizi gösteriyor; üstelik iki takımın son 4 maçının sadece birinde 3 veya daha fazla gol görüldü. En olası ikinci sonuç, %26 ile Sunderland galibiyeti ve beraberlik arasında eşit paylaşılıyor; bu da ciddi bir ihtimal.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -150,11 +491,11 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Liverpool bu maçta net favori; deplasman galibiyeti %61 ile ev sahibinin belirgin şekilde önünde. 3 veya daha fazla gol ihtimali %60 olduğu için senaryo Liverpool'un gollü galibiyetine işaret ediyor; bu düzey Premier Lig ortalaması olan %57'nin biraz üzerinde. Crystal Palace'ın son 4 maçta yediği 10 gol ve Liverpool'un deplasmanda son 3 maçta attığı 10 gol bu tabloyla uyumlu. En olası ikinci sonuç %22 ile beraberlik; Crystal Palace galibiyeti ise %17'de kalıyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -181,11 +522,11 @@
         "kaynak_sayisi": 15
       },
       "ai_metin": "AC Milan deplasmanda %52 ile açık ama ezici olmayan bir favori. Toplam gol dağılımı dengeli (%54 en fazla 2 gol), yani Milan'ın kontrollü, az gollü bir galibiyeti öne çıkan senaryo. Serie A arşivimizde deplasman galibiyeti ortalaması %33 iken bu maçta belirgin biçimde yukarıda; üstelik 23 veri kaynağının alışılmadık uyumu ve bu güven seviyesinde 10 maçta %70'lik isabetimiz tabloyu destekliyor. Genoa'nın %21'lik galibiyet ihtimali düşük değil; evindeki son 3 maçta 3 galibiyet aldığı da bunu canlı tutuyor.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -212,11 +553,11 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Atalanta, %46 ile deplasmanda favori görünüyor; ancak Monza'nın %29'luk şansı farkı çok büyütmüyor. 3 veya daha fazla gol olasılığı %61 ile Serie A ortalaması olan %55'in üzerinde, yani Atalanta'nın gollü bir galibiyeti öne çıkan senaryo. İki takımın da son 5 maçının hepsinde 3 veya daha fazla gol çıkması bu açık maç beklentisini destekliyor. En olası ikinci sonuç Monza galibiyeti ve %29 ile hiç de küçümsenecek bir ihtimal değil.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -243,11 +584,11 @@
         "kaynak_sayisi": 12
       },
       "ai_metin": "Rennes–Lille dengeli bir maç; Rennes %44 ile çok hafif önde, ancak fark belirgin değil. Gol tarafında 3 veya daha fazla gol %57 ile Ligue 1 ortalaması olan %58'in hemen yanında, yani iki tarafın da gol bulabileceği açık bir maç görünüyor; Rennes'in son 3 maçının üçünde de 3 veya daha fazla gol olması bunu destekliyor. Lille'nin deplasmanda son 3 maçta 4 gol yemesi de bu açıklığa işaret ediyor. Lille'nin kazanması %29 ile orta düzeyde bir ihtimal.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -274,11 +615,11 @@
         "kaynak_sayisi": 10
       },
       "ai_metin": "Fenerbahçe, %55 ile net favori görünüyor. Üstelik 3 veya daha fazla gol ihtimali %59 olduğundan, deplasman ekibinin gollü bir galibiyeti en makul senaryo. Süper Lig arşivimizde deplasman galibiyeti ortalaması %32 iken bu maçta belirgin biçimde yüksek. Fenerbahçe'nin deplasmandaki son 3 maçında 8 gol yemesi ise Çorum FK'nın gol bulabileceği açık bir maça işaret ediyor. En olası ikinci sonuç %24 ile beraberlik, yani küçümsenmeyecek bir ihtimal.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-5",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -305,11 +646,11 @@
         "kaynak_sayisi": 11
       },
       "ai_metin": "Real Betis deplasmanda favori görünüyor, ancak %46'lık olasılık net bir üstünlükten çok ılımlı bir avantaja işaret ediyor. 3 veya daha fazla gol olasılığı %57 ile La Liga ortalaması olan %55'in biraz üstünde; bu da Betis'in kazandığı, ama kalenin de açık kaldığı bir senaryoyu çağrıştırıyor. Betis'in son 5 maçının 3'ünde 3 veya daha fazla gol görülmesi bu tabloyu destekliyor, Elche'nin son 4 maçında ise bu sayı yalnızca 1. Ev sahibi galibiyeti %28 ile arşivdeki %43'lük ortalamanın belirgin altında; yine de en olası ikinci sonuç olan bu ihtimal düşük sayılmaz, beraberlik %25 ile hemen arkasında.",
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
