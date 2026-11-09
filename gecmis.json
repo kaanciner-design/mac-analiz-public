@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-09T21:30:46Z",
+  "guncelleme_utc": "2026-11-09T22:30:44Z",
   "mac_sayisi": 299,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "Il Sabadell entra in questa partita come netto favorito: la probabilità di vittoria è del 55%, molto più alta rispetto a quella dell'avversario (19%). Le aspettative sui gol sono invece equilibrate: \"al massimo 2 gol\" (53%) è leggermente in vantaggio, per cui sembra più probabile che il Sabadell vinca con un risultato di scarto, ma controllato. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 61% su 87 partite, mentre in base alle probabilità ci si aspettava il 49%; in altre parole, in partite di questo tipo abbiamo ottenuto un rendimento superiore alle attese. Il secondo risultato più probabile è il pareggio, con il 26%, una possibilità plausibile; la vittoria del Real Sociedad B resta invece bassa, al 19%.",
         "pt": "O Sabadell entra nesta partida como favorito claro: a probabilidade de vitória é de 55%, bem à frente do adversário (19%). A expectativa de gols, por outro lado, é equilibrada: como \"no máximo 2 gols\" (53%) está ligeiramente à frente, parece mais provável que o Sabadell vença por um placar diferente, mas controlado. Nossas previsões anteriores com esse nível de confiança acertaram 61% em 87 jogos, enquanto o esperado, segundo as probabilidades, era 49%; ou seja, tivemos um desempenho acima da expectativa nesse tipo de partida. O segundo resultado mais provável é o empate, com 26%, uma probabilidade razoável; já a vitória do Real Sociedad B fica baixa, com 19%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
