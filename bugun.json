@@ -1,46 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-09T17:30:48Z",
-  "mac_sayisi": 20,
+  "guncelleme_utc": "2026-11-09T19:30:45Z",
+  "mac_sayisi": 19,
   "maclar": [
-    {
-      "mac_id": "f52b83a74c511828f6155889d751d191",
-      "lig": "soccer_spain_segunda_division",
-      "ev_sahibi": "Sabadell FC",
-      "deplasman": "Real Sociedad B",
-      "baslama_utc": "2026-11-09T19:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5475,
-        "X": 0.2593,
-        "2": 0.1932
-      },
-      "tahmin": "1",
-      "guven": 0.2882,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.472,
-          "alt": 0.528
-        },
-        "tahmin": "alt",
-        "guven": 0.056,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Sabadell bu maça net bir favori olarak giriyor; galibiyet olasılığı %55 ile rakibinin (%19) epey önünde. Gol beklentisi ise dengeli: en fazla 2 gol (%53) hafif önde olduğundan, Sabadell'in farklı ama kontrollü bir skorla kazanması daha olası görünüyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakalarken olasılıklara göre beklenen %49'du; yani bu tür maçlarda beklentinin üzerinde bir performans gösterdik. En olası ikinci sonuç beraberlik, %26 ile makul bir ihtimal; Real Sociedad B galibiyeti ise %19 ile düşük kalıyor.",
-      "ai_metinler": {
-        "en": "Sabadell goes into this match as a clear favorite, with a win probability of 55%, well ahead of their opponent's 19%. The goal outlook is balanced: at most 2 goals (53%) is slightly ahead, so Sabadell seems more likely to win by a clear but controlled scoreline. At this confidence level, our past predictions hit 61% across 87 matches, compared with the 49% expected based on the probabilities, so we have performed above expectations in matches like this. The second most likely outcome is a draw, a reasonable possibility at 26%, while a Real Sociedad B win stays low at 19%.",
-        "es": "Sabadell llega a este partido como claro favorito: su probabilidad de victoria es del 55%, muy por delante de la de su rival (19%). En cuanto a los goles, la previsión es equilibrada: como \"como máximo 2 goles\" (53%) va ligeramente por delante, parece más probable que Sabadell gane con un marcador corto pero controlado. En este nivel de confianza, nuestras predicciones anteriores acertaron un 61% en 87 partidos, frente al 49% esperado según las probabilidades; es decir, en este tipo de partidos hemos rendido por encima de lo esperado. El segundo resultado más probable es el empate, con un 26%, una probabilidad razonable; en cambio, la victoria del Real Sociedad B se queda en un 19%, una probabilidad baja.",
-        "de": "Sabadell geht als klarer Favorit in dieses Spiel; die Siegwahrscheinlichkeit liegt mit 55% deutlich vor der des Gegners (19%). Bei den Toren ist die Erwartung ausgeglichen: Da „höchstens 2 Tore“ (53%) leicht vorn liegt, erscheint ein Sieg von Sabadell mit einem klaren, aber kontrollierten Ergebnis wahrscheinlicher. Unsere bisherigen Prognosen auf diesem Konfidenzniveau erreichten bei 87 Spielen eine Trefferquote von 61%, während aufgrund der Wahrscheinlichkeiten 49% zu erwarten waren; in solchen Spielen haben wir also besser abgeschnitten als erwartet. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden mit 26%, eine durchaus realistische Möglichkeit; ein Sieg von Real Sociedad B bleibt mit 19% dagegen niedrig.",
-        "fr": "Sabadell aborde ce match en net favori : sa probabilité de victoire est de 55 %, bien devant son adversaire (19 %). Les attentes en matière de buts sont en revanche équilibrées : « au plus 2 buts » (53 %) est légèrement en tête, il semble donc plus probable que Sabadell s'impose avec un écart net mais un score maîtrisé. À ce niveau de confiance, nos prévisions passées ont atteint 61 % de réussite sur 87 matchs, alors que les probabilités laissaient attendre 49 % ; nous avons donc fait mieux que prévu dans ce type de rencontres. Le deuxième résultat le plus probable est le match nul, avec 26 %, une possibilité raisonnable, tandis qu'une victoire de Real Sociedad B reste faible, à 19 %.",
-        "it": "Il Sabadell entra in questa partita come netto favorito: la probabilità di vittoria è del 55%, molto più alta rispetto a quella dell'avversario (19%). Le aspettative sui gol sono invece equilibrate: \"al massimo 2 gol\" (53%) è leggermente in vantaggio, per cui sembra più probabile che il Sabadell vinca con un risultato di scarto, ma controllato. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 61% su 87 partite, mentre in base alle probabilità ci si aspettava il 49%; in altre parole, in partite di questo tipo abbiamo ottenuto un rendimento superiore alle attese. Il secondo risultato più probabile è il pareggio, con il 26%, una possibilità plausibile; la vittoria del Real Sociedad B resta invece bassa, al 19%.",
-        "pt": "O Sabadell entra nesta partida como favorito claro: a probabilidade de vitória é de 55%, bem à frente do adversário (19%). A expectativa de gols, por outro lado, é equilibrada: como \"no máximo 2 gols\" (53%) está ligeiramente à frente, parece mais provável que o Sabadell vença por um placar diferente, mas controlado. Nossas previsões anteriores com esse nível de confiança acertaram 61% em 87 jogos, enquanto o esperado, segundo as probabilidades, era 49%; ou seja, tivemos um desempenho acima da expectativa nesse tipo de partida. O segundo resultado mais provável é o empate, com 26%, uma probabilidade razoável; já a vitória do Real Sociedad B fica baixa, com 19%."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "c25477408b57267248b491fa5eab2572",
       "lig": "soccer_uefa_nations_league",
