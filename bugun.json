@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-09T00:32:30Z",
+  "guncelleme_utc": "2026-11-09T00:53:02Z",
   "mac_sayisi": 20,
   "maclar": [
     {
@@ -27,6 +27,7 @@
         "kaynak_sayisi": 11
       },
       "ai_metin": "Sabadell bu maça net bir favori olarak giriyor; galibiyet olasılığı %55 ile rakibinin (%19) epey önünde. Gol beklentisi ise dengeli: en fazla 2 gol (%53) hafif önde olduğundan, Sabadell'in farklı ama kontrollü bir skorla kazanması daha olası görünüyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakalarken olasılıklara göre beklenen %49'du; yani bu tür maçlarda beklentinin üzerinde bir performans gösterdik. En olası ikinci sonuç beraberlik, %26 ile makul bir ihtimal; Real Sociedad B galibiyeti ise %19 ile düşük kalıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -58,6 +59,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Armenia ile Cyprus arasındaki maç dengeli görünüyor; Armenia %42 ile yalnızca çok hafif önde. Sonuç belirsizliği, %54 ile en fazla 2 gol ihtimaliyle birleşince kontrollü, az gollü ve tek golle şekillenebilecek bir maç ihtimali öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz 91 maçta %49 isabet yakalayarak beklenen %41'in üzerinde kaldı, yine de bu maçta belirsizlik yüksek. En olası ikinci sonuç beraberlik; %28 ile düşük sayılmayacak, gerçekçi bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -89,6 +91,7 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Belgium, %49 ile deplasmanda önde görünüyor, ancak bu üstünlük çok net bir fark yaratmıyor. %63'lük 3 veya daha fazla gol ihtimaliyle birlikte bakınca, Belgium'un öne geçtiği ve maçın gollü aktığı açık bir senaryo öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakaladı; beklenen %49'un belirgin biçimde üzerinde olması bu tür maçlarda modelimizin iyi çalıştığını gösteriyor. En olası ikinci sonuç olan Turkey galibiyeti %27 ile düşük bir ihtimal değil, sürpriz payı hissedilir düzeyde.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -120,6 +123,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Arnavutluk, maçın favorisi olarak öne çıkıyor ama %50 ile üstünlüğü kesin denecek kadar büyük değil. Sonuç ve gol olasılıkları birlikte okunduğunda, en fazla 2 gol (%58) senaryosu ağır basıyor; yani kontrollü ve az gollü bir Arnavutluk üstünlüğü daha olası görünüyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakalayarak beklenen %49'un üzerinde kaldı. İkinci olası sonuç %29 ile beraberlik, yani göz ardı edilmeyecek bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -151,6 +155,7 @@
         "kaynak_sayisi": 5
       },
       "ai_metin": "Belarus bu maçta açık ara önde görünüyor; deplasman galibiyeti %85 ile belirgin bir tercih. Üç veya daha fazla gol ihtimali %60 olduğundan, Belarus'un gollü bir galibiyeti en makul senaryo gibi duruyor. Ancak 14 veri kaynağı arasında görüş ayrılığı var ve belirsizlik normalden yüksek; yine de bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet yakalamış. En olası ikinci sonuç olan beraberlik %11 ile düşük bir ihtimal olarak kalıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -182,6 +187,7 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "England bu maça net favori olarak giriyor; galibiyet olasılığı %75 ile rakibinin çok önünde. 3 veya daha fazla gol olasılığının %64 olması, en olası senaryonun England'ın gollü bir galibiyeti olduğunu gösteriyor. Bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet yakaladı, beklenen değer ise %66'ydı; yani bu tür maçlarda modelimiz ortalamanın üzerinde bir performans gösterdi, ancak bu sonucu garanti olarak okumamak gerekir. En olası ikinci sonuç olan beraberlik %16 ile düşük sayılmayacak, ama ana senaryonun belirgin biçimde gerisinde kalıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -213,6 +219,7 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Maçın genel resminde İspanya net önde: deplasman galibiyeti %82 ile belirgin bir fark yaratıyor. 3 veya daha fazla gol %62 olduğundan en olası senaryo, İspanya'nın gollü bir galibiyeti. Kaynaklar arasındaki görüş ayrılığı normalden yüksek olsa da, bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı. İkinci en olası sonuç beraberlik %12 ile düşük bir ihtimal; Çekya galibiyeti ise daha da geride.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -244,6 +251,7 @@
         "kaynak_sayisi": 10
       },
       "ai_metin": "Modelimiz bu maçta deplasmandaki France'ı %52 ile açık ara önde görüyor. 3 veya daha fazla gol olasılığı %59 olduğundan, France'ın gollü bir galibiyeti en makul senaryo gibi duruyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakalayarak beklenen %49'un üzerinde kaldı, yani bu tür maçlarda modelimiz iyi iş çıkardı. Italy'nin kazanma ihtimali %23 ile düşük, beraberlik ise %25 ile ikinci sıradaki sonuç olarak öne çıkıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -275,6 +283,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Montenegro, %70 ile bu maçta açık ara önde görünüyor. Toplam gol dağılımı neredeyse yarı yarıya (%52 ile 3 veya daha fazla gol, %48 ile en fazla 2 gol), yani favorinin galibiyeti hem gollü hem de kontrollü bir maçla gelebilir. Bu güven seviyesindeki tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı, ancak bu geçmiş başarı bu maçın sonucunu garanti etmez. En olası ikinci sonuç %19 ile beraberlik; ihtimal var, ama Montenegro'nun üstünlüğünün yanında geride kalıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -306,6 +315,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Moldova ile Kazakhstan arasındaki maç neredeyse tam dengede; Moldova %36 ile çok hafif önde, fark belirgin değil. En fazla 2 gol %61 ile öne çıkıyor, yani kontrollü, az gollü ve tek bir golün dengeyi bozabileceği bir maç bekleniyor. Bu güven seviyesindeki geçmiş tahminlerimiz 91 maçta %49 isabet bulmuş, beklenen %41'in üzerinde; yine de bu denli eşit bir maçta temkinli olmak gerekir. En olası ikinci sonuç Kazakhstan galibiyeti %33 ile Moldova'nın hemen arkasında, düşük bir ihtimal sayılmaz.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -337,6 +347,7 @@
         "kaynak_sayisi": 10
       },
       "ai_metin": "Leganés–Burgos CF dengeli bir maç gibi görünüyor; Leganés %44 ile yalnızca çok hafif önde. Toplam gol tarafında en fazla 2 gol %55 ile biraz öne çıkıyor, yani tablo daha çok kontrollü ve az gollü bir karşılaşmaya işaret ediyor. Bu güven seviyesindeki tahminlerimiz 91 maçta %49 isabet bulmuştu, beklenen %41'in üzerinde, ancak bu maçın dengeli yapısı ihtiyatlı olmayı gerektiriyor. En olası ikinci sonuç %29 ile beraberlik; bu da hhiç de küçümsenmeyecek bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -359,6 +370,7 @@
       "guven": 0.2043,
       "alt_ust": null,
       "ai_metin": "Andorra, %51 ile açık ama ezici olmayan bir favori görünüyor. Toplam gol olasılıkları elimizde olmadığından gol sayısı hakkında yorum yapamıyorum; yalnızca sonuç dengesi, kontrollü bir Andorra üstünlüğünden çok, beraberliğe de açık bir maça işaret ediyor. 11 veri kaynağı arasındaki belirgin görüş farkı belirsizliği normalden yüksek tutuyor, ancak bu güven seviyesindeki 87 maçlık geçmişimizde isabetimiz %61 oldu ve beklenen %49'un üzerinde kaldı. En olası ikinci sonuç %31 ile beraberlik; bu hiç de küçümsenmeyecek bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -390,6 +402,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Deplasmandaki Azerbaycan, %74 ile maçın net favorisi görünüyor. En fazla 2 gol ihtimalinin (%56) biraz öne çıkması, galibiyetin gollü bir fark yerine daha kontrollü ve az gollü bir maçla gelebileceğine işaret ediyor. Ancak 13 veri kaynağı arasındaki görüş farkı normalden yüksek; yine de bu güven seviyesinde geçmiş tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı. En olası ikinci sonuç beraberlik, %19 ile ciddiye alınabilir ama ana senaryo olmayan bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -421,6 +434,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "İzlanda bu maçta %50 ile önde, ancak fark çok geniş değil; Bulgaristan'ın %23'lük payı da tamamen göz ardı edilecek düzeyde değil. En fazla 2 gol ihtimali (%54) biraz daha yüksek olduğundan, deplasman favorisinin kontrollü ve az gollü bir galibiyeti en makul senaryo gibi duruyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakalayarak beklenen %49'un üzerinde kaldı. En olası ikinci sonuç olan beraberlik %27 ile düşük sayılmayacak bir ihtimal taşıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -452,6 +466,7 @@
         "kaynak_sayisi": 7
       },
       "ai_metin": "Luxembourg bu maça favori olarak giriyor, ancak %45'lik olasılık net bir üstünlükten çok sınırlı bir avantaja işaret ediyor. Sonuç ve gol dağılımı birlikte düşünüldüğünde, en fazla 2 gol (%60) ihtimali öne çıkıyor; yani kontrollü, az gollü ve dar farklı bir maç daha olası görünüyor. Bu güven seviyesindeki tahminlerimiz 87 maçta %61 isabet yakaladı ve beklenen %49'un belirgin biçimde üzerinde kaldı, bu da bu tür maçlarda modelimizin iyi çalıştığını gösteriyor. İkinci en olası sonuç %29 ile beraberlik; bu da hiç küçümsenmeyecek bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -483,6 +498,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Slovakya bu maça net favori olarak giriyor: kazanma olasılığı %71. Toplam gol dağılımı neredeyse dengeli (3 veya daha fazla gol %53), bu yüzden senaryo gollü bir Slovakya galibiyetine yakın, ancak çok gollü bir fark da kesin değil. Bu güven seviyesindeki tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı, yine de bu bir güvence sayılmaz. Beraberlik %19 ile ikinci en olası sonuç; düşük sayılmaz ama Slovakya'nın çok gerisinde.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -514,6 +530,7 @@
         "kaynak_sayisi": 3
       },
       "ai_metin": "Almanya, %73 ile deplasmanda net favori görünüyor. %68'lik \"3 veya daha fazla gol\" ihtimaliyle birlikte bakınca en olası senaryo, Almanya'nın gollü bir galibiyeti. 17 veri kaynağı arasında belirgin görüş farkı olması belirsizliği normalden yüksek tutuyor. Yine de bu güven seviyesinde geçmiş tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı. En olası ikinci sonuç olan beraberlik %16 ile düşük sayılmayacak ama zayıf bir ihtimal olarak kalıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -545,6 +562,7 @@
         "kaynak_sayisi": 4
       },
       "ai_metin": "Hollanda, %66 ile maçın net favorisi görünüyor. 3 veya daha fazla gol olasılığının %60 olması, bu galibiyetin gollü bir senaryoyla gelebileceğine işaret ediyor. Bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı. Yine de en olası ikinci sonuç olan beraberlik %20 ile ciddiye alınacak bir ihtimal, Yunanistan galibiyeti ise %14 ile düşük kalıyor.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -576,6 +594,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "İskoçya bu maça net favori olarak giriyor; galibiyet ihtimali %77 ile rakibinin çok önünde. Toplamda 3 veya daha fazla gol ihtimali %53 ile hafif önde olduğundan, en olası senaryo İskoçya'nın gollü bir galibiyeti, ancak az gollü ve kontrollü bir skor da hiç uzak değil. 14 veri kaynağı arasındaki görüş ayrılığı belirsizliği normalden yüksek tutuyor; yine de bu güven seviyesinde geçmiş tahminlerimiz 120 maçta %78 isabetle beklenen %66'nın üzerinde kaldı. En olası ikinci sonuç olan beraberlik %16 ile düşük ama tamamen yok sayılmayacak bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
@@ -607,6 +626,7 @@
         "kaynak_sayisi": 9
       },
       "ai_metin": "Deplasmandaki İsviçre %57 ile net favori görünüyor, Slovenya'nın kazanma ihtimali ise %17'de kalıyor. En fazla 2 gol olasılığı %55 ile biraz önde olduğu için en olası senaryo, İsviçre'nin kontrollü ve az gollü bir galibiyeti. Bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet etti, beklenen %66'nın belirgin şekilde üzerinde; yine de bu bir garanti sayılmaz. En olası ikinci sonuç %26 ile beraberlik, yani göz ardı edilmeyecek bir ihtimal.",
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
