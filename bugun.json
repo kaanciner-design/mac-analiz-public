@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-11T17:30:54Z",
-  "mac_sayisi": 9,
+  "guncelleme_utc": "2026-11-11T19:30:46Z",
+  "mac_sayisi": 10,
   "maclar": [
     {
       "mac_id": "c25477408b57267248b491fa5eab2572",
@@ -346,6 +346,45 @@
         "it": "La partita tra Moldova e Kazakhstan è quasi in perfetto equilibrio; la Moldova è leggermente avanti con il 36%, ma la differenza non è netta. L'opzione \"al massimo 2 gol\" emerge con il 61%, quindi ci si aspetta una partita controllata, con pochi gol, in cui una singola rete può rompere l'equilibrio. Le nostre previsioni passate con questo livello di fiducia hanno centrato il risultato nel 49% dei casi su 91 partite, un valore superiore al 41% atteso; tuttavia, in una partita così equilibrata è necessario essere prudenti. Il secondo risultato più probabile è la vittoria del Kazakhstan con il 33%, subito dietro la Moldova, e non può essere considerato una probabilità bassa.",
         "pt": "A partida entre Moldova e Kazakhstan está praticamente equilibrada; Moldova aparece muito ligeiramente à frente, com 36%, uma diferença pouco expressiva. A opção de no máximo 2 gols se destaca, com 61%, ou seja, a expectativa é de um jogo controlado, com poucos gols, em que um único gol pode desequilibrar o confronto. Nossas previsões anteriores com esse nível de confiança acertaram 49% em 91 partidas, acima dos 41% esperados; ainda assim, é preciso ter cautela em uma partida tão equilibrada. O segundo resultado mais provável é a vitória de Kazakhstan, com 33%, logo atrás de Moldova, e não pode ser considerada uma probabilidade baixa.",
         "en": "The match between Moldova and Kazakhstan is almost perfectly balanced; Moldova is very slightly ahead at 36%, but the difference is not significant. At most 2 goals stands out at 61%, so a controlled, low-scoring match is expected, one in which a single goal could tip the balance. Our past predictions at this confidence level were correct 49% of the time across 91 matches, above the expected 41%; still, caution is needed in such an evenly matched game. The second most likely outcome is a Kazakhstan win at 33%, just behind Moldova, which is not a low probability."
+      },
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "fed29050dc7e99c7dd6b3b4580f142b7",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Leganés",
+      "deplasman": "Burgos CF",
+      "baslama_utc": "2026-11-13T19:30:00Z",
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4375,
+        "X": 0.2885,
+        "2": 0.2741
+      },
+      "tahmin": "1",
+      "guven": 0.149,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4464,
+          "alt": 0.5536
+        },
+        "tahmin": "alt",
+        "guven": 0.1072,
+        "kaynak_sayisi": 10
+      },
+      "ai_metin": "Leganés–Burgos CF dengeli bir maç gibi görünüyor; Leganés %44 ile yalnızca çok hafif önde. Toplam gol tarafında en fazla 2 gol %55 ile biraz öne çıkıyor, yani tablo daha çok kontrollü ve az gollü bir karşılaşmaya işaret ediyor. Bu güven seviyesindeki tahminlerimiz 91 maçta %49 isabet bulmuştu, beklenen %41'in üzerinde, ancak bu maçın dengeli yapısı ihtiyatlı olmayı gerektiriyor. En olası ikinci sonuç %29 ile beraberlik; bu da hhiç de küçümsenmeyecek bir ihtimal.",
+      "ai_metinler": {
+        "en": "Leganés–Burgos CF looks like a balanced match, with Leganés only very slightly ahead at 44%. On total goals, at most 2 goals stands out a little at 55%, so the picture points more toward a controlled, low-scoring game. Our predictions at this confidence level were correct 49% of the time across 91 matches, above the expected 41%, but the balanced nature of this match calls for caution. The second most likely outcome is a draw at 29%, which is a probability not to be underestimated.",
+        "es": "Leganés–Burgos CF parece un partido equilibrado; Leganés está solo muy ligeramente por delante, con un 44%. En cuanto al total de goles, destaca un poco la opción de como máximo 2 goles, con un 55%, es decir, el panorama apunta más bien a un encuentro controlado y con pocos goles. Nuestras predicciones con este nivel de confianza acertaron un 49% en 91 partidos, por encima del 41% esperado, aunque el carácter equilibrado de este partido exige prudencia. El segundo resultado más probable es el empate, con un 29%; una probabilidad que no se puede subestimar en absoluto.",
+        "de": "Leganés–Burgos CF scheint eine ausgeglichene Partie zu werden; Leganés liegt mit 44% nur ganz leicht vorn. Bei der Gesamtzahl der Tore hat „höchstens 2 Tore“ mit 55% einen kleinen Vorsprung, das Bild deutet also eher auf eine kontrollierte Begegnung mit wenigen Toren hin. Unsere Vorhersagen auf diesem Vertrauensniveau waren in 91 Spielen zu 49% richtig, und damit über den erwarteten 41%. Die ausgeglichene Struktur dieses Spiels erfordert dennoch Vorsicht. Das zweitwahrscheinlichste Ergebnis ist mit 29% ein Unentschieden, und diese Wahrscheinlichkeit ist keineswegs zu unterschätzen.",
+        "fr": "Leganés–Burgos CF semble être un match équilibré ; Leganés n'est que très légèrement devant, avec 44 %. Pour le total de buts, « au plus 2 buts » ressort un peu, avec 55 %, ce qui indique plutôt une rencontre maîtrisée et avec peu de buts. À ce niveau de confiance, nos prévisions s'étaient révélées exactes à 49 % sur 91 matchs, au-dessus des 41 % attendus, mais le caractère équilibré de ce match invite à la prudence. Le deuxième résultat le plus probable est le match nul, avec 29 % ; c'est une probabilité loin d'être négligeable.",
+        "it": "Leganés–Burgos CF sembra una partita equilibrata, con il Leganés avanti solo di pochissimo al 44%. Per quanto riguarda il totale dei gol, \"al massimo 2 gol\" è leggermente favorito con il 55%, quindi il quadro indica più che altro una gara controllata e con pochi gol. Le nostre previsioni con questo livello di fiducia hanno centrato il risultato nel 49% dei casi su 91 partite, sopra il 41% atteso, ma la natura equilibrata di questa partita richiede prudenza. Il secondo esito più probabile è il pareggio con il 29%, una probabilità tutt'altro che trascurabile.",
+        "pt": "Leganés x Burgos CF parece ser uma partida equilibrada; o Leganés está apenas muito levemente à frente, com 44%. Em relação ao total de gols, \"no máximo 2 gols\" aparece um pouco à frente, com 55%, ou seja, o cenário aponta mais para um jogo controlado e com poucos gols. Nossas previsões com esse nível de confiança acertaram 49% em 91 jogos, acima dos 41% esperados, mas o equilíbrio desta partida pede cautela. O segundo resultado mais provável é o empate, com 29%, uma probabilidade que não deve ser subestimada."
       },
       "form": {
         "ev_sahibi": null,
