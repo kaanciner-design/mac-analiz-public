@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-12T05:37:18Z",
-  "mac_sayisi": 20,
+  "guncelleme_utc": "2026-11-12T14:30:56Z",
+  "mac_sayisi": 23,
   "maclar": [
     {
       "mac_id": "c25477408b57267248b491fa5eab2572",
@@ -747,6 +747,63 @@
         "it": "Svizzera, in trasferta, appare come la netta favorita con il 57%, mentre la probabilità di vittoria della Slovenia resta ferma al 17%. Poiché la probabilità di al massimo 2 gol è leggermente in vantaggio con il 55%, lo scenario più probabile è una vittoria controllata della Svizzera con pochi gol. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 78% su 120 partite, un valore nettamente superiore al 66% atteso; tuttavia, questa non è una garanzia. Il secondo risultato più probabile è il pareggio con il 26%, quindi una possibilità da non trascurare.",
         "pt": "A Suíça, jogando fora de casa, aparece como grande favorita com 57%, enquanto a probabilidade de vitória da Eslovênia fica em 17%. Como a probabilidade de no máximo 2 gols está um pouco à frente, com 55%, o cenário mais provável é uma vitória controlada da Suíça, com poucos gols. Nossas previsões anteriores com esse nível de confiança acertaram 78% em 120 jogos, bem acima dos 66% esperados; ainda assim, isso não é garantia. O segundo resultado mais provável é o empate, com 26%, ou seja, uma possibilidade que não deve ser ignorada."
       },
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "7bf0d1f95bb9b2b6003386c82ba96b6a",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Exeter City",
+      "deplasman": "Cheltenham Town",
+      "baslama_utc": "2026-11-14T12:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "908247d5d5cd714de37956edf865668b",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Real Valladolid CF",
+      "deplasman": "CD Castellón",
+      "baslama_utc": "2026-11-14T13:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "244d7d2e6f3f8529af59270040b7ec7a",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Kosovo",
+      "deplasman": "Israel",
+      "baslama_utc": "2026-11-14T14:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
