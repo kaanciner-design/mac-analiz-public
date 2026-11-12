@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-12T17:30:41Z",
+  "guncelleme_utc": "2026-11-12T19:30:43Z",
   "mac_sayisi": 301,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "La partita tra Armenia e Cyprus appare equilibrata: l'Armenia è solo leggermente avanti, con il 42%. L'incertezza sul risultato, unita a una probabilità del 54% di al massimo 2 gol, rende più plausibile una gara controllata, con pochi gol e decisa magari da una sola rete. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 49% su 91 partite, sopra il 41% atteso, ma in questa gara l'incertezza resta alta. Il secondo risultato più probabile è il pareggio: con il 28% non è una probabilità bassa, ma uno scenario realistico.",
         "pt": "A partida entre Armenia e Cyprus parece equilibrada; Armenia está apenas muito levemente à frente, com 42%. Essa incerteza no resultado, somada à probabilidade de 54% de no máximo 2 gols, faz ganhar força a possibilidade de um jogo controlado, com poucos gols e que pode ser decidido por um único gol. Nossas previsões anteriores com esse nível de confiança acertaram 49% em 91 partidas, ficando acima dos 41% esperados, mas ainda assim a incerteza é alta nesta partida. O segundo resultado mais provável é o empate; com 28%, é uma possibilidade realista e que não pode ser considerada baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -73,11 +73,11 @@
         "it": "Il Belgium è in vantaggio in trasferta con il 49%, ma questo vantaggio non crea una differenza molto netta. Considerando anche la probabilità del 63% di 3 o più gol, emerge uno scenario chiaro in cui il Belgium passa in vantaggio e la partita è ricca di reti. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 61% su 87 partite; il fatto che sia nettamente superiore al 49% atteso dimostra che il nostro modello funziona bene in questo tipo di partite. Il secondo risultato più probabile, la vittoria del Turkey, con il 27% non è una probabilità bassa: il margine di sorpresa è percepibile.",
         "pt": "A Belgium aparece à frente como visitante, com 49%, mas essa vantagem não cria uma diferença muito clara. Ao olhar também para a probabilidade de 63% de 3 ou mais gols, surge um cenário evidente: a Belgium abre vantagem e o jogo tem muitos gols. Nossas previsões anteriores com esse nível de confiança acertaram 61% em 87 jogos; estar claramente acima dos 49% esperados mostra que nosso modelo funciona bem nesse tipo de partida. O segundo resultado mais provável, a vitória da Turkey, tem 27%, o que não é uma probabilidade baixa, e a chance de surpresa é perceptível."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
