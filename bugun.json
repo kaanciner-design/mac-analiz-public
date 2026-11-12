@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-11T22:30:42Z",
-  "mac_sayisi": 19,
+  "guncelleme_utc": "2026-11-12T05:37:18Z",
+  "mac_sayisi": 20,
   "maclar": [
     {
       "mac_id": "c25477408b57267248b491fa5eab2572",
@@ -308,6 +308,25 @@
         "it": "Il Montenegro, con il 70%, appare nettamente avanti in questa partita. La distribuzione dei gol totali è quasi a metà (52% per 3 o più gol, 48% per al massimo 2 gol), quindi la vittoria della favorita può arrivare sia con una partita ricca di gol sia con una gara controllata. Le nostre previsioni con questo livello di fiducia hanno raggiunto il 78% di accuratezza su 120 partite, superando il 66% atteso, ma questo successo passato non garantisce il risultato di questa partita. Il secondo risultato più probabile è il pareggio con il 19%; è una possibilità concreta, ma resta indietro rispetto alla superiorità del Montenegro.",
         "pt": "Montenegro aparece com folga na frente nesta partida, com 70%. A distribuição do total de gols está quase meio a meio (52% para 3 ou mais gols e 48% para no máximo 2 gols), ou seja, a vitória do favorito pode vir tanto em um jogo com muitos gols quanto em um jogo controlado. Nossas previsões com esse nível de confiança acertaram 78% em 120 partidas, ficando acima dos 66% esperados, mas esse histórico positivo não garante o resultado desta partida. O segundo resultado mais provável é o empate, com 19%; é possível, mas fica atrás da superioridade de Montenegro."
       },
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "665e58e41174dda79aea0fdf39dec063",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Armenia",
+      "deplasman": "Cyprus",
+      "baslama_utc": "2026-11-13T05:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
