@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-12T20:30:44Z",
-  "mac_sayisi": 49,
+  "guncelleme_utc": "2026-11-12T21:30:44Z",
+  "mac_sayisi": 50,
   "maclar": [
     {
       "mac_id": "665e58e41174dda79aea0fdf39dec063",
@@ -1260,53 +1260,29 @@
         "deplasman": null
       },
       "ucretsiz": false
+    },
+    {
+      "mac_id": "60e79364c168ad0ad22c0cffc02be8a9",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Mirassol",
+      "deplasman": "Atletico Mineiro",
+      "baslama_utc": "2026-11-14T21:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
     }
   ],
   "en_guclu_3": {
     "gunler": [
-      {
-        "tarih": "2026-11-12",
-        "maclar": [
-          {
-            "mac_id": "3caa30ea2ac5a1be30724132ba10d82b",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "San Marino",
-            "deplasman": "Belarus",
-            "baslama_utc": "2026-11-12T19:45:00Z",
-            "tahmin": "2",
-            "olasilik": 0.8456,
-            "guven": 0.7351,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "87441c4ff41ea3d37812826345450408",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Czech Republic",
-            "deplasman": "Spain",
-            "baslama_utc": "2026-11-12T19:45:00Z",
-            "tahmin": "2",
-            "olasilik": 0.8163,
-            "guven": 0.6918,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "8a1174de9079b530bd6612e3fde6e2fa",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "England",
-            "deplasman": "Croatia",
-            "baslama_utc": "2026-11-12T19:45:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7545,
-            "guven": 0.5981,
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "tutan": 0,
-        "sonuclanan": 0
-      },
       {
         "tarih": "2026-11-13",
         "maclar": [
@@ -1351,7 +1327,49 @@
         "sonuclanan": 0
       }
     ],
-    "dun": null,
+    "dun": {
+      "tarih": "2026-11-12",
+      "maclar": [
+        {
+          "mac_id": "3caa30ea2ac5a1be30724132ba10d82b",
+          "lig": "soccer_uefa_nations_league",
+          "ev_sahibi": "San Marino",
+          "deplasman": "Belarus",
+          "baslama_utc": "2026-11-12T19:45:00Z",
+          "tahmin": "2",
+          "olasilik": 0.8456,
+          "guven": 0.7351,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "87441c4ff41ea3d37812826345450408",
+          "lig": "soccer_uefa_nations_league",
+          "ev_sahibi": "Czech Republic",
+          "deplasman": "Spain",
+          "baslama_utc": "2026-11-12T19:45:00Z",
+          "tahmin": "2",
+          "olasilik": 0.8163,
+          "guven": 0.6918,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "8a1174de9079b530bd6612e3fde6e2fa",
+          "lig": "soccer_uefa_nations_league",
+          "ev_sahibi": "England",
+          "deplasman": "Croatia",
+          "baslama_utc": "2026-11-12T19:45:00Z",
+          "tahmin": "1",
+          "olasilik": 0.7545,
+          "guven": 0.5981,
+          "skor": null,
+          "tuttu": null
+        }
+      ],
+      "tutan": 0,
+      "sonuclanan": 0
+    },
     "genel": {
       "gun": 3,
       "tam_isabet_gun": 2,
