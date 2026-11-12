@@ -1,241 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-12T19:30:43Z",
-  "mac_sayisi": 48,
+  "guncelleme_utc": "2026-11-12T20:30:44Z",
+  "mac_sayisi": 49,
   "maclar": [
-    {
-      "mac_id": "21f1d732a768ec97ab405050ec9be408",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Albania",
-      "deplasman": "Finland",
-      "baslama_utc": "2026-11-12T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5003,
-        "X": 0.2876,
-        "2": 0.2121
-      },
-      "tahmin": "1",
-      "guven": 0.2127,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4153,
-          "alt": 0.5847
-        },
-        "tahmin": "alt",
-        "guven": 0.1694,
-        "kaynak_sayisi": 9
-      },
-      "ai_metin": "Arnavutluk, maçın favorisi olarak öne çıkıyor ama %50 ile üstünlüğü kesin denecek kadar büyük değil. Sonuç ve gol olasılıkları birlikte okunduğunda, en fazla 2 gol (%58) senaryosu ağır basıyor; yani kontrollü ve az gollü bir Arnavutluk üstünlüğü daha olası görünüyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakalayarak beklenen %49'un üzerinde kaldı. İkinci olası sonuç %29 ile beraberlik, yani göz ardı edilmeyecek bir ihtimal.",
-      "ai_metinler": {
-        "en": "Albania stands out as the favorite in this match, but at 50%, its edge isn't big enough to call it certain. Reading the result and goal probabilities together, the \"at most 2 goals\" scenario (58%) carries the most weight, so a controlled, low-scoring Albania advantage looks more likely. Our past predictions at this confidence level hit 61% across 87 matches, staying above the expected 49%. The second most likely outcome is a draw at 29%, which is a possibility that shouldn't be ignored.",
-        "es": "Albania se perfila como favorita del partido, pero con un 50% su ventaja no es tan grande como para considerarla definitiva. Al analizar juntas las probabilidades de resultado y de goles, el escenario de como máximo 2 goles (58%) es el que más pesa; es decir, parece más probable una victoria controlada de Albania, con pocos goles. Nuestras predicciones anteriores con este nivel de confianza lograron un 61% de acierto en 87 partidos, por encima del 49% esperado. El segundo resultado más probable es el empate, con un 29%, una posibilidad que no conviene descartar.",
-        "de": "Albanien geht als Favorit in die Partie, doch mit 50% ist der Vorsprung nicht so groß, dass man ihn als sicher bezeichnen könnte. Wenn man die Wahrscheinlichkeiten für das Ergebnis und für die Tore zusammen betrachtet, überwiegt das Szenario mit höchstens 2 Toren (58%). Ein kontrollierter, torarmer Vorteil für Albanien erscheint also wahrscheinlicher. Unsere bisherigen Prognosen auf diesem Vertrauensniveau erzielten in 87 Spielen eine Trefferquote von 61% und lagen damit über den erwarteten 49%. Das zweitwahrscheinlichste Ergebnis ist mit 29% ein Unentschieden, also eine Möglichkeit, die man nicht außer Acht lassen sollte.",
-        "fr": "L'Albanie ressort comme favorite du match, mais avec 50 %, son avantage n'est pas assez net pour être qualifié de certain. Lorsque l'on lit ensemble les probabilités de résultat et de buts, le scénario de 2 buts au maximum (58 %) l'emporte ; autrement dit, une victoire contrôlée et peu prolifique de l'Albanie semble plus probable. Nos prévisions passées à ce niveau de confiance ont atteint 61 % de réussite sur 87 matchs, au-dessus des 49 % attendus. Le deuxième résultat le plus probable est le match nul, avec 29 %, une possibilité à ne pas négliger.",
-        "it": "L'Albania emerge come favorita della partita, ma con il 50% il suo vantaggio non è così ampio da poter essere considerato netto. Leggendo insieme le probabilità del risultato e quelle dei gol, lo scenario con al massimo 2 gol (58%) prevale; quindi appare più probabile una superiorità controllata dell'Albania, con pochi gol. Con questo livello di fiducia, le nostre previsioni passate hanno centrato il 61% su 87 partite, restando al di sopra del 49% atteso. Il secondo risultato più probabile è il pareggio con il 29%, cioè una possibilità da non trascurare.",
-        "pt": "A Albânia se destaca como favorita da partida, mas, com 50%, a vantagem não é grande o bastante para ser considerada certa. Quando as probabilidades de resultado e de gols são lidas em conjunto, o cenário de no máximo 2 gols (58%) pesa mais; ou seja, uma vitória controlada da Albânia, com poucos gols, parece mais provável. Nossas previsões anteriores com esse nível de confiança acertaram 61% em 87 jogos, ficando acima dos 49% esperados. O segundo resultado mais provável é o empate, com 29%, ou seja, uma possibilidade que não deve ser ignorada."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "3caa30ea2ac5a1be30724132ba10d82b",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "San Marino",
-      "deplasman": "Belarus",
-      "baslama_utc": "2026-11-12T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.0438,
-        "X": 0.1105,
-        "2": 0.8456
-      },
-      "tahmin": "2",
-      "guven": 0.7351,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6048,
-          "alt": 0.3952
-        },
-        "tahmin": "ust",
-        "guven": 0.2096,
-        "kaynak_sayisi": 5
-      },
-      "ai_metin": "Belarus bu maçta açık ara önde görünüyor; deplasman galibiyeti %85 ile belirgin bir tercih. Üç veya daha fazla gol ihtimali %60 olduğundan, Belarus'un gollü bir galibiyeti en makul senaryo gibi duruyor. Ancak 14 veri kaynağı arasında görüş ayrılığı var ve belirsizlik normalden yüksek; yine de bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet yakalamış. En olası ikinci sonuç olan beraberlik %11 ile düşük bir ihtimal olarak kalıyor.",
-      "ai_metinler": {
-        "en": "Belarus looks clearly ahead in this match, with an away win at 85% as the strong favorite. Since the probability of 3 or more goals is 60%, a Belarus win with plenty of goals seems the most plausible scenario. However, the 14 data sources disagree, and uncertainty is higher than usual. Even so, our past predictions at this confidence level have been correct 78% of the time across 120 matches. The second most likely outcome, a draw, remains unlikely at 11%.",
-        "es": "Bielorrusia parece estar claramente por delante en este partido; la victoria como visitante, con un 85%, es la opción más marcada. Como la probabilidad de que haya 3 o más goles es del 60%, una victoria de Belarus con goles parece el escenario más razonable. Sin embargo, hay desacuerdo entre las 14 fuentes de datos y la incertidumbre es mayor de lo normal; aun así, nuestras predicciones anteriores con este nivel de confianza acertaron un 78% en 120 partidos. El segundo resultado más probable, el empate, se mantiene como una probabilidad baja, con un 11%.\n\nNota: corrijo el nombre del equipo para mantenerlo sin cambios.\n\nBelarus parece estar claramente por delante en este partido; la victoria como visitante, con un 85%, es la opción más marcada. Como la probabilidad de que haya 3 o más goles es del 60%, una victoria de Belarus con goles parece el escenario más razonable. Sin embargo, hay desacuerdo entre las 14 fuentes de datos y la incertidumbre es mayor de lo normal; aun así, nuestras predicciones anteriores con este nivel de confianza acertaron un 78% en 120 partidos. El segundo resultado más probable, el empate, se mantiene como una probabilidad baja, con un 11%.",
-        "de": "Belarus liegt in diesem Spiel klar vorn; ein Auswärtssieg ist mit 85% die deutlich wahrscheinlichste Variante. Da die Wahrscheinlichkeit für 3 oder mehr Tore bei 60% liegt, scheint ein torreicher Sieg von Belarus das plausibelste Szenario zu sein. Allerdings gehen die Einschätzungen der 14 Datenquellen auseinander, und die Unsicherheit ist höher als üblich; dennoch lag unsere Trefferquote bei früheren Vorhersagen mit diesem Vertrauensniveau bei 78% in 120 Spielen. Das zweitwahrscheinlichste Ergebnis, ein Unentschieden, bleibt mit 11% eher unwahrscheinlich.",
-        "fr": "La Belarus semble nettement favorite dans ce match ; la victoire à l'extérieur, avec une probabilité de 85 %, ressort clairement. La probabilité de 3 buts ou plus étant de 60 %, une victoire de la Belarus avec plusieurs buts paraît être le scénario le plus plausible. Toutefois, les 14 sources de données ne sont pas d'accord entre elles et l'incertitude est plus élevée que d'habitude ; cela dit, à ce niveau de confiance, nos prévisions passées ont été justes à 78 % sur 120 matchs. Le match nul, deuxième résultat le plus probable, reste peu probable avec 11 %.",
-        "it": "Il Belarus sembra nettamente favorito in questa partita; la vittoria in trasferta, con l'85%, è un'indicazione molto chiara. Poiché la probabilità di 3 o più gol è del 60%, una vittoria del Belarus con diversi gol sembra lo scenario più plausibile. Tuttavia, tra le 14 fonti di dati ci sono opinioni discordanti e l'incertezza è più alta del normale; ciononostante, le nostre previsioni passate con questo livello di fiducia hanno centrato il risultato nel 78% dei casi su 120 partite. Il pareggio, il secondo risultato più probabile, resta una possibilità bassa, con l'11%.",
-        "pt": "Belarus parece estar bem à frente nesta partida; a vitória como visitante, com 85%, é a opção mais clara. Como a probabilidade de 3 ou mais gols é de 60%, uma vitória de Belarus com gols parece ser o cenário mais plausível. No entanto, há divergência entre as 14 fontes de dados e a incerteza está acima do normal; ainda assim, nossas previsões anteriores com esse nível de confiança acertaram 78% em 120 partidas. O empate, segundo resultado mais provável, continua com uma probabilidade baixa, de 11%."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": true
-    },
-    {
-      "mac_id": "8a1174de9079b530bd6612e3fde6e2fa",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "England",
-      "deplasman": "Croatia",
-      "baslama_utc": "2026-11-12T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7545,
-        "X": 0.1564,
-        "2": 0.0891
-      },
-      "tahmin": "1",
-      "guven": 0.5981,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6416,
-          "alt": 0.3584
-        },
-        "tahmin": "ust",
-        "guven": 0.2832,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "England bu maça net favori olarak giriyor; galibiyet olasılığı %75 ile rakibinin çok önünde. 3 veya daha fazla gol olasılığının %64 olması, en olası senaryonun England'ın gollü bir galibiyeti olduğunu gösteriyor. Bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet yakaladı, beklenen değer ise %66'ydı; yani bu tür maçlarda modelimiz ortalamanın üzerinde bir performans gösterdi, ancak bu sonucu garanti olarak okumamak gerekir. En olası ikinci sonuç olan beraberlik %16 ile düşük sayılmayacak, ama ana senaryonun belirgin biçimde gerisinde kalıyor.",
-      "ai_metinler": {
-        "en": "England go into this match as the clear favorites, with a 75% win probability putting them well ahead of their opponent. A 64% probability of 3 or more goals suggests the most likely scenario is a high-scoring England win. In 120 past matches at this confidence level, our predictions were correct 78% of the time, against an expected rate of 66%. This means our model performed above average in matches like this, but this result should not be read as a guarantee. The second most likely outcome, a draw at 16%, is not negligible, but it trails well behind the main scenario.",
-        "es": "Inglaterra... wait, team names unchanged: England.\n\nEngland llega a este partido como clara favorita; con una probabilidad de victoria del 75%, está muy por delante de su rival. Que la probabilidad de 3 o más goles sea del 64% indica que el escenario más probable es una victoria de England con goles. Nuestras predicciones anteriores con este nivel de confianza acertaron el 78% en 120 partidos, mientras que el valor esperado era del 66%; es decir, en este tipo de partidos nuestro modelo tuvo un rendimiento superior a la media, aunque este resultado no debe interpretarse como una garantía. El segundo resultado más probable, el empate, con un 16% no puede considerarse bajo, pero queda claramente por detrás del escenario principal.",
-        "de": "England geht als klarer Favorit in dieses Spiel; mit einer Siegwahrscheinlichkeit von 75% liegt das Team weit vor dem Gegner. Die Wahrscheinlichkeit von 64% für 3 oder mehr Tore zeigt, dass das wahrscheinlichste Szenario ein Sieg von England mit mehreren Toren ist. Unsere früheren Prognosen auf diesem Vertrauensniveau erzielten in 120 Spielen eine Trefferquote von 78%, während der Erwartungswert bei 66% lag. Bei solchen Spielen hat unser Modell also überdurchschnittlich abgeschnitten, dennoch sollte man dieses Ergebnis nicht als Garantie verstehen. Das zweitwahrscheinlichste Ergebnis, ein Unentschieden, ist mit 16% nicht gerade niedrig, bleibt aber deutlich hinter dem Hauptszenario zurück.",
-        "fr": "L'Angleterre aborde ce match en net favori : sa probabilité de victoire, à 75 %, la place très loin devant son adversaire. Avec une probabilité de 64 % pour 3 buts ou plus, le scénario le plus probable est une victoire de England avec plusieurs buts. Lors de nos précédentes prévisions à ce niveau de confiance, nous avons obtenu 78 % de réussite sur 120 matchs, pour une valeur attendue de 66 % ; autrement dit, notre modèle a fait mieux que la moyenne sur ce type de match, mais il ne faut pas considérer ce résultat comme une garantie. Le match nul, deuxième résultat le plus probable, à 16 %, n'est pas négligeable, mais il reste nettement derrière le scénario principal.",
-        "it": "L'England affronta questa partita da netta favorita: la probabilità di vittoria è del 75%, molto più alta rispetto a quella dell'avversario. Con una probabilità del 64% di 3 o più gol, lo scenario più probabile è una vittoria dell'England con diversi gol. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 78% su 120 partite, a fronte di un valore atteso del 66%: in questo tipo di partite il nostro modello ha quindi ottenuto risultati sopra la media, ma questo esito non va considerato una garanzia. Il pareggio, il secondo risultato più probabile, con il 16% non è trascurabile, ma resta nettamente dietro allo scenario principale.",
-        "pt": "A Inglaterra entra nesta partida como grande favorita; com 75% de probabilidade de vitória, está muito à frente do adversário. A probabilidade de 3 ou mais gols ser de 64% indica que o cenário mais provável é uma vitória da Inglaterra com gols. Nossas previsões anteriores com esse nível de confiança acertaram 78% em 120 partidas, enquanto o valor esperado era de 66%; ou seja, nesse tipo de jogo, nosso modelo teve um desempenho acima da média, mas esse resultado não deve ser interpretado como garantia. O segundo resultado mais provável, o empate, com 16%, não é baixo, mas fica claramente atrás do cenário principal."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "87441c4ff41ea3d37812826345450408",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Czech Republic",
-      "deplasman": "Spain",
-      "baslama_utc": "2026-11-12T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.0592,
-        "X": 0.1245,
-        "2": 0.8163
-      },
-      "tahmin": "2",
-      "guven": 0.6918,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6162,
-          "alt": 0.3838
-        },
-        "tahmin": "ust",
-        "guven": 0.2324,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Maçın genel resminde İspanya net önde: deplasman galibiyeti %82 ile belirgin bir fark yaratıyor. 3 veya daha fazla gol %62 olduğundan en olası senaryo, İspanya'nın gollü bir galibiyeti. Kaynaklar arasındaki görüş ayrılığı normalden yüksek olsa da, bu güven seviyesindeki geçmiş tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı. İkinci en olası sonuç beraberlik %12 ile düşük bir ihtimal; Çekya galibiyeti ise daha da geride.",
-      "ai_metinler": {
-        "en": "Spain is clearly ahead in the overall picture: an away win at 82% makes a significant difference. With 3 or more goals at 62%, the most likely scenario is a high-scoring Spain win. Although disagreement between sources is higher than normal, our past predictions at this confidence level hit 78% across 120 matches, staying above the expected 66%. The second most likely outcome, a draw at 12%, has a low probability, while a Czechia win is even further behind.",
-        "es": "En el panorama general del partido, España va claramente por delante: la victoria como visitante, con un 82%, marca una diferencia notable. Como la probabilidad de 3 o más goles es del 62%, el escenario más probable es una victoria de España con goles. Aunque el desacuerdo entre las fuentes es mayor de lo normal, nuestras predicciones anteriores con este nivel de confianza acertaron un 78% en 120 partidos, por encima del 66% esperado. El segundo resultado más probable es el empate, con un 12%, una probabilidad baja; la victoria de Chequia queda aún más atrás.",
-        "de": "Insgesamt liegt Spanien klar vorn: Der Auswärtssieg hat mit 82% eine deutliche Wahrscheinlichkeit. Da die Wahrscheinlichkeit für 3 oder mehr Tore bei 62% liegt, ist das wahrscheinlichste Szenario ein torreicher Sieg Spaniens. Auch wenn die Meinungsunterschiede zwischen den Quellen größer sind als sonst, lagen unsere bisherigen Prognosen auf diesem Vertrauensniveau mit 78% Trefferquote in 120 Spielen über den erwarteten 66%. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden mit 12%, also eher unwahrscheinlich; ein Sieg Tschechiens liegt noch weiter dahinter.",
-        "fr": "Dans l'ensemble, l'Espagne est nettement favorite : la victoire à l'extérieur, à 82 %, fait clairement la différence. Comme la probabilité de 3 buts ou plus est de 62 %, le scénario le plus probable est une victoire de l'Espagne avec plusieurs buts. Même si le désaccord entre les sources est plus élevé que d'habitude, nos prévisions passées à ce niveau de confiance ont atteint 78 % de réussite sur 120 matchs, au-dessus des 66 % attendus. Le deuxième résultat le plus probable, le match nul, n'a que 12 % de probabilité ; quant à une victoire de la Tchéquie, elle arrive encore plus loin derrière.",
-        "it": "Nel quadro generale della partita la Spagna è nettamente avanti: la vittoria in trasferta, con l'82%, fa una differenza evidente. Poiché la probabilità di 3 o più gol è del 62%, lo scenario più probabile è una vittoria della Spagna con molti gol. Anche se il disaccordo tra le fonti è più alto del normale, le nostre previsioni passate con questo livello di affidabilità hanno centrato il 78% su 120 partite, superando il 66% atteso. Il secondo risultato più probabile è il pareggio, con il 12%, una probabilità bassa; la vittoria della Cechia è ancora più indietro.",
-        "pt": "No panorama geral da partida, a Espanha está claramente à frente: a vitória como visitante, com 82%, faz uma diferença expressiva. Como a probabilidade de 3 ou mais gols é de 62%, o cenário mais provável é uma vitória da Espanha com gols. Embora a divergência de opiniões entre as fontes esteja acima do normal, nossas previsões anteriores nesse nível de confiança acertaram 78% em 120 partidas, ficando acima dos 66% esperados. O segundo resultado mais provável é o empate, com 12%, uma probabilidade baixa; já a vitória da Tchéquia fica ainda mais atrás."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c096e9bfabbbb93326413433b7c63511",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Italy",
-      "deplasman": "France",
-      "baslama_utc": "2026-11-12T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.233,
-        "X": 0.2501,
-        "2": 0.5169
-      },
-      "tahmin": "2",
-      "guven": 0.2668,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5906,
-          "alt": 0.4094
-        },
-        "tahmin": "ust",
-        "guven": 0.1812,
-        "kaynak_sayisi": 10
-      },
-      "ai_metin": "Modelimiz bu maçta deplasmandaki France'ı %52 ile açık ara önde görüyor. 3 veya daha fazla gol olasılığı %59 olduğundan, France'ın gollü bir galibiyeti en makul senaryo gibi duruyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakalayarak beklenen %49'un üzerinde kaldı, yani bu tür maçlarda modelimiz iyi iş çıkardı. Italy'nin kazanma ihtimali %23 ile düşük, beraberlik ise %25 ile ikinci sıradaki sonuç olarak öne çıkıyor.",
-      "ai_metinler": {
-        "en": "Our model sees France, playing away, as the clear favorite in this match at 52%. With a 59% probability of 3 or more goals, a high-scoring France win looks like the most plausible scenario. Our past predictions at this confidence level hit 61% across 87 matches, above the expected 49%, so our model has done well in matches like this. Italy's probability of winning is low at 23%, while a draw stands out as the second most likely outcome at 25%.",
-        "es": "Nuestro modelo ve a France, que juega como visitante, como claro favorito en este partido, con un 52%. Dado que la probabilidad de que haya 3 o más goles es del 59%, una victoria de France con goles parece el escenario más razonable. Nuestras predicciones anteriores con este nivel de confianza acertaron un 61% en 87 partidos, por encima del 49% esperado, es decir, que en este tipo de partidos nuestro modelo hizo un buen trabajo. La probabilidad de que gane Italy es baja, del 23%, mientras que el empate destaca como el segundo resultado más probable, con un 25%.",
-        "de": "Unser Modell sieht France in diesem Spiel auswärts mit 52% klar vorn. Da die Wahrscheinlichkeit für 3 oder mehr Tore bei 59% liegt, scheint ein Sieg von France mit mehreren Toren das plausibelste Szenario zu sein. Unsere bisherigen Vorhersagen auf diesem Konfidenzniveau erreichten in 87 Spielen eine Trefferquote von 61% und lagen damit über den erwarteten 49%. Unser Modell hat in solchen Spielen also gut abgeschnitten. Italys Siegwahrscheinlichkeit ist mit 23% niedrig, während ein Unentschieden mit 25% als zweithäufigster Ausgang hervorsticht.",
-        "it": "Il nostro modello vede la France, in trasferta, nettamente avanti con il 52%. Poiché la probabilità di 3 o più gol è del 59%, una vittoria della France con molti gol sembra lo scenario più plausibile. Le nostre previsioni passate con questo livello di fiducia hanno raggiunto il 61% di accuratezza su 87 partite, superando il 49% atteso: in partite di questo tipo, quindi, il nostro modello ha lavorato bene. La probabilità di vittoria dell'Italy è bassa, al 23%, mentre il pareggio, con il 25%, si distingue come il secondo risultato più probabile.",
-        "pt": "Nosso modelo vê a France, jogando fora de casa, bem à frente nesta partida, com 52%. Como a probabilidade de 3 ou mais gols é de 59%, uma vitória da France com muitos gols parece o cenário mais plausível. Nossas previsões anteriores com esse nível de confiança acertaram 61% em 87 jogos, acima dos 49% esperados, ou seja, nosso modelo foi bem nesse tipo de partida. A probabilidade de vitória da Italy é baixa, de 23%, enquanto o empate aparece como o segundo resultado mais provável, com 25%.",
-        "fr": "Notre modèle voit la France nettement favorite dans ce match à l'extérieur, avec 52 %. La probabilité de 3 buts ou plus étant de 59 %, une victoire de France avec des buts semble le scénario le plus plausible. Lors de nos précédentes prévisions à ce niveau de confiance, nous avons obtenu 61 % de réussite sur 87 matchs, soit au-dessus des 49 % attendus : notre modèle a donc bien fonctionné sur ce type de matchs. La probabilité de victoire de Italy est faible, à 23 %, tandis que le match nul ressort comme le deuxième résultat le plus probable, avec 25 %.\n\nCorrection: team names must remain unchanged, so \"la France\" should be \"France\".\n\nNotre modèle voit France nettement favorite dans ce match à l'extérieur, avec 52 %. La probabilité de 3 buts ou plus étant de 59 %, une victoire de France avec des buts semble le scénario le plus plausible. Lors de nos précédentes prévisions à ce niveau de confiance, nous avons obtenu 61 % de réussite sur 87 matchs, soit au-dessus des 49 % attendus : notre modèle a donc bien fonctionné sur ce type de matchs. La probabilité de victoire de Italy est faible, à 23 %, tandis que le match nul ressort comme le deuxième résultat le plus probable, avec 25 %."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "030f628eb3a7ad16c3bca6884c18c56e",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Montenegro",
-      "deplasman": "Latvia",
-      "baslama_utc": "2026-11-12T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7021,
-        "X": 0.1935,
-        "2": 0.1044
-      },
-      "tahmin": "1",
-      "guven": 0.5086,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.518,
-          "alt": 0.482
-        },
-        "tahmin": "ust",
-        "guven": 0.036,
-        "kaynak_sayisi": 9
-      },
-      "ai_metin": "Montenegro, %70 ile bu maçta açık ara önde görünüyor. Toplam gol dağılımı neredeyse yarı yarıya (%52 ile 3 veya daha fazla gol, %48 ile en fazla 2 gol), yani favorinin galibiyeti hem gollü hem de kontrollü bir maçla gelebilir. Bu güven seviyesindeki tahminlerimiz 120 maçta %78 isabet yakalayarak beklenen %66'nın üzerinde kaldı, ancak bu geçmiş başarı bu maçın sonucunu garanti etmez. En olası ikinci sonuç %19 ile beraberlik; ihtimal var, ama Montenegro'nun üstünlüğünün yanında geride kalıyor.",
-      "ai_metinler": {
-        "en": "Montenegro looks like the clear favorite in this match at 70%. The total goals split is almost even (52% for 3 or more goals, 48% for at most 2 goals), so the favorite's win could come in either a high-scoring or a controlled game. Our predictions at this confidence level hit 78% across 120 matches, above the expected 66%, but this past success does not guarantee the result of this match. The second most likely outcome is a draw at 19%; it is possible, but it trails well behind Montenegro's advantage.",
-        "es": "Montenegro aparece como claro favorito en este partido, con un 70%. La distribución del total de goles está casi a partes iguales (52% para 3 o más goles y 48% para un máximo de 2 goles), así que la victoria del favorito puede llegar tanto en un partido con muchos goles como en uno controlado. Nuestras predicciones con este nivel de confianza acertaron un 78% en 120 partidos, por encima del 66% esperado, aunque este éxito pasado no garantiza el resultado de este partido. El segundo resultado más probable es el empate, con un 19%; es posible, pero queda por detrás de la superioridad de Montenegro.",
-        "de": "Montenegro liegt in diesem Spiel mit 70% klar vorn. Die Verteilung der Gesamttore ist nahezu ausgeglichen (52% für 3 oder mehr Tore, 48% für höchstens 2 Tore), sodass der Sieg des Favoriten sowohl in einem torreichen als auch in einem kontrollierten Spiel zustande kommen kann. Unsere Vorhersagen auf diesem Vertrauensniveau erzielten in 120 Spielen eine Trefferquote von 78% und lagen damit über den erwarteten 66%, doch dieser bisherige Erfolg garantiert nicht den Ausgang dieses Spiels. Das zweitwahrscheinlichste Ergebnis ist mit 19% ein Unentschieden; die Möglichkeit besteht, bleibt aber hinter der Überlegenheit von Montenegro zurück.",
-        "fr": "Le Monténégro... wait, team names must stay unchanged: \"Montenegro\".\n\nMontenegro semble nettement favori dans ce match, avec 70 %. La répartition du nombre total de buts est presque équilibrée (52 % de probabilité pour 3 buts ou plus, 48 % pour au plus 2 buts) : la victoire du favori peut donc aussi bien survenir dans un match animé que dans une rencontre maîtrisée. Pour ce niveau de confiance, nos prévisions ont affiché un taux de réussite de 78 % sur 120 matchs, au-dessus des 66 % attendus, mais ce succès passé ne garantit pas l'issue de ce match. Le deuxième résultat le plus probable est le match nul, avec 19 % ; c'est une possibilité réelle, mais elle reste loin derrière la supériorité de Montenegro.",
-        "it": "Il Montenegro, con il 70%, appare nettamente avanti in questa partita. La distribuzione dei gol totali è quasi a metà (52% per 3 o più gol, 48% per al massimo 2 gol), quindi la vittoria della favorita può arrivare sia con una partita ricca di gol sia con una gara controllata. Le nostre previsioni con questo livello di fiducia hanno raggiunto il 78% di accuratezza su 120 partite, superando il 66% atteso, ma questo successo passato non garantisce il risultato di questa partita. Il secondo risultato più probabile è il pareggio con il 19%; è una possibilità concreta, ma resta indietro rispetto alla superiorità del Montenegro.",
-        "pt": "Montenegro aparece com folga na frente nesta partida, com 70%. A distribuição do total de gols está quase meio a meio (52% para 3 ou mais gols e 48% para no máximo 2 gols), ou seja, a vitória do favorito pode vir tanto em um jogo com muitos gols quanto em um jogo controlado. Nossas previsões com esse nível de confiança acertaram 78% em 120 partidas, ficando acima dos 66% esperados, mas esse histórico positivo não garante o resultado desta partida. O segundo resultado mais provável é o empate, com 19%; é possível, mas fica atrás da superioridade de Montenegro."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "665e58e41174dda79aea0fdf39dec063",
       "lig": "soccer_uefa_nations_league",
@@ -1349,6 +1115,139 @@
       "ev_sahibi": "Mallorca",
       "deplasman": "Córdoba",
       "baslama_utc": "2026-11-14T17:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "30b32c194d8c2ae2bc5a209be5df44a9",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Austria",
+      "deplasman": "Iceland",
+      "baslama_utc": "2026-11-14T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c745f84500717bc671c4cd864624cca8",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Austria",
+      "deplasman": "Republic of Ireland",
+      "baslama_utc": "2026-11-14T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "2b646127cc6cb400abc663c5a458f1db",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Sweden",
+      "deplasman": "Bosnia & Herzegovina",
+      "baslama_utc": "2026-11-14T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "159554f486f93d1d8d4213c570117a0e",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Portugal",
+      "deplasman": "Denmark",
+      "baslama_utc": "2026-11-14T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "432a7eb09df939bf1e15a3e183f8494f",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Northern Ireland",
+      "deplasman": "Ukraine",
+      "baslama_utc": "2026-11-14T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3ce5eabe80d52d3ed6056b6c141bbea8",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Romania",
+      "deplasman": "Poland",
+      "baslama_utc": "2026-11-14T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "beaf0bb6252d3b1d42a720aa385e9414",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Oviedo",
+      "deplasman": "Girona FC",
+      "baslama_utc": "2026-11-14T20:00:00Z",
       "durum": "yetersiz_veri",
       "olasiliklar": null,
       "tahmin": null,
