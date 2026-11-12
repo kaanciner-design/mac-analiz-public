@@ -1,85 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-12T14:30:56Z",
-  "mac_sayisi": 23,
+  "guncelleme_utc": "2026-11-12T17:30:41Z",
+  "mac_sayisi": 48,
   "maclar": [
-    {
-      "mac_id": "c25477408b57267248b491fa5eab2572",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Armenia",
-      "deplasman": "Cyprus",
-      "baslama_utc": "2026-11-12T17:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4231,
-        "X": 0.282,
-        "2": 0.2949
-      },
-      "tahmin": "1",
-      "guven": 0.1282,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4616,
-          "alt": 0.5384
-        },
-        "tahmin": "alt",
-        "guven": 0.0768,
-        "kaynak_sayisi": 9
-      },
-      "ai_metin": "Armenia ile Cyprus arasındaki maç dengeli görünüyor; Armenia %42 ile yalnızca çok hafif önde. Sonuç belirsizliği, %54 ile en fazla 2 gol ihtimaliyle birleşince kontrollü, az gollü ve tek golle şekillenebilecek bir maç ihtimali öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz 91 maçta %49 isabet yakalayarak beklenen %41'in üzerinde kaldı, yine de bu maçta belirsizlik yüksek. En olası ikinci sonuç beraberlik; %28 ile düşük sayılmayacak, gerçekçi bir ihtimal.",
-      "ai_metinler": {
-        "en": "The match between Armenia and Cyprus looks balanced, with Armenia only very slightly ahead at 42%. This uncertainty, combined with a 54% probability of at most 2 goals, points toward a controlled, low-scoring match that could be decided by a single goal. Our past predictions at this confidence level hit 49% across 91 matches, staying above the expected 41%, but uncertainty is still high in this match. The second most likely outcome is a draw; at 28%, it is not a low probability but a realistic possibility.",
-        "es": "El partido entre Armenia y Cyprus parece equilibrado; Armenia solo está muy ligeramente por delante, con un 42%. Esta incertidumbre en el resultado, unida a una probabilidad del 54% de que haya como máximo 2 goles, hace que cobre fuerza la posibilidad de un partido controlado, con pocos goles y que podría decidirse por la mínima. En este nivel de confianza, nuestras predicciones anteriores acertaron un 49% en 91 partidos, por encima del 41% esperado; aun así, la incertidumbre en este partido es alta. El segundo resultado más probable es el empate; con un 28%, es una posibilidad real y nada despreciable.",
-        "de": "Das Spiel zwischen Armenia und Cyprus wirkt ausgeglichen; Armenia liegt mit 42% nur ganz knapp vorn. Zusammen mit der Wahrscheinlichkeit von 54% für höchstens 2 Tore spricht vieles für eine kontrollierte, torarme Partie, die durch ein einziges Tor entschieden werden könnte. Unsere bisherigen Prognosen auf diesem Vertrauensniveau lagen bei 91 Spielen mit einer Trefferquote von 49% über den erwarteten 41%, dennoch ist die Unsicherheit in diesem Spiel hoch. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden; mit 28% ist es keineswegs gering und eine realistische Möglichkeit.",
-        "fr": "Le match entre Armenia et Cyprus semble équilibré ; Armenia n'est que très légèrement devant, avec 42 %. Cette incertitude sur l'issue, combinée à une probabilité de 54 % d'avoir au plus 2 buts, met en avant le scénario d'une rencontre maîtrisée, avec peu de buts, qui pourrait se décider sur un seul but. Pour ce niveau de confiance, nos prévisions passées ont atteint 49 % de réussite sur 91 matchs, soit au-dessus des 41 % attendus ; l'incertitude reste toutefois élevée pour ce match. Le deuxième résultat le plus probable est le match nul : avec 28 %, il représente une probabilité loin d'être négligeable, tout à fait réaliste.",
-        "it": "La partita tra Armenia e Cyprus appare equilibrata: l'Armenia è solo leggermente avanti, con il 42%. L'incertezza sul risultato, unita a una probabilità del 54% di al massimo 2 gol, rende più plausibile una gara controllata, con pochi gol e decisa magari da una sola rete. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 49% su 91 partite, sopra il 41% atteso, ma in questa gara l'incertezza resta alta. Il secondo risultato più probabile è il pareggio: con il 28% non è una probabilità bassa, ma uno scenario realistico.",
-        "pt": "A partida entre Armenia e Cyprus parece equilibrada; Armenia está apenas muito levemente à frente, com 42%. Essa incerteza no resultado, somada à probabilidade de 54% de no máximo 2 gols, faz ganhar força a possibilidade de um jogo controlado, com poucos gols e que pode ser decidido por um único gol. Nossas previsões anteriores com esse nível de confiança acertaram 49% em 91 partidas, ficando acima dos 41% esperados, mas ainda assim a incerteza é alta nesta partida. O segundo resultado mais provável é o empate; com 28%, é uma possibilidade realista e que não pode ser considerada baixa."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "d598d5e914a905ef70b01fd1b444aecb",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Turkey",
-      "deplasman": "Belgium",
-      "baslama_utc": "2026-11-12T17:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.2676,
-        "X": 0.2434,
-        "2": 0.489
-      },
-      "tahmin": "2",
-      "guven": 0.2214,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6341,
-          "alt": 0.3659
-        },
-        "tahmin": "ust",
-        "guven": 0.2682,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Belgium, %49 ile deplasmanda önde görünüyor, ancak bu üstünlük çok net bir fark yaratmıyor. %63'lük 3 veya daha fazla gol ihtimaliyle birlikte bakınca, Belgium'un öne geçtiği ve maçın gollü aktığı açık bir senaryo öne çıkıyor. Bu güven seviyesindeki geçmiş tahminlerimiz 87 maçta %61 isabet yakaladı; beklenen %49'un belirgin biçimde üzerinde olması bu tür maçlarda modelimizin iyi çalıştığını gösteriyor. En olası ikinci sonuç olan Turkey galibiyeti %27 ile düşük bir ihtimal değil, sürpriz payı hissedilir düzeyde.",
-      "ai_metinler": {
-        "en": "Belgium looks ahead away from home at 49%, but this edge doesn't create a very clear gap. Looking at it together with the 63% probability of 3 or more goals, a clear scenario stands out: Belgium take the lead and the match is full of goals. Our past predictions at this confidence level hit 61% across 87 matches; being well above the expected 49% shows that our model works well in matches like this. The second most likely outcome, a Turkey win, is not a low probability at 27%, so there is a noticeable chance of a surprise.",
-        "es": "Bélgica... no, team names must stay unchanged, so \"Belgium\" and \"Turkey\" remain as written.\n\nBelgium parte con ventaja como visitante, con un 49%, pero esa superioridad no marca una diferencia muy clara. Si se tiene en cuenta además la probabilidad del 63% de que haya 3 o más goles, destaca un escenario bastante claro: Belgium se pone por delante y el partido tiene muchos goles. En nuestras predicciones anteriores con este nivel de confianza, acertamos el 61% en 87 partidos; que esté claramente por encima del 49% esperado demuestra que nuestro modelo funciona bien en este tipo de partidos. El segundo resultado más probable, la victoria de Turkey, con un 27%, no es una probabilidad baja, y se percibe un margen de sorpresa considerable.",
-        "de": "Belgium liegt auswärts mit 49% vorn, doch dieser Vorsprung schafft keinen wirklich deutlichen Abstand. Zusammen mit der Wahrscheinlichkeit von 63% für 3 oder mehr Tore zeichnet sich ein klares Szenario ab: Belgium geht in Führung, und das Spiel verläuft torreich. Unsere bisherigen Prognosen auf diesem Vertrauensniveau erzielten bei 87 Spielen eine Trefferquote von 61%; dass dieser Wert deutlich über den erwarteten 49% liegt, zeigt, dass unser Modell bei solchen Spielen gut funktioniert. Der zweitwahrscheinlichste Ausgang, ein Sieg von Turkey, ist mit 27% keine geringe Wahrscheinlichkeit, und der Überraschungsfaktor ist spürbar.",
-        "fr": "La Belgium est en tête à l'extérieur avec 49 %, mais cet avantage ne crée pas un écart très net. Si l'on y ajoute la probabilité de 63 % de 3 buts ou plus, un scénario se dégage clairement : la Belgium prend l'avantage et le match est riche en buts. Lors de nos précédentes prévisions à ce niveau de confiance, nous avons obtenu 61 % de réussite sur 87 matchs ; ce chiffre nettement supérieur aux 49 % attendus montre que notre modèle fonctionne bien pour ce type de rencontres. Le deuxième résultat le plus probable, la victoire de la Turkey, atteint 27 % : ce n'est pas une probabilité faible, et la part de surprise est bien réelle.",
-        "it": "Il Belgium è in vantaggio in trasferta con il 49%, ma questo vantaggio non crea una differenza molto netta. Considerando anche la probabilità del 63% di 3 o più gol, emerge uno scenario chiaro in cui il Belgium passa in vantaggio e la partita è ricca di reti. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 61% su 87 partite; il fatto che sia nettamente superiore al 49% atteso dimostra che il nostro modello funziona bene in questo tipo di partite. Il secondo risultato più probabile, la vittoria del Turkey, con il 27% non è una probabilità bassa: il margine di sorpresa è percepibile.",
-        "pt": "A Belgium aparece à frente como visitante, com 49%, mas essa vantagem não cria uma diferença muito clara. Ao olhar também para a probabilidade de 63% de 3 ou mais gols, surge um cenário evidente: a Belgium abre vantagem e o jogo tem muitos gols. Nossas previsões anteriores com esse nível de confiança acertaram 61% em 87 jogos; estar claramente acima dos 49% esperados mostra que nosso modelo funciona bem nesse tipo de partida. O segundo resultado mais provável, a vitória da Turkey, tem 27%, o que não é uma probabilidade baixa, e a chance de surpresa é perceptível."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "21f1d732a768ec97ab405050ec9be408",
       "lig": "soccer_uefa_nations_league",
@@ -797,6 +719,558 @@
       "ev_sahibi": "Kosovo",
       "deplasman": "Israel",
       "baslama_utc": "2026-11-14T14:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3af2458dd9984d806bbf46e7bd2d7872",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Wigan Athletic",
+      "deplasman": "Barnsley",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b35b9bd8cea60f3228039ca3fc77d4ba",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Wimbledon",
+      "deplasman": "Blackpool",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "e315dc04bd19f74df3199a20acf38004",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Leicester City",
+      "deplasman": "Bradford City",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d90bee9d1425fb4cebbb391add66d0ed",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Bromley FC",
+      "deplasman": "Notts County",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "56de4f6858f896d0278456d0f2f8988a",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Milton Keynes Dons",
+      "deplasman": "Burton Albion",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "7c4066bf032cae51ebc6ad81973efc55",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Luton",
+      "deplasman": "Cambridge United",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "82da0980dcfc5af1d8436be9c3531d91",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Doncaster Rovers",
+      "deplasman": "Leyton Orient",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "7147fa15092c5d85c5ff46f815e2d5ee",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Wycombe Wanderers",
+      "deplasman": "Huddersfield Town",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "2a7644c3777bcd3ca72e318bb7799217",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Stevenage",
+      "deplasman": "Mansfield Town",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "77721ceba014237d5ab331aad5bd05ac",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Sheffield Wednesday",
+      "deplasman": "Plymouth Argyle",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "371f8125767427c4b599eab458bb5549",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Stockport County FC",
+      "deplasman": "Reading",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "fe8130a05bb9c0ca21e120279f2291de",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Port Vale",
+      "deplasman": "Accrington Stanley",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "e637ea0237f583a1b24ab839d809d3e5",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Walsall",
+      "deplasman": "Barnet",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "1cf6ac52aa2dbb22a0eeb97e0bc80579",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Bristol Rovers",
+      "deplasman": "Chesterfield FC",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f6d830e8821f774883ee2ac32d083bd9",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Colchester United",
+      "deplasman": "Gillingham",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "58dfacfa366fb7b2d5d980ea4ed1d9eb",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Rotherham United",
+      "deplasman": "Crawley Town",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f71d831db05c678e7208a069210cd59d",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Crewe Alexandra",
+      "deplasman": "Newport County",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "8861bc687f5c3eab3ddd9ad6fec487ee",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Swindon Town",
+      "deplasman": "Grimsby Town",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "8c883d569a4f4682e918e8b2b37f65ea",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Salford City",
+      "deplasman": "Northampton Town",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "0e3335b3ccccc54d5457fca8f68a7c16",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Shrewsbury Town",
+      "deplasman": "Oldham Athletic",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "c85f68dde3ac31fe8f0da78b1ddca180",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Rochdale",
+      "deplasman": "York City",
+      "baslama_utc": "2026-11-14T15:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d5b0e0c0934f6a58410410bd573a5065",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Real Sociedad B",
+      "deplasman": "Sporting Gijón",
+      "baslama_utc": "2026-11-14T15:15:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-09",
+              "lig": "soccer_spain_segunda_division",
+              "rakip": "Sabadell FC",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        },
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d548fa34308b91eb158670eb18e1deae",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Georgia",
+      "deplasman": "Hungary",
+      "baslama_utc": "2026-11-14T17:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "8d67c473dbea0c85b30eefee4bca53d9",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Norway",
+      "deplasman": "Wales",
+      "baslama_utc": "2026-11-14T17:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b8c1674ee9357dafd107c231c7d8277e",
+      "lig": "soccer_england_league2",
+      "ev_sahibi": "Fleetwood Town",
+      "deplasman": "Tranmere Rovers",
+      "baslama_utc": "2026-11-14T17:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "570ec7734e1f7d9e813ab0013291f5f5",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Almería",
+      "deplasman": "Andorra CF",
+      "baslama_utc": "2026-11-14T17:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "6bc4aff371a2a5eaf38c73700a5c14d4",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Mallorca",
+      "deplasman": "Córdoba",
+      "baslama_utc": "2026-11-14T17:30:00Z",
       "durum": "yetersiz_veri",
       "olasiliklar": null,
       "tahmin": null,
