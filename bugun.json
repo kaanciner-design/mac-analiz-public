@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-13T20:30:42Z",
+  "guncelleme_utc": "2026-11-13T21:30:56Z",
   "mac_sayisi": 47,
   "maclar": [
     {
@@ -1551,7 +1551,7 @@
         "ev_sahibi": null,
         "deplasman": null
       },
-      "ucretsiz": false
+      "ucretsiz": true
     },
     {
       "mac_id": "f241b0cec31506c2eb749ff9be97667c",
@@ -2060,49 +2060,6 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-13",
-        "maclar": [
-          {
-            "mac_id": "199940cd0d3a9c7ad93be4063cb2df93",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Scotland",
-            "deplasman": "North Macedonia",
-            "baslama_utc": "2026-11-13T19:45:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7747,
-            "guven": 0.6161,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "d0ee3d2f44cf592797f6ecae8de62edd",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Serbia",
-            "deplasman": "Germany",
-            "baslama_utc": "2026-11-13T19:45:00Z",
-            "tahmin": "2",
-            "olasilik": 0.7346,
-            "guven": 0.5759,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "9529ee7ca79126460eb063f53187f321",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Liechtenstein",
-            "deplasman": "Azerbaijan",
-            "baslama_utc": "2026-11-13T19:45:00Z",
-            "tahmin": "2",
-            "olasilik": 0.7415,
-            "guven": 0.5544,
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "tutan": 0,
-        "sonuclanan": 0
-      },
-      {
         "tarih": "2026-11-14",
         "maclar": [
           {
@@ -2147,47 +2104,47 @@
       }
     ],
     "dun": {
-      "tarih": "2026-11-12",
+      "tarih": "2026-11-13",
       "maclar": [
         {
-          "mac_id": "3caa30ea2ac5a1be30724132ba10d82b",
+          "mac_id": "199940cd0d3a9c7ad93be4063cb2df93",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "San Marino",
-          "deplasman": "Belarus",
-          "baslama_utc": "2026-11-12T19:45:00Z",
-          "tahmin": "2",
-          "olasilik": 0.8456,
-          "guven": 0.7351,
-          "skor": "0-2",
-          "tuttu": true
-        },
-        {
-          "mac_id": "87441c4ff41ea3d37812826345450408",
-          "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Czech Republic",
-          "deplasman": "Spain",
-          "baslama_utc": "2026-11-12T19:45:00Z",
-          "tahmin": "2",
-          "olasilik": 0.8163,
-          "guven": 0.6918,
-          "skor": "0-2",
-          "tuttu": true
-        },
-        {
-          "mac_id": "8a1174de9079b530bd6612e3fde6e2fa",
-          "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "England",
-          "deplasman": "Croatia",
-          "baslama_utc": "2026-11-12T19:45:00Z",
+          "ev_sahibi": "Scotland",
+          "deplasman": "North Macedonia",
+          "baslama_utc": "2026-11-13T19:45:00Z",
           "tahmin": "1",
-          "olasilik": 0.7545,
-          "guven": 0.5981,
-          "skor": "2-1",
-          "tuttu": true
+          "olasilik": 0.7747,
+          "guven": 0.6161,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "d0ee3d2f44cf592797f6ecae8de62edd",
+          "lig": "soccer_uefa_nations_league",
+          "ev_sahibi": "Serbia",
+          "deplasman": "Germany",
+          "baslama_utc": "2026-11-13T19:45:00Z",
+          "tahmin": "2",
+          "olasilik": 0.7346,
+          "guven": 0.5759,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "9529ee7ca79126460eb063f53187f321",
+          "lig": "soccer_uefa_nations_league",
+          "ev_sahibi": "Liechtenstein",
+          "deplasman": "Azerbaijan",
+          "baslama_utc": "2026-11-13T19:45:00Z",
+          "tahmin": "2",
+          "olasilik": 0.7415,
+          "guven": 0.5544,
+          "skor": null,
+          "tuttu": null
         }
       ],
-      "tutan": 3,
-      "sonuclanan": 3
+      "tutan": 0,
+      "sonuclanan": 0
     },
     "genel": {
       "gun": 4,
