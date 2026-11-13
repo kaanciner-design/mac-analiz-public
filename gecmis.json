@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-13T21:30:56Z",
+  "guncelleme_utc": "2026-11-13T22:30:54Z",
   "mac_sayisi": 318,
   "maclar": [
     {
@@ -25,10 +25,10 @@
         "it": "L'Andorra appare come favorita con il 51%, in modo netto ma non schiacciante. Non disponendo delle probabilità sul totale dei gol, non posso commentare il numero di reti; l'equilibrio dei risultati indica una partita aperta anche al pareggio, più che un controllato dominio dell'Andorra. La notevole divergenza di opinioni tra le 11 fonti di dati mantiene l'incertezza più alta del normale, ma nel nostro storico di 87 partite con questo livello di fiducia la nostra percentuale di previsioni corrette è stata del 61%, superiore al 49% atteso. Il secondo risultato più probabile è il pareggio con il 31%; una possibilità tutt'altro che trascurabile.",
         "pt": "O Andorra aparece como favorito claro, mas não esmagador, com 51%. Como não temos as probabilidades de total de gols, não consigo comentar sobre a quantidade de gols; apenas o equilíbrio do resultado indica um jogo aberto também ao empate, mais do que uma superioridade controlada do Andorra. A divergência clara de opiniões entre as 11 fontes de dados mantém a incerteza acima do normal, mas, no nosso histórico de 87 jogos com esse nível de confiança, nosso índice de acerto foi de 61%, ficando acima dos 49% esperados. O segundo resultado mais provável é o empate, com 31%; essa é uma possibilidade que não deve ser subestimada de forma alguma."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
       "alt_ust_tuttu": null,
       "ucretsiz": false
     },
@@ -64,11 +64,11 @@
         "it": "L'Azerbaijan, in trasferta, appare come il netto favorito della partita con il 74%. La probabilità di al massimo 2 goal (56%) è leggermente in evidenza, e indica che la vittoria potrebbe arrivare con una partita più controllata e con pochi goal, anziché con un largo margine di gol. Tuttavia, la divergenza di opinioni tra le 13 fonti di dati è superiore alla norma; ciononostante, a questo livello di fiducia le nostre previsioni passate hanno raggiunto una percentuale di accuratezza del 78% su 120 partite, restando al di sopra del 66% atteso. Il secondo risultato più probabile è il pareggio: con il 19% è una possibilità da prendere sul serio, ma non lo scenario principale.",
         "pt": "O Azerbaijan, jogando fora de casa, aparece como grande favorito da partida, com 74%. A probabilidade de no máximo 2 gols (56%) estar um pouco à frente indica que a vitória pode vir em um jogo mais controlado e com poucos gols, em vez de uma vitória por grande diferença no placar. No entanto, a divergência de opinião entre as 13 fontes de dados é maior que o normal; ainda assim, nesse nível de confiança, nossas previsões anteriores acertaram 78% em 120 partidas, ficando acima dos 66% esperados. O segundo resultado mais provável é o empate, com 19%, uma possibilidade que pode ser levada a sério, mas que não é o cenário principal."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -103,11 +103,11 @@
         "it": "L'Islanda è avanti con il 50% in questa partita, ma il margine non è molto ampio; anche il 23% della Bulgaria non è del tutto trascurabile. Poiché la probabilità di al massimo 2 gol (54%) è leggermente più alta, una vittoria controllata e con pochi gol della favorita in trasferta sembra lo scenario più plausibile. Le nostre previsioni passate con questo livello di fiducia hanno raggiunto il 61% di accuratezza su 87 partite, superando il 49% atteso. Il pareggio, secondo risultato più probabile, ha una probabilità del 27%, tutt'altro che bassa.",
         "pt": "A Islândia está na frente nesta partida com 50%, mas a diferença não é muito grande; os 23% da Bulgária também não podem ser totalmente descartados. Como a probabilidade de no máximo 2 gols (54%) é um pouco maior, o cenário mais razoável parece ser uma vitória controlada e com poucos gols do favorito fora de casa. Nossas previsões anteriores com esse nível de confiança acertaram 61% em 87 jogos, ficando acima dos 49% esperados. O segundo resultado mais provável, o empate, tem 27% e representa uma probabilidade que não pode ser considerada baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-5",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -142,11 +142,11 @@
         "it": "Il Lussemburgo affronta questa partita da favorito, ma una probabilità del 45% indica più un vantaggio limitato che una netta superiorità. Considerando insieme il risultato e la distribuzione dei gol, emerge come più probabile l'ipotesi di al massimo 2 gol (60%); sembra quindi più probabile una partita controllata, con pochi gol e un margine ridotto. Le nostre previsioni con questo livello di fiducia hanno centrato il 61% su 87 partite, restando nettamente sopra il 49% atteso: questo indica che il nostro modello funziona bene in partite di questo tipo. Il secondo risultato più probabile è il pareggio, con il 29%: una probabilità da non sottovalutare affatto.",
         "pt": "O Luxembourg entra como favorito nesta partida, mas a probabilidade de 45% indica uma vantagem limitada, e não uma superioridade clara. Considerando o resultado e a distribuição de gols em conjunto, a probabilidade de no máximo 2 gols (60%) se destaca; ou seja, um jogo controlado, com poucos gols e placar apertado parece mais provável. Nossas previsões com esse nível de confiança acertaram 61% em 87 partidas, ficando bem acima dos 49% esperados, o que mostra que nosso modelo funciona bem nesse tipo de jogo. O segundo resultado mais provável é o empate, com 29%, uma probabilidade que não deve ser subestimada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -181,11 +181,11 @@
         "it": "La Slovacchia parte come netta favorita in questa partita: la probabilità di vittoria è del 71%. La distribuzione dei gol totali è quasi equilibrata (3 o più gol 53%), quindi lo scenario più vicino è una vittoria della Slovacchia con diversi gol, anche se un largo scarto non è affatto certo. Con questo livello di fiducia, le nostre previsioni hanno centrato il 78% su 120 partite, restando sopra il 66% atteso, ma questo non è comunque una garanzia. Il pareggio, con il 19%, è il secondo risultato più probabile; non è trascurabile, ma resta molto distante dalla Slovacchia.",
         "pt": "A Eslováquia entra como grande favorita nesta partida: probabilidade de vitória de 71%. A distribuição do total de gols está quase equilibrada (3 ou mais gols: 53%), então o cenário se aproxima de uma vitória da Eslováquia com gols, mas uma vitória por grande diferença também não é certa. Nossas previsões com esse nível de confiança acertaram 78% em 120 partidas, acima dos 66% esperados, mas isso não é garantia. O empate, com 19%, é o segundo resultado mais provável; não é uma probabilidade baixa, mas fica bem atrás da Eslováquia."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -220,11 +220,11 @@
         "it": "La Germania, con il 73%, appare come netta favorita in trasferta. Se si considera anche la probabilità del 68% di \"3 o più gol\", lo scenario più probabile è una vittoria della Germania con molti gol. La differenza di opinioni evidente tra le 17 fonti di dati mantiene l'incertezza più alta del normale. Tuttavia, a questo livello di fiducia, le nostre previsioni passate hanno raggiunto una precisione del 78% su 120 partite, restando sopra il 66% atteso. Il secondo risultato più probabile, il pareggio, con il 16% non è trascurabile, ma resta comunque una probabilità debole.",
         "pt": "A Alemanha aparece como favorita clara fora de casa, com 73%. Olhando junto com a probabilidade de 68% de \"3 ou mais gols\", o cenário mais provável é uma vitória da Alemanha com gols. A diferença evidente de opiniões entre as 17 fontes de dados mantém a incerteza acima do normal. Ainda assim, nesse nível de confiança, nossas previsões anteriores acertaram 78% em 120 jogos, ficando acima dos 66% esperados. O segundo resultado mais provável, o empate, com 16%, não é desprezível, mas continua sendo uma possibilidade fraca."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -259,11 +259,11 @@
         "it": "I Paesi Bassi appaiono come i netti favoriti della partita, con il 66%. La probabilità di 3 o più gol è del 60%, un dato che indica che questa vittoria potrebbe arrivare con uno scenario ricco di reti. Con questo livello di fiducia, le nostre previsioni passate hanno centrato il 78% su 120 partite, restando al di sopra del 66% atteso. Tuttavia, il pareggio, il secondo risultato più probabile con il 20%, è una possibilità da prendere sul serio, mentre la vittoria della Grecia resta bassa al 14%.",
         "pt": "A Holanda aparece como grande favorita, com 66%. A probabilidade de 3 ou mais gols ser de 60% indica que essa vitória pode acontecer em um cenário com bastante gols. Em nossas previsões anteriores com esse nível de confiança, tivemos 78% de acerto em 120 jogos, ficando acima do esperado de 66%. Ainda assim, o empate, o segundo resultado mais provável, com 20%, é uma possibilidade que deve ser levada a sério, enquanto a vitória da Grécia fica baixa, com 14%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "7-0",
+      "toplam_gol": 7,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -298,11 +298,11 @@
         "it": "La Scozia affronta questa partita da netta favorita: con il 77% di probabilità di vittoria, è molto davanti all'avversario. Poiché la probabilità di 3 o più gol totali è leggermente in vantaggio con il 53%, lo scenario più probabile è una vittoria della Scozia con diverse reti, ma anche un risultato con pochi gol e controllato non è affatto lontano. Il disaccordo tra le 14 fonti di dati mantiene l'incertezza più alta del normale; tuttavia, a questo livello di fiducia, le nostre previsioni passate sono rimaste sopra il 66% atteso, con il 78% di accuratezza su 120 partite. Il pareggio, il secondo risultato più probabile, ha una probabilità del 16%: bassa, ma non del tutto trascurabile.",
         "pt": "A Escócia entra como grande favorita nesta partida, com probabilidade de vitória de 77%, bem à frente do adversário. Como a probabilidade de 3 ou mais gols é de 53%, ligeiramente à frente, o cenário mais provável é uma vitória da Escócia com gols, mas um placar com poucos gols e controlado também não está nada distante. A divergência entre as 14 fontes de dados mantém a incerteza acima do normal; ainda assim, nesse nível de confiança, nossas previsões passadas ficaram acima dos 66% esperados, com 78% de acerto em 120 partidas. O empate, segundo resultado mais provável, tem 16%: uma probabilidade baixa, mas que não deve ser totalmente descartada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": true
     },
     {
@@ -337,11 +337,11 @@
         "it": "Svizzera, in trasferta, appare come la netta favorita con il 57%, mentre la probabilità di vittoria della Slovenia resta ferma al 17%. Poiché la probabilità di al massimo 2 gol è leggermente in vantaggio con il 55%, lo scenario più probabile è una vittoria controllata della Svizzera con pochi gol. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 78% su 120 partite, un valore nettamente superiore al 66% atteso; tuttavia, questa non è una garanzia. Il secondo risultato più probabile è il pareggio con il 26%, quindi una possibilità da non trascurare.",
         "pt": "A Suíça, jogando fora de casa, aparece como grande favorita com 57%, enquanto a probabilidade de vitória da Eslovênia fica em 17%. Como a probabilidade de no máximo 2 gols está um pouco à frente, com 55%, o cenário mais provável é uma vitória controlada da Suíça, com poucos gols. Nossas previsões anteriores com esse nível de confiança acertaram 78% em 120 jogos, bem acima dos 66% esperados; ainda assim, isso não é garantia. O segundo resultado mais provável é o empate, com 26%, ou seja, uma possibilidade que não deve ser ignorada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -376,11 +376,11 @@
         "it": "Leganés–Burgos CF sembra una partita equilibrata, con il Leganés avanti solo di pochissimo al 44%. Per quanto riguarda il totale dei gol, \"al massimo 2 gol\" è leggermente favorito con il 55%, quindi il quadro indica più che altro una gara controllata e con pochi gol. Le nostre previsioni con questo livello di fiducia hanno centrato il risultato nel 49% dei casi su 91 partite, sopra il 41% atteso, ma la natura equilibrata di questa partita richiede prudenza. Il secondo esito più probabile è il pareggio con il 29%, una probabilità tutt'altro che trascurabile.",
         "pt": "Leganés x Burgos CF parece ser uma partida equilibrada; o Leganés está apenas muito levemente à frente, com 44%. Em relação ao total de gols, \"no máximo 2 gols\" aparece um pouco à frente, com 55%, ou seja, o cenário aponta mais para um jogo controlado e com poucos gols. Nossas previsões com esse nível de confiança acertaram 49% em 91 jogos, acima dos 41% esperados, mas o equilíbrio desta partida pede cautela. O segundo resultado mais provável é o empate, com 29%, uma probabilidade que não deve ser subestimada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-1",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
