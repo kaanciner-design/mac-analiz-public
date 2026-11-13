@@ -1,46 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-13T17:30:49Z",
-  "mac_sayisi": 53,
+  "guncelleme_utc": "2026-11-13T19:30:44Z",
+  "mac_sayisi": 52,
   "maclar": [
-    {
-      "mac_id": "fed29050dc7e99c7dd6b3b4580f142b7",
-      "lig": "soccer_spain_segunda_division",
-      "ev_sahibi": "Leganés",
-      "deplasman": "Burgos CF",
-      "baslama_utc": "2026-11-13T19:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4375,
-        "X": 0.2885,
-        "2": 0.2741
-      },
-      "tahmin": "1",
-      "guven": 0.149,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4464,
-          "alt": 0.5536
-        },
-        "tahmin": "alt",
-        "guven": 0.1072,
-        "kaynak_sayisi": 10
-      },
-      "ai_metin": "Leganés–Burgos CF dengeli bir maç gibi görünüyor; Leganés %44 ile yalnızca çok hafif önde. Toplam gol tarafında en fazla 2 gol %55 ile biraz öne çıkıyor, yani tablo daha çok kontrollü ve az gollü bir karşılaşmaya işaret ediyor. Bu güven seviyesindeki tahminlerimiz 91 maçta %49 isabet bulmuştu, beklenen %41'in üzerinde, ancak bu maçın dengeli yapısı ihtiyatlı olmayı gerektiriyor. En olası ikinci sonuç %29 ile beraberlik; bu da hhiç de küçümsenmeyecek bir ihtimal.",
-      "ai_metinler": {
-        "en": "Leganés–Burgos CF looks like a balanced match, with Leganés only very slightly ahead at 44%. On total goals, at most 2 goals stands out a little at 55%, so the picture points more toward a controlled, low-scoring game. Our predictions at this confidence level were correct 49% of the time across 91 matches, above the expected 41%, but the balanced nature of this match calls for caution. The second most likely outcome is a draw at 29%, which is a probability not to be underestimated.",
-        "es": "Leganés–Burgos CF parece un partido equilibrado; Leganés está solo muy ligeramente por delante, con un 44%. En cuanto al total de goles, destaca un poco la opción de como máximo 2 goles, con un 55%, es decir, el panorama apunta más bien a un encuentro controlado y con pocos goles. Nuestras predicciones con este nivel de confianza acertaron un 49% en 91 partidos, por encima del 41% esperado, aunque el carácter equilibrado de este partido exige prudencia. El segundo resultado más probable es el empate, con un 29%; una probabilidad que no se puede subestimar en absoluto.",
-        "de": "Leganés–Burgos CF scheint eine ausgeglichene Partie zu werden; Leganés liegt mit 44% nur ganz leicht vorn. Bei der Gesamtzahl der Tore hat „höchstens 2 Tore“ mit 55% einen kleinen Vorsprung, das Bild deutet also eher auf eine kontrollierte Begegnung mit wenigen Toren hin. Unsere Vorhersagen auf diesem Vertrauensniveau waren in 91 Spielen zu 49% richtig, und damit über den erwarteten 41%. Die ausgeglichene Struktur dieses Spiels erfordert dennoch Vorsicht. Das zweitwahrscheinlichste Ergebnis ist mit 29% ein Unentschieden, und diese Wahrscheinlichkeit ist keineswegs zu unterschätzen.",
-        "fr": "Leganés–Burgos CF semble être un match équilibré ; Leganés n'est que très légèrement devant, avec 44 %. Pour le total de buts, « au plus 2 buts » ressort un peu, avec 55 %, ce qui indique plutôt une rencontre maîtrisée et avec peu de buts. À ce niveau de confiance, nos prévisions s'étaient révélées exactes à 49 % sur 91 matchs, au-dessus des 41 % attendus, mais le caractère équilibré de ce match invite à la prudence. Le deuxième résultat le plus probable est le match nul, avec 29 % ; c'est une probabilité loin d'être négligeable.",
-        "it": "Leganés–Burgos CF sembra una partita equilibrata, con il Leganés avanti solo di pochissimo al 44%. Per quanto riguarda il totale dei gol, \"al massimo 2 gol\" è leggermente favorito con il 55%, quindi il quadro indica più che altro una gara controllata e con pochi gol. Le nostre previsioni con questo livello di fiducia hanno centrato il risultato nel 49% dei casi su 91 partite, sopra il 41% atteso, ma la natura equilibrata di questa partita richiede prudenza. Il secondo esito più probabile è il pareggio con il 29%, una probabilità tutt'altro che trascurabile.",
-        "pt": "Leganés x Burgos CF parece ser uma partida equilibrada; o Leganés está apenas muito levemente à frente, com 44%. Em relação ao total de gols, \"no máximo 2 gols\" aparece um pouco à frente, com 55%, ou seja, o cenário aponta mais para um jogo controlado e com poucos gols. Nossas previsões com esse nível de confiança acertaram 49% em 91 jogos, acima dos 41% esperados, mas o equilíbrio desta partida pede cautela. O segundo resultado mais provável é o empate, com 29%, uma probabilidade que não deve ser subestimada."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "6eecb0b534f8cda6254b8a0884289e16",
       "lig": "soccer_uefa_nations_league",
@@ -911,7 +872,8 @@
         "es": "Stockport County destaca con una probabilidad cercana a la mitad (51%); sin embargo, esta superioridad es más una ventaja moderada que una diferencia clara. En cuanto a los goles, la opción de 3 o más goles va por delante con un 59%, por lo que el escenario más probable es una victoria local con goles o un partido abierto en el que ambos equipos marquen. Nuestras predicciones con este nivel de confianza acertaron un 60% en 91 partidos, muy por encima del 49% esperado, lo que indica que el modelo funciona bien en este tipo de encuentros. El segundo resultado más probable es el empate (25%), una probabilidad media que no debe subestimarse.",
         "fr": "Stockport County se distingue avec une probabilité d'environ une sur deux (51 %), mais cette supériorité représente un avantage modéré plutôt qu'un écart net. Côté buts, 3 buts ou plus arrivent en tête avec 59 %. Une victoire de l'équipe à domicile avec beaucoup de buts, ou un match ouvert où les deux équipes marquent, est donc le scénario qui ressort. À ce niveau de confiance, nos prévisions ont atteint 60 % de réussite sur 91 matchs, nettement au-dessus des 49 % attendus, ce qui montre que le modèle fonctionne bien pour ce type de rencontres. Le deuxième résultat le plus probable est le match nul (25 %), une probabilité moyenne qui ne doit pas être sous-estimée.",
         "it": "Lo Stockport County è favorito con una probabilità di circa il 51%, ma si tratta più di un vantaggio moderato che di un margine netto. Sul fronte dei gol, l'opzione \"3 o più gol\" è in testa con il 59%, quindi lo scenario più probabile è una vittoria della squadra di casa con molti gol oppure una partita aperta in cui segnano entrambe le squadre. Con questo livello di fiducia, le nostre previsioni hanno centrato il 60% su 91 partite, restando nettamente sopra il 49% atteso: questo indica che il modello funziona bene in partite di questo tipo. Il secondo risultato più probabile è il pareggio (25%), una probabilità media da non sottovalutare.",
-        "pt": "Stockport County aparece na frente com uma probabilidade de cerca de metade (51%), mas essa vantagem é mais moderada do que clara. Na parte dos gols, 3 ou mais gols lideram com 59%, então o cenário mais provável é uma vitória do mandante com gols ou uma partida aberta, em que os dois times balançam as redes. Nossas previsões com esse nível de confiança acertaram 60% em 91 jogos, ficando bem acima dos 49% esperados, o que mostra que o modelo funciona bem nesse tipo de partida. O segundo resultado mais provável é o empate (25%), uma probabilidade intermediária que não deve ser subestimada."
+        "pt": "Stockport County aparece na frente com uma probabilidade de cerca de metade (51%), mas essa vantagem é mais moderada do que clara. Na parte dos gols, 3 ou mais gols lideram com 59%, então o cenário mais provável é uma vitória do mandante com gols ou uma partida aberta, em que os dois times balançam as redes. Nossas previsões com esse nível de confiança acertaram 60% em 91 jogos, ficando bem acima dos 49% esperados, o que mostra que o modelo funciona bem nesse tipo de partida. O segundo resultado mais provável é o empate (25%), uma probabilidade intermediária que não deve ser subestimada.",
+        "de": "Stockport County setzt sich mit einer Wahrscheinlichkeit von knapp der Hälfte (51%) durch, doch dieser Vorteil ist eher moderat als deutlich. Bei den Toren liegt „3 oder mehr Tore“ mit 59% vorn, daher sind ein torreicher Heimsieg oder ein offenes Spiel, in dem beide Teams treffen, die wahrscheinlichsten Szenarien. Unsere Prognosen auf diesem Konfidenzniveau lagen bei 91 Spielen mit einer Trefferquote von 60% deutlich über den erwarteten 49%, was zeigt, dass das Modell bei solchen Spielen gut funktioniert. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (25%) – eine mittelhohe Wahrscheinlichkeit, die man nicht unterschätzen sollte."
       },
       "form": {
         "ev_sahibi": null,
