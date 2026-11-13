@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-13T05:37:18Z",
-  "mac_sayisi": 50,
+  "guncelleme_utc": "2026-11-13T14:30:47Z",
+  "mac_sayisi": 51,
   "maclar": [
     {
       "mac_id": "cc1ca0aea8a9aa6ad2e1537834fe0d04",
@@ -1966,6 +1966,25 @@
         "it": "Il Vasco da Gama è il netto favorito in questa partita: con il 64%, la squadra ospite è nettamente davanti alla squadra di casa, il Chapecoense. Anche la probabilità del 59% di 3 o più gol va in questa direzione, e lo scenario più probabile è una vittoria del favorito con molti gol. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 78% su 124 partite, superando il 66% atteso: in questo tipo di partite il nostro modello ha quindi lavorato bene. Il secondo risultato più probabile è il pareggio con il 21%, mentre la vittoria della squadra di casa è poco probabile, con il 15%.",
         "pt": "O Vasco da Gama é o grande favorito neste jogo; com 64%, o time visitante está bem à frente do mandante Chapecoense. A probabilidade de 59% de 3 ou mais gols também reforça essa leitura, e o cenário mais provável é uma vitória do favorito com gols. Nossas previsões anteriores com esse nível de confiança acertaram 78% em 124 jogos, ficando acima dos 66% esperados, ou seja, nosso modelo foi bem em partidas desse tipo. O segundo resultado mais provável é o empate, com 21%; já a vitória do mandante tem uma probabilidade baixa, de 15%."
       },
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f241b0cec31506c2eb749ff9be97667c",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Tenerife",
+      "deplasman": "AD Ceuta FC",
+      "baslama_utc": "2026-11-15T13:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
       "form": {
         "ev_sahibi": null,
         "deplasman": null
