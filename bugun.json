@@ -1,124 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-14T05:37:19Z",
-  "mac_sayisi": 51,
+  "guncelleme_utc": "2026-11-14T14:30:43Z",
+  "mac_sayisi": 48,
   "maclar": [
-    {
-      "mac_id": "7bf0d1f95bb9b2b6003386c82ba96b6a",
-      "lig": "soccer_england_league2",
-      "ev_sahibi": "Exeter City",
-      "deplasman": "Cheltenham Town",
-      "baslama_utc": "2026-11-14T12:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4976,
-        "X": 0.2635,
-        "2": 0.2389
-      },
-      "tahmin": "1",
-      "guven": 0.2341,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4971,
-          "alt": 0.5029
-        },
-        "tahmin": "alt",
-        "guven": 0.0058,
-        "kaynak_sayisi": 14
-      },
-      "ai_metin": "Exeter City bu maça önde giriyor, ancak %50'lik ihtimal net bir üstünlükten çok ölçülü bir avantaja işaret ediyor. Toplam gol dağılımı da tam yarı yarıya olduğundan, ev sahibinin gollü bir galibiyeti kadar kontrollü ve az gollü bir senaryo da mümkün görünüyor. 16 veri kaynağı arasındaki belirgin görüş farkı belirsizliği normalden yüksek tutuyor; yine de bu güven seviyesinde geçmiş tahminlerimiz 91 maçta %60 isabet yakalayarak beklenen %49'un üzerinde kaldı. En olası ikinci sonuç %26 ile beraberlik; Cheltenham Town galibiyeti ise %24 ile hemen arkasında geliyor.",
-      "ai_metinler": {
-        "en": "Exeter City go into this match as the favorites, but a 50% probability points to a moderate edge rather than a clear advantage. Since the total goals split is exactly even, a controlled, low-scoring scenario looks just as possible as a high-scoring win for the home side. The marked disagreement among the 16 data sources keeps uncertainty higher than normal; even so, at this confidence level our past predictions hit 60% across 91 matches, staying above the expected 49%. The second most likely outcome is a draw at 26%, while a Cheltenham Town win follows closely behind at 24%.",
-        "es": "Exeter City parte como favorito en este partido, pero la probabilidad del 50% indica una ventaja moderada más que una superioridad clara. Como la distribución de goles totales también está exactamente a partes iguales, un escenario controlado y con pocos goles parece tan posible como una victoria del equipo local con muchos goles; es decir, 3 o más goles y como máximo 2 goles tienen la misma probabilidad. La clara diferencia de opinión entre las 16 fuentes de datos mantiene la incertidumbre por encima de lo normal; aun así, con este nivel de confianza, nuestras predicciones pasadas lograron un 60% de acierto en 91 partidos, por encima del 49% esperado. El segundo resultado más probable es el empate, con un 26%; la victoria de Cheltenham Town llega justo por detrás, con un 24%.",
-        "de": "Exeter City geht als Favorit in dieses Spiel, doch die Wahrscheinlichkeit von 50% deutet eher auf einen moderaten Vorteil als auf eine klare Überlegenheit hin. Da sich die Verteilung der Gesamttore ebenfalls genau die Waage hält (3 oder mehr Tore bzw. höchstens 2 Tore), erscheint ein kontrolliertes, torarmes Szenario ebenso möglich wie ein torreicher Sieg des Gastgebers. Die deutlichen Meinungsunterschiede zwischen den 16 Datenquellen halten die Unsicherheit über dem Normalwert; dennoch lagen unsere bisherigen Prognosen bei diesem Vertrauensniveau mit einer Trefferquote von 60% in 91 Spielen über den erwarteten 49%. Das zweitwahrscheinlichste Ergebnis ist mit 26% ein Unentschieden; ein Sieg von Cheltenham Town folgt mit 24% knapp dahinter.",
-        "fr": "Exeter City aborde ce match en favori, mais la probabilité de 50 % indique un avantage mesuré plutôt qu'une nette supériorité. La répartition du total de buts étant elle aussi exactement de moitié-moitié, un scénario contrôlé avec peu de buts paraît aussi possible qu'une victoire de l'équipe à domicile avec beaucoup de buts : 3 buts ou plus et au plus 2 buts sont aussi probables l'un que l'autre. Le net désaccord entre les 16 sources de données maintient l'incertitude à un niveau plus élevé que la normale ; pourtant, à ce niveau de confiance, nos prévisions passées ont atteint 60 % de réussite sur 91 matchs, restant au-dessus des 49 % attendus. Le deuxième résultat le plus probable est le match nul, à 26 %, tandis que la victoire de Cheltenham Town arrive juste derrière, à 24 %.",
-        "it": "L'Exeter City parte avanti in questa partita, ma la probabilità del 50% indica più un vantaggio misurato che una netta superiorità. Poiché anche la distribuzione dei gol totali è esattamente a metà (3 o più gol contro al massimo 2 gol), sembra possibile sia una vittoria della squadra di casa con molti gol, sia uno scenario controllato e con pochi gol. La netta divergenza di opinioni tra le 16 fonti di dati mantiene l'incertezza più alta del normale; ciononostante, a questo livello di affidabilità le nostre previsioni passate hanno centrato il 60% su 91 partite, restando sopra il 49% atteso. Il secondo esito più probabile è il pareggio con il 26%, mentre la vittoria del Cheltenham Town segue subito dietro con il 24%.",
-        "pt": "O Exeter City entra na partida em vantagem, mas a probabilidade de 50% indica uma vantagem moderada, e não uma superioridade clara. Como a distribuição de gols totais também está exatamente meio a meio, um cenário controlado e com poucos gols parece tão possível quanto uma vitória do time da casa com muitos gols. A divergência clara de opiniões entre as 16 fontes de dados mantém a incerteza acima do normal; ainda assim, nesse nível de confiança, nossas previsões anteriores acertaram 60% em 91 partidas, ficando acima dos 49% esperados. O segundo resultado mais provável é o empate, com 26%, enquanto a vitória do Cheltenham Town vem logo atrás, com 24%."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "908247d5d5cd714de37956edf865668b",
-      "lig": "soccer_spain_segunda_division",
-      "ev_sahibi": "Real Valladolid CF",
-      "deplasman": "CD Castellón",
-      "baslama_utc": "2026-11-14T13:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.3192,
-        "X": 0.2636,
-        "2": 0.4173
-      },
-      "tahmin": "2",
-      "guven": 0.0981,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5486,
-          "alt": 0.4514
-        },
-        "tahmin": "ust",
-        "guven": 0.0972,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "Castellón %42 ile hafif önde, ancak Valladolid'in %32'lik payı farkı çok belirgin kılmıyor; maç dengeli görünüyor. Gol tarafında 3 veya daha fazla gol %55 ile biraz öne çıkıyor, yani iki tarafın da skora katkı verebileceği, görece açık bir maç beklenebilir. Bu güven seviyesindeki tahminlerimiz 92 maçta %49 isabet yakalayarak beklenen %41'in üzerinde kaldı, ancak bu tablo yine de sürprize açık. En olası ikinci sonuç Valladolid galibiyeti ve %32'lik ihtimaliyle hiç de küçümsenecek bir seçenek değil.",
-      "ai_metinler": {
-        "en": "Castellón has a slight edge at 42%, but Valladolid's 32% share keeps the gap from being very clear; the match looks balanced. On the goals side, 3 or more goals stands out slightly at 55%, so we can expect a relatively open match where both sides could contribute to the scoreline. Our predictions at this confidence level hit 49% across 92 matches, staying above the expected 41%, but this picture is still open to surprises. The second most likely outcome is a Valladolid win, and with a probability of 32%, it is by no means an option to underestimate.",
-        "es": "El Castellón va ligeramente por delante con un 42%, pero el 32% del Valladolid no marca una diferencia muy clara; el partido parece equilibrado. En cuanto a los goles, la opción de 3 o más goles destaca un poco con un 55%, es decir, se puede esperar un partido relativamente abierto, en el que ambos equipos pueden aportar al marcador. Nuestras predicciones con este nivel de confianza acertaron un 49% en 92 partidos, por encima del 41% esperado, aunque este panorama sigue siendo propenso a sorpresas. El segundo resultado más probable es la victoria del Valladolid y, con su probabilidad del 32%, no es en absoluto una opción que se deba subestimar.",
-        "de": "Castellón liegt mit 42% leicht vorn, doch Valladolids Anteil von 32% macht den Abstand nicht besonders deutlich; die Partie wirkt ausgeglichen. Bei den Toren liegt die Wahrscheinlichkeit für 3 oder mehr Tore mit 55% leicht vorn. Man kann also ein relativ offenes Spiel erwarten, in dem beide Teams zum Ergebnis beitragen können. Unsere Prognosen auf diesem Vertrauensniveau erzielten in 92 Spielen eine Trefferquote von 49% und lagen damit über den erwarteten 41%, dennoch bleibt das Bild offen für Überraschungen. Das zweitwahrscheinlichste Ergebnis ist ein Sieg von Valladolid, und mit einer Wahrscheinlichkeit von 32% ist das keinesfalls eine Option, die man unterschätzen sollte.",
-        "fr": "Castellón est légèrement favori avec 42 %, mais les 32 % de Valladolid ne creusent pas vraiment l'écart ; le match semble équilibré. Côté buts, l'option « 3 buts ou plus » ressort un peu avec 55 %, ce qui laisse penser que les deux équipes peuvent contribuer au score et que la rencontre devrait être plutôt ouverte. À ce niveau de confiance, nos prévisions ont atteint 49 % de réussite sur 92 matchs, soit au-dessus des 41 % attendus, mais le scénario reste ouvert à la surprise. Le deuxième résultat le plus probable est la victoire de Valladolid, avec une probabilité de 32 %, une option loin d'être négligeable.",
-        "it": "Il Castellón è leggermente avanti con il 42%, ma il 32% del Valladolid non rende il divario molto netto: la partita appare equilibrata. Sul fronte dei gol, l'opzione di 3 o più gol è leggermente in evidenza con il 55%, quindi ci si può aspettare una gara relativamente aperta, in cui entrambe le squadre possono contribuire al punteggio. Le nostre previsioni con questo livello di fiducia hanno centrato il 49% su 92 partite, restando sopra il 41% atteso, ma il quadro resta comunque aperto a sorprese. Il secondo risultato più probabile è la vittoria del Valladolid e, con una probabilità del 32%, non è affatto un'opzione da sottovalutare.",
-        "pt": "O Castellón está ligeiramente à frente, com 42%, mas os 32% do Valladolid não deixam a diferença muito evidente; o jogo parece equilibrado. Na parte dos gols, a opção de 3 ou mais gols aparece um pouco à frente, com 55%, ou seja, dá para esperar uma partida relativamente aberta, em que as duas equipes podem contribuir no placar. Nossas previsões neste nível de confiança acertaram 49% em 92 jogos, ficando acima dos 41% esperados, mas ainda assim o cenário está aberto a surpresas. O segundo resultado mais provável é a vitória do Valladolid, e com probabilidade de 32%, não é uma opção a ser subestimada."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "244d7d2e6f3f8529af59270040b7ec7a",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Kosovo",
-      "deplasman": "Israel",
-      "baslama_utc": "2026-11-14T14:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5134,
-        "X": 0.2614,
-        "2": 0.2252
-      },
-      "tahmin": "1",
-      "guven": 0.252,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5034,
-          "alt": 0.4966
-        },
-        "tahmin": "ust",
-        "guven": 0.0068,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Kosovo maça önde başlıyor ama üstünlük çok belirgin değil; galibiyet ihtimali %51 ile yarıdan biraz fazla. Toplam gol dağılımı tam ortada (%50-%50), yani Kosovo'nun kazanabileceği ancak skorun hem gollü hem az gollü şekillenebileceği, net bir senaryosu olmayan dengeli bir maça işaret ediyor. Bu güven seviyesindeki 91 maçta %60 isabet yakalamamız, beklenen %49'un belirgin üzerinde; yine de bu, sonucun güvencesi değil. En olası ikinci sonuç %26 ile beraberlik; ihtimal küçümsenmeyecek düzeyde.",
-      "ai_metinler": {
-        "en": "Kosovo starts the match as the favorite, but the edge is not very clear: the probability of a win is 51%, only slightly more than half. The total goals split is exactly even (50%-50%), which points to a balanced match with no clear scenario: Kosovo could win, but the score could end up with either 3 or more goals or at most 2 goals. In the 91 matches at this confidence level, we reached a 60% hit rate, well above the expected 49%; even so, this is not a guarantee of the outcome. The second most likely result is a draw at 26%, a probability that should not be underestimated.",
-        "es": "Kosovo parte como favorito, pero la ventaja no es muy clara: su probabilidad de victoria es del 51%, apenas por encima de la mitad. La distribución de goles totales está justo en el punto medio (50%-50%), lo que indica un partido equilibrado, sin un escenario claro: Kosovo puede ganar, pero el marcador podría terminar con 3 o más goles o con como máximo 2 goles. En los 91 partidos con este nivel de confianza, logramos un 60% de aciertos, claramente por encima del 49% esperado; aun así, esto no garantiza el resultado. El segundo resultado más probable es el empate, con un 26%; es una probabilidad que no se debe subestimar.",
-        "de": "Kosovo startet als Favorit in die Partie, doch der Vorsprung ist nicht sehr deutlich: Die Siegwahrscheinlichkeit liegt mit 51% nur knapp über der Hälfte. Die Verteilung der Gesamttore ist genau ausgeglichen (50%-50%). Das deutet auf ein ausgeglichenes Spiel ohne klares Szenario hin, in dem Kosovo gewinnen kann, das Ergebnis aber sowohl torreich (3 or more goals) als auch torarm (at most 2 goals) ausfallen kann. In 91 Spielen mit diesem Konfidenzniveau haben wir eine Trefferquote von 60% erzielt, deutlich mehr als die erwarteten 49%; dennoch ist das keine Garantie für das Ergebnis. Das zweitwahrscheinlichste Ergebnis ist mit 26% ein Unentschieden, eine Wahrscheinlichkeit, die man nicht unterschätzen sollte.",
-        "fr": "Le Kosovo aborde le match en position de favori, mais l'avantage n'est pas très net : sa probabilité de victoire est de 51 %, soit un peu plus de la moitié. La répartition du nombre total de buts est parfaitement équilibrée (50 %-50 %) : le Kosovo peut s'imposer, mais le score peut aussi bien être élevé que faible, ce qui annonce un match équilibré, sans scénario clairement établi. Sur les 91 matchs présentant ce niveau de confiance, nous avons atteint 60 % de réussite, nettement au-dessus des 49 % attendus ; cela ne garantit toutefois pas le résultat. Le deuxième résultat le plus probable est le match nul, à 26 % : une probabilité à ne pas négliger.",
-        "it": "Il Kosovo parte in vantaggio, ma la superiorità non è molto netta: con il 51%, la probabilità di vittoria è appena superiore alla metà. La distribuzione dei gol totali è perfettamente in equilibrio (50%-50%): significa che il Kosovo può vincere, ma il punteggio potrebbe chiudersi sia con 3 o più gol sia con al massimo 2 gol, indicando una partita equilibrata, senza uno scenario chiaro. Nelle 91 partite con questo livello di affidabilità abbiamo ottenuto un 60% di previsioni corrette, nettamente al di sopra del 49% atteso; tuttavia, questo non è una garanzia sul risultato. Il secondo risultato più probabile è il pareggio, con il 26%: una probabilità da non sottovalutare.",
-        "pt": "O Kosovo começa o jogo à frente, mas a vantagem não é muito clara: a probabilidade de vitória é de 51%, pouco mais da metade. A distribuição do total de gols está exatamente no meio (50%-50%), ou seja, o Kosovo pode vencer, mas o placar pode terminar tanto com 3 ou mais gols quanto com no máximo 2 gols, indicando uma partida equilibrada, sem um cenário bem definido. Nos 91 jogos com esse nível de confiança, alcançamos 60% de acerto, bem acima dos 49% esperados; ainda assim, isso não garante o resultado. O segundo resultado mais provável é o empate, com 26%; uma probabilidade que não deve ser subestimada."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "3af2458dd9984d806bbf46e7bd2d7872",
       "lig": "soccer_england_league1",
@@ -1895,7 +1778,8 @@
         "es": "El partido en el que el Granada CF se perfila claramente como favorito en casa: probabilidad de victoria local del 52%, empate del 26% y victoria de Las Palmas del 22%. En la probabilidad de goles totales, 3 goles o más alcanza el 52% y como máximo 2 goles el 48%, un reparto casi equilibrado, lo que indica que la ventaja del equipo local puede leerse junto a un escenario con goles. En el pasado, nuestras predicciones con este nivel de confianza acertaron en 94 partidos un 61%; como la cifra esperada era del 49%, esta diferencia llama la atención. La probabilidad de empate, con un 26%, destaca como segundo resultado, mientras que la probabilidad de victoria de Las Palmas, con un 22%, se mantiene limitada.",
         "fr": "Ce match voit l'équipe à domicile, Granada CF, clairement favorite : victoire à domicile à 52 %, match nul à 26 %, victoire de Las Palmas à 22 %. Concernant la probabilité de total de buts, 3 buts ou plus ressort à 52 %, tandis qu'au plus 2 buts atteint 48 %, un équilibre presque parfait ; cela indique que la supériorité de l'équipe à domicile peut se lire dans un scénario riche en buts. Par le passé, nos pronostics à ce niveau de confiance ont abouti à 61 % de réussite sur 94 matchs ; comme la valeur attendue était de 49 %, cet écart est remarquable. La probabilité de match nul, à 26 %, se distingue comme deuxième issue, tandis que la probabilité de victoire de Las Palmas reste limitée à 22 %.",
         "it": "Granada CF è nettamente favorita in casa in questa partita: probabilità di vittoria interna del 52%, pareggio al 26%, vittoria del Las Palmas al 22%. Per il numero totale di gol, la probabilità di 3 o più gol è del 52%, mentre quella di al massimo 2 gol è del 48%, quindi quasi in equilibrio; questo indica che il vantaggio casalingo può essere letto insieme a uno scenario ricco di gol. In passato, le nostre previsioni con questo livello di fiducia hanno avuto ragione nel 61% dei 94 casi, un dato notevole considerando che il valore atteso era del 49%. Il pareggio, con il 26%, emerge come il secondo esito più probabile, mentre la probabilità di vittoria del Las Palmas resta contenuta al 22%.",
-        "pt": "Um jogo em que o Granada CF aparece claramente à frente como mandante: probabilidade de vitória do mandante de 52%, empate de 26% e vitória do Las Palmas de 22%. Na probabilidade de total de gols, 3 ou mais gols tem 52% e no máximo 2 gols tem 48%, praticamente equilibrados; isso indica que a vantagem do mandante pode ser lida junto com um cenário de muitos gols. Em análises anteriores com este nível de confiança, nossas previsões acertaram 61% em 94 jogos, o que é notável considerando que o esperado era 49%. A probabilidade de empate, com 26%, aparece como o segundo resultado mais provável; já a probabilidade de vitória do Las Palmas fica limitada a 22%."
+        "pt": "Um jogo em que o Granada CF aparece claramente à frente como mandante: probabilidade de vitória do mandante de 52%, empate de 26% e vitória do Las Palmas de 22%. Na probabilidade de total de gols, 3 ou mais gols tem 52% e no máximo 2 gols tem 48%, praticamente equilibrados; isso indica que a vantagem do mandante pode ser lida junto com um cenário de muitos gols. Em análises anteriores com este nível de confiança, nossas previsões acertaram 61% em 94 jogos, o que é notável considerando que o esperado era 49%. A probabilidade de empate, com 26%, aparece como o segundo resultado mais provável; já a probabilidade de vitória do Las Palmas fica limitada a 22%.",
+        "de": "Granada CF führt als Gastgeber in diesem Spiel deutlich: Ein Heimsieg hat eine Wahrscheinlichkeit von 52%, ein Unentschieden 26%, ein Sieg von Las Palmas 22%. Bei der Gesamttorzahl liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 52%, für höchstens 2 Tore bei 48% – fast ausgeglichen, was darauf hindeutet, dass der Heimvorteil auch in einem torreichen Szenario zum Tragen kommen kann. In der Vergangenheit traf unsere Einschätzung bei vergleichbarem Konfidenzniveau in 94 Spielen in 61% der Fälle zu; da der erwartete Wert bei 49% lag, ist diese Abweichung bemerkenswert. Ein Unentschieden ist mit 26% die zweitwahrscheinlichste Variante, während die Wahrscheinlichkeit für einen Sieg von Las Palmas mit 22% begrenzt bleibt."
       },
       "form": {
         "ev_sahibi": null,
