@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-14T17:30:49Z",
-  "mac_sayisi": 21,
+  "guncelleme_utc": "2026-11-14T19:30:43Z",
+  "mac_sayisi": 22,
   "maclar": [
     {
       "mac_id": "30b32c194d8c2ae2bc5a209be5df44a9",
@@ -1513,6 +1513,25 @@
         }
       },
       "ucretsiz": false
+    },
+    {
+      "mac_id": "c52bb6ace02b521be96df8fba8806037",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Albacete",
+      "deplasman": "Celta Fortuna",
+      "baslama_utc": "2026-11-16T19:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
     }
   ],
   "en_guclu_3": {
@@ -1529,8 +1548,8 @@
             "tahmin": "1",
             "olasilik": 0.7737,
             "guven": 0.6314,
-            "skor": null,
-            "tuttu": null
+            "skor": "3-1",
+            "tuttu": true
           },
           {
             "mac_id": "159554f486f93d1d8d4213c570117a0e",
@@ -1557,8 +1576,8 @@
             "tuttu": null
           }
         ],
-        "tutan": 0,
-        "sonuclanan": 0
+        "tutan": 1,
+        "sonuclanan": 1
       },
       {
         "tarih": "2026-11-15",

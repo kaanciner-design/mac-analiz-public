@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-14T17:30:49Z",
+  "guncelleme_utc": "2026-11-14T19:30:43Z",
   "mac_sayisi": 348,
   "maclar": [
     {
@@ -151,11 +151,11 @@
         "it": "La partita è molto equilibrata: l'Ungheria è appena avanti con il 38%, mentre la Georgia la segue subito dietro con il 31%. La probabilità di al massimo 2 goal è del 61%, il che indica una gara dal punteggio basso, controllata e prudente. Le nostre previsioni con questo livello di fiducia hanno centrato il 49% su 92 partite, restando sopra il 41% atteso, ma in una sfida così equilibrata è comunque giusto restare cauti. Il pareggio, il secondo risultato più probabile, con il 31% non è molto lontano dalla vittoria dell'Ungheria ed è una possibilità concreta.",
         "pt": "A partida está bastante equilibrada: a Macaristan aparece com uma vantagem mínima, com 38%, e a Gürcistan vem logo atrás, com 31%. A probabilidade de no máximo 2 gols ser de 61% indica um jogo controlado e cauteloso, com placar baixo. Nossas previsões com esse nível de confiança acertaram 49% em 92 partidas, ficando acima dos 41% esperados, mas, num jogo tão parelho, ainda assim é preciso ter cautela. O segundo resultado mais provável, o empate, com 31%, não está muito distante da vitória da Macaristan e é uma possibilidade séria.\n\nCorrection: team names must stay unchanged, so here is the corrected version:\n\nA partida está bastante equilibrada: Macaristan aparece com uma vantagem mínima, com 38%, e Gürcistan vem logo atrás, com 31%. A probabilidade de no máximo 2 gols ser de 61% indica um jogo controlado e cauteloso, com placar baixo. Nossas previsões com esse nível de confiança acertaram 49% em 92 partidas, ficando acima dos 41% esperados, mas, num jogo tão parelho, ainda assim é preciso ter cautela. O segundo resultado mais provável, o empate, com 31%, não está muito distante da vitória de Macaristan e é uma possibilidade séria."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -190,11 +190,11 @@
         "it": "La Norvegia entra in questa partita come netta favorita: con il 77% di probabilità di vittoria è nettamente in vantaggio. La probabilità del 67% di vedere 3 o più gol indica che il quadro punta verso una vittoria della Norvegia con diverse reti. Nelle nostre 124 previsioni passate a questo livello di fiducia, abbiamo centrato il 78% dei casi, mentre il livello atteso era del 66%. Il pareggio, al 14%, è al secondo posto e resta una possibilità poco probabile.",
         "pt": "A Noruega entra nesta partida como grande favorita, bem à frente com 77% de probabilidade de vitória. A probabilidade de 67% de 3 ou mais gols indica que o cenário aponta para uma vitória da Noruega com gols. Em 124 partidas anteriores com esse mesmo nível de confiança, nossas previsões acertaram 78%, enquanto o nível esperado era de 66%. O empate aparece em segundo lugar, com 14%, e continua sendo uma probabilidade baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-1",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": true
     },
     {
@@ -229,11 +229,11 @@
         "it": "La partita tra Real Sociedad B e Sporting Gijón appare molto equilibrata: la squadra di casa è in vantaggio solo di pochissimo, con il 38%. Anche sul fronte dei gol c'è una differenza minima, tra il 51% e il 49%: non emerge quindi né una pioggia di gol né una gara completamente bloccata. Il quadro indica uno scenario aperto in entrambe le direzioni, deciso da un solo gol. Le nostre previsioni con un livello di fiducia simile hanno centrato il 49% su 92 partite, a fronte di un'attesa del 41%: in partite equilibrate come queste, in passato abbiamo quindi fatto meglio delle probabilità. Il secondo risultato più probabile è la vittoria in trasferta: con il 33% si colloca subito dietro alla probabilità della squadra di casa e non è affatto un'opzione da sottovalutare.",
         "pt": "A partida entre Real Sociedad B e Sporting Gijón parece bastante equilibrada; o time da casa está apenas muito levemente à frente, com 38%. Na parte dos gols também há uma divisão entre 51% e 49%, ou seja, não se destaca nem uma chuva de gols nem um jogo totalmente truncado. Esse quadro aponta para um cenário aberto para os dois lados, decidido por um único gol. Nossas previsões com nível de confiança semelhante acertaram 49% em 92 jogos, enquanto a expectativa era de 41%; ou seja, em jogos equilibrados como esse, superamos as probabilidades no passado. O segundo resultado mais provável é a vitória do time visitante: com 33%, logo atrás da probabilidade do time da casa, não é uma opção a ser subestimada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
