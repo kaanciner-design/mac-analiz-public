@@ -1,46 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-14T20:30:43Z",
-  "mac_sayisi": 19,
+  "guncelleme_utc": "2026-11-14T21:30:47Z",
+  "mac_sayisi": 18,
   "maclar": [
-    {
-      "mac_id": "60e79364c168ad0ad22c0cffc02be8a9",
-      "lig": "soccer_brazil_campeonato",
-      "ev_sahibi": "Mirassol",
-      "deplasman": "Atletico Mineiro",
-      "baslama_utc": "2026-11-14T21:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4773,
-        "X": 0.2672,
-        "2": 0.2555
-      },
-      "tahmin": "1",
-      "guven": 0.2101,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5132,
-          "alt": 0.4868
-        },
-        "tahmin": "ust",
-        "guven": 0.0264,
-        "kaynak_sayisi": 17
-      },
-      "ai_metin": "Mirassol %48 ile önde, ancak üstünlük sınırlı; Atletico Mineiro'nun da %26'lık ciddi bir şansı var. Gol tarafı neredeyse yarı yarıya bölünmüş (3 veya daha fazla gol %51), bu da ev sahibinin kazandığı ama maçın kontrolden çok dengeli ve açık geçebileceği bir senaryoyu düşündürüyor. 21 veri kaynağı arasındaki belirgin görüş farkı belirsizliği normalden yüksek tutuyor; yine de bu güven seviyesindeki geçmiş tahminlerimiz 91 maçta %60 isabet ederek beklentinin üzerinde kaldı. En olası ikinci sonuç beraberlik, %27 ile düşük sayılmayacak bir ihtimal.",
-      "ai_metinler": {
-        "en": "Mirassol leads at 48%, but the edge is limited; Atletico Mineiro also has a real chance at 26%. The goals market is split almost evenly (3 or more goals 51%), which suggests a scenario where the home side wins, but the match is more balanced and open than controlled. The clear difference of opinion among the 21 data sources keeps uncertainty higher than normal; even so, our past predictions at this confidence level were correct 60% of the time over 91 matches, staying above expectations. The second most likely outcome is a draw, at 27%, which is not a low probability.",
-        "es": "Mirassol va por delante con un 48%, pero la ventaja es limitada; Atletico Mineiro también tiene una probabilidad considerable, del 26%. En cuanto a los goles, el reparto es casi mitad y mitad (3 o más goles 51%), lo que sugiere un escenario en el que el local gana, pero el partido podría ser más equilibrado y abierto que controlado. La clara diferencia de opinión entre las 21 fuentes de datos mantiene la incertidumbre más alta de lo normal; aun así, nuestras predicciones anteriores con este nivel de confianza acertaron un 60% en 91 partidos, por encima de lo esperado. El segundo resultado más probable es el empate, con un 27%, una probabilidad nada despreciable.",
-        "de": "Mirassol liegt mit 48% vorn, doch der Vorsprung ist begrenzt; auch Atletico Mineiro hat mit 26% eine ernstzunehmende Chance. Bei den Toren ist das Bild fast ausgeglichen (3 oder mehr Tore: 51%). Das deutet auf ein Szenario hin, in dem der Gastgeber gewinnt, die Partie aber eher ausgeglichen und offen verläuft als kontrolliert. Die deutlichen Meinungsunterschiede zwischen den 21 Datenquellen halten die Unsicherheit höher als üblich; dennoch lagen unsere bisherigen Prognosen bei diesem Vertrauensniveau mit einer Trefferquote von 60% in 91 Spielen über der Erwartung. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden, mit 27% eine nicht unerhebliche Wahrscheinlichkeit.",
-        "fr": "Mirassol est devant avec 48 %, mais l'avantage reste limité : l'Atletico Mineiro dispose lui aussi d'une probabilité sérieuse de 26 %. Côté buts, la répartition est presque égale (3 buts ou plus : 51 %), ce qui laisse penser à un scénario où l'équipe qui reçoit l'emporte, mais où le match serait plus équilibré et ouvert que maîtrisé. Le net écart de points de vue entre les 21 sources de données maintient l'incertitude au-dessus de la normale ; malgré tout, à ce niveau de confiance, nos prévisions passées ont atteint 60 % de réussite sur 91 matchs, ce qui dépasse les attentes. Le deuxième résultat le plus probable est le match nul, avec 27 %, une probabilité loin d'être négligeable.",
-        "it": "Il Mirassol è avanti con il 48%, ma il vantaggio è limitato: anche l'Atletico Mineiro ha una probabilità consistente, pari al 26%. Sul fronte dei gol siamo quasi a metà strada (3 o più gol 51%), il che fa pensare a uno scenario in cui la squadra di casa vince, ma la partita resta più equilibrata e aperta che sotto controllo. La netta divergenza di vedute tra le 21 fonti di dati mantiene l'incertezza più alta del normale; ciononostante, le nostre previsioni passate con questo livello di fiducia hanno centrato il 60% su 91 partite, restando al di sopra delle attese. Il secondo risultato più probabile è il pareggio, con il 27%: una probabilità tutt'altro che bassa.",
-        "pt": "Mirassol está na frente com 48%, mas a vantagem é limitada; o Atletico Mineiro também tem uma probabilidade considerável de 26%. A parte dos gols está dividida quase meio a meio (3 ou mais gols 51%), o que sugere um cenário em que o mandante vence, mas o jogo tende a ser equilibrado e aberto, e não controlado. A divergência clara de opiniões entre as 21 fontes de dados mantém a incerteza acima do normal; mesmo assim, nossas previsões anteriores com esse nível de confiança acertaram 60% em 91 jogos, ficando acima do esperado. O segundo resultado mais provável é o empate, com 27%, uma probabilidade que não pode ser considerada baixa."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "8fafa425728aa8e7d2c23956ba4c2553",
       "lig": "soccer_brazil_campeonato",
@@ -1613,49 +1574,6 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-14",
-        "maclar": [
-          {
-            "mac_id": "8d67c473dbea0c85b30eefee4bca53d9",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Norway",
-            "deplasman": "Wales",
-            "baslama_utc": "2026-11-14T17:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7737,
-            "guven": 0.6314,
-            "skor": "3-1",
-            "tuttu": true
-          },
-          {
-            "mac_id": "159554f486f93d1d8d4213c570117a0e",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Portugal",
-            "deplasman": "Denmark",
-            "baslama_utc": "2026-11-14T19:45:00Z",
-            "tahmin": "1",
-            "olasilik": 0.6332,
-            "guven": 0.4282,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "2b646127cc6cb400abc663c5a458f1db",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Sweden",
-            "deplasman": "Bosnia & Herzegovina",
-            "baslama_utc": "2026-11-14T19:45:00Z",
-            "tahmin": "1",
-            "olasilik": 0.6186,
-            "guven": 0.3976,
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "tutan": 1,
-        "sonuclanan": 1
-      },
-      {
         "tarih": "2026-11-15",
         "maclar": [
           {
@@ -1700,47 +1618,47 @@
       }
     ],
     "dun": {
-      "tarih": "2026-11-13",
+      "tarih": "2026-11-14",
       "maclar": [
         {
-          "mac_id": "199940cd0d3a9c7ad93be4063cb2df93",
+          "mac_id": "8d67c473dbea0c85b30eefee4bca53d9",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Scotland",
-          "deplasman": "North Macedonia",
-          "baslama_utc": "2026-11-13T19:45:00Z",
+          "ev_sahibi": "Norway",
+          "deplasman": "Wales",
+          "baslama_utc": "2026-11-14T17:00:00Z",
           "tahmin": "1",
-          "olasilik": 0.7747,
-          "guven": 0.6161,
-          "skor": "2-1",
+          "olasilik": 0.7737,
+          "guven": 0.6314,
+          "skor": "3-1",
           "tuttu": true
         },
         {
-          "mac_id": "d0ee3d2f44cf592797f6ecae8de62edd",
+          "mac_id": "159554f486f93d1d8d4213c570117a0e",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Serbia",
-          "deplasman": "Germany",
-          "baslama_utc": "2026-11-13T19:45:00Z",
-          "tahmin": "2",
-          "olasilik": 0.7346,
-          "guven": 0.5759,
-          "skor": "1-3",
-          "tuttu": true
+          "ev_sahibi": "Portugal",
+          "deplasman": "Denmark",
+          "baslama_utc": "2026-11-14T19:45:00Z",
+          "tahmin": "1",
+          "olasilik": 0.6332,
+          "guven": 0.4282,
+          "skor": null,
+          "tuttu": null
         },
         {
-          "mac_id": "9529ee7ca79126460eb063f53187f321",
+          "mac_id": "2b646127cc6cb400abc663c5a458f1db",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Liechtenstein",
-          "deplasman": "Azerbaijan",
-          "baslama_utc": "2026-11-13T19:45:00Z",
-          "tahmin": "2",
-          "olasilik": 0.7415,
-          "guven": 0.5544,
-          "skor": "0-1",
-          "tuttu": true
+          "ev_sahibi": "Sweden",
+          "deplasman": "Bosnia & Herzegovina",
+          "baslama_utc": "2026-11-14T19:45:00Z",
+          "tahmin": "1",
+          "olasilik": 0.6186,
+          "guven": 0.3976,
+          "skor": null,
+          "tuttu": null
         }
       ],
-      "tutan": 3,
-      "sonuclanan": 3
+      "tutan": 1,
+      "sonuclanan": 1
     },
     "genel": {
       "gun": 5,
