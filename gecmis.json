@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-14T21:30:47Z",
+  "guncelleme_utc": "2026-11-14T22:30:52Z",
   "mac_sayisi": 356,
   "maclar": [
     {
@@ -73,11 +73,11 @@
         "it": "L'incontro tra Oviedo e Girona appare equilibrato: l'Oviedo è leggermente avanti con il 39%, mentre il Girona è subito dietro con il 32%. Uno scenario con pochi gol e giocato con prudenza è un po' più probabile: la probabilità di al massimo 2 gol è del 53%, quindi la partita potrebbe restare bloccata. Con questo livello di fiducia, le nostre previsioni su 92 partite hanno centrato il risultato nel 49% dei casi, mentre la percentuale attesa in base alle probabilità era del 41%; resta comunque alto il margine di sorpresa nelle partite equilibrate. Il secondo risultato più probabile è la vittoria del Girona, con una probabilità del 32%, tutt'altro che trascurabile.",
         "pt": "A partida entre Oviedo e Girona parece equilibrada: o Oviedo está muito ligeiramente à frente, com 39%, e o Girona vem logo atrás, com 32%. Um cenário com poucos gols e mais cauteloso é um pouco mais provável: a probabilidade de no máximo 2 gols é de 53%, ou seja, o jogo pode ficar travado. Nossas previsões com esse nível de confiança acertaram 49% em 92 partidas, enquanto o acerto esperado com base nas probabilidades era de 41%; mesmo assim, em jogos equilibrados a margem para surpresas continua alta. O segundo resultado mais provável é a vitória do Girona, com probabilidade de 32%, um valor que está longe de ser desprezível."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -112,11 +112,11 @@
         "it": "L'Austria è la netta favorita in questa partita con il 60%. La distribuzione dei gol totali è quasi equilibrata (3 o più gol 52%), il che indica uno scenario in cui la favorita vince, ma il punteggio potrebbe non allargarsi molto. In 124 partite con questo livello di fiducia abbiamo centrato il 78% dei pronostici; poiché il valore atteso era del 66%, il nostro storico si è mantenuto leggermente al di sopra delle probabilità, ma questo non significa una garanzia. Il secondo risultato più probabile è il pareggio con il 23%; non è una probabilità trascurabile e va tenuta in considerazione.",
         "pt": "A Áustria é a grande favorita nesta partida, com 60%. A distribuição do total de gols está quase equilibrada (3 ou mais gols: 52%), o que aponta para um cenário em que o favorito vence, mas o placar pode não ser muito elástico. Em 124 jogos com este nível de confiança, acertamos 78%; como o esperado era 66%, nosso histórico ficou um pouco acima das probabilidades, mas isso não significa garantia. O segundo resultado mais provável é o empate, com 23%; não é uma possibilidade pequena e deve ser levada em conta."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -151,11 +151,11 @@
         "it": "L'Austria parte come netta favorita in questa partita, con il 60%. La distribuzione dei gol totali è quasi alla pari (52% per 3 o più gol): per questo emerge leggermente di più uno scenario di vittoria della favorita con diversi gol, ma con un punteggio ancora aperto. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 78% su 124 partite, restando nettamente sopra il 66% atteso; questo indica che, in partite simili, il nostro modello ha letto bene le probabilità, anche se nessun risultato è mai certo. Il secondo risultato più probabile è il pareggio, con il 23%: una possibilità da non trascurare, ma che non rappresenta lo scenario principale.",
         "pt": "A Áustria aparece como grande favorita nesta partida, com 60%. A distribuição do total de gols está quase meio a meio (52% para 3 ou mais gols), ou seja, ganha um pouco mais de destaque o cenário de vitória da favorita com gols, mas com o placar ainda em aberto. Nossas previsões anteriores com esse nível de confiança acertaram 78% em 124 jogos, ficando bem acima dos 66% esperados; isso indica que, em jogos semelhantes, nosso modelo leu bem as probabilidades, mas nenhum resultado é garantido. O segundo resultado mais provável é o empate, com 23%; é uma possibilidade que não deve ser ignorada, mas que não é o cenário principal."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -190,11 +190,11 @@
         "it": "La Svezia affronta questa partita da netta favorita con il 62%; il 16% di probabilità dell'avversario segna una differenza evidente. Una probabilità del 60% per 3 o più gol indica uno scenario che porta a una vittoria della Svezia con molti gol, più che a una partita controllata e con pochi gol. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 78% su 124 partite, nettamente sopra il 66% atteso; resta comunque il fatto che non è una garanzia. Il pareggio, con il 22%, è il secondo risultato e rimane una probabilità plausibile.",
         "pt": "A Suécia entra como grande favorita nesta partida, com 62%; a probabilidade de 16% do adversário marca uma diferença evidente. A probabilidade de 3 ou mais gols, de 60%, aponta mais para um cenário de vitória da Suécia com muitos gols do que para um jogo controlado e com poucos gols. Em previsões anteriores com esse nível de confiança, tivemos 78% de acerto em 124 partidas, bem acima dos 66% esperados; mesmo assim, isso não é uma garantia. O empate, com 22%, aparece como o segundo resultado mais provável e continua sendo uma possibilidade razoável."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -229,11 +229,11 @@
         "it": "Il Portogallo è il netto favorito in questa partita: con una probabilità di circa due terzi (63%), il vantaggio è dalla sua parte. Una probabilità del 62% per 3 o più gol mette in evidenza lo scenario in cui il risultato sia plasmato da una vittoria del Portogallo con molti gol. Le nostre previsioni passate con questo livello di fiducia hanno raggiunto il 78% di accuratezza su 124 partite, superando il 66% atteso: in questo tipo di partite, quindi, il nostro modello ha fatto meglio delle probabilità. Il pareggio è al secondo posto con il 20%, mentre la vittoria della Danimarca resta l'opzione più debole con il 16%.",
         "pt": "Portugal é o grande favorito nesta partida; a vantagem está ao seu lado com uma probabilidade de cerca de dois terços (63%). A probabilidade de 3 ou mais gols ser de 62% destaca o cenário em que o resultado seja definido por uma vitória de Portugal com muitos gols. Nossas previsões anteriores com esse nível de confiança acertaram 78% em 124 partidas, ficando acima dos 66% esperados, ou seja, nesse tipo de jogo nosso modelo superou as probabilidades. O empate aparece em segundo, com 20%, enquanto a vitória da Dinamarca continua sendo uma opção mais fraca, com 16%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-4",
+      "toplam_gol": 5,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -268,11 +268,11 @@
         "it": "La partita appare piuttosto equilibrata: l'Irlanda del Nord è leggermente avanti con il 38%, mentre l'Ucraina è staccata di pochi punti soltanto. Poiché la probabilità di al massimo 2 goal è del 62%, più che una sfida ricca di ritmo e di reti, ci si aspetta una partita controllata e con pochi goal, in cui una sola rete potrebbe decidere il risultato. Le nostre previsioni passate con questo livello di fiducia avevano centrato il 49% su 92 partite, sopra il 41% atteso; resta comunque il fatto che in questa partita non c'è un favorito netto. Il secondo risultato più probabile è il pareggio con il 31%, quindi non è affatto uno scenario lontano.",
         "pt": "A partida parece bastante equilibrada: a Irlanda do Norte aparece muito ligeiramente à frente, com 38%, e a Ucrânia está apenas alguns pontos atrás. Como a probabilidade de no máximo 2 gols é de 62%, o cenário que se destaca é o de um jogo controlado e com poucos gols, em que um único gol pode decidir o resultado, e não o de uma disputa movimentada por gols. Nossas previsões anteriores com esse nível de confiança acertaram 49% em 92 partidas, acima dos 41% esperados; ainda assim, vale lembrar que não há um favorito claro nesta partida. O segundo resultado mais provável é o empate, com 31%, ou seja, está longe de ser uma possibilidade remota."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -307,11 +307,11 @@
         "it": "La Polonia parte in vantaggio in trasferta con il 51%, ma si tratta più di un vantaggio moderato che di una netta superiorità. Sul fronte dei gol, 3 o più gol emerge leggermente con il 54%, il che indica uno scenario in cui la vittoria della Polonia potrebbe arrivare in una partita ricca di reti. Le nostre previsioni con questo livello di fiducia hanno centrato il 60% su 91 partite, restando sopra il 49% atteso: questo significa che in partite di questo tipo il nostro modello ha generalmente funzionato bene. Il secondo risultato più probabile è il pareggio con il 25%; la probabilità non è bassa e non va trascurata.",
         "pt": "A Polônia começa na frente como visitante, com 51%, mas a diferença é mais uma vantagem moderada do que uma superioridade clara. Em relação aos gols, 3 ou mais gols aparece ligeiramente à frente, com 54%, o que indica um cenário em que a vitória da Polônia pode ter bastante gols. Nossas previsões com esse nível de confiança acertaram 60% em 91 jogos, acima dos 49% esperados, ou seja, nosso modelo geralmente funcionou bem nesse tipo de partida. O segundo resultado mais provável é o empate, com 25%; a probabilidade não é baixa e não deve ser ignorada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
