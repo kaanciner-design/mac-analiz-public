@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-14T22:30:52Z",
-  "mac_sayisi": 356,
+  "guncelleme_utc": "2026-11-15T05:37:22Z",
+  "mac_sayisi": 357,
   "maclar": [
+    {
+      "mac_id": "8fafa425728aa8e7d2c23956ba4c2553",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Chapecoense",
+      "deplasman": "Vasco da Gama",
+      "baslama_utc": "2026-11-14T23:30:00Z",
+      "olasiliklar": {
+        "1": 0.1517,
+        "X": 0.2077,
+        "2": 0.6406
+      },
+      "tahmin": "2",
+      "guven": 0.4329,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5893,
+          "alt": 0.4107
+        },
+        "tahmin": "ust",
+        "guven": 0.1786,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Vasco da Gama bu maçta net favori; %64 ile deplasman ekibi, ev sahibi Chapecoense'nin belirgin biçimde önünde. %59'luk 3 veya daha fazla gol ihtimali de bunu destekliyor ve en olası senaryo, favorinin gollü bir galibiyeti. Bu güven seviyesindeki geçmiş tahminlerimiz 124 maçta %78 isabet buldu ve beklenen %66'nın üzerinde kaldı, yani bu tür maçlarda modelimiz iyi iş çıkardı. En olası ikinci sonuç %21 ile beraberlik; ev sahisi galibiyeti ise %15 ile düşük bir ihtimal.",
+      "ai_metinler": {
+        "en": "Vasco da Gama is the clear favorite in this match; at 64%, the away side is well ahead of the home team Chapecoense. The 59% probability of 3 or more goals supports this, and the most likely scenario is a high-scoring win for the favorite. Our past predictions at this confidence level were correct 78% of the time across 124 matches, staying above the expected 66%, so our model has performed well in matches like this. The second most likely outcome is a draw at 21%, while a home win is unlikely at 15%.",
+        "es": "Vasco da Gama es el claro favorito en este partido; con un 64%, el equipo visitante se sitúa claramente por delante del local, Chapecoense. La probabilidad del 59% de que haya 3 o más goles también lo respalda, y el escenario más probable es una victoria del favorito con goles. Nuestras predicciones anteriores con este nivel de confianza acertaron un 78% en 124 partidos, por encima del 66% esperado, es decir, que en este tipo de partidos nuestro modelo funcionó bien. El segundo resultado más probable es el empate, con un 21%; la victoria local, en cambio, tiene una probabilidad baja, del 15%.",
+        "de": "Vasco da Gama ist in dieser Partie klarer Favorit: Mit 64% liegt das Auswärtsteam deutlich vor dem Gastgeber Chapecoense. Die Wahrscheinlichkeit von 59% für 3 oder mehr Tore unterstützt das ebenfalls, und das wahrscheinlichste Szenario ist ein Sieg des Favoriten mit mehreren Toren. Unsere bisherigen Vorhersagen auf diesem Vertrauensniveau trafen in 124 Spielen zu 78% und lagen damit über den erwarteten 66%. Unser Modell hat bei solchen Spielen also gute Arbeit geleistet. Das zweitwahrscheinlichste Ergebnis ist mit 21% ein Unentschieden; ein Heimsieg ist mit 15% dagegen eher unwahrscheinlich.",
+        "fr": "Vasco da Gama est le net favori de ce match : avec 64 %, l'équipe qui joue à l'extérieur devance nettement Chapecoense, qui reçoit. La probabilité de 59 % de voir 3 buts ou plus va dans le même sens, et le scénario le plus probable est une victoire du favori dans un match avec des buts. Lors de nos précédentes prévisions à ce niveau de confiance, nous avons obtenu 78 % de réussite sur 124 matchs, au-dessus des 66 % attendus ; notre modèle a donc bien fonctionné dans ce type de rencontres. Le deuxième résultat le plus probable est le match nul avec 21 %, tandis qu'une victoire de l'équipe à domicile n'a qu'une faible probabilité, à 15 %.",
+        "it": "Il Vasco da Gama è il netto favorito in questa partita: con il 64%, la squadra ospite è nettamente davanti alla squadra di casa, il Chapecoense. Anche la probabilità del 59% di 3 o più gol va in questa direzione, e lo scenario più probabile è una vittoria del favorito con molti gol. Le nostre previsioni passate con questo livello di fiducia hanno centrato il 78% su 124 partite, superando il 66% atteso: in questo tipo di partite il nostro modello ha quindi lavorato bene. Il secondo risultato più probabile è il pareggio con il 21%, mentre la vittoria della squadra di casa è poco probabile, con il 15%.",
+        "pt": "O Vasco da Gama é o grande favorito neste jogo; com 64%, o time visitante está bem à frente do mandante Chapecoense. A probabilidade de 59% de 3 ou mais gols também reforça essa leitura, e o cenário mais provável é uma vitória do favorito com gols. Nossas previsões anteriores com esse nível de confiança acertaram 78% em 124 jogos, ficando acima dos 66% esperados, ou seja, nosso modelo foi bem em partidas desse tipo. O segundo resultado mais provável é o empate, com 21%; já a vitória do mandante tem uma probabilidade baixa, de 15%."
+      },
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
+      "ucretsiz": true
+    },
     {
       "mac_id": "60e79364c168ad0ad22c0cffc02be8a9",
       "lig": "soccer_brazil_campeonato",
@@ -34,11 +73,11 @@
         "it": "Il Mirassol è avanti con il 48%, ma il vantaggio è limitato: anche l'Atletico Mineiro ha una probabilità consistente, pari al 26%. Sul fronte dei gol siamo quasi a metà strada (3 o più gol 51%), il che fa pensare a uno scenario in cui la squadra di casa vince, ma la partita resta più equilibrata e aperta che sotto controllo. La netta divergenza di vedute tra le 21 fonti di dati mantiene l'incertezza più alta del normale; ciononostante, le nostre previsioni passate con questo livello di fiducia hanno centrato il 60% su 91 partite, restando al di sopra delle attese. Il secondo risultato più probabile è il pareggio, con il 27%: una probabilità tutt'altro che bassa.",
         "pt": "Mirassol está na frente com 48%, mas a vantagem é limitada; o Atletico Mineiro também tem uma probabilidade considerável de 26%. A parte dos gols está dividida quase meio a meio (3 ou mais gols 51%), o que sugere um cenário em que o mandante vence, mas o jogo tende a ser equilibrado e aberto, e não controlado. A divergência clara de opiniões entre as 21 fontes de dados mantém a incerteza acima do normal; mesmo assim, nossas previsões anteriores com esse nível de confiança acertaram 60% em 91 jogos, ficando acima do esperado. O segundo resultado mais provável é o empate, com 27%, uma probabilidade que não pode ser considerada baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -9900,38 +9939,6 @@
       "gercek_sonuc": "2",
       "skor": "1-3",
       "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c7a60aa94470fe959fbf6b0c68060fc1",
-      "lig": "soccer_france_ligue_one",
-      "ev_sahibi": "Angers",
-      "deplasman": "Marseille",
-      "baslama_utc": "2026-10-18T13:00:00Z",
-      "olasiliklar": {
-        "1": 0.2808,
-        "X": 0.2542,
-        "2": 0.4649
-      },
-      "tahmin": "2",
-      "guven": 0.1841,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.592,
-          "alt": 0.408
-        },
-        "tahmin": "ust",
-        "guven": 0.184,
-        "kaynak_sayisi": 12
-      },
-      "ai_metin": "Marseille, %46 galibiyet olasılığıyla bu maçın favorisi olarak öne çıkıyor. %59 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşmada, deplasman ekibinin gollü bir galibiyet alması muhtemel görünüyor. Beraberlik ve Angers galibiyeti ise sırasıyla %25 ve %28 olasılıkla ikinci ve üçüncü en olası sonuçlar olarak dikkat çekiyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "2-5",
-      "toplam_gol": 7,
       "tuttu": true,
       "alt_ust_tuttu": true,
       "ucretsiz": false
