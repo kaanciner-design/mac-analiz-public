@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-15T17:30:46Z",
+  "guncelleme_utc": "2026-11-15T19:30:43Z",
   "mac_sayisi": 365,
   "maclar": [
     {
@@ -112,11 +112,11 @@
         "it": "La squadra ospite Albania è la chiara favorita della partita: ha una probabilità superiore al doppio rispetto alla vittoria del Belarus, che si attesta al 23%, mentre quella dell'Albania è del 49%. Per i gol totali, lo scenario più probabile, al 58%, è quello di al massimo 2 gol, il che indica un incontro controllato e con pochi gol. In passato, le nostre previsioni con questo livello di fiducia hanno avuto successo nel 61% dei casi su 94 partite, una performance superiore al 49% atteso. Il secondo esito più probabile è il pareggio, al 28%, che rappresenta un'alternativa significativa in termini di probabilità.",
         "pt": "A equipe visitante Albânia é a favorita clara da partida: tem uma probabilidade de mais que o dobro da vitória da Bielorrússia, que é de 23%, enquanto a probabilidade de vitória albanesa é de 49%. Em relação ao total de gols, o cenário com maior probabilidade, de 58%, é de no máximo 2 gols, o que aponta para um jogo controlado e de poucos gols. No histórico, nossas previsões com este nível de confiança acertaram 61% em 94 partidas, um desempenho acima dos 49% esperados. O segundo resultado mais provável é o empate, com 28%, o que se apresenta como uma alternativa significativa em termos de probabilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-2",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -142,10 +142,10 @@
         "it": "Finlandia è nettamente favorita contro San Marino: la probabilità di vittoria della squadra di casa è del 92%, il che indica che la partita viene letta come un'attesa praticamente a senso unico. Emerge uno scenario in cui la squadra di casa ha una aspettativa di gol superiore. Le nostre precedenti previsioni con questo livello di fiducia hanno avuto successo in 10 partite della Nations League nell'80% dei casi (con un'aspettativa del 73%), quindi una superiorità di questo tipo trova riscontro in modo coerente nei nostri dati. Il secondo esito più probabile è il pareggio con il 6%, il che indica che un pareggio a sorpresa è possibile, ma con una probabilità limitata.",
         "pt": "Finlândia está claramente à frente contra San Marino: a probabilidade de vitória da equipe da casa é de 92%, o que indica que a partida é lida como uma expectativa de domínio praticamente unilateral. Surge um cenário em que a equipe da casa tem uma expectativa de gols superior. Nossas previsões anteriores com este nível de confiança acertaram 80% em 10 confrontos da Liga das Nações (a expectativa era de 73%), ou seja, esse tipo de vantagem encontra respaldo consistente em nossos dados. O segundo resultado mais provável é o empate, com 6%, o que indica que um empate surpreendente é possível, mas com probabilidade limitada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "7-2",
+      "toplam_gol": 9,
+      "tuttu": true,
       "alt_ust_tuttu": null,
       "ucretsiz": false
     },
@@ -181,11 +181,11 @@
         "pt": "Um jogo em que o Granada CF aparece claramente à frente como mandante: probabilidade de vitória do mandante de 52%, empate de 26% e vitória do Las Palmas de 22%. Na probabilidade de total de gols, 3 ou mais gols tem 52% e no máximo 2 gols tem 48%, praticamente equilibrados; isso indica que a vantagem do mandante pode ser lida junto com um cenário de muitos gols. Em análises anteriores com este nível de confiança, nossas previsões acertaram 61% em 94 jogos, o que é notável considerando que o esperado era 49%. A probabilidade de empate, com 26%, aparece como o segundo resultado mais provável; já a probabilidade de vitória do Las Palmas fica limitada a 22%.",
         "de": "Granada CF führt als Gastgeber in diesem Spiel deutlich: Ein Heimsieg hat eine Wahrscheinlichkeit von 52%, ein Unentschieden 26%, ein Sieg von Las Palmas 22%. Bei der Gesamttorzahl liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 52%, für höchstens 2 Tore bei 48% – fast ausgeglichen, was darauf hindeutet, dass der Heimvorteil auch in einem torreichen Szenario zum Tragen kommen kann. In der Vergangenheit traf unsere Einschätzung bei vergleichbarem Konfidenzniveau in 94 Spielen in 61% der Fälle zu; da der erwartete Wert bei 49% lag, ist diese Abweichung bemerkenswert. Ein Unentschieden ist mit 26% die zweitwahrscheinlichste Variante, während die Wahrscheinlichkeit für einen Sieg von Las Palmas mit 22% begrenzt bleibt."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {

@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-15T17:30:46Z",
+  "guncelleme_utc": "2026-11-15T19:30:43Z",
   "mac_sayisi": 15,
   "maclar": [
     {
@@ -1625,8 +1625,8 @@
             "tahmin": "1",
             "olasilik": 0.9218,
             "guven": 0.8636,
-            "skor": null,
-            "tuttu": null
+            "skor": "7-2",
+            "tuttu": true
           },
           {
             "mac_id": "c31db8a4f0558632e2b6422676a32efc",
@@ -1653,8 +1653,8 @@
             "tuttu": true
           }
         ],
-        "tutan": 1,
-        "sonuclanan": 1
+        "tutan": 2,
+        "sonuclanan": 2
       },
       {
         "tarih": "2026-11-16",
