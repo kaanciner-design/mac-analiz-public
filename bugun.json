@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-15T20:30:44Z",
+  "guncelleme_utc": "2026-11-15T21:30:43Z",
   "mac_sayisi": 20,
   "maclar": [
     {
@@ -2037,49 +2037,6 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-15",
-        "maclar": [
-          {
-            "mac_id": "b37cfed1f792e0804c4f1e6a1c951f65",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Finland",
-            "deplasman": "San Marino",
-            "baslama_utc": "2026-11-15T17:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.9218,
-            "guven": 0.8636,
-            "skor": "7-2",
-            "tuttu": true
-          },
-          {
-            "mac_id": "c31db8a4f0558632e2b6422676a32efc",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "France",
-            "deplasman": "Turkey",
-            "baslama_utc": "2026-11-15T19:45:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7706,
-            "guven": 0.6297,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "8fafa425728aa8e7d2c23956ba4c2553",
-            "lig": "soccer_brazil_campeonato",
-            "ev_sahibi": "Chapecoense",
-            "deplasman": "Vasco da Gama",
-            "baslama_utc": "2026-11-14T23:30:00Z",
-            "tahmin": "2",
-            "olasilik": 0.6406,
-            "guven": 0.4329,
-            "skor": "0-2",
-            "tuttu": true
-          }
-        ],
-        "tutan": 2,
-        "sonuclanan": 2
-      },
-      {
         "tarih": "2026-11-16",
         "maclar": [
           {
@@ -2124,47 +2081,47 @@
       }
     ],
     "dun": {
-      "tarih": "2026-11-14",
+      "tarih": "2026-11-15",
       "maclar": [
         {
-          "mac_id": "8d67c473dbea0c85b30eefee4bca53d9",
+          "mac_id": "b37cfed1f792e0804c4f1e6a1c951f65",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Norway",
-          "deplasman": "Wales",
-          "baslama_utc": "2026-11-14T17:00:00Z",
+          "ev_sahibi": "Finland",
+          "deplasman": "San Marino",
+          "baslama_utc": "2026-11-15T17:00:00Z",
           "tahmin": "1",
-          "olasilik": 0.7737,
-          "guven": 0.6314,
-          "skor": "3-1",
+          "olasilik": 0.9218,
+          "guven": 0.8636,
+          "skor": "7-2",
           "tuttu": true
         },
         {
-          "mac_id": "159554f486f93d1d8d4213c570117a0e",
+          "mac_id": "c31db8a4f0558632e2b6422676a32efc",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Portugal",
-          "deplasman": "Denmark",
-          "baslama_utc": "2026-11-14T19:45:00Z",
+          "ev_sahibi": "France",
+          "deplasman": "Turkey",
+          "baslama_utc": "2026-11-15T19:45:00Z",
           "tahmin": "1",
-          "olasilik": 0.6332,
-          "guven": 0.4282,
-          "skor": "1-4",
-          "tuttu": false
+          "olasilik": 0.7706,
+          "guven": 0.6297,
+          "skor": null,
+          "tuttu": null
         },
         {
-          "mac_id": "2b646127cc6cb400abc663c5a458f1db",
-          "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Sweden",
-          "deplasman": "Bosnia & Herzegovina",
-          "baslama_utc": "2026-11-14T19:45:00Z",
-          "tahmin": "1",
-          "olasilik": 0.6186,
-          "guven": 0.3976,
-          "skor": "3-2",
+          "mac_id": "8fafa425728aa8e7d2c23956ba4c2553",
+          "lig": "soccer_brazil_campeonato",
+          "ev_sahibi": "Chapecoense",
+          "deplasman": "Vasco da Gama",
+          "baslama_utc": "2026-11-14T23:30:00Z",
+          "tahmin": "2",
+          "olasilik": 0.6406,
+          "guven": 0.4329,
+          "skor": "0-2",
           "tuttu": true
         }
       ],
       "tutan": 2,
-      "sonuclanan": 3
+      "sonuclanan": 2
     },
     "genel": {
       "gun": 6,
