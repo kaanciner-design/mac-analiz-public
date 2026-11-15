@@ -1,475 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-15T19:30:43Z",
-  "mac_sayisi": 15,
+  "guncelleme_utc": "2026-11-15T20:30:44Z",
+  "mac_sayisi": 20,
   "maclar": [
-    {
-      "mac_id": "9cb05a2b01f14b556d7c79f7d060f2b9",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Belgium",
-      "deplasman": "Italy",
-      "baslama_utc": "2026-11-15T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4458,
-        "X": 0.2526,
-        "2": 0.3016
-      },
-      "tahmin": "1",
-      "guven": 0.1442,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5767,
-          "alt": 0.4233
-        },
-        "tahmin": "ust",
-        "guven": 0.1534,
-        "kaynak_sayisi": 9
-      },
-      "ai_metin": "Belgium'un ev sahibi avantajıyla hafifçe önde olduğu, ancak farkın çok belirgin olmadığı dengeli bir karşılaşma bekleniyor. Olasılıklar %45 Belgium, %25 beraberlik ve %30 Italy yönünde; toplamda 3 veya daha fazla gol %58 ile daha olası görünüyor, bu da açık ve hareketli bir maç senaryosuna işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 94 maçta %50 isabet oranına ulaştı; beklenen %41'in üzerinde bir sonuç. İkinci olası sonuç olarak Italy'nin deplasmanda galip gelmesi %30 ile değerlendirilebilir.",
-      "ai_metinler": {
-        "en": "A balanced match is expected, with Belgium holding a slight edge thanks to home advantage, though the gap is not very pronounced. The probabilities are 45% for a Belgium win, 25% for a draw, and 30% for an Italy win; for total goals, 3 or more goals appears more likely at 58%, pointing to an open and fast-paced match scenario. Our past predictions reached a 50% hit rate across 94 matches at this confidence level, a result above the expected 41%. As a second possible outcome, an Italy away win at 30% can also be considered.",
-        "es": "Se espera un partido equilibrado en el que Bélgica tiene una ligera ventaja gracias a jugar como local, aunque la diferencia no es muy marcada. Las probabilidades son del 45% para Bélgica, del 25% para el empate y del 30% para Italia; en total, la probabilidad de 3 goles o más es del 58%, lo que apunta a un escenario de partido abierto y dinámico. Nuestras predicciones anteriores con este nivel de confianza acertaron en 94 partidos con una tasa del 50%, un resultado superior al 41% esperado. Como segundo resultado posible, la victoria de Italia como visitante puede considerarse con una probabilidad del 30%.",
-        "de": "Belgien liegt aufgrund des Heimvorteils leicht vorn, doch der Unterschied ist nicht sehr deutlich, daher wird eine ausgeglichene Begegnung erwartet. Die Wahrscheinlichkeiten lauten 45 % für Belgium, 25 % für ein Unentschieden und 30 % für Italy; bei den Toren insgesamt erscheinen 3 oder mehr Tore mit 58 % wahrscheinlicher, was auf ein offenes und lebhaftes Spielszenario hindeutet. Unsere früheren Prognosen erreichten bei diesem Vertrauensniveau in 94 Spielen eine Trefferquote von 50 %; das ist ein Ergebnis über den erwarteten 41 %. Als zweitwahrscheinlichstes Ergebnis ist ein Auswärtssieg von Italy mit 30 % zu bewerten.",
-        "fr": "Belgique a un léger avantage grâce à son statut d'équipe à domicile, mais l'écart n'est pas très marqué, et l'on s'attend à une rencontre équilibrée. Les probabilités sont de 45 % pour Belgium, 25 % pour un match nul et 30 % pour Italy ; au total, 3 goals or more apparaît plus probable, avec 58 %, ce qui laisse présager un match ouvert et animé. Nos pronostics passés ont atteint un taux de réussite de 50 % sur 94 matchs à ce niveau de confiance, soit un résultat supérieur aux 41 % attendus. Comme deuxième issue possible, une victoire de Italy à l'extérieur peut être envisagée avec 30 %.",
-        "it": "Il match è previsto come equilibrato, con il Belgio leggermente favorito grazie al vantaggio di giocare in casa, anche se la differenza non appare molto marcata. Le probabilità sono del 45% per il Belgio, del 25% per il pareggio e del 30% per l'Italia; per il totale delle reti, 3 gol o più risultano più probabili con il 58%, il che suggerisce uno scenario di partita aperta e dinamica. Le nostre previsioni passate, con questo livello di fiducia, hanno raggiunto una percentuale di successo del 50% su 94 partite; un risultato superiore al 41% atteso. Come secondo esito possibile, la vittoria dell'Italia in trasferta può essere considerata con una probabilità del 30%.",
-        "pt": "O Belgium está levemente à frente devido à vantagem de jogar em casa, mas a diferença não é muito marcante, e espera-se um confronto equilibrado. As probabilidades apontam para 45% de vitória do Belgium, 25% de empate e 30% de vitória da Italy; somando os gols, 3 gols ou mais aparecem como mais prováveis, com 58%, o que sinaliza um cenário de jogo aberto e movimentado. Nossas previsões anteriores com este nível de confiança alcançaram uma taxa de acerto de 50% em 94 partidas; um resultado acima dos 41% esperados. Como segundo resultado possível, a vitória da Italy como visitante pode ser considerada, com 30% de probabilidade."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Turkey",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "France",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 3,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "cc7a8f5fed10407a56df29e87f73d7e3",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Croatia",
-      "deplasman": "Czech Republic",
-      "baslama_utc": "2026-11-15T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.6226,
-        "X": 0.214,
-        "2": 0.1634
-      },
-      "tahmin": "1",
-      "guven": 0.4086,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5637,
-          "alt": 0.4363
-        },
-        "tahmin": "ust",
-        "guven": 0.1274,
-        "kaynak_sayisi": 10
-      },
-      "ai_metin": "Croatia, Czech Republic karşısında belirgin biçimde önde: ev sahibinin galibiyet olasılığı %62, beraberlik %21 ve deplasmanın galibiyeti %16. Toplam gol açısından 3 veya daha fazla gol %56 ile biraz daha olası görünüyor; bu da favorinin gollü bir üstünlük kurabileceği, ancak yine de tek yönlü bir senaryoyu zorunlu kılmadığı bir maça işaret ediyor. Geçmiş UEFA Uluslar Ligi tahminlerimizde bu güven seviyesinde 10 maçta %80 isabet yakaladık, bu da beklenen %73 değerinin biraz üzerinde. En olası ikinci sonuç olan beraberlik ise %21 ile ciddi bir ihtimal taşıyor.",
-      "ai_metinler": {
-        "en": "Croatia holds a clear edge over Czech Republic: the home side's probability of winning is 62%, the probability of a draw is 21%, and the probability of an away win is 16%. For total goals, 3 or more goals appears slightly more likely at 56%, which points to a match where the favorite could build a goal-filled advantage, though it does not necessarily require a one-sided scenario. In our past UEFA Nations League predictions at this confidence level, we achieved an 80% hit rate over 10 matches, slightly above the expected 73%. The draw, as the second most likely outcome at 21%, also carries a serious probability.",
-        "es": "Croacia tiene una clara ventaja sobre la República Checa: la probabilidad de victoria del local es del 62%, la de empate del 21% y la de victoria del visitante del 16%. En cuanto a los goles totales, 3 goles o más aparecen con un 56%, algo más probable, lo que apunta a un partido con goles en el que el favorito podría imponerse con holgura, aunque sin que ello obligue a un escenario de dominio absoluto. En nuestras predicciones previas de la Liga de Naciones de la UEFA, con este nivel de confianza acertamos en 10 partidos de cada 10, es decir, un 80%, ligeramente por encima del 73% esperado. El segundo resultado más probable, el empate, con un 21%, también tiene una probabilidad considerable.",
-        "de": "Croatia liegt deutlich vor Czech Republic: Die Wahrscheinlichkeit eines Heimsiegs liegt bei 62 %, ein Unentschieden bei 21 % und ein Auswärtssieg bei 16 %. Bei den Torzahlen erscheinen 3 oder mehr Tore mit 56 % etwas wahrscheinlicher; das deutet auf ein Spiel mit Toren hin, in dem der Favorit eine torreiche Überlegenheit aufbauen kann, ohne dass jedoch zwingend ein einseitiger Verlauf zu erwarten ist. Bei unseren bisherigen Vorhersagen zu UEFA-Nations-League-Spielen haben wir mit diesem Sicherheitsniveau in 10 Spielen 80 % Trefferquote erreicht, was leicht über dem erwarteten Wert von 73 % liegt. Das Unentschieden als zweitwahrscheinlichstes Ergebnis hat mit 21 % ebenfalls eine ernstzunehmende Wahrscheinlichkeit.",
-        "fr": "Croatie part nettement favorite face à la Tchéquie : la probabilité d'une victoire à domicile est de 62 %, celle d'un match nul de 21 % et celle d'une victoire à l'extérieur de 16 %. Concernant le total de buts, la probabilité de 3 buts ou plus est de 56 %, ce qui paraît un peu plus probable ; cela laisse présager un match où le favori peut s'imposer en marquant, sans pour autant imposer un scénario à sens unique. Lors de nos précédents pronostics de la Ligue des nations de l'UEFA, nous avons atteint une réussite de 80 % sur 10 matchs à ce niveau de confiance, soit légèrement au-dessus de la valeur attendue de 73 %. Le match nul, deuxième issue la plus probable, représente tout de même une possibilité sérieuse avec 21 %.",
-        "it": "Croazia, rispetto alla Repubblica Ceca, appare nettamente favorita: la probabilità di vittoria interna è del 62%, il pareggio del 21% e la vittoria esterna del 16%. Per il totale gol, 3 o più gol appaiono leggermente più probabili, con il 56%, il che indica un incontro in cui la squadra favorita potrebbe imporsi con diverse reti, senza però rendere obbligatorio uno scenario a senso unico. Nelle nostre precedenti previsioni sulla UEFA Nations League, a questo livello di fiducia abbiamo centrato il risultato in 10 partite su 10 con un'accuratezza dell'80%, leggermente superiore al valore atteso del 73%. Il pareggio, come secondo esito più probabile, con il 21% rappresenta comunque un'eventualità concreta.",
-        "pt": "Croácia está em posição claramente favorável diante da República Tcheca: probabilidade de vitória do time da casa de 62%, empate de 21% e vitória do visitante de 16%. Em relação ao total de gols, 3 ou mais gols aparecem um pouco mais prováveis, com 56%, o que aponta para uma partida em que o favorito pode construir uma superioridade com gols, mas que, ainda assim, não exige um cenário de domínio unilateral. Em nossas previsões anteriores para a Liga das Nações da UEFA, nesse nível de confiança acertamos 80% das 10 partidas, um pouco acima do índice esperado de 73%. Já o empate, como segundo resultado mais provável, com 21%, representa uma possibilidade séria."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "England",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Spain",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 0,
-            "yenilen": 2,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 0,
-            "yenilen": 2,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "bef3dd0d3dad6760e4e531bc9565fb8c",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Spain",
-      "deplasman": "England",
-      "baslama_utc": "2026-11-15T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5502,
-        "X": 0.2367,
-        "2": 0.2131
-      },
-      "tahmin": "1",
-      "guven": 0.3135,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5846,
-          "alt": 0.4154
-        },
-        "tahmin": "ust",
-        "guven": 0.1692,
-        "kaynak_sayisi": 8
-      },
-      "ai_metin": "Spain, evinde England'a karşı belirgin biçimde önde görünüyor; ev sahibinin %55 galibiyet olasılığı, maçın net bir favoriyi işaret ettiğini gösteriyor. Toplam golde 3 veya daha fazla gol olasılığının %58 olması, favorinin gollü bir galibiyet arayabileceği açık bir senaryoya işaret ediyor. Geçmiş UEFA Uluslar Ligi tahminlerimiz bu güven seviyesinde 10 maçta %80 isabet etti, beklenen %73'ün üzerinde. Beraberlik ihtimali %24 olarak ikinci en olası sonuç; England'ın galibiyet olasılığı ise %21 ile buna yakın seviyede.",
-      "ai_metinler": {
-        "en": "Spain appears clearly ahead of England at home; the host's 55% probability of winning points to a clear favourite in this match. A 58% probability of 3 or more goals in total suggests an open scenario in which the favourite may look for a high-scoring win. Our past UEFA Nations League predictions were correct in 80% of matches at this confidence level over 10 matches, above the expected 73%. A draw, at 24%, is the second most likely result, while England's probability of winning, at 21%, is close to that level.",
-        "es": "España parece claramente por delante de Inglaterra en su partido como local; la probabilidad de victoria de España, del 55%, indica que el encuentro tiene un favorito neto. Que la probabilidad de 3 o más goles en el total sea del 58% apunta a un escenario abierto en el que el favorito podría buscar una victoria con goles. Nuestras predicciones previas de la Liga de Naciones de la UEFA acertaron el 80% de las veces en 10 partidos con este nivel de confianza, por encima del 73% esperado. La probabilidad de empate, del 24%, es el segundo resultado más probable; la probabilidad de victoria de Inglaterra, del 21%, está en un nivel cercano.",
-        "de": "Spanien wirkt im Heimspiel gegen England deutlich im Vorteil; die Wahrscheinlichkeit eines Heimsiegs von 55% deutet auf einen klaren Favoriten hin. Dass die Wahrscheinlichkeit für 3 oder mehr Tore bei 58% liegt, spricht für ein Szenario, in dem der Favorit einen torreichen Sieg anstreben könnte. Unsere früheren Prognosen zu UEFA-Nations-League-Spielen trafen bei diesem Vertrauensniveau in 10 Spielen zu 80% zu und lagen damit über den erwarteten 73%. Eine Unentschieden-Wahrscheinlichkeit von 24% ist das zweitwahrscheinlichste Ergebnis; die Siegwahrscheinlichkeit für England liegt mit 21% knapp darunter.",
-        "fr": "L'Espagne apparaît nettement en tête face à l'Angleterre à domicile ; la probabilité de victoire de l'équipe à domicile, à 55 %, indique clairement que la rencontre désigne un favori net. Une probabilité de 58 % d'inscrire 3 buts ou plus dans le match laisse entrevoir un scénario où le favori pourrait chercher une victoire avec des buts. Nos précédentes prévisions de la Ligue des nations de l'UEFA ont atteint 80 % de réussite sur 10 matchs à ce niveau de confiance, au-delà des 73 % attendus. La probabilité de match nul, à 24 %, constitue le deuxième résultat le plus probable ; celle de victoire de l'Angleterre, à 21 %, est proche de ce niveau.",
-        "it": "La Spagna appare nettamente in vantaggio contro l'England in casa; la probabilità di vittoria della squadra di casa, pari al 55%, indica che la partita ha un chiaro favorito. La probabilità del 58% di 3 o più gol nel totale suggerisce uno scenario in cui il favorito potrebbe cercare una vittoria con gol. Le nostre precedenti previsioni nella UEFA Nations League, con questo livello di fiducia, hanno avuto ragione in 10 partite su 10 nell'80% dei casi, al di sopra del 73% atteso. Il pareggio, con una probabilità del 24%, è il secondo esito più probabile; la vittoria dell'England, con il 21%, è di poco inferiore.",
-        "pt": "A Espanha aparece claramente à frente contra a Inglaterra; a probabilidade de vitória do mandante, de 55%, indica que a partida tem um favorito definido. A probabilidade de 58% de 3 ou mais gols aponta para um cenário em que o favorito pode buscar uma vitória com gols. Nossas previsões anteriores para a Liga das Nações da UEFA acertaram 80% em 10 partidas nesse nível de confiança, acima dos 73% esperados. A probabilidade de empate, de 24%, é o segundo resultado mais provável, enquanto a probabilidade de vitória da England, de 21%, está próxima desse valor."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Czech Republic",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Croatia",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c31db8a4f0558632e2b6422676a32efc",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "France",
-      "deplasman": "Turkey",
-      "baslama_utc": "2026-11-15T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.7706,
-        "X": 0.1409,
-        "2": 0.0885
-      },
-      "tahmin": "1",
-      "guven": 0.6297,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.7174,
-          "alt": 0.2826
-        },
-        "tahmin": "ust",
-        "guven": 0.4348,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "France ev sahibi olarak açık ara favori; %77 galibiyet olasılığı ve maçın büyük ölçüde gollü bir karşılaşmaya işaret ettiği (%72 ile 3 veya daha fazla gol) dikkat çekiyor. Bu tablo, favorinin üstünlüğünü gollü bir galibiyetle taçlandırabileceği bir senaryoyu öne çıkarıyor. Geçmişte bu güven seviyesindeki UEFA Uluslar Ligi tahminlerimiz 10 maçta %80 isabet etti; bu da beklenen %73'ün biraz üzerinde. Kaynaklar arasındaki görüş farkı yüksek olduğu için tabloyu kesin saymak yerine dikkatli okumak gerekir. Beraberlik %14 olasılıkla en olası ikinci sonuç olsa da, Türkiye'nin galibiyeti %9 ile düşük bir ihtimal olarak öne çıkıyor.",
-      "ai_metinler": {
-        "en": "France, playing at home, are clear favourites, with a 77% probability of victory. The match also points strongly to a high-scoring game, with a 72% probability of 3 or more goals. This picture highlights a scenario in which the favourite could crown its superiority with a victory featuring plenty of goals. In the past, our predictions at this confidence level for UEFA Nations League matches hit the mark 80% of the time across 10 matches, slightly above the expected 73%. Because sources differ widely in their views, this table should be read carefully rather than treated as certain. A draw, at 14% probability, is the second most likely outcome, while a Türkiye win, at 9%, stands out as a low-probability scenario.",
-        "es": "Como local favorito claro, Francia cuenta con un 77% de probabilidad de victoria, y el partido apunta en gran medida a un encuentro con goles, con un 72% de probabilidad de 3 goles o más. Este panorama resalta un escenario en el que el favorito podría coronar su superioridad con una victoria con goles. En el pasado, nuestras predicciones de la UEFA Nations League con este nivel de confianza acertaron en 10 partidos de cada 10 con un 80% de aciertos, ligeramente por encima del 73% esperado. Como hay una gran diferencia de opinión entre las fuentes, conviene leer esta tabla con cautela en lugar de considerarla definitiva. El empate, con un 14% de probabilidad, es el segundo resultado más probable, mientras que la victoria de Turquía, con un 9%, aparece como una posibilidad baja.",
-        "de": "Als Gastgeber ist Frankreich mit großem Abstand der Favorit; auffällig sind die 77% Siegwahrscheinlichkeit und der Hinweis, dass die Partie größtenteils torreich verlaufen dürfte (72% für 3 oder mehr Tore). Diese Lage hebt ein Szenario hervor, in dem der Favorit seine Überlegenheit mit einem torreichen Sieg untermauern könnte. In der Vergangenheit traf unsere Prognose bei Spielen der UEFA Nations League mit diesem Konfidenzniveau in 10 Spielen zu 80%; das liegt etwas über den erwarteten 73%. Da die Einschätzungen der Quellen stark auseinandergehen, sollte die Übersicht eher sorgfältig gelesen als als sicher betrachtet werden. Ein Unentschieden ist mit 14% Wahrscheinlichkeit das zweitwahrscheinlichste Ergebnis, während ein Sieg der Türkei mit 9% als unwahrscheinliche Option erscheint.",
-        "fr": "La France, en tant qu'équipe à domicile, est de loin favorite ; une probabilité de victoire de 77 % et une probabilité de 72 % pour 3 buts ou plus mettent en évidence un match qui devrait être largement riche en buts. Ce tableau met en avant un scénario dans lequel le favori pourrait couronner sa supériorité par une victoire avec plusieurs buts. Par le passé, nos prévisions de ce niveau de confiance pour les matchs de la Ligue des nations de l'UEFA ont été justes dans 80 % des cas sur 10 matchs, soit un peu au-dessus des 73 % attendus. Comme les sources divergent fortement, il convient de lire ce tableau avec prudence plutôt que de le considérer comme certain. Le match nul, avec une probabilité de 14 %, est le deuxième résultat le plus probable, tandis que la victoire de la Turquie, à 9 %, apparaît comme une issue peu probable.",
-        "it": "La Francia, in casa, è nettamente favorita: la probabilità di vittoria è del 77%, e la partita appare in gran parte ricca di gol, con una probabilità del 72% di 3 o più gol. Questo quadro evidenzia uno scenario in cui il favorito potrebbe coronare la sua superiorità con una vittoria ricca di reti. In passato, le nostre previsioni per le partite di UEFA Nations League con questo livello di fiducia hanno avuto successo nell'80% dei casi su 10 partite, leggermente al di sopra del 73% atteso. Poiché le fonti presentano una forte divergenza di opinioni, è opportuno leggere questo quadro con cautela piuttosto che considerarlo definitivo. Il pareggio, con una probabilità del 14%, è il secondo esito più probabile, mentre la vittoria della Turchia, con il 9%, appare come un'ipotesi poco probabile.",
-        "pt": "A França, como anfitriã, é de longe a favorita; a probabilidade de vitória é de 77%, e a partida aponta para um jogo com muitos gols, com 72% de probabilidade de 3 ou mais gols. Este cenário destaca a possibilidade de a superioridade do favorito se confirmar com uma vitória com muitos gols. No passado, nossas previsões da UEFA Liga das Nações com este nível de confiança acertaram 80% das vezes em 10 partidas, um pouco acima dos 73% esperados. Como há grande divergência entre as fontes, é preciso interpretar esta tabela com cautela, em vez de considerá-la definitiva. O empate, com 14% de probabilidade, é o segundo resultado mais provável, enquanto a vitória da Turquia, com 9%, aparece como uma possibilidade remota."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Italy",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 3,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 3,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-12",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Belgium",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "5ae7a0b002778fc547ce96abf6bf8547",
       "lig": "soccer_uefa_nations_league",
@@ -1595,6 +1127,897 @@
             "maglubiyet": 0,
             "atilan": 2,
             "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "e71a4a4fea03d00873c285c5b55a9864",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Israel",
+      "deplasman": "Austria",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Kosovo",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Republic of Ireland",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Iceland",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 2,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 2,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3eb1d15a190bb1be8c32a020365dc7c2",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Bosnia & Herzegovina",
+      "deplasman": "Romania",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Sweden",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 3,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 2,
+            "yenilen": 3,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 2,
+            "yenilen": 3,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Poland",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "770e80269ec2ffddc826bc50330c475b",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Denmark",
+      "deplasman": "Norway",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Portugal",
+              "ic_saha": false,
+              "atilan": 4,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 4,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 4,
+            "yenilen": 1,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Wales",
+              "ic_saha": true,
+              "atilan": 3,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "91b890f5fd20440cb272721b8a89a33d",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Ukraine",
+      "deplasman": "Georgia",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Northern Ireland",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 1,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Hungary",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 2,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 2,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "1a07e9080f042594bdb529ab932d680c",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Hungary",
+      "deplasman": "Northern Ireland",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Georgia",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Ukraine",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 1,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 1,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "4bdcb82e4dc2d91dfdefdcf79b3b7f54",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Iceland",
+      "deplasman": "Kosovo",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Austria",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-13",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Bulgaria",
+              "ic_saha": false,
+              "atilan": 5,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 5,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 5,
+            "yenilen": 1,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Israel",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "a6c9b424fddccea76aab09880b69dd31",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Republic of Ireland",
+      "deplasman": "Kosovo",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Austria",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 1,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Israel",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "aab74efad72e8096e774c7104189ff09",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Poland",
+      "deplasman": "Sweden",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Romania",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Bosnia & Herzegovina",
+              "ic_saha": true,
+              "atilan": 3,
+              "yenilen": 2,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "955a201ba2266b8b6b0519e0265eb354",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Wales",
+      "deplasman": "Portugal",
+      "baslama_utc": "2026-11-17T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Norway",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 3,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 3,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_uefa_nations_league",
+              "rakip": "Denmark",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 4,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 4,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 4,
             "ust25": 1
           },
           "deplasman": {
