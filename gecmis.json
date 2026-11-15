@@ -1,7 +1,124 @@
 {
-  "guncelleme_utc": "2026-11-15T05:37:22Z",
-  "mac_sayisi": 357,
+  "guncelleme_utc": "2026-11-15T14:30:42Z",
+  "mac_sayisi": 360,
   "maclar": [
+    {
+      "mac_id": "beaee55c19760e22fdf6291286debb08",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Latvia",
+      "deplasman": "Armenia",
+      "baslama_utc": "2026-11-15T14:00:00Z",
+      "olasiliklar": {
+        "1": 0.3141,
+        "X": 0.2728,
+        "2": 0.4131
+      },
+      "tahmin": "2",
+      "guven": 0.099,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.484,
+          "alt": 0.516
+        },
+        "tahmin": "alt",
+        "guven": 0.032,
+        "kaynak_sayisi": 6
+      },
+      "ai_metin": "Deplasman takımı Armenia, bu maçta belirgin olmasa da net bir öne sahip: %41 olasılıkla kazanması, %31 olasılıkla kazanacak Latvia'nın önünde. Toplam gol tarafında ise iki senaryo neredeyse eşit ağırlıkta; 3 veya daha fazla gol %48, en fazla 2 gol %52 ile maçın kontrollü ve az gollü geçebileceğine işaret ediyor. Verilere göre bu tahmine güven yüksek ve geçmişte 94 maçta %50 isabet görülmüş, bu da beklenen ihtimalin üzerinde. Beraberlik ihtimali %27 olduğu için bu sonuç da ciddi bir seçenek; en olası ikinci sonuç ise Latvia'nın galibiyeti (%31).",
+      "ai_metinler": {
+        "en": "The away side, Armenia, holds a clear but not overwhelming edge in this match: a 41% probability of winning, ahead of Latvia's 31% probability of victory. On total goals, the two scenarios are almost evenly weighted: 3 or more goals at 48%, and at most 2 goals at 52%, pointing to a controlled, low-scoring game. According to the data, confidence in this assessment is high, and it has been correct in 50% of the 94 previous matches, which is above the expected level. Since the probability of a draw is 27%, that result is also a serious possibility; the second most likely outcome is a Latvia win (31%).",
+        "es": "El equipo visitante, Armenia, tiene una ventaja clara aunque no abrumadora: una probabilidad del 41% de ganar, por delante de Latvia, con un 31% de probabilidad de ganar. En cuanto al total de goles, los dos escenarios están casi igualados: 3 goles o más con un 48%, y como máximo 2 goles con un 52%, lo que apunta a un partido controlado y con pocos goles. Según los datos, la confianza en esta predicción es alta y en el pasado se ha acertado en 94 partidos con un 50%, por encima de la probabilidad esperada. La probabilidad de empate es del 27%, por lo que este resultado también es una opción seria; el segundo resultado más probable es la victoria de Latvia (31%).",
+        "de": "Der Auswärtsgegner Armenien hat in diesem Spiel einen klaren, wenn auch nicht deutlichen Vorteil: Mit einer Wahrscheinlichkeit von 41 % könnte Armenien gewinnen, das liegt vor Lettland mit 31 %. Bei den Gesamttoren sind die beiden Szenarien nahezu gleichwertig: 3 oder mehr Tore liegen bei 48 %, höchstens 2 Tore bei 52 %, was auf eine kontrollierte und torarme Partie hindeutet. Laut den Daten ist das Vertrauen in diese Einschätzung hoch, und in der Vergangenheit traf sie bei 94 Spielen in 50 % der Fälle zu, was über der erwarteten Wahrscheinlichkeit liegt. Da die Wahrscheinlichkeit für ein Unentschieden bei 27 % liegt, ist auch dieses Ergebnis eine ernstzunehmende Option; das zweitwahrscheinlichste Ergebnis ist der Sieg Lettlands (31 %).",
+        "fr": "L'équipe à l'extérieur, Armenia, n'a pas un avantage marqué mais elle a tout de même une nette longueur d'avance : une probabilité de 41 % de l'emporter, devant Latvia avec 31 % de probabilité de victoire. Concernant le nombre total de buts, les deux scénarios sont presque à égalité : 3 buts ou plus avec 48 %, et au plus 2 buts avec 52 %, ce qui indique que la rencontre pourrait être contrôlée et peu prolifique. Selon les données, la confiance dans cette estimation est élevée, et par le passé elle a été juste dans 50 % des cas sur 94 matchs, ce qui dépasse la probabilité attendue. La probabilité d'un match nul est de 27 %, ce résultat constitue donc lui aussi une option sérieuse ; le deuxième résultat le plus probable est la victoire de Latvia (31 %).",
+        "it": "La squadra ospite Armenia, pur non essendo nettamente favorita, ha un leggero vantaggio: una probabilità del 41% di vincere, davanti al 31% di probabilità di vittoria della Latvia. Per quanto riguarda il numero totale di gol, i due scenari sono quasi equivalenti: 3 o più gol al 48% e al massimo 2 gol al 52%, il che indica che la partita potrebbe svolgersi in modo controllato e con pochi gol. Secondo i dati, la fiducia in questa previsione è alta e, in passato, su 94 partite si è registrata una precisione del 50%, il che è superiore alla probabilità attesa. Poiché la probabilità di pareggio è del 27%, anche questo risultato è un'opzione seria; il secondo esito più probabile è la vittoria della Latvia (31%).",
+        "pt": "O visitante Armênia, embora não de forma marcante, tem uma vantagem clara nesta partida: a probabilidade de vitória é de 41%, à frente dos 31% de probabilidade para a Letônia. No que diz respeito ao total de gols, os dois cenários têm peso quase igual: 3 gols ou mais com 48%, e até 2 gols com 52%, o que indica que a partida pode ser controlada e com poucos gols. De acordo com os dados, a confiança nesta previsão é alta e, no passado, houve 50% de acerto em 94 jogos, o que está acima da probabilidade esperada. Como a probabilidade de empate é de 27%, esse resultado também é uma possibilidade séria; o segundo resultado mais provável é a vitória da Letônia (31%)."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "1f7ad9776d6a7ff7e4715bfcc3602e9f",
+      "lig": "soccer_uefa_nations_league",
+      "ev_sahibi": "Cyprus",
+      "deplasman": "Montenegro",
+      "baslama_utc": "2026-11-15T14:00:00Z",
+      "olasiliklar": {
+        "1": 0.3071,
+        "X": 0.2905,
+        "2": 0.4025
+      },
+      "tahmin": "2",
+      "guven": 0.0954,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4539,
+          "alt": 0.5461
+        },
+        "tahmin": "alt",
+        "guven": 0.0922,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Cyprus'un ev sahibi olduğu bu maçta Montenegro hafif önde: %40 galibiyet, %31 Cyprus, %29 beraberlik. Toplam gol tarafında 3 veya daha fazla gol %45, en fazla 2 gol %55 ile ikinci ihtimali hafifçe öne çıkarıyor; bu da kontrollü, az gollü bir senaryoya işaret ediyor. Bu güven seviyesindeki geçmiş tahminlerimiz 94 maçta %50 isabet oranına ulaştı; beklenen %41 ile kıyaslandığında bu sonuç olasılıkların üzerinde bir performans gösteriyor. Beraberlik, %29 ile en olası ikinci sonuç olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "Cyprus is the home side in this match, but Montenegro is slightly ahead: 40% win, 31% Cyprus, 29% draw. On total goals, 3 or more goals stands at 45%, while at most 2 goals leads at 55%, giving the second outcome a slight edge; this points to a controlled, low-scoring scenario. Our past predictions at this confidence level reached a 50% hit rate over 94 matches; compared with the expected 41%, this result shows performance above the probabilities. A draw, at 29%, stands out as the second most likely result.",
+        "es": "Este partido se juega en Chipre como local, aunque Montenegro parte ligeramente por delante: 40% de victoria, 31% para Cyprus y 29% de empate. En cuanto a los goles totales, 3 goles o más tienen un 45% y at most 2 goles un 55%, lo que da una ligera ventaja a la segunda opción y apunta a un escenario controlado y de pocos goles. Nuestras predicciones anteriores con este nivel de confianza acertaron en 94 partidos con un 50% de aciertos; comparado con el 41% esperado, este resultado supera lo previsto por las probabilidades. El empate, con un 29%, se perfila como el segundo resultado más probable.",
+        "de": "Dieses Spiel findet im Heimstadion Zyperns statt, dennoch liegt Montenegro leicht vorn: 40% Sieg, 31% Zypern, 29% Unentschieden. Bei der Anzahl der Tore spricht die Wahrscheinlichkeit für 3 oder mehr Tore mit 45%, während mit 55% wahrscheinlich höchstens 2 Tore fallen; diese zweite Möglichkeit ist also leicht in Front, was auf ein kontrolliertes, torarmes Szenario hindeutet. Bei Vorhersagen mit diesem Vertrauensniveau erreichten unsere früheren Prognosen bei 94 Spielen eine Trefferquote von 50%; verglichen mit den erwarteten 41% liegt dieses Ergebnis über den Wahrscheinlichkeiten. Ein Unentschieden ist mit 29% das zweitwahrscheinlichste Ergebnis.",
+        "fr": "Dans ce match où Cyprus joue à domicile, Montenegro est légèrement en tête : 40 % de victoire, 31 % pour Cyprus, 29 % de match nul. Concernant le total de buts, 3 buts ou plus ont une probabilité de 45 %, tandis qu'au plus 2 buts en ont une de 55 %, ce qui fait de ce second scénario le plus probable et laisse entrevoir un match maîtrisé, avec peu de buts. Lors de nos précédentes prévisions à ce niveau de confiance, nous avons atteint un taux de réussite de 50 % sur 94 matchs ; comparé aux 41 % attendus, ce résultat dépasse les probabilités annoncées. Le match nul, avec 29 %, ressort comme le deuxième résultat le plus probable.",
+        "it": "Nella partita in casa di Cyprus, il Montenegro è leggermente in vantaggio: 40% di vittoria, 31% Cyprus, 29% pareggio. Per il numero totale di gol, 3 o più gol ha una probabilità del 45%, mentre al massimo 2 gol, con il 55%, risulta leggermente più probabile, indicando uno scenario controllato con pochi gol. Le nostre previsioni passate con questo livello di fiducia hanno raggiunto una percentuale di successo del 50% su 94 partite; rispetto al 41% atteso, questo risultato mostra una performance superiore alle probabilità. Il pareggio, con il 29%, emerge come secondo esito più probabile.",
+        "pt": "Nesta partida em que Cyprus joga em casa, Montenegro está levemente à frente: 40% de vitória, 31% para Cyprus e 29% de empate. Na questão do total de gols, 3 gols ou mais tem 45% de probabilidade, enquanto no máximo 2 gols aparece com 55%, destacando levemente a segunda possibilidade; isso aponta para um cenário controlado, com poucos gols. Nossas previsões anteriores com esse nível de confiança acertaram em 50% dos 94 jogos, e comparado aos 41% esperados, esse resultado mostra um desempenho acima das probabilidades. O empate, com 29%, se destaca como o segundo resultado mais provável."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f241b0cec31506c2eb749ff9be97667c",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Tenerife",
+      "deplasman": "AD Ceuta FC",
+      "baslama_utc": "2026-11-15T13:00:00Z",
+      "olasiliklar": {
+        "1": 0.5173,
+        "X": 0.2616,
+        "2": 0.2212
+      },
+      "tahmin": "1",
+      "guven": 0.2557,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4863,
+          "alt": 0.5137
+        },
+        "tahmin": "alt",
+        "guven": 0.0274,
+        "kaynak_sayisi": 16
+      },
+      "ai_metin": "Tenerife, AD Ceuta karşısında belirgin biçimde önde; ev sahibinin %52 kazanma olasılığı, deplasmandaki takımın %22'sinin hayli üzerinde. Toplam golde ise dengeli bir tablo var: 3 veya daha fazla gol %49, en fazla 2 gol %51. Bu nedenle favorinin kontrollü bir galibiyet almasını, ancak maçın gollü olmasının pek garanti olmadığını düşünmek daha isabetli. Verilerimizde 17 kaynak arasında belirgin görüş farkı bulunduğundan belirsizlik normalin üzerinde; benzer güven seviyesindeki 94 geçmiş maçta isabet oranımız %61 olmuştu, bu da olasılıkların beklenen %49 düzeyinin üzerinde bir performans. Beraberlik %26 ile en olası ikinci sonuç; deplasman galibiyeti (%22) ise düşük ama göz ardı edilemeyecek bir ihtimal.",
+      "ai_metinler": {
+        "en": "Tenerife holds a clear advantage over AD Ceuta; the home side's probability of winning is 52%, well above the 22% probability for the away team. In total goals the picture is balanced: 3 or more goals at 49%, and at most 2 goals at 51%. For that reason, it is more accurate to expect the favorite to secure a controlled win, while not assuming the match will be high-scoring. Because there is noticeable disagreement among the 17 sources in our data, uncertainty is higher than usual. In 94 past matches with a similar confidence level, our hit rate was 61%, which is above the expected 49% level for these probabilities. A draw, at 26%, is the second most likely result, while an away win (22%) is a low but not negligible possibility.",
+        "es": "Tenerife claramente por delante frente al AD Ceuta; la probabilidad de victoria del equipo local es del 52%, muy por encima del 22% del equipo visitante. En cuanto al total de goles, el panorama está equilibrado: 3 goles o más tienen una probabilidad del 49%, y como máximo 2 goles del 51%. Por ello, resulta más acertado pensar que el favorito logrará una victoria controlada, aunque no es muy seguro que el partido sea goleador. Dado que entre las 17 fuentes de nuestros datos existen diferencias de opinión notables, la incertidumbre es superior a lo normal; en 94 partidos pasados con un nivel de confianza similar, nuestra tasa de acierto fue del 61%, lo que supone un rendimiento superior al nivel esperado del 49%. El empate, con un 26%, es el segundo resultado más probable; la victoria visitante (22%) es una posibilidad baja, pero no despreciable.",
+        "de": "Tenerife liegt im Heimspiel deutlich vorn: Die Wahrscheinlichkeit für einen Heimsieg beträgt 52 %, was weit über den 22 % für den auswärtsspielenden Gegner liegt. Bei den Toren zeigt sich ein ausgeglichenes Bild: 3 oder mehr Tore haben eine Wahrscheinlichkeit von 49 %, höchstens 2 Tore liegen bei 51 %. Daher ist es treffender anzunehmen, dass der Favorit einen kontrollierten Sieg erringt, eine torreiche Partie jedoch keineswegs sicher ist. Da in unseren Daten 17 Quellen deutlich voneinander abweichende Einschätzungen liefern, ist die Unsicherheit höher als üblich; bei 94 vergleichbaren vergangenen Spielen mit ähnlichem Vertrauensniveau lag unsere Trefferquote bei 61 %, was über der erwarteten Wahrscheinlichkeit von 49 % liegt. Ein Unentschieden mit 26 % ist das zweitwahrscheinlichste Ergebnis, ein Auswärtssieg (22 %) ist gering, aber nicht auszuschließen.",
+        "fr": "Tenerife mène nettement face à l'AD Ceuta ; la probabilité de victoire de l'équipe à domicile est de 52 %, bien au-dessus des 22 % accordés à l'équipe visiteuse. Pour le nombre de buts, le tableau est équilibré : 3 buts ou plus à 49 %, et au plus 2 buts à 51 %. Il est donc plus pertinent de considérer une victoire maîtrisée du favori, sans garantie que le match soit riche en buts. Comme nos données comportent des divergences marquées entre les 17 sources, l'incertitude est supérieure à la normale ; sur 94 matchs passés de niveau de confiance comparable, notre taux de réussite a été de 61 %, ce qui dépasse le niveau de 49 % attendu pour ces probabilités. Le match nul, à 26 %, constitue le deuxième résultat le plus probable, tandis que la victoire de l'équipe visiteuse (22 %) reste une hypothèse faible mais à ne pas négliger.",
+        "it": "Tenerife è nettamente in vantaggio sull'AD Ceuta; la probabilità di vittoria della squadra di casa è del 52%, ben superiore al 22% della squadra in trasferta. Sul totale gol il quadro è equilibrato: 3 o più gol 49%, al massimo 2 gol 51%. Pertanto è più corretto ritenere probabile una vittoria controllata della favorita, ma non particolarmente garantito che la partita sia ricca di gol. Nei nostri dati, tra 17 fonti si registrano differenze di opinione significative, quindi l'incertezza è superiore al normale; nelle 94 partite passate con un livello di fiducia simile, il nostro tasso di successo è stato del 61%, una prestazione superiore al livello di probabilità atteso del 49%. Il pareggio, con il 26%, è il secondo esito più probabile; la vittoria in trasferta (22%) è una possibilità bassa ma da non trascurare.",
+        "pt": "Tenerife claramente à frente do AD Ceuta; a probabilidade de vitória da equipe da casa é de 52%, bem acima dos 22% da equipe visitante. Já no total de gols, o quadro é equilibrado: 3 gols ou mais têm probabilidade de 49%, e no máximo 2 gols, 51%. Por isso, é mais acertado considerar que o favorito deve conquistar uma vitória controlada, mas que uma partida com muitos gols não é tão garantida. Como nossos dados reúnem 17 fontes com divergências significativas entre si, a incerteza está acima do normal; em 94 partidas anteriores com nível de confiança semelhante, nossa taxa de acerto foi de 61%, um desempenho acima dos 49% de probabilidade esperados. O empate, com 26%, é o segundo resultado mais provável; já a vitória do visitante (22%) é improvável, mas não pode ser descartada."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "8fafa425728aa8e7d2c23956ba4c2553",
       "lig": "soccer_brazil_campeonato",
@@ -9845,102 +9962,6 @@
       "toplam_gol": 2,
       "tuttu": true,
       "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "9fc08b390a49c4434f7cf631a0bb88fb",
-      "lig": "soccer_epl",
-      "ev_sahibi": "Brighton and Hove Albion",
-      "deplasman": "Crystal Palace",
-      "baslama_utc": "2026-10-18T13:00:00Z",
-      "olasiliklar": {
-        "1": 0.6273,
-        "X": 0.2064,
-        "2": 0.1663
-      },
-      "tahmin": "1",
-      "guven": 0.4209,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6105,
-          "alt": 0.3895
-        },
-        "tahmin": "ust",
-        "guven": 0.221,
-        "kaynak_sayisi": 9
-      },
-      "ai_metin": "Brighton bu maçın net favorisi olarak öne çıkıyor. Yüksek gol beklentisiyle birlikte ev sahibinin gollü bir galibiyet alması en olası senaryo. Beraberlik ihtimali %21 civarındayken, Crystal Palace'ın galibiyeti ise düşük bir olasılık (%17).",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "5-0",
-      "toplam_gol": 5,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "676b3b0b609e9cf565da450786618d26",
-      "lig": "soccer_epl",
-      "ev_sahibi": "Leeds United",
-      "deplasman": "Manchester United",
-      "baslama_utc": "2026-10-18T13:00:00Z",
-      "olasiliklar": {
-        "1": 0.4052,
-        "X": 0.2659,
-        "2": 0.3289
-      },
-      "tahmin": "1",
-      "guven": 0.0763,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5731,
-          "alt": 0.4269
-        },
-        "tahmin": "ust",
-        "guven": 0.1462,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "Dengeli bir maç bizi bekliyor olsa da Leeds United, %41'lik galibiyet olasılığıyla evinde çok hafif favori. Maçın 3 veya daha fazla golle bitme ihtimali %57 ile yüksek, bu da Leeds'in önde olduğu gollü bir senaryoya işaret ediyor. Veri kaynaklarımızın bu maçın en olası sonucu konusunda alışılmadık derecede hemfikir olması dikkat çekici. Manchester United'ın galibiyet olasılığı ise %33 ile ikinci en olası sonuç.",
-      "ai_metinler": null,
-      "gercek_sonuc": "X",
-      "skor": "1-1",
-      "toplam_gol": 2,
-      "tuttu": false,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "3ea32a0aa44a5f0ef7fd088155430087",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Fiorentina",
-      "deplasman": "Como",
-      "baslama_utc": "2026-10-18T13:00:00Z",
-      "olasiliklar": {
-        "1": 0.2805,
-        "X": 0.26,
-        "2": 0.4595
-      },
-      "tahmin": "2",
-      "guven": 0.179,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5733,
-          "alt": 0.4267
-        },
-        "tahmin": "ust",
-        "guven": 0.1466,
-        "kaynak_sayisi": 12
-      },
-      "ai_metin": "Deplasman ekibi Como, %46'lık galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%57 ile 3 veya daha fazla gol) ise, favori Como'nun gollü bir galibiyet alabileceğine işaret ediyor. Fiorentina'nın kazanma ihtimali %28 ile düşük kalsa da, beraberlik olasılığı %26 ile dikkat çekiyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "1-3",
-      "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
       "ucretsiz": false
     }
   ]
