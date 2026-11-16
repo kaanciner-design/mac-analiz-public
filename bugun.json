@@ -1,46 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-16T17:30:45Z",
-  "mac_sayisi": 14,
+  "guncelleme_utc": "2026-11-16T19:30:46Z",
+  "mac_sayisi": 13,
   "maclar": [
-    {
-      "mac_id": "c52bb6ace02b521be96df8fba8806037",
-      "lig": "soccer_spain_segunda_division",
-      "ev_sahibi": "Albacete",
-      "deplasman": "Celta Fortuna",
-      "baslama_utc": "2026-11-16T19:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5781,
-        "X": 0.2264,
-        "2": 0.1955
-      },
-      "tahmin": "1",
-      "guven": 0.3517,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5826,
-          "alt": 0.4174
-        },
-        "tahmin": "ust",
-        "guven": 0.1652,
-        "kaynak_sayisi": 8
-      },
-      "ai_metin": "Albacete, Celta Fortuna karşısında belirgin biçimde önde görünüyor: ev sahibinin kazanma olasılığı %58, deplasman takımınınki ise %20. Toplam gol tarafında 3 veya daha fazla gol %58 ile en olası senaryo; bu da favorinin gollü bir galibiyetinin masada olduğunu gösteriyor. Bağlam açısından 15 veri kaynağındaki görüş farkı belirsizliğin normalin üzerinde olduğuna işaret ediyor; yine de geçmişte bu güven seviyesindeki 138 tahminin %78'i doğru çıktı, bu da beklenen %66'nın üzerinde. İkinci olası sonuç %23 ile beraberlik; bu senaryoda maç dengeli ve sınırlı gollü ilerleyebilir.",
-      "ai_metinler": {
-        "en": "Albacete appears clearly ahead of Celta Fortuna: the home team's probability of winning is 58%, while the away side's is 20%. On total goals, 3 or more goals is the most likely scenario at 58%, which suggests a high-scoring win for the favourite is on the table. Contextually, the disagreement among the 15 data sources points to more uncertainty than usual; even so, 78% of the 138 past predictions at this confidence level were correct, above the expected 66%. The second most likely outcome is a draw at 23%; in that scenario the match could be balanced and produce at most 2 goals.",
-        "es": "Albacete parece claramente por delante frente al Celta Fortuna: la probabilidad de victoria del equipo local es del 58%, mientras que la del visitante es del 20%. En cuanto a los goles totales, 3 o más goles es el escenario más probable con un 58%, lo que indica que una victoria del favorito con goles está sobre la mesa. Como contexto, la diferencia de opiniones entre las 15 fuentes de datos apunta a una incertidumbre por encima de lo normal; aun así, en el pasado, el 78% de las 138 predicciones con este nivel de confianza acertaron, por encima del 66% esperado. El segundo resultado más probable es el empate, con un 23%; en ese escenario, el partido podría desarrollarse de forma equilibrada y con pocos goles.",
-        "de": "Albacete liegt gegen Celta Fortuna deutlich vorn: Die Wahrscheinlichkeit eines Heimsiegs beträgt 58%, die des Auswärtsteams 20%. Bei den Toreinen ist das wahrscheinlichste Szenario mit 58% „3 oder mehr Tore“; das deutet darauf hin, dass ein torreicher Sieg des Favoriten realistisch ist. Mit Blick auf den Kontext weist die Meinungsverschiedenheit unter den 15 Datenquellen darauf hin, dass die Unsicherheit über dem Normalwert liegt; dennoch sind in der Vergangenheit 78% von 138 Prognosen mit diesem Vertrauensniveau eingetroffen, was über den erwarteten 66% liegt. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden mit 23%; in diesem Szenario könnte die Partie ausgeglichen verlaufen und nur wenige Tore bringen.",
-        "fr": "Albacete semble nettement en avance face au Celta Fortuna : la probabilité de victoire à domicile est de 58 %, contre 20 % pour l'équipe visiteuse. Concernant le nombre total de buts, le scénario le plus probable est 3 buts ou plus, avec 58 %, ce qui indique qu'une victoire du favori avec plusieurs buts est envisageable. Par ailleurs, la divergence d'opinions parmi les 15 sources de données signale une incertitude supérieure à la normale ; néanmoins, par le passé, 78 % des 138 pronostics affichant ce même niveau de confiance se sont révélés exacts, un taux supérieur aux 66 % attendus. Le deuxième résultat possible est le match nul, avec 23 % ; dans ce scénario, la rencontre pourrait rester équilibrée et compter peu de buts.",
-        "it": "Albacete sembra nettamente in vantaggio contro il Celta Fortuna: la probabilità di vittoria della squadra di casa è del 58%, quella della squadra ospite del 20%. Per quanto riguarda il totale gol, lo scenario più probabile è quello di 3 o più gol, con il 58%; ciò indica che una vittoria del favorito con più reti è sul tavolo. Nel contesto, la differenza di opinioni tra le 15 fonti di dati indica un'incertezza superiore alla norma; tuttavia, in passato 138 previsioni con questo livello di fiducia hanno avuto ragione nel 78% dei casi, al di sopra del 66% atteso. Il secondo esito possibile è il pareggio, con il 23%; in questo scenario la partita potrebbe svilupparsi in modo equilibrato e con un numero limitato di gol.",
-        "pt": "Albacete parece claramente à frente contra o Celta Fortuna: a probabilidade de vitória da equipe da casa é de 58%, enquanto a do time visitante é de 20%. No quesito total de gols, 3 ou mais gols é o cenário mais provável, com 58%, o que indica que uma vitória do favorito com gols está no panorama. Em termos de contexto, a divergência de opiniões entre as 15 fontes de dados aponta para uma incerteza acima do normal; ainda assim, no passado, 78% das 138 previsões com este nível de confiança acertaram, acima dos 66% esperados. O segundo resultado mais provável é o empate, com 23%; nesse cenário, a partida pode seguir equilibrada e com poucos gols, ou seja, no máximo 2 gols."
-      },
-      "form": {
-        "ev_sahibi": null,
-        "deplasman": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "55a62e5cc433daeb03502b34db05647e",
       "lig": "soccer_uefa_nations_league",
@@ -1547,8 +1508,8 @@
             "tahmin": "1",
             "olasilik": 0.8539,
             "guven": 0.745,
-            "skor": null,
-            "tuttu": null
+            "skor": "2-1",
+            "tuttu": true
           },
           {
             "mac_id": "ac7d106a75439c4ad8a33b2668bd68df",
@@ -1559,8 +1520,8 @@
             "tahmin": "1",
             "olasilik": 0.7198,
             "guven": 0.538,
-            "skor": null,
-            "tuttu": null
+            "skor": "3-0",
+            "tuttu": true
           },
           {
             "mac_id": "f0a77086c85d161afcfc2f275e9e29fa",
@@ -1575,8 +1536,8 @@
             "tuttu": null
           }
         ],
-        "tutan": 0,
-        "sonuclanan": 0
+        "tutan": 2,
+        "sonuclanan": 2
       },
       {
         "tarih": "2026-11-17",
