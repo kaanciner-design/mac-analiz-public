@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-16T21:30:46Z",
+  "guncelleme_utc": "2026-11-16T22:30:41Z",
   "mac_sayisi": 380,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "La Germania, che gioca in casa, è nettamente favorita in questa partita: le probabilità indicano una vittoria della Germania al 50%, una vittoria dell'Olanda al 27% e un pareggio al 23%. Con una probabilità elevata di 3 gol o più (68%), emerge uno scenario in cui la favorita cercherà una vittoria ricca di reti. Nel nostro archivio delle partite di UEFA Nations League, la probabilità di vittoria della squadra di casa è del 45%; il valore del 50% in questa partita porta la Germania leggermente sopra la media, e il fatto che le nostre previsioni passate abbiano avuto un'accuratezza del 61% a questo livello di confidenza rafforza questo equilibrio. Il secondo esito più probabile è la vittoria dell'Olanda: con una probabilità del 27%, può essere considerata un'alternativa realistica piuttosto che una sorpresa.",
         "pt": "A Alemanha, jogando em casa, está claramente na frente: as probabilidades apontam para 50% de vitória da Alemanha, 27% de vitória da Holanda e 23% de empate. Com a probabilidade de 3 ou mais gols (68%), surge um cenário em que o favorito deve buscar uma vitória com gols. O valor de 50% para a Alemanha, em comparação com os 45% de probabilidade de vitória do mandante nas partidas da Liga das Nações da UEFA do nosso arquivo, coloca a Alemanha um pouco acima da média; o fato de nossas previsões anteriores com este nível de confiança terem acertado em 61% também reforça esse equilíbrio. O segundo resultado mais provável é a vitória da Holanda; com 27% de probabilidade, ela pode ser considerada uma alternativa realista, mais do que uma surpresa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "5-0",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -73,11 +73,11 @@
         "pt": "Malta, Gibraltar deplasmanında net favori: %64 galibiyet olasılığıyla maçın rahat bir misafir üstünlüğüne işaret ettiği görülüyor. Toplam golde %42 ile 3 veya daha fazla gol ihtimali, %58 ile en fazla 2 gol olasılığının biraz gerisinde kalıyor, dolayısıyla kontrollü ve düşük skorlu bir senaryo daha olası görünüyor. Bu tablo, UEFA Uluslar Ligi'ndeki arşivimizin ortalamasıyla (ev sahibi %45, deplasman %32) karşılaştırıldığında ev sahibi bloğu zayıf görünse de deplasman üstünlüğü belirgin biçimde öne çıkıyor. En olası ikinci sonuç %23 ile beraberlik; bu ihtimal ise göz ardı edilmeyecek düzeyde.",
         "es": "Malta, Gibraltar deplasmanında net favori: %64 galibiyet olasılığıyla maçın rahat bir misafir üstünlüğüne işaret ettiği görülüyor. Toplam golde %42 ile 3 veya daha fazla gol ihtimali, %58 ile en fazla 2 gol olasılığının biraz gerisinde kalıyor, dolayısıyla kontrollü ve düşük skorlu bir senaryo daha olası görünüyor. Bu tablo, UEFA Uluslar Ligi'ndeki arşivimizin ortalamasıyla (ev sahibi %45, deplasman %32) karşılaştırıldığında ev sahibi bloğu zayıf görünse de deplasman üstünlüğü belirgin biçimde öne çıkıyor. En olası ikinci sonuç %23 ile beraberlik; bu ihtimal ise göz ardı edilmeyecek düzeyde."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -112,11 +112,11 @@
         "it": "In questa partita, in cui la Grecia come squadra di casa appare nettamente in vantaggio, la probabilità di esito disegna un quadro di favorita chiara, con il 66%. Per il totale dei gol, la probabilità di 3 o più gol è leggermente in testa con il 56%, il che indica che la favorita potrebbe coronare la sua vittoria in uno scenario ricco di reti. Nelle partite di UEFA Nations League presenti nel nostro archivio, la probabilità di vittoria della squadra di casa era del 45%, mentre il 66% di questa partita colloca l'incontro nettamente al di sopra della media. Infine, il pareggio, con il 20%, è il secondo esito più probabile; la vittoria della Serbia, invece, emerge come un'ipotesi a bassa probabilità, con il 14%.",
         "pt": "Nesta partida, em que a Grécia, como time da casa, aparece com clara vantagem, a probabilidade de resultado traça um quadro de favorito nítido, com 66%. Na probabilidade de total de gols, 3 gols ou mais aparecem ligeiramente à frente, com 56%, o que indica que a vitória do favorito pode vir acompanhada de um cenário com gols. Nas partidas da Liga das Nações da UEFA em nosso arquivo, a probabilidade de vitória do mandante é de 45%, enquanto os 66% desta partida colocam o confronto bem acima da média. Por fim, o empate, com 20%, é o segundo resultado mais provável, e a vitória da Sérvia, com 14%, se destaca como uma possibilidade baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -151,11 +151,11 @@
         "it": "La squadra in trasferta Slovenia è nettamente la favorita della partita: la probabilità di vittoria della Slovenia è del 60%, quella della squadra di casa North Macedonia del 15% e quella del pareggio del 25%. La distribuzione dei gol totali indica invece che la partita tende a uno scenario più controllato e con pochi gol: la probabilità di al massimo 2 gol è del 57%, quella di 3 o più gol del 43%. Questo quadro si colloca al di sotto del 53% di media con 3 o più gol registrata nel nostro archivio della UEFA Nations League. Oltre alla vittoria della Slovenia, anche il pareggio, come secondo possibile esito, attira l'attenzione con il 25%; la vittoria di North Macedonia, invece, resta su una probabilità bassa, pari al 15%.",
         "pt": "O time visitante, Eslovênia, é o claro favorito da partida: a probabilidade de vitória da Eslovênia é de 60%, a do anfitrião North Macedonia é de 15%, e a de empate é de 25%. Já a distribuição de gols total indica que o jogo deve se aproximar um pouco mais de um cenário controlado e com poucos gols; a probabilidade de no máximo 2 gols é de 57%, e a de 3 gols ou mais é de 43%. Esse quadro fica abaixo da média de 53% de jogos com 3 gols ou mais em nosso arquivo da Liga das Nações. Tanto quanto a vitória da Eslovênia, o empate, segundo resultado mais provável, também chama a atenção com 25%; por outro lado, a vitória do North Macedonia permanece em uma probabilidade baixa, de apenas 15%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -190,11 +190,11 @@
         "it": "La Svizzera è nettamente favorita contro la Scozia: la vittoria casalinga è lo scenario più probabile, con una probabilità del 56%. Nella media del nostro archivio della UEFA Nations League la vittoria casalinga si attesta al 45%, quindi questa partita indica un vantaggio interno superiore alla media. Per quanto riguarda il totale gol, 3 gol o più hanno una probabilità del 45%, mentre al massimo 2 gol emergono leggermente con il 55%, il che fa pensare più a una partita controllata che a una vittoria ricca di reti. Poiché le nostre previsioni passate con questo livello di fiducia hanno raggiunto un tasso di successo dell'80%, questa valutazione mostra coerenza a livello di probabilità. Il secondo esito più probabile è il pareggio, con il 26%: una probabilità sopra la media, che però da sola non determina il risultato.",
         "pt": "A Suíça está claramente à frente da Escócia: a vitória do mandante é o cenário mais forte, com probabilidade de 56%. Como a média do nosso arquivo de Liga das Nações da UEFA para a vitória do mandante é de 45%, este jogo aponta para uma vantagem do mandante acima da média. No quesito total de gols, 3 gols ou mais têm 45% e no máximo 2 gols têm 55%, com leve vantagem, o que sustenta a possibilidade de uma partida controlada em vez de uma vitória com muitos gols. Como nossas previsões anteriores nesse nível de confiança alcançaram uma taxa de acerto de 80%, esta avaliação mostra consistência no nível das probabilidades. O segundo resultado mais provável é o empate, com 26%; embora essa probabilidade esteja acima da média, ela não define sozinha o resultado."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "4-0",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -229,11 +229,11 @@
         "it": "Albacete sembra nettamente in vantaggio contro il Celta Fortuna: la probabilità di vittoria della squadra di casa è del 58%, quella della squadra ospite del 20%. Per quanto riguarda il totale gol, lo scenario più probabile è quello di 3 o più gol, con il 58%; ciò indica che una vittoria del favorito con più reti è sul tavolo. Nel contesto, la differenza di opinioni tra le 15 fonti di dati indica un'incertezza superiore alla norma; tuttavia, in passato 138 previsioni con questo livello di fiducia hanno avuto ragione nel 78% dei casi, al di sopra del 66% atteso. Il secondo esito possibile è il pareggio, con il 23%; in questo scenario la partita potrebbe svilupparsi in modo equilibrato e con un numero limitato di gol.",
         "pt": "Albacete parece claramente à frente contra o Celta Fortuna: a probabilidade de vitória da equipe da casa é de 58%, enquanto a do time visitante é de 20%. No quesito total de gols, 3 ou mais gols é o cenário mais provável, com 58%, o que indica que uma vitória do favorito com gols está no panorama. Em termos de contexto, a divergência de opiniões entre as 15 fontes de dados aponta para uma incerteza acima do normal; ainda assim, no passado, 78% das 138 previsões com este nível de confiança acertaram, acima dos 66% esperados. O segundo resultado mais provável é o empate, com 23%; nesse cenário, a partida pode seguir equilibrada e com poucos gols, ou seja, no máximo 2 gols."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {

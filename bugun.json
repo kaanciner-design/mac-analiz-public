@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-16T21:30:46Z",
-  "mac_sayisi": 8,
+  "guncelleme_utc": "2026-11-16T22:30:41Z",
+  "mac_sayisi": 9,
   "maclar": [
     {
       "mac_id": "e71a4a4fea03d00873c285c5b55a9864",
@@ -946,6 +946,25 @@
         }
       },
       "ucretsiz": true
+    },
+    {
+      "mac_id": "34b8d9b2a641392b592e1dc5470e7622",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Coritiba",
+      "deplasman": "Santos",
+      "baslama_utc": "2026-11-18T22:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
     }
   ],
   "en_guclu_3": {
@@ -1030,18 +1049,18 @@
           "tahmin": "1",
           "olasilik": 0.6555,
           "guven": 0.4511,
-          "skor": null,
-          "tuttu": null
+          "skor": "1-0",
+          "tuttu": true
         }
       ],
-      "tutan": 2,
-      "sonuclanan": 2
+      "tutan": 3,
+      "sonuclanan": 3
     },
     "genel": {
-      "gun": 7,
-      "tam_isabet_gun": 5,
-      "tahmin": 21,
-      "tutan": 19
+      "gun": 8,
+      "tam_isabet_gun": 6,
+      "tahmin": 24,
+      "tutan": 22
     }
   }
 }
