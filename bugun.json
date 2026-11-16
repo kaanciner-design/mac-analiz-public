@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-15T22:30:54Z",
-  "mac_sayisi": 20,
+  "guncelleme_utc": "2026-11-16T05:37:22Z",
+  "mac_sayisi": 19,
   "maclar": [
     {
       "mac_id": "5ae7a0b002778fc547ce96abf6bf8547",
@@ -1148,13 +1148,33 @@
       "ev_sahibi": "Israel",
       "deplasman": "Austria",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.221,
+        "X": 0.2437,
+        "2": 0.5353
+      },
+      "tahmin": "2",
+      "guven": 0.2916,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5744,
+          "alt": 0.4256
+        },
+        "tahmin": "ust",
+        "guven": 0.1488,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Deplasman takımı Austria, %54 ile belirgin biçimde önde ve Israel'in galibiyet şansı %22 ile sınırlı görünüyor. Toplam gol tarafında 3 veya daha fazla gol %57 ile hafif bir üstünlük taşıyor; bu da favorinin gollü bir galibiyetine işaret ediyor. Verilere göre UEFA Uluslar Ligi maçlarında 3 veya daha fazla gol ortalama %52 olduğundan bu maç, lig ortalamasının biraz üzerinde bir gol beklentisi taşıyor. İkinci olası sonuç beraberlik (%24), bu da makul bir ihtimal olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "Away side Austria are clearly ahead at 54%, while Israel's chance of winning is limited to 22%. On total goals, 3 or more goals has a slight edge at 57%, which points to a high-scoring win for the favourite. According to the data, 3 or more goals averages 52% in UEFA Nations League matches, so this game carries a goal expectation slightly above the league average. The second most likely outcome is a draw (24%), which stands out as a reasonable possibility.",
+        "es": "El equipo visitante, Austria, aparece claramente por delante con un 54%, mientras que la probabilidad de victoria de Israel se limita a un 22%. En cuanto a los goles totales, la opción de 3 o más goles tiene una ligera ventaja con un 57%, lo que apunta a una victoria del favorito con goles. Según los datos, en los partidos de la UEFA Liga de Naciones los 3 o más goles promedian un 52%, por lo que este encuentro presenta una expectativa de goles algo por encima de la media de la liga. El segundo resultado más probable es el empate (24%), que destaca como una posibilidad razonable.",
+        "de": "Der Gastgeber Austria liegt mit 54% deutlich vorn, während die Siegchance von Israel mit 22% begrenzt erscheint. Bei den Gesamttoren liegen 3 oder mehr Tore mit 57% leicht vorne; das deutet auf einen torreichen Sieg des Favoriten hin. Laut den Daten liegt die Wahrscheinlichkeit für 3 oder mehr Tore in Spielen der UEFA Nations League im Schnitt bei 52%, daher erwartet man bei diesem Spiel eine etwas über dem Ligadurchschnitt liegende Torerwartung. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (24%), was als realistische Möglichkeit hervorsticht.",
+        "fr": "L'équipe à l'extérieur, l'Autriche, est nettement favorite avec 54 %, tandis que la probabilité de victoire d'Israël est limitée à 22 %. Côté total de buts, 3 buts ou plus ont une légère avance avec 57 %, ce qui indique une victoire du favori avec plusieurs buts. Selon les données, la probabilité de 3 buts ou plus dans les matchs de la Ligue des Nations de l'UEFA est en moyenne de 52 %, donc ce match présente une attente de buts légèrement supérieure à la moyenne de la ligue. Le second résultat possible est le match nul (24 %), ce qui le ressort comme une hypothèse plausible.",
+        "it": "La squadra in trasferta Austria è nettamente in vantaggio con il 54%, mentre la probabilità di vittoria di Israel si attesta su un modesto 22%. Per quanto riguarda il totale gol, la probabilità di 3 o più gol è leggermente superiore con il 57%, il che indica una vittoria del favorito con un certo numero di reti. Secondo i dati, nelle partite di UEFA Nations League la probabilità di 3 o più gol è in media del 52%, quindi questo incontro prevede un'attesa di gol leggermente superiore alla media del torneo. Il secondo esito più probabile è il pareggio (24%), che emerge come un'eventualità plausibile.",
+        "pt": "A equipe visitante, Austria, aparece com 54% de probabilidade, o que a coloca claramente à frente, enquanto a probabilidade de vitória do Israel fica limitada a 22%. No aspecto de total de gols, a probabilidade de 3 ou mais gols é de 57%, uma leve vantagem que aponta para uma vitória com gols do favorito. De acordo com os dados, em partidas da UEFA Nations League a probabilidade média de 3 ou mais gols é de 52%, portanto este jogo tem uma expectativa de gols um pouco acima da média da competição. O segundo resultado mais provável é o empate (24%), que se destaca como uma possibilidade razoável."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1254,13 +1274,33 @@
       "ev_sahibi": "Bosnia & Herzegovina",
       "deplasman": "Romania",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4964,
+        "X": 0.265,
+        "2": 0.2386
+      },
+      "tahmin": "1",
+      "guven": 0.2314,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4908,
+          "alt": 0.5092
+        },
+        "tahmin": "alt",
+        "guven": 0.0184,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Bosnia & Herzegovina, Romania karşısında belirgin biçimde önde: ev sahibinin galibiyet ihtimali %50, Romania'nın galibiyet ihtimali ise %24. Toplam gol tarafında 3 veya daha fazla gol %49, en fazla 2 gol %51 ile neredeyse dengede; bu da maçın favorinin kontrollü bir galibiyetiyle sonuçlanabileceği, ancak gol sayısının sınırda kalabileceği bir senaryoya işaret ediyor. Arşivimizdeki UEFA Uluslar Ligi maçlarında ev sahibinin kazanma olasılığı %46 olduğundan bu karşılaşma ortalamanın biraz üzerinde bir favori görünümü sunuyor. Beraberlik ihtimali %26 ile en olası ikinci sonuç olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "Bosnia & Herzegovina holds a clear advantage over Romania: the home side's probability of winning is 50%, while Romania's probability of winning is 24%. On total goals, 3 or more goals has a probability of 49%, and at most 2 goals has a probability of 51%, so the two are almost evenly balanced. This points to a scenario where the favourite secures a controlled win, but the number of goals could land close to the threshold. In our archive of UEFA Nations League matches, the home side's probability of winning is 46%, so this fixture presents a favourite slightly above the average. The probability of a draw is 26%, making it the second most likely outcome.",
+        "es": "Bosnia & Herzegovina tiene una clara ventaja sobre Romania: la probabilidad de victoria del equipo local es del 50%, mientras que la de Romania es del 24%. En cuanto al total de goles, la probabilidad de 3 goals o más es del 49% y la de como máximo 2 goles es del 51%, prácticamente equilibradas; esto apunta a un escenario en el que el favorito podría imponerse con un triunfo controlado, pero con un número de goles que podría quedarse en el límite. En los partidos de la UEFA Nations League de nuestro archivo, la probabilidad de victoria del local es del 46%, por lo que este encuentro presenta a un favorito algo por encima de la media. La probabilidad de empate, con un 26%, se perfila como el segundo resultado más probable.\n\nNote: I used \"goles\" in Spanish, so the phrase above should read as follows in the final text:\n\nBosnia & Herzegovina tiene una clara ventaja sobre Romania: la probabilidad de victoria del equipo local es del 50%, mientras que la de Romania es del 24%. En cuanto al total de goles, la probabilidad de 3 goles o más es del 49% y la de como máximo 2 goles es del 51%, prácticamente equilibradas; esto apunta a un escenario en el que el favorito podría imponerse con un triunfo controlado, pero con un número de goles que podría quedarse en el límite. En los partidos de la UEFA Nations League de nuestro archivo, la probabilidad de victoria del local es del 46%, por lo que este encuentro presenta a un favorito algo por encima de la media. La probabilidad de empate, con un 26%, se perfila como el segundo resultado más probable.",
+        "de": "Bosnien & Herzegowina liegt gegenüber Rumänien deutlich vorn: Die Wahrscheinlichkeit eines Heimsiegs beträgt 50%, die Wahrscheinlichkeit eines Siegs für Rumänien 24%. Bei der Gesamttorzahl liegen 3 oder mehr Tore bei 49% und höchstens 2 Tore bei 51%, also nahezu im Gleichgewicht; das deutet auf ein Szenario hin, in dem der Favorit einen kontrollierten Sieg erringen kann, die Torzahl jedoch an der Grenze bleibt. Da die Wahrscheinlichkeit eines Heimsiegs in unseren archivierten UEFA-Nations-League-Spielen bei 46% liegt, zeigt diese Begegnung das Bild eines Favoriten, der leicht über dem Durchschnitt liegt. Die Wahrscheinlichkeit eines Unentschiedens liegt bei 26% und ist damit das zweitwahrscheinlichste Ergebnis.",
+        "fr": "Bosnie-Herzégovine prend nettement l'avantage face à la Roumanie : la probabilité de victoire de l'équipe à domicile est de 50 %, contre 24 % pour la Roumanie. Concernant le nombre de buts, 3 buts ou plus ont une probabilité de 49 %, tandis qu'au plus 2 buts atteignent 51 %, ce qui rend les deux scénarios presque équilibrés ; cela laisse entrevoir un succès maîtrisé du favori, mais avec un nombre de buts qui pourrait rester limité. Dans nos archives des matchs de la Ligue des nations de l'UEFA, la probabilité de victoire de l'équipe à domicile est de 46 %, ce qui place cette rencontre légèrement au-dessus de la moyenne en termes de favori. La probabilité de match nul, à 26 %, apparaît comme le deuxième résultat le plus probable.",
+        "it": "Bosnia & Erzegovina in netto vantaggio su Romania: la probabilità di vittoria per la squadra di casa è del 50%, mentre quella della Romania è del 24%. Per quanto riguarda il numero di gol totali, la probabilità di 3 o più gol è del 49%, mentre quella di al massimo 2 gol è del 51%, quindi le due ipotesi sono quasi in equilibrio; ciò indica uno scenario in cui il favorito potrebbe vincere con un successo controllato, ma con un numero di gol che potrebbe restare sul limite. Poiché nelle partite di UEFA Nations League presenti nel nostro archivio la probabilità di vittoria della squadra di casa è del 46%, questo incontro presenta un profilo da favorito leggermente superiore alla media. La probabilità di pareggio è del 26%, che la pone come secondo esito più probabile.",
+        "pt": "Bósnia e Herzegovina está claramente à frente contra a Romênia: a probabilidade de vitória do time da casa é de 50%, enquanto a probabilidade de vitória da Romênia é de 24%. No quesito total de gols, 3 ou mais gols têm 49% de probabilidade e at most 2 gols têm 51%, praticamente empatados; isso aponta para um cenário em que o favorito pode vencer com controle, mas o número de gols pode ficar no limite. Em nosso arquivo de partidas da Liga das Nações da UEFA, a probabilidade de vitória do mandante é de 46%, então este confronto apresenta um favoritismo um pouco acima da média. A probabilidade de empate é de 26%, destacando-se como o segundo resultado mais provável.\n\nCorrection on my part: the phrase above should read \"no máximo 2 gols\", not the English \"at most\". Corrected final version:\n\nBósnia e Herzegovina está claramente à frente contra a Romênia: a probabilidade de vitória do time da casa é de 50%, enquanto a probabilidade de vitória da Romênia é de 24%. No quesito total de gols, 3 ou mais gols têm 49% de probabilidade e no máximo 2 gols têm 51%, praticamente empatados; isso aponta para um cenário em que o favorito pode vencer com controle, mas o número de gols pode ficar no limite. Em nosso arquivo de partidas da Liga das Nações da UEFA, a probabilidade de vitória do mandante é de 46%, então este confronto apresenta um favoritismo um pouco acima da média. A probabilidade de empate é de 26%, destacando-se como o segundo resultado mais provável."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1351,13 +1391,33 @@
       "ev_sahibi": "Denmark",
       "deplasman": "Norway",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3944,
+        "X": 0.2529,
+        "2": 0.3527
+      },
+      "tahmin": "1",
+      "guven": 0.0417,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6185,
+          "alt": 0.3815
+        },
+        "tahmin": "ust",
+        "guven": 0.237,
+        "kaynak_sayisi": 6
+      },
+      "ai_metin": "Denmark ile Norway arasındaki bu maçta ev sahibi Denmark hafif bir öne sahip, ancak fark dar: %39'a %35. Toplam gol olasılığı %62 ile 3 veya daha fazla gole işaret ediyor; bu da iki takımın da gol bulabileceği, açık geçecek bir maç senaryosu anlamına geliyor. Arşivimizdeki 45 UEFA Uluslar Ligi maçının ortalamasında ev sahibinin kazanma ihtimali %46 çıkıyor, yani Denmark'ın bu ihtimali ortalamanın altında kalıyor. İkinci olası sonuç olan Norway galibiyeti %35 ile dikkat çekici; beraberlik ise %25 olarak tahmin ediliyor.",
+      "ai_metinler": {
+        "en": "Denmark and Norway meet in this match, with the home side Denmark holding a slight edge, though the gap is narrow: 39% against 35%. The probability of total goals points to 3 or more goals at 62%, which suggests an open game in which both teams are likely to find the net. Across the 45 UEFA Nations League matches in our archive, the average probability of a home win is 46%, so Denmark's chances here fall below that average. A Norway win, the second most likely outcome at 35%, stands out, while a draw is estimated at 25%.",
+        "es": "Dinamarca contra Noruega: el equipo local, Dinamarca, tiene una ligera ventaja, pero la diferencia es estrecha: 39% frente a 35%. La probabilidad de 3 goles o más en total es del 62%, lo que apunta a un partido abierto, en el que ambos equipos pueden encontrar la red. En el promedio de los 45 partidos de la Liga de Naciones de la UEFA de nuestro archivo, la probabilidad de victoria del equipo local es del 46%, por lo que la probabilidad de Dinamarca queda por debajo de ese promedio. La segunda opción más probable, la victoria de Noruega, con un 35%, también llama la atención; el empate se estima en un 25%.",
+        "de": "Denmark gegen Norway: Der Gastgeber Denmark hat einen leichten Vorsprung, doch der Abstand ist knapp: 39% gegenüber 35%. Die Wahrscheinlichkeit für 3 oder mehr Tore liegt bei 62%, was auf ein offenes Spiel hindeutet, in dem beide Teams treffen können. Im Durchschnitt der 45 UEFA-Nations-League-Spiele in unserem Archiv liegt die Siegwahrscheinlichkeit für den Gastgeber bei 46%, Denmarks Wert liegt also unter diesem Durchschnitt. Der zweitwahrscheinlichste Ausgang, ein Sieg von Norway, fällt mit 35% ins Auge; für ein Unentschieden wird eine Wahrscheinlichkeit von 25% geschätzt.",
+        "fr": "Le Danemark part légèrement favori dans ce match contre la Norvège, mais l'écart est serré : 39 % contre 35 %. La probabilité de 3 buts ou plus atteint 62 %, ce qui laisse présager un match ouvert, où les deux équipes peuvent trouver le chemin des filets. Dans notre archive de 45 matchs de Ligue des nations de l'UEFA, la probabilité moyenne de victoire à domicile est de 46 %, la probabilité de victoire du Danemark se situe donc en dessous de cette moyenne. La victoire de la Norvège, second scénario possible, se démarque avec 35 %, tandis que le match nul est estimé à 25 %.",
+        "it": "Denmark contro Norway è una partita in cui la squadra di casa, la Denmark, ha un leggero vantaggio, ma il margine è stretto: 39% contro 35%. La probabilità di segnare 3 o più gol è del 62%, il che indica uno scenario di partita aperta, in cui entrambe le squadre possono trovare la rete. Nella nostra archivio, la media di 45 partite di UEFA Nations League vede la probabilità di vittoria della squadra di casa al 46%, quindi la probabilità della Denmark è al di sotto di questa media. La seconda possibile esito, la vittoria della Norway, con il 35%, è degna di nota; il pareggio è stimato al 25%.",
+        "pt": "Dinamarca contra Noruega: a equipe da casa, a Dinamarca, tem uma leve vantagem, mas a diferença é pequena: 39% contra 35%. A probabilidade de 3 ou mais gols nesta partida é de 62%, o que indica um cenário de jogo aberto, em que as duas equipes podem marcar. Na média das 45 partidas da Liga das Nações da UEFA em nosso arquivo, a probabilidade de vitória do mandante é de 46%, ou seja, a probabilidade da Dinamarca fica abaixo dessa média. A segunda possibilidade mais provável, a vitória da Noruega, com 35%, chama atenção; já o empate é estimado em 25%."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1448,13 +1508,33 @@
       "ev_sahibi": "Ukraine",
       "deplasman": "Georgia",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4249,
+        "X": 0.2834,
+        "2": 0.2917
+      },
+      "tahmin": "1",
+      "guven": 0.1332,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4612,
+          "alt": 0.5388
+        },
+        "tahmin": "alt",
+        "guven": 0.0776,
+        "kaynak_sayisi": 10
+      },
+      "ai_metin": "Ukraine ev sahipliğindeki maçta Ukraine hafif önde (%42), Georgia'nın kazanma ihtimali ise %29 ve beraberlik %28; genel tablo dengeli. Toplam gol olasılıkları %54 ile en fazla 2 gol tarafında, %46 ile 3 veya daha fazla gol tarafında; bu da kontrollü ve az gollü bir senaryoya daha yakın bir görünüm çiziyor. Arşivimizdeki UEFA Uluslar Ligi maçlarının ortalamasında ev sahibinin kazanma olasılığı %46 olup bu maçtaki %42 değerinin hafifçe altında kalıyor. Gelişme ihtimali olarak Georgia'nın galibiyeti %29 ile makul görünüyor, ancak beklentiden yüksek bir ihtimal değil.",
+      "ai_metinler": {
+        "en": "Ukraine is slightly ahead in this home match against Georgia, with a probability of 42% for a Ukraine win, while the probability of a Georgia win is 29% and a draw 28%; the overall picture is balanced. The probability for total goals is 54% for at most 2 goals and 46% for 3 or more goals, which points to a controlled, low-scoring scenario. In our archive, the average probability of a home win in UEFA Nations League matches is 46%, which sits slightly below the 42% figure for this match. A Georgia win at 29% appears reasonable as a possible development, but it is not a higher-than-expected probability.",
+        "es": "Ucrania, que juega como local, parte ligeramente por delante (42%), mientras que la probabilidad de victoria de Georgia es del 29% y el empate del 28%; en conjunto, el panorama es equilibrado. Las probabilidades de goles totales se reparten así: un 54% para que haya como máximo 2 goles y un 46% para que haya 3 goles o más, lo que dibuja un escenario más controlado y de pocos goles. En el promedio de los partidos de la UEFA Nations League de nuestro archivo, la probabilidad de victoria del equipo local es del 46%, cifra algo superior al 42% de este encuentro. Como posibilidad de desarrollo, la victoria de Georgia, con un 29%, parece razonable, aunque no es una probabilidad superior a la esperada.",
+        "de": "Im Spiel mit Ukraine als Gastgeber liegt Ukraine leicht vorne (42 %), während die Wahrscheinlichkeit für einen Sieg von Georgia bei 29 % und für ein Unentschieden bei 28 % liegt; das Gesamtbild ist ausgeglichen. Bei den Gesamttoreiit liegt die Wahrscheinlichkeit für höchstens 2 Tore bei 54 %, für 3 oder mehr Tore bei 46 %; das deutet eher auf ein kontrolliertes Spiel mit wenigen Toren hin. Im Durchschnitt unserer archivierten UEFA-Nations-League-Spiele liegt die Wahrscheinlichkeit für einen Heimsieg bei 46 %, also etwas unter dem Wert von 42 % in diesem Spiel. Als Entwicklungsmöglichkeit erscheint ein Sieg von Georgia mit 29 % plausibel, ist aber keine über den Erwartungen liegende Wahrscheinlichkeit.",
+        "fr": "Ukraine, à domicile, est légèrement favorisée dans ce match (42 %), tandis que la probabilité de victoire de la Géorgie est de 29 % et celle d'un match nul de 28 % ; l'ensemble du tableau reste équilibré. Pour le nombre total de buts, la probabilité d'au plus 2 buts s'élève à 54 %, contre 46 % pour 3 buts ou plus, ce qui dessine plutôt un scénario maîtrisé et peu prolifique. Dans nos archives, la probabilité de victoire de l'équipe à domicile lors des matchs de la Ligue des nations de l'UEFA est en moyenne de 46 %, soit un peu moins que les 42 % de ce match. Une victoire de la Géorgie, avec 29 %, apparaît comme une issue plausible, sans toutefois être une probabilité supérieure aux attentes.",
+        "it": "La partita giocata in casa dell'Ukraine vede l'Ukraine leggermente in vantaggio (42%), mentre la probabilità di vittoria della Georgia è del 29% e il pareggio del 28%; il quadro generale è equilibrato. Le probabilità sui gol totali sono del 54% per la previsione di al massimo 2 gol e del 46% per quella di 3 o più gol, un quadro che rimanda a uno scenario controllato e con pochi gol. Nella media delle partite di UEFA Nations League presenti nel nostro archivio, la probabilità di vittoria della squadra di casa è del 46%, leggermente superiore al valore del 42% per questa partita. Come possibilità di sviluppo, la vittoria della Georgia al 29% appare ragionevole, ma non è una probabilità superiore alle attese.",
+        "pt": "O jogo em casa da Ucrânia mostra a Ucrânia levemente à frente (42%), enquanto a probabilidade de vitória da Geórgia é de 29% e o empate fica em 28%; no conjunto, o cenário é equilibrado. As probabilidades de total de gols são de 54% para no máximo 2 gols e de 46% para 3 gols ou mais, o que se aproxima de um cenário controlado e com poucos gols. Na média das partidas da UEFA Liga das Nações em nosso arquivo, a probabilidade de vitória do time da casa é de 46%, ficando um pouco abaixo do índice de 42% deste jogo. Como possibilidade de desenvolvimento, a vitória da Geórgia, com 29%, parece razoável, mas não é uma probabilidade acima do esperado."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1545,13 +1625,33 @@
       "ev_sahibi": "Hungary",
       "deplasman": "Northern Ireland",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4872,
+        "X": 0.2866,
+        "2": 0.2262
+      },
+      "tahmin": "1",
+      "guven": 0.2006,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.3869,
+          "alt": 0.6131
+        },
+        "tahmin": "alt",
+        "guven": 0.2262,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Ev sahibi Hungary, %49 ile maçın belirgin favorisi; Northern Ireland'ın %23'lük galibiyet olasılığı ise onu ciddi bir sürpriz adayı yapmıyor. Toplam gol tarafında %61 ile en fazla 2 gol ihtimali öne çıkıyor; bu, favorinin kontrollü ama az golle biten bir galibiyetine işaret ediyor. Arşivimizdeki UEFA Uluslar Ligi maçlarında ev sahibi kazanma olasılığı %46 ve 3+ gol ortalaması %52 olduğundan, bu maçta hem ev sahibi üstünlüğü hem de düşük skor eğilimi ortalamadan biraz farklı bir tablo çiziyor. En olası ikinci sonuç beraberlik (%29); bu ihtimal ortalamanın üzerinde kalsa da ana senaryo olarak görülmüyor.",
+      "ai_metinler": {
+        "en": "Home side Hungary are the clear favourites at 49% to win, while Northern Ireland's 23% chance of victory does not make them a serious upset candidate. On total goals, at 61% the most likely outcome is at most 2 goals, pointing to a controlled home win with few goals. In our archive of UEFA Nations League matches, the home side wins 46% of the time and 3 or more goals are scored on average 52% of the time, so this match paints a picture somewhat different from the average, with both home-side dominance and a low-scoring tendency. The second most likely result is a draw (29%); although this probability is above average, it is not seen as the main scenario.",
+        "es": "Hungría, como local, es el claro favorito del partido con un 49%; sin embargo, la probabilidad de victoria de Northern Ireland, de un 23%, no la convierte en un candidato serio a la sorpresa. En cuanto a los goles totales, con un 61% destaca la opción de como máximo 2 goles, lo que apunta a una victoria controlada del favorito y con pocos goles. En nuestro archivo de partidos de la Liga de Naciones de la UEFA, la probabilidad de victoria del local es de un 46% y el promedio de 3 o más goles es de un 52%, por lo que en este partido tanto la superioridad local como la tendencia a un marcador bajo dibujan un panorama algo distinto al promedio. El segundo resultado más probable es el empate (29%); aunque esta probabilidad se mantiene por encima de la media, no se considera el escenario principal.",
+        "de": "Ungarn als Gastgeber ist mit 49% klar der Favorit für dieses Spiel; die Siegwahrscheinlichkeit von 23% für Nordirland macht es jedoch nicht zu einem ernsthaften Überraschungskandidaten. Bei der Gesamttorzahl hebt sich mit 61% die Wahrscheinlichkeit für höchstens 2 Tore hervor, was auf einen kontrollierten, aber torarmen Sieg des Favoriten hindeutet. In unserem Archiv der UEFA-Nations-League-Spiele liegt die Heimsiegwahrscheinlichkeit bei 46% und der Durchschnitt für 3 oder mehr Tore bei 52%, weshalb dieses Spiel sowohl den Heimvorteil als auch die Tendenz zu wenigen Toren etwas anders darstellt als der Durchschnitt. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (29%); diese Möglichkeit liegt zwar über dem Durchschnitt, wird aber nicht als Hauptszenario gesehen.",
+        "fr": "L'équipe à domicile, la Hongrie, est le favori net de la rencontre avec une probabilité de 49 % ; la probabilité de victoire de l'Irlande du Nord, à 23 %, ne fait pas d'elle un candidat sérieux à la surprise. Côté total de buts, c'est l'hypothèse de 2 buts au maximum qui se détache avec 61 %, ce qui laisse présager une victoire contrôlée du favori, mais marquée par peu de buts. Dans nos archives des matchs de la Ligue des nations de l'UEFA, la probabilité de victoire à domicile est de 46 % et la moyenne de 3 buts ou plus de 52 %, si bien que ce match dessine à la fois un avantage à domicile et une tendance aux scores serrés légèrement différents de la moyenne. Le deuxième résultat le plus probable est le match nul (29 %) ; cette probabilité reste supérieure à la moyenne, mais elle n'est pas considérée comme le scénario principal.",
+        "it": "Hungary ha il 49% di probabilità di vittoria, il che la rende chiaramente la favorita dell'incontro; la probabilità di vittoria dell'Irlanda del Nord, pari al 23%, non la rende un serio candidato alla sorpresa. Per quanto riguarda il totale dei gol, il 61% di probabilità si concentra su un esito di al massimo 2 gol, il che indica una vittoria controllata della favorita ma con pochi gol. Nel nostro archivio delle partite di UEFA Nations League, la probabilità di vittoria della squadra di casa è del 46% e la media di partite con 3 o più gol è del 52%; quindi, in questo incontro, sia il vantaggio della squadra di casa sia la tendenza a un punteggio basso delineano un quadro leggermente diverso dalla media. Il secondo esito più probabile è il pareggio (29%); sebbene questa probabilità resti sopra la media, non è considerata lo scenario principale.",
+        "pt": "O Hungria, mandante, é o claro favorito da partida com 49%; a probabilidade de vitória do Irlanda do Norte, de 23%, não o torna um candidato sério a surpresa. No quesito total de gols, a probabilidade de no máximo 2 gols se destaca com 61%, o que aponta para uma vitória controlada do favorito, com poucos gols. Nas partidas da Liga das Nações da UEFA em nosso arquivo, a probabilidade de vitória do mandante é de 46% e a média de 3 ou mais gols é de 52%; por isso, esta partida apresenta um quadro um pouco diferente da média, tanto pela vantagem do mandante quanto pela tendência de placar baixo. O segundo resultado mais provável é o empate (29%); embora essa probabilidade fique acima da média, ele não é visto como o cenário principal."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1637,124 +1737,38 @@
       "ucretsiz": false
     },
     {
-      "mac_id": "4bdcb82e4dc2d91dfdefdcf79b3b7f54",
-      "lig": "soccer_uefa_nations_league",
-      "ev_sahibi": "Iceland",
-      "deplasman": "Kosovo",
-      "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-14",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Austria",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 1,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-13",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Bulgaria",
-              "ic_saha": false,
-              "atilan": 5,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 5,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 5,
-            "yenilen": 1,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-14",
-              "lig": "soccer_uefa_nations_league",
-              "rakip": "Israel",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 0,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "ucretsiz": false
-    },
-    {
       "mac_id": "a6c9b424fddccea76aab09880b69dd31",
       "lig": "soccer_uefa_nations_league",
       "ev_sahibi": "Republic of Ireland",
       "deplasman": "Kosovo",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.447,
+        "X": 0.3012,
+        "2": 0.2518
+      },
+      "tahmin": "1",
+      "guven": 0.1458,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.3878,
+          "alt": 0.6122
+        },
+        "tahmin": "alt",
+        "guven": 0.2244,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Maçta Republic of Ireland hafif bir üstünlükle favori görünüyor; ev sahibinin kazanma olasılığı %45, Kosovo'nun %25. Toplam gol tarafında 3 veya daha fazla gol %39, en fazla 2 gol %61 ile daha olası görünüyor, bu da sıkı ve az golle geçebilecek bir senaryoya işaret ediyor. UEFA Uluslar Ligi arşivimizdeki ortalamalara göre ev sahibinin kazanma ihtimali %46 olduğundan bu maç ortalamaya çok yakın bir tabloda. En olası ikinci sonuç ise beraberlik (%30); bu ihtimal, favorinin üstünlüğünün belirgin bir farka dönüşmediği dengeli bir maç olabileceğini gösteriyor.",
+      "ai_metinler": {
+        "en": "The Republic of Ireland appear to be slight favourites in this match; the home side's probability of winning is 45%, while Kosovo's is 25%. On total goals, 3 or more goals has a probability of 39%, whereas at most 2 goals is more likely at 61%, pointing to a tight scenario with few goals. According to the averages in our UEFA Nations League archive, the home side's probability of winning is 46%, so this match sits very close to that average picture. The second most likely result is a draw (30%); this probability suggests the match could be balanced, with the favourite's advantage not turning into a clear gap.",
+        "es": "El partido muestra a la República de Irlanda como ligero favorito; la probabilidad de victoria del local es del 45% y la de Kosovo del 25%. En cuanto a los goles totales, 3 goles o más tienen una probabilidad del 39%, mientras que al menos 2 goles como máximo parecen más probables, con un 61%, lo que apunta a un escenario cerrado y de pocos goles. Según los promedios de nuestro archivo de la UEFA Nations League, la probabilidad de victoria del local es del 46%, por lo que este partido se sitúa muy cerca de esa tendencia. El segundo resultado más probable es el empate (30%); esta probabilidad indica que podría tratarse de un partido equilibrado, en el que la ligera ventaja del favorito no se convierta en una diferencia clara.",
+        "de": "Im Spiel erscheint Republic of Ireland mit einem leichten Vorsprung als Favorit; die Wahrscheinlichkeit für einen Heimsieg von Kosovo liegt bei 45%, die für Republic of Ireland bei 25%. Bei der Gesamtzahl der Tore erscheinen 3 oder mehr Tore mit 39% und höchstens 2 Tore mit 61% wahrscheinlicher, was auf ein enges Spiel mit wenigen Toren hindeutet. Laut den Durchschnittswerten in unserem Archiv der UEFA Nations League liegt die Wahrscheinlichkeit für einen Heimsieg bei 46%, sodass diese Partie einer durchschnittlichen Konstellation sehr nahekommt. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (30%); diese Wahrscheinlichkeit zeigt, dass es sich um ein ausgeglichenes Spiel handeln könnte, in dem sich der Vorteil des Favoriten nicht zu einem deutlichen Unterschied entwickelt.",
+        "fr": "Le match voit la République d'Irlande légèrement favorite ; la probabilité de victoire de l'équipe à domicile est de 45 %, contre 25 % pour le Kosovo. Côté total de buts, 3 buts ou plus ont une probabilité de 39 %, tandis qu'au plus 2 buts apparaissent plus probables avec 61 %, ce qui laisse entrevoir un scénario serré avec peu de buts. D'après les moyennes de nos archives de la Ligue des nations de l'UEFA, la probabilité de victoire de l'équipe à domicile est de 46 %, ce qui place ce match très proche de cette tendance moyenne. Le deuxième résultat le plus probable est le match nul (30 %) ; cette probabilité indique qu'il pourrait s'agir d'une rencontre équilibrée, où l'avantage de l'équipe favorite ne se transforme pas en écart marqué.",
+        "it": "La partita vede la Repubblica d'Irlanda leggermente favorita; la probabilità di vittoria della squadra di casa è del 45%, quella del Kosovo del 25%. Per quanto riguarda il totale gol, 3 o più gol hanno una probabilità del 39%, mentre al massimo 2 gol appaiono più probabili con il 61%, il che indica uno scenario serrato con pochi gol. Secondo le medie del nostro archivio della UEFA Nations League, la probabilità di vittoria della squadra di casa è del 46%, quindi questa partita si colloca molto vicina alla media. Il secondo esito più probabile è il pareggio (30%); questa probabilità indica che potrebbe trattarsi di una partita equilibrata, in cui il vantaggio del favorito non si traduce in un distacco netto.",
+        "pt": "O jogo mostra a Republic of Ireland levemente favorita; a probabilidade de vitória do mandante é de 45%, contra 25% do Kosovo. No quesito total de gols, 3 gols ou mais têm probabilidade de 39%, enquanto no máximo 2 gols aparecem como mais prováveis, com 61%, o que aponta para um cenário fechado, com poucos gols. Segundo o nosso histórico de jogos da Liga das Nações da UEFA, a probabilidade de vitória do mandante é de 46%, o que deixa este confronto em um quadro bem próximo da média. O segundo resultado mais provável é o empate (30%), o que indica que o jogo pode ser equilibrado, sem que a vantagem da favorita se transforme em uma diferença clara."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1845,13 +1859,33 @@
       "ev_sahibi": "Poland",
       "deplasman": "Sweden",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4262,
+        "X": 0.2611,
+        "2": 0.3126
+      },
+      "tahmin": "1",
+      "guven": 0.1136,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5709,
+          "alt": 0.4291
+        },
+        "tahmin": "ust",
+        "guven": 0.1418,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Poland'ın ev sahibi olarak hafif öne çıktığı, ancak maçın oldukça dengeli görünen bir karşılaşma. Olasılıklara göre Poland'ın galibiyeti %43, Sweden'in %31 ve beraberliğin %26. Arşivimizdeki 45 UEFA Uluslar Ligi maçının ortalaması (ev sahibi %46) ile bu tahmin birbirine yakın; yani ev sahibi üstünlüğü burada ortalama bir tabloya benziyor. Toplam gol olasılığı %57 ile 3 veya daha fazla gol yönünde; bu da yaklaşık %52'lik lig ortalamasının biraz üzerinde. Beraberlik ihtimali ise %26 olduğundan, ikinci en olası sonuç olarak Sweden'in galibiyeti öne çıkıyor.",
+      "ai_metinler": {
+        "en": "A closely balanced match in which Poland appear to have a slight edge as hosts. Based on the probabilities, Poland winning is 43%, Sweden winning 31%, and a draw 26%. The average of the 45 UEFA Nations League matches in our archive (home side 46%) is close to this estimate, so the home advantage here looks like a typical picture. The probability of 3 or more goals is 57%, slightly above the league average of around 52%. Since the chance of a draw is 26%, a Sweden win stands out as the second most likely outcome.",
+        "es": "Polonia, como anfitriona, aparece ligeramente por delante en un partido bastante equilibrado. Según las probabilidades, la victoria de Poland tiene una probabilidad del 43%, la de Sweden del 31% y el empate del 26%. La media de nuestro archivo de 45 partidos de la Liga de Naciones de la UEFA (con un 46% de probabilidad para el equipo local) se parece mucho a esta estimación; es decir, la ventaja de jugar en casa aquí se asemeja a una situación promedio. La probabilidad de 3 goles o más es del 57%, algo por encima de la media de la liga, que ronda el 52%. Como la probabilidad de empate es del 26%, la victoria de Sweden destaca como el segundo resultado más probable.",
+        "de": "Ein Spiel, bei dem Poland als Gastgeber leicht die Oberhand hat, das jedoch recht ausgeglichen wirkt. Den Wahrscheinlichkeiten nach liegt der Sieg von Poland bei 43%, der Sieg von Sweden bei 31% und das Unentschieden bei 26%. Der Durchschnitt aus unseren 45 archivierten UEFA-Nations-League-Spielen (Heimteam 46%) liegt nahe an dieser Einschätzung; der Heimvorteil erscheint hier also als durchschnittlich. Die Wahrscheinlichkeit für insgesamt 3 oder mehr Tore liegt bei 57%, was etwas über dem Ligadurchschnitt von rund 52% liegt. Da die Wahrscheinlichkeit für ein Unentschieden bei 26% liegt, ist der Sieg von Sweden das zweitwahrscheinlichste Ergebnis.",
+        "fr": "Pologne, qui joue à domicile, ressort légèrement, mais ce match paraît très équilibré. Selon les probabilités, la victoire de Poland est de 43 %, celle de Sweden de 31 %, et le match nul de 26 %. La moyenne des 45 matchs de la Ligue des nations UEFA de nos archives (46 % de victoires à domicile) est proche de cette estimation ; l'avantage du terrain se présente donc ici comme dans un profil moyen. La probabilité de 3 buts ou plus est de 57 %, légèrement au-dessus de la moyenne de la ligue, qui est d'environ 52 %. Comme la probabilité de match nul est de 26 %, la victoire de Sweden apparaît comme le deuxième résultat le plus probable.",
+        "it": "Polonia, in quanto squadra di casa, è leggermente favorita in un incontro che appare piuttosto equilibrato. Secondo le probabilità, la vittoria della Poland è al 43%, quella della Sweden al 31% e il pareggio al 26%. La media dei 45 incontri di UEFA Nations League presenti nel nostro archivio (con la squadra di casa al 46%) è molto vicina a questa stima, quindi il vantaggio casalingo qui appare in linea con una situazione media. La probabilità di 3 o più gol è del 57%, leggermente superiore alla media di campionato di circa il 52%. Poiché il pareggio ha una probabilità del 26%, la vittoria della Sweden emerge come il secondo esito più probabile.",
+        "pt": "Poland, ev sahibi olarak hafif öne çıkan, ancak maçın oldukça dengeli göründüğü bir karşılaşma. Olasılıklara göre Poland'ın galibiyeti %43, Sweden'in galibiyeti %31 ve beraberlik %26. Arşivimizdeki 45 UEFA Uluslar Ligi maçının ortalaması (ev sahibi %46) ile bu tahmin birbirine yakın; yani ev sahibi üstünlüğü burada ortalama bir tabloya benziyor. 3 veya daha fazla gol olma olasılığı %57; bu da yaklaşık %52'lik lig ortalamasının biraz üzerinde. Beraberlik olasılığı %26 olduğundan, ikinci en olası sonuç olarak Sweden'in galibiyeti öne çıkıyor."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1942,13 +1976,33 @@
       "ev_sahibi": "Wales",
       "deplasman": "Portugal",
       "baslama_utc": "2026-11-17T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1404,
+        "X": 0.1936,
+        "2": 0.6661
+      },
+      "tahmin": "2",
+      "guven": 0.4725,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6091,
+          "alt": 0.3909
+        },
+        "tahmin": "ust",
+        "guven": 0.2182,
+        "kaynak_sayisi": 6
+      },
+      "ai_metin": "Portugal, Wales karşısında belirgin biçimde önde; %67'lik galibiyet ihtimali deplasman takımını net favori yapıyor. Toplam gol dağılımı da (%61 ile 3 veya daha fazla gol) favorinin gollü bir galibiyet arayacağı bir senaryoya işaret ediyor. Arşivimizdeki UEFA Uluslar Ligi maçlarında ev sahibinin kazanma ihtimali ortalama %46 iken bu maçta yalnızca %14; bu tablo karşılaşmayı ortalamadan belirgin biçimde uzaklaştırıyor. Benzer güven düzeyindeki geçmiş tahminlerimiz 19 maçta %79 isabet etti, bu da modelin bu tür durumlarda tutarlı çalıştığını gösteriyor. En olası ikinci sonuç beraberlik (%19); bu ihtimal düşük sayılmaz, ancak favorinin kontrolünü kaybetmesinden çok sınırlı bir gol farkına işaret eder.",
+      "ai_metinler": {
+        "en": "Portugal hold a clear advantage over Wales; a 67% probability of victory makes the away side the firm favourite. The distribution of total goals also points to a scenario in which the favourite is likely to seek a winning margin with several goals: a probability of 61% for 3 or more goals. In the UEFA Nations League matches in our archive, the average probability of the home side winning is 46%, while in this match it is only 14%; this picture places the fixture well away from the average. Our previous predictions at a similar confidence level were correct in 79% of 19 matches, which shows that the model has performed consistently in situations like this one. The second most likely outcome is a draw (19%); this probability is not negligible, but it points more to a limited goal difference than to the favourite losing control of the game.",
+        "es": "Portugal está claramente por delante frente a Gales; una probabilidad de victoria del 67% convierte al visitante en el claro favorito. La distribución de goles totales (con un 61% para 3 goles o más) también apunta a un escenario en el que el favorito buscará una victoria con goles. En los partidos de la Liga de Naciones de la UEFA de nuestro archivo, la probabilidad media de victoria del local es del 46%, mientras que en este partido es solo del 14%; este panorama aleja notablemente el encuentro del promedio. Nuestras predicciones anteriores con un nivel de confianza similar acertaron en 19 partidos, con un 79% de aciertos, lo que indica que el modelo funciona de forma consistente en este tipo de situaciones. El segundo resultado más probable es el empate (19%); esta probabilidad no es baja, pero apunta más a una diferencia de goles muy limitada que a una pérdida de control por parte del favorito.",
+        "de": "Portugal liegt gegen Wales deutlich vorn; mit einer Siegwahrscheinlichkeit von 67 % ist die Auswärtsmannschaft ein klarer Favorit. Auch die Verteilung der Torzahl deutet auf ein Szenario hin, in dem der Favorit einen torreichen Sieg anstrebt: 3 oder mehr Tore haben eine Wahrscheinlichkeit von 61 %. In unserem Archiv der UEFA-Nations-League-Spiele lag die Heimsieg-Wahrscheinlichkeit im Schnitt bei 46 %, in diesem Spiel dagegen nur bei 14 %; diese Konstellation entfernt die Begegnung deutlich vom Durchschnitt. Unsere früheren Prognosen mit vergleichbarem Konfidenzniveau trafen in 19 Spielen zu 79 % ein, was darauf hindeutet, dass das Modell in solchen Situationen konsistent arbeitet. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (19 %); diese Wahrscheinlichkeit ist nicht gering, deutet aber eher auf einen knappen Torabstand hin als auf einen Kontrollverlust des Favoriten.",
+        "fr": "Le Portugal est nettement en tête face au Pays de Galles ; une probabilité de victoire de 67 % fait de l'équipe en déplacement le grand favori. La répartition des buts totaux (61 % de probabilité pour 3 buts ou plus) indique également un scénario où le favori cherchera une victoire riche en buts. Dans nos archives de matchs de Ligue des nations de l'UEFA, la probabilité moyenne de victoire de l'équipe à domicile est de 46 %, alors qu'elle n'est que de 14 % dans ce match ; ce constat éloigne nettement la rencontre de la moyenne. Nos prévisions passées de niveau de confiance comparable ont atteint 79 % de réussite sur 19 matchs, ce qui montre que le modèle fonctionne de façon cohérente dans ce type de situation. Le deuxième résultat le plus probable est le match nul (19 %) ; cette probabilité n'est pas négligeable, mais elle correspond davantage à un écart de buts limité qu'à une perte de contrôle du favori.",
+        "it": "Portogallo è nettamente in vantaggio contro il Galles; una probabilità di vittoria del 67% rende la squadra ospite la netta favorita. Anche la distribuzione dei gol totali (3 o più gol al 61%) indica uno scenario in cui la favorita cercherà una vittoria con più reti. Nelle partite di UEFA Nations League del nostro archivio, la probabilità di vittoria della squadra di casa è in media del 46%, mentre in questo incontro è solo del 14%; questo quadro allontana chiaramente la partita dalla media. Le nostre previsioni passate con un livello di fiducia simile hanno avuto successo nel 79% dei casi su 19 partite, il che indica che il modello funziona in modo coerente in situazioni di questo tipo. Il secondo esito più probabile è il pareggio (19%); questa probabilità non è trascurabile, ma indica più una differenza di gol limitata che una perdita di controllo da parte della favorita.",
+        "pt": "Portugal está claramente à frente contra o País de Gales; a probabilidade de vitória de 67% torna a seleção visitante a favorita nítida. A distribuição de gols totais (com 61% para 3 ou mais gols) também aponta para um cenário em que o favorito buscará uma vitória com muitos gols. Em nosso arquivo de partidas da Liga das Nações da UEFA, a probabilidade média de vitória do mandante é de 46%, enquanto nesta partida é de apenas 14%; esse quadro afasta claramente o confronto da média. Nossas previsões anteriores com nível de confiança semelhante acertaram 79% dos 19 jogos, o que indica que o modelo tem funcionado de forma consistente nesse tipo de situação. O segundo resultado mais provável é o empate (19%); essa probabilidade não é baixa, mas aponta mais para uma diferença de gols bastante limitada do que para uma perda de controle por parte do favorito."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2031,7 +2085,7 @@
           }
         }
       },
-      "ucretsiz": false
+      "ucretsiz": true
     }
   ],
   "en_guclu_3": {
@@ -2072,6 +2126,49 @@
             "tahmin": "1",
             "olasilik": 0.6555,
             "guven": 0.4511,
+            "skor": null,
+            "tuttu": null
+          }
+        ],
+        "tutan": 0,
+        "sonuclanan": 0
+      },
+      {
+        "tarih": "2026-11-17",
+        "maclar": [
+          {
+            "mac_id": "955a201ba2266b8b6b0519e0265eb354",
+            "lig": "soccer_uefa_nations_league",
+            "ev_sahibi": "Wales",
+            "deplasman": "Portugal",
+            "baslama_utc": "2026-11-17T19:45:00Z",
+            "tahmin": "2",
+            "olasilik": 0.6661,
+            "guven": 0.4725,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "e71a4a4fea03d00873c285c5b55a9864",
+            "lig": "soccer_uefa_nations_league",
+            "ev_sahibi": "Israel",
+            "deplasman": "Austria",
+            "baslama_utc": "2026-11-17T19:45:00Z",
+            "tahmin": "2",
+            "olasilik": 0.5353,
+            "guven": 0.2916,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "3eb1d15a190bb1be8c32a020365dc7c2",
+            "lig": "soccer_uefa_nations_league",
+            "ev_sahibi": "Bosnia & Herzegovina",
+            "deplasman": "Romania",
+            "baslama_utc": "2026-11-17T19:45:00Z",
+            "tahmin": "1",
+            "olasilik": 0.4964,
+            "guven": 0.2314,
             "skor": null,
             "tuttu": null
           }
