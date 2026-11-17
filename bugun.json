@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-17T20:30:46Z",
+  "guncelleme_utc": "2026-11-17T21:30:47Z",
   "mac_sayisi": 6,
   "maclar": [
     {
@@ -156,7 +156,7 @@
         "ev_sahibi": null,
         "deplasman": null
       },
-      "ucretsiz": false
+      "ucretsiz": true
     },
     {
       "mac_id": "8c090da10644d01073571175eb7a7426",
@@ -279,41 +279,41 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-17",
+        "tarih": "2026-11-19",
         "maclar": [
           {
-            "mac_id": "955a201ba2266b8b6b0519e0265eb354",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Wales",
-            "deplasman": "Portugal",
-            "baslama_utc": "2026-11-17T19:45:00Z",
-            "tahmin": "2",
-            "olasilik": 0.6661,
-            "guven": 0.4725,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "e71a4a4fea03d00873c285c5b55a9864",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Israel",
-            "deplasman": "Austria",
-            "baslama_utc": "2026-11-17T19:45:00Z",
-            "tahmin": "2",
-            "olasilik": 0.5353,
-            "guven": 0.2916,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "3eb1d15a190bb1be8c32a020365dc7c2",
-            "lig": "soccer_uefa_nations_league",
-            "ev_sahibi": "Bosnia & Herzegovina",
-            "deplasman": "Romania",
-            "baslama_utc": "2026-11-17T19:45:00Z",
+            "mac_id": "4ffeab0ae6c6a76e96262104d3a1d6e7",
+            "lig": "soccer_brazil_campeonato",
+            "ev_sahibi": "Flamengo",
+            "deplasman": "Atletico Paranaense",
+            "baslama_utc": "2026-11-18T23:30:00Z",
             "tahmin": "1",
-            "olasilik": 0.4964,
-            "guven": 0.2314,
+            "olasilik": 0.7622,
+            "guven": 0.6104,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "a96fe59de916f1d378f3dcce6733dd20",
+            "lig": "soccer_brazil_campeonato",
+            "ev_sahibi": "Remo",
+            "deplasman": "Chapecoense",
+            "baslama_utc": "2026-11-18T23:00:00Z",
+            "tahmin": "1",
+            "olasilik": 0.5861,
+            "guven": 0.361,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "1c0decf6a961edaef153ea4223ec22ce",
+            "lig": "soccer_brazil_campeonato",
+            "ev_sahibi": "Corinthians",
+            "deplasman": "Botafogo",
+            "baslama_utc": "2026-11-19T00:30:00Z",
+            "tahmin": "1",
+            "olasilik": 0.5096,
+            "guven": 0.25,
             "skor": null,
             "tuttu": null
           }
@@ -323,47 +323,47 @@
       }
     ],
     "dun": {
-      "tarih": "2026-11-16",
+      "tarih": "2026-11-17",
       "maclar": [
         {
-          "mac_id": "13eb6e805b513e9d1fbad120c68cd1a0",
+          "mac_id": "955a201ba2266b8b6b0519e0265eb354",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Lithuania",
-          "deplasman": "Liechtenstein",
-          "baslama_utc": "2026-11-16T17:00:00Z",
-          "tahmin": "1",
-          "olasilik": 0.8539,
-          "guven": 0.745,
-          "skor": "2-1",
-          "tuttu": true
+          "ev_sahibi": "Wales",
+          "deplasman": "Portugal",
+          "baslama_utc": "2026-11-17T19:45:00Z",
+          "tahmin": "2",
+          "olasilik": 0.6661,
+          "guven": 0.4725,
+          "skor": null,
+          "tuttu": null
         },
         {
-          "mac_id": "ac7d106a75439c4ad8a33b2668bd68df",
+          "mac_id": "e71a4a4fea03d00873c285c5b55a9864",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Iceland",
-          "deplasman": "Luxembourg",
-          "baslama_utc": "2026-11-16T17:00:00Z",
-          "tahmin": "1",
-          "olasilik": 0.7198,
-          "guven": 0.538,
-          "skor": "3-0",
-          "tuttu": true
+          "ev_sahibi": "Israel",
+          "deplasman": "Austria",
+          "baslama_utc": "2026-11-17T19:45:00Z",
+          "tahmin": "2",
+          "olasilik": 0.5353,
+          "guven": 0.2916,
+          "skor": null,
+          "tuttu": null
         },
         {
-          "mac_id": "f0a77086c85d161afcfc2f275e9e29fa",
+          "mac_id": "3eb1d15a190bb1be8c32a020365dc7c2",
           "lig": "soccer_uefa_nations_league",
-          "ev_sahibi": "Greece",
-          "deplasman": "Serbia",
-          "baslama_utc": "2026-11-16T19:45:00Z",
+          "ev_sahibi": "Bosnia & Herzegovina",
+          "deplasman": "Romania",
+          "baslama_utc": "2026-11-17T19:45:00Z",
           "tahmin": "1",
-          "olasilik": 0.6555,
-          "guven": 0.4511,
-          "skor": "1-0",
-          "tuttu": true
+          "olasilik": 0.4964,
+          "guven": 0.2314,
+          "skor": null,
+          "tuttu": null
         }
       ],
-      "tutan": 3,
-      "sonuclanan": 3
+      "tutan": 0,
+      "sonuclanan": 0
     },
     "genel": {
       "gun": 8,
