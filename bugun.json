@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-17T21:30:47Z",
-  "mac_sayisi": 6,
+  "guncelleme_utc": "2026-11-17T22:30:44Z",
+  "mac_sayisi": 8,
   "maclar": [
     {
       "mac_id": "34b8d9b2a641392b592e1dc5470e7622",
@@ -274,6 +274,83 @@
         "deplasman": null
       },
       "ucretsiz": false
+    },
+    {
+      "mac_id": "fa3ad7ccd23c6fe47c3062a2b69d3ddd",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Vitoria",
+      "deplasman": "Bragantino-SP",
+      "baslama_utc": "2026-11-19T22:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": null,
+        "deplasman": null
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "2a054ad1a9985edb5db37136cf40a382",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Vasco da Gama",
+      "deplasman": "Internacional",
+      "baslama_utc": "2026-11-19T22:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Chapecoense",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        },
+        "deplasman": null
+      },
+      "ucretsiz": false
     }
   ],
   "en_guclu_3": {
@@ -334,8 +411,8 @@
           "tahmin": "2",
           "olasilik": 0.6661,
           "guven": 0.4725,
-          "skor": null,
-          "tuttu": null
+          "skor": "2-3",
+          "tuttu": true
         },
         {
           "mac_id": "e71a4a4fea03d00873c285c5b55a9864",
@@ -346,8 +423,8 @@
           "tahmin": "2",
           "olasilik": 0.5353,
           "guven": 0.2916,
-          "skor": null,
-          "tuttu": null
+          "skor": "1-1",
+          "tuttu": false
         },
         {
           "mac_id": "3eb1d15a190bb1be8c32a020365dc7c2",
@@ -358,18 +435,18 @@
           "tahmin": "1",
           "olasilik": 0.4964,
           "guven": 0.2314,
-          "skor": null,
-          "tuttu": null
+          "skor": "2-1",
+          "tuttu": true
         }
       ],
-      "tutan": 0,
-      "sonuclanan": 0
+      "tutan": 2,
+      "sonuclanan": 3
     },
     "genel": {
-      "gun": 8,
+      "gun": 9,
       "tam_isabet_gun": 6,
-      "tahmin": 24,
-      "tutan": 22
+      "tahmin": 27,
+      "tutan": 24
     }
   }
 }
