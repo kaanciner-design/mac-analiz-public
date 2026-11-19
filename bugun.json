@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-19T20:30:47Z",
+  "guncelleme_utc": "2026-11-19T21:30:44Z",
   "mac_sayisi": 67,
   "maclar": [
     {
@@ -8590,49 +8590,6 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-19",
-        "maclar": [
-          {
-            "mac_id": "4ffeab0ae6c6a76e96262104d3a1d6e7",
-            "lig": "soccer_brazil_campeonato",
-            "ev_sahibi": "Flamengo",
-            "deplasman": "Atletico Paranaense",
-            "baslama_utc": "2026-11-18T23:30:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7622,
-            "guven": 0.6104,
-            "skor": "2-1",
-            "tuttu": true
-          },
-          {
-            "mac_id": "a96fe59de916f1d378f3dcce6733dd20",
-            "lig": "soccer_brazil_campeonato",
-            "ev_sahibi": "Remo",
-            "deplasman": "Chapecoense",
-            "baslama_utc": "2026-11-18T23:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.5861,
-            "guven": 0.361,
-            "skor": "2-0",
-            "tuttu": true
-          },
-          {
-            "mac_id": "1c0decf6a961edaef153ea4223ec22ce",
-            "lig": "soccer_brazil_campeonato",
-            "ev_sahibi": "Corinthians",
-            "deplasman": "Botafogo",
-            "baslama_utc": "2026-11-19T00:30:00Z",
-            "tahmin": "1",
-            "olasilik": 0.5096,
-            "guven": 0.25,
-            "skor": "4-0",
-            "tuttu": true
-          }
-        ],
-        "tutan": 3,
-        "sonuclanan": 3
-      },
-      {
         "tarih": "2026-11-20",
         "maclar": [
           {
@@ -8676,12 +8633,54 @@
         "sonuclanan": 0
       }
     ],
-    "dun": null,
+    "dun": {
+      "tarih": "2026-11-19",
+      "maclar": [
+        {
+          "mac_id": "4ffeab0ae6c6a76e96262104d3a1d6e7",
+          "lig": "soccer_brazil_campeonato",
+          "ev_sahibi": "Flamengo",
+          "deplasman": "Atletico Paranaense",
+          "baslama_utc": "2026-11-18T23:30:00Z",
+          "tahmin": "1",
+          "olasilik": 0.7622,
+          "guven": 0.6104,
+          "skor": "2-1",
+          "tuttu": true
+        },
+        {
+          "mac_id": "a96fe59de916f1d378f3dcce6733dd20",
+          "lig": "soccer_brazil_campeonato",
+          "ev_sahibi": "Remo",
+          "deplasman": "Chapecoense",
+          "baslama_utc": "2026-11-18T23:00:00Z",
+          "tahmin": "1",
+          "olasilik": 0.5861,
+          "guven": 0.361,
+          "skor": "2-0",
+          "tuttu": true
+        },
+        {
+          "mac_id": "1c0decf6a961edaef153ea4223ec22ce",
+          "lig": "soccer_brazil_campeonato",
+          "ev_sahibi": "Corinthians",
+          "deplasman": "Botafogo",
+          "baslama_utc": "2026-11-19T00:30:00Z",
+          "tahmin": "1",
+          "olasilik": 0.5096,
+          "guven": 0.25,
+          "skor": "4-0",
+          "tuttu": true
+        }
+      ],
+      "tutan": 3,
+      "sonuclanan": 3
+    },
     "genel": {
-      "gun": 9,
-      "tam_isabet_gun": 6,
-      "tahmin": 27,
-      "tutan": 24
+      "gun": 10,
+      "tam_isabet_gun": 7,
+      "tahmin": 30,
+      "tutan": 27
     }
   }
 }
