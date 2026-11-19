@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-19T19:30:49Z",
-  "mac_sayisi": 59,
+  "guncelleme_utc": "2026-11-19T20:30:47Z",
+  "mac_sayisi": 67,
   "maclar": [
     {
       "mac_id": "fa3ad7ccd23c6fe47c3062a2b69d3ddd",
@@ -7316,6 +7316,1272 @@
           "1": 0.3995,
           "X": 0.2777,
           "2": 0.3228
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "e59809eb38340e3bca323cef070dfd34",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Napoli",
+      "deplasman": "Torino",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Lazio",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-04",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "Porto",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 4,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Juventus",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-28",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Monza",
+              "ic_saha": false,
+              "atilan": 4,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-24",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "AS Roma",
+              "ic_saha": true,
+              "atilan": 3,
+              "yenilen": 3,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 1,
+            "beraberlik": 2,
+            "maglubiyet": 2,
+            "atilan": 9,
+            "yenilen": 11,
+            "ust25": 3
+          },
+          "ic_saha": {
+            "mac": 4,
+            "galibiyet": 2,
+            "beraberlik": 2,
+            "maglubiyet": 0,
+            "atilan": 11,
+            "yenilen": 7,
+            "ust25": 3
+          },
+          "deplasman": {
+            "mac": 5,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 4,
+            "atilan": 6,
+            "yenilen": 11,
+            "ust25": 3
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-07",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Lecce",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Frosinone",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-27",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Como",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-23",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Monza",
+              "ic_saha": true,
+              "atilan": 3,
+              "yenilen": 2,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-19",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Parma",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 2,
+            "beraberlik": 1,
+            "maglubiyet": 2,
+            "atilan": 8,
+            "yenilen": 8,
+            "ust25": 3
+          },
+          "ic_saha": {
+            "mac": 4,
+            "galibiyet": 2,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 7,
+            "yenilen": 7,
+            "ust25": 3
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 3,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-14T05:37:21Z",
+        "son_utc": "2026-11-17T05:37:20Z",
+        "ilk": {
+          "1": 0.6416,
+          "X": 0.2103,
+          "2": 0.1481
+        },
+        "son": {
+          "1": 0.6419,
+          "X": 0.2104,
+          "2": 0.1477
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9130b46991ab991f808daf307f004469",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "AS Monaco",
+      "deplasman": "Auxerre",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Le Mans FC",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Paris FC",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lille",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lorient",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 0,
+            "beraberlik": 2,
+            "maglubiyet": 2,
+            "atilan": 3,
+            "yenilen": 6,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 1,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 2,
+            "atilan": 2,
+            "yenilen": 5,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-07",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Paris FC",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Strasbourg",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 5,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Le Mans FC",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Le Havre",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 1,
+            "beraberlik": 1,
+            "maglubiyet": 2,
+            "atilan": 5,
+            "yenilen": 8,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 4,
+            "yenilen": 6,
+            "ust25": 2
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-14T05:37:21Z",
+        "son_utc": "2026-11-19T05:37:20Z",
+        "ilk": {
+          "1": 0.6788,
+          "X": 0.1879,
+          "2": 0.1333
+        },
+        "son": {
+          "1": 0.6736,
+          "X": 0.1896,
+          "2": 0.1369
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "4d6dd3defbbe20fa24b719f9fcdbf280",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Strasbourg",
+      "deplasman": "Brest",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-06",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Toulouse",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Auxerre",
+              "ic_saha": true,
+              "atilan": 5,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Rennes",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-17",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Paris Saint Germain",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 3,
+            "atilan": 7,
+            "yenilen": 10,
+            "ust25": 4
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 6,
+            "yenilen": 4,
+            "ust25": 2
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 1,
+            "yenilen": 6,
+            "ust25": 2
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lyon",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-02",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lorient",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-23",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Nice",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-17",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lille",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 2,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 6,
+            "yenilen": 3,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 3,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 1,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-14T05:37:21Z",
+        "son_utc": "2026-11-19T05:37:20Z",
+        "ilk": {
+          "1": 0.4291,
+          "X": 0.2542,
+          "2": 0.3167
+        },
+        "son": {
+          "1": 0.4278,
+          "X": 0.2574,
+          "2": 0.3149
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d2113ca19873218496f8b2fe6c7e7c41",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Lille",
+      "deplasman": "Lyon",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Rennes",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-03",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "Bodø/Glimt",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-30",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "RC Lens",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "AS Monaco",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-21",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "Galatasaray",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 4,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 2,
+            "beraberlik": 2,
+            "maglubiyet": 1,
+            "atilan": 6,
+            "yenilen": 6,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 1,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 4,
+            "yenilen": 5,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 4,
+            "galibiyet": 1,
+            "beraberlik": 2,
+            "maglubiyet": 1,
+            "atilan": 3,
+            "yenilen": 5,
+            "ust25": 2
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Brest",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Angers",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-26",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Paris Saint Germain",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Nice",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 2,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 4,
+            "yenilen": 5,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 2,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 4,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 0,
+            "yenilen": 4,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-14T05:37:21Z",
+        "son_utc": "2026-11-19T05:37:20Z",
+        "ilk": {
+          "1": 0.4053,
+          "X": 0.2832,
+          "2": 0.3116
+        },
+        "son": {
+          "1": 0.4096,
+          "X": 0.285,
+          "2": 0.3054
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "13ac2151b9f6893cedb7f509e64eb070",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "RC Lens",
+      "deplasman": "Toulouse",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Marseille",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-04",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "Como",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 9,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-30",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lille",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-24",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Paris FC",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-21",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "Club Brugge",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 3,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 4,
+            "atilan": 4,
+            "yenilen": 16,
+            "ust25": 4
+          },
+          "ic_saha": {
+            "mac": 4,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 3,
+            "atilan": 4,
+            "yenilen": 14,
+            "ust25": 3
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 3,
+            "yenilen": 5,
+            "ust25": 2
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-06",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Strasbourg",
+              "ic_saha": true,
+              "atilan": 3,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Marseille",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Troyes",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-16",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Le Mans FC",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 4,
+            "galibiyet": 2,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 6,
+            "yenilen": 3,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 3,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-14T05:37:21Z",
+        "son_utc": "2026-11-19T05:37:20Z",
+        "ilk": {
+          "1": 0.5172,
+          "X": 0.241,
+          "2": 0.2418
+        },
+        "son": {
+          "1": 0.5171,
+          "X": 0.2415,
+          "2": 0.2414
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "90af957b2f622a5cf805e60b151c54b9",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Real Madrid",
+      "deplasman": "Celta Vigo",
+      "baslama_utc": "2026-11-21T20:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-07",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Valencia",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-04",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "AEK Athens",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 2,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Real Racing Club de Santander",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Barcelona",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-21",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "RB Leipzig",
+              "ic_saha": true,
+              "atilan": 4,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 5,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 15,
+            "yenilen": 4,
+            "ust25": 5
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 3,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 9,
+            "yenilen": 2,
+            "ust25": 2
+          },
+          "deplasman": {
+            "mac": 5,
+            "galibiyet": 5,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 15,
+            "yenilen": 6,
+            "ust25": 5
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Levante",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-31",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Rayo Vallecano",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Real Betis",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Alavés",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-11",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Elche CF",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 1,
+            "beraberlik": 3,
+            "maglubiyet": 1,
+            "atilan": 2,
+            "yenilen": 4,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 1,
+            "beraberlik": 2,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 3,
+            "ust25": 1
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-14T05:37:20Z",
+        "son_utc": "2026-11-19T05:37:20Z",
+        "ilk": {
+          "1": 0.7925,
+          "X": 0.1342,
+          "2": 0.0734
+        },
+        "son": {
+          "1": 0.8096,
+          "X": 0.1262,
+          "2": 0.0642
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "43f5122119133c6e63f2d99176c555e6",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Tenerife",
+      "deplasman": "Mallorca",
+      "baslama_utc": "2026-11-21T20:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-15",
+              "lig": "soccer_spain_segunda_division",
+              "rakip": "AD Ceuta FC",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_spain_segunda_division",
+              "rakip": "Córdoba",
+              "ic_saha": true,
+              "atilan": 3,
+              "yenilen": 3,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 3,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 3,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-15T05:37:23Z",
+        "son_utc": "2026-11-16T05:37:23Z",
+        "ilk": {
+          "1": 0.2902,
+          "X": 0.2976,
+          "2": 0.4123
+        },
+        "son": {
+          "1": 0.2989,
+          "X": 0.2928,
+          "2": 0.4083
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f538ac619132a25fd0c065cacfa5c05f",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Bahia",
+      "deplasman": "Coritiba",
+      "baslama_utc": "2026-11-21T20:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-19",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Grêmio",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-18",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Santos",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 0,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-12T05:37:19Z",
+        "son_utc": "2026-11-18T05:37:21Z",
+        "ilk": {
+          "1": 0.6678,
+          "X": 0.1983,
+          "2": 0.1339
+        },
+        "son": {
+          "1": 0.6678,
+          "X": 0.1983,
+          "2": 0.1339
         }
       },
       "ucretsiz": false
