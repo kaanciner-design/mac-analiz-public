@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-19T17:30:47Z",
-  "mac_sayisi": 58,
+  "guncelleme_utc": "2026-11-19T19:30:49Z",
+  "mac_sayisi": 59,
   "maclar": [
     {
       "mac_id": "fa3ad7ccd23c6fe47c3062a2b69d3ddd",
@@ -7205,6 +7205,117 @@
           "1": 0.667,
           "X": 0.1969,
           "2": 0.1361
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "1d642bb0454dc70058fdefa08fc6131a",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Palmeiras",
+      "deplasman": "Flamengo",
+      "baslama_utc": "2026-11-21T19:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-18",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Cruzeiro",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-18",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Atletico Paranaense",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-12T05:37:19Z",
+        "son_utc": "2026-11-18T05:37:21Z",
+        "ilk": {
+          "1": 0.4008,
+          "X": 0.276,
+          "2": 0.3232
+        },
+        "son": {
+          "1": 0.3995,
+          "X": 0.2777,
+          "2": 0.3228
         }
       },
       "ucretsiz": false
