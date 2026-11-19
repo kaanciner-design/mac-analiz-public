@@ -1,7 +1,85 @@
 {
-  "guncelleme_utc": "2026-11-19T21:30:44Z",
-  "mac_sayisi": 394,
+  "guncelleme_utc": "2026-11-19T22:30:58Z",
+  "mac_sayisi": 396,
   "maclar": [
+    {
+      "mac_id": "fa3ad7ccd23c6fe47c3062a2b69d3ddd",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Vitoria",
+      "deplasman": "Bragantino-SP",
+      "baslama_utc": "2026-11-19T22:30:00Z",
+      "olasiliklar": {
+        "1": 0.3535,
+        "X": 0.2778,
+        "2": 0.3687
+      },
+      "tahmin": "2",
+      "guven": 0.0152,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5314,
+          "alt": 0.4686
+        },
+        "tahmin": "ust",
+        "guven": 0.0628,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Bragantino-SP deplasmanda hafif bir öndeliğe sahip, ancak maç oldukça dengeli görünüyor: deplasman %37, ev sahibi Vitoria %35, beraberlik %28. Toplam gol tarafında 3 veya daha fazla gol %53 ile biraz önde, bu da açık ve gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 112 maçta %53 isabet etti; beklenen %41'in üzerinde bir sonuç, bu tip değerlendirmelerin bu kez daha iyi çalıştığını gösteriyor. İkinci olası sonuç olarak Vitoria'nın galibiyeti %35 ile hesapta ciddi bir seçenek olarak duruyor.",
+      "ai_metinler": {
+        "en": "Bragantino-SP has a slight edge on the road, but the match looks quite balanced: away win 37%, home side Vitoria 35%, draw 28%. On total goals, 3 or more goals is slightly ahead at 53%, pointing to an open, high-scoring scenario. Our past predictions hit 53% across 112 matches at this confidence level; a result above the expected 41% shows that this type of assessment has worked better this time. As the second most likely outcome, a Vitoria win at 35% remains a serious possibility in the calculation.",
+        "es": "Bragantino-SP tiene una ligera ventaja como visitante, pero el partido parece bastante equilibrado: visitante 37%, local Vitoria 35%, empate 28%. En cuanto a los goles totales, 3 goles o más tiene una ligera ventaja con 53%, lo que apunta a un escenario abierto y con goles. Nuestras predicciones anteriores con este nivel de confianza acertaron en 53% de 112 partidos; un resultado por encima del 41% esperado indica que este tipo de evaluaciones han funcionado mejor esta vez. Como segundo resultado probable, la victoria de Vitoria, con 35%, se mantiene como una opción seria en el cálculo.",
+        "de": "Bragantino-SP hat auswärts einen leichten Vorteil, doch das Spiel wirkt insgesamt sehr ausgeglichen: Auswärtssieg 37 %, Heimsieg Vitória 35 %, Unentschieden 28 %. Bei den Toreinen liegt die Wahrscheinlichkeit für 3 oder mehr Tore mit 53 % leicht vorn, was auf ein offenes Spiel mit vielen Toren hindeutet. Unsere früheren Einschätzungen mit diesem Konfidenzniveau trafen bei 112 Spielen in 53 % der Fälle zu; ein Ergebnis über den erwarteten 41 % zeigt, dass diese Art der Bewertung diesmal besser funktioniert hat. Als zweitwahrscheinlichstes Ergebnis steht der Sieg von Vitória mit 35 % weiterhin als ernstzunehmende Option im Raum.",
+        "fr": "Bragantino-SP à l'extérieur présente un léger avantage, mais le match semble très équilibré : victoire à l'extérieur 37 %, victoire de l'équipe à domicile Vitoria 35 %, match nul 28 %. Concernant le nombre de buts, la probabilité de 3 buts ou plus s'élève à 53 %, ce qui laisse entrevoir un scénario ouvert et riche en buts. Lors de nos évaluations précédentes à ce niveau de confiance, nous avons obtenu 53 % de réussite sur 112 matchs ; un résultat supérieur aux 41 % attendus montre que ce type d'évaluation a mieux fonctionné cette fois. La victoire de Vitoria, avec 35 %, reste également une issue sérieuse à prendre en compte.",
+        "it": "Bragantino-SP ha un leggero vantaggio in trasferta, ma la partita appare piuttosto equilibrata: trasferta 37%, Vitoria in casa 35%, pareggio 28%. Sul fronte dei gol totali, la probabilità di 3 o più gol è leggermente in vantaggio con il 53%, il che indica uno scenario aperto e ricco di reti. Le nostre valutazioni precedenti con questo livello di fiducia hanno avuto ragione in 112 partite su 53%; un risultato superiore al 41% atteso mostra che questo tipo di valutazione ha funzionato meglio questa volta. Come secondo esito possibile, la vittoria del Vitoria con il 35% resta un'opzione seria nel quadro complessivo.",
+        "pt": "Bragantino-SP tem uma ligeira vantagem como visitante, mas a partida parece bastante equilibrada: visitante 37%, mandante Vitória 35%, empate 28%. No quesito total de gols, 3 ou mais gols aparece com 53%, um pouco à frente, o que aponta para um cenário aberto e com gols. Nossas avaliações anteriores com este nível de confiança acertaram 53% em 112 partidas; um resultado acima dos 41% esperados mostra que esse tipo de análise funcionou melhor desta vez. Como segundo resultado possível, a vitória do Vitória, com 35%, se mantém como uma opção séria na análise."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "2a054ad1a9985edb5db37136cf40a382",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Vasco da Gama",
+      "deplasman": "Internacional",
+      "baslama_utc": "2026-11-19T22:30:00Z",
+      "olasiliklar": {
+        "1": 0.5671,
+        "X": 0.2415,
+        "2": 0.1914
+      },
+      "tahmin": "1",
+      "guven": 0.3256,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5307,
+          "alt": 0.4693
+        },
+        "tahmin": "ust",
+        "guven": 0.0614,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Vasco da Gama evinde net favori: ev sahibinin kazanma olasılığı %57, beraberlik %24, Internacional'ın galibiyeti %19. Toplam golde 3 veya daha fazla gol %53 ile hafif önde, bu da gollü ve açık bir ev sahibi galibiyeti senaryosuna işaret ediyor. Ancak 21 veri kaynağı arasındaki belirgin görüş farkı belirsizliğin normalin üzerinde olduğunu gösteriyor. Geçmişte bu güven seviyesindeki 152 tahminimizin %78'i tutmuş olsa da bu, beklenen %66'nın üzerinde bir performans. En olası ikinci sonuç beraberlik (%24), bunun da ihtimali düşük değil.",
+      "ai_metinler": {
+        "en": "Vasco da Gama is the clear favorite at home: the probability of a home win is 57%, a draw 24%, and an Internacional win 19%. For total goals, 3 or more goals has a slight edge at 53%, which points to a high-scoring scenario with a clear home win. However, the noticeable disagreement among the 21 data sources shows that uncertainty is higher than normal. In the past, 78% of our 152 predictions at this confidence level came true, which is above the expected 66%. The second most likely outcome is a draw (24%), and that probability is not low.",
+        "es": "Vasco da Gama es claramente el favorito en casa: la probabilidad de victoria del local es del 57%, el empate del 24% y la victoria de Internacional del 19%. En el total de goles, la opción de 3 o más goles tiene una ligera ventaja con un 53%, lo que apunta a un escenario con goles y una clara victoria local. Sin embargo, la notable diferencia de opiniones entre las 21 fuentes de datos indica que la incertidumbre es superior a lo normal. En el pasado, el 78% de nuestras 152 predicciones con este nivel de confianza se cumplieron, lo que supera el 66% esperado. El segundo resultado más probable es el empate (24%), que tampoco es una posibilidad baja.",
+        "de": "Vasco da Gama ist im eigenen Stadion klarer Favorit: Die Wahrscheinlichkeit für einen Heimsieg liegt bei 57%, für ein Unentschieden bei 24% und für einen Sieg von Internacional bei 19%. Bei der Gesamttorzahl liegt die Wahrscheinlichkeit für 3 oder mehr Tore mit 53% knapp vorn, was auf ein torreiches und offenes Szenario mit einem deutlichen Heimsieg hindeutet. Die deutlichen Unterschiede zwischen den 21 Datenquellen zeigen jedoch, dass die Unsicherheit über dem Normalen liegt. Zwar haben 78% unserer 152 bisherigen Prognosen mit vergleichbarem Vertrauensniveau zugetroffen, das ist aber mehr als die erwarteten 66%. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (24%), was ebenfalls keine geringe Wahrscheinlichkeit ist.",
+        "fr": "Vasco da Gama est nettement favori à domicile : la probabilité de victoire de l'équipe à domicile est de 57 %, celle d'un match nul de 24 %, et celle d'une victoire de l'Internacional de 19 %. Pour le total de buts, 3 buts ou plus ont une probabilité de 53 %, légèrement en tête, ce qui correspond à un scénario riche en buts avec une victoire nette de l'équipe à domicile. Cependant, le désaccord marqué entre les 21 sources de données indique une incertitude supérieure à la normale. Sur nos 152 prévisions passées à ce niveau de confiance, 78 % se sont avérées justes, soit une performance supérieure aux 66 % attendus. Le deuxième résultat le plus probable est le match nul (24 %), dont la probabilité n'est pas négligeable.",
+        "it": "Vasco da Gama è nettamente favorito in casa: la probabilità di vittoria del padrone di casa è del 57%, quella di pareggio del 24% e quella di vittoria dell'Internacional del 19%. Per quanto riguarda il totale gol, la probabilità di 3 o più gol è del 53%, leggermente in vantaggio, il che indica uno scenario ricco di reti con una chiara vittoria interna. Tuttavia, la marcata divergenza di opinioni tra le 21 fonti di dati indica un livello di incertezza superiore alla norma. In passato, il 78% delle nostre 152 previsioni con questo livello di fiducia si è avverato, una percentuale superiore al 66% atteso. Il secondo esito più probabile è il pareggio (24%), che non è affatto un'ipotesi remota.",
+        "pt": "Vasco da Gama é o claro favorito em casa: a probabilidade de vitória do mandante é de 57%, a de empate é de 24% e a de vitória do Internacional é de 19%. Para o total de gols, a probabilidade de 3 ou mais gols é de 53%, ligeiramente à frente, o que aponta para um cenário com gols e uma vitória clara do mandante. No entanto, a diferença marcante de opiniões entre as 21 fontes de dados indica que a incerteza está acima do normal. No passado, 78% das nossas 152 previsões com esse nível de confiança se confirmaram, um desempenho acima dos 66% esperados. O segundo resultado mais provável é o empate (24%), que também não é improvável."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": true
+    },
     {
       "mac_id": "4a0ed971930ed1355d19497b2aa72744",
       "lig": "soccer_brazil_campeonato",
@@ -10128,70 +10206,6 @@
       "tuttu": true,
       "alt_ust_tuttu": true,
       "ucretsiz": false
-    },
-    {
-      "mac_id": "f5905225efa837b0dc89b7dcdbb6c625",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Real Betis",
-      "deplasman": "Feyenoord",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "olasiliklar": {
-        "1": 0.6103,
-        "X": 0.2011,
-        "2": 0.1886
-      },
-      "tahmin": "1",
-      "guven": 0.4092,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6957,
-          "alt": 0.3043
-        },
-        "tahmin": "ust",
-        "guven": 0.3914,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Real Betis, %61 kazanma olasılığıyla bu maçın net favorisi. %70 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, favorinin gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimizde %79 isabet oranımız varken, bu maçın olasılıkları %66'lık bir beklenti sunuyor. Beraberlik %20 ile ikinci en olası sonuçken, Feyenoord galibiyeti düşük bir ihtimal (%19).",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "1-0",
-      "toplam_gol": 1,
-      "tuttu": true,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "a889456204e8ef1b64294efbee8dc3e5",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Inter Milan",
-      "deplasman": "Shakhtar Donetsk",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "olasiliklar": {
-        "1": 0.7984,
-        "X": 0.1266,
-        "2": 0.075
-      },
-      "tahmin": "1",
-      "guven": 0.6718,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.747,
-          "alt": 0.253
-        },
-        "tahmin": "ust",
-        "guven": 0.494,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Inter Milan, bu maçta net favori olarak öne çıkıyor. Yüksek gol beklentisiyle birlikte ev sahibinin gollü bir galibiyet alması en olası senaryo. Bu tahminimiz, geçmişteki %79'luk isabet oranımızla uyumlu görünüyor. Beraberlik veya Shakhtar galibiyeti ise oldukça düşük ihtimaller.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "1-0",
-      "toplam_gol": 1,
-      "tuttu": true,
-      "alt_ust_tuttu": false,
-      "ucretsiz": true
     }
   ]
 }
