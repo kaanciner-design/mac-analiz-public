@@ -1,7 +1,115 @@
 {
-  "guncelleme_utc": "2026-11-20T19:30:53Z",
-  "mac_sayisi": 399,
+  "guncelleme_utc": "2026-11-20T20:30:49Z",
+  "mac_sayisi": 402,
   "maclar": [
+    {
+      "mac_id": "dcee36f9b8a9989972b6d4ddde76c4c7",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Athletic Bilbao",
+      "deplasman": "Espanyol",
+      "baslama_utc": "2026-11-20T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.6449,
+        "X": 0.2142,
+        "2": 0.1409
+      },
+      "tahmin": "1",
+      "guven": 0.4307,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5291,
+          "alt": 0.4709
+        },
+        "tahmin": "ust",
+        "guven": 0.0582,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Athletic Bilbao, ev sahibi avantajıyla net favori görünüyor; %64 galibiyet olasılığı, La Liga arşivimizdeki %43'lük ev sahibi kazanma olasılığının belirgin üzerinde. Toplam gol tarafında %53 ile 3 veya daha fazla gol ihtimali hafifçe öne çıkıyor; bu, favorinin gollü bir galibiyetinin senaryosuna işaret ediyor. Bilbao'nun son 5 maçta 8 gol atıp 3 maçta 3+ gol görülmesi bu yönü destekliyor; La Liga ortalaması olan %56'nın da hafif altında kalıyor. Espanyol'un %14'lük deplasman galibiyeti ise düşük bir ihtimal; ikinci olası sonuç olarak %21 ile beraberlik öne çıkıyor.",
+      "ai_metinler": {
+        "en": "Athletic Bilbao appears to be the clear favourite thanks to home advantage; their 64% win probability is well above the 43% home-win probability in our La Liga archive. On total goals, 3 or more goals has a slightly higher probability at 53%, pointing to a scenario in which the favourite wins with goals. Bilbao's 8 goals in their last 5 matches, and 3 or more goals in 3 of them, support this direction, though it sits slightly below the La Liga average of 56%. Espanyol's away-win probability of 14% is low; a draw, at 21%, stands out as the second most likely outcome.",
+        "es": "Athletic Bilbao, gracias a la ventaja de jugar en casa, aparece como el claro favorito; una probabilidad de victoria del 64%, muy por encima del 43% de probabilidad de victoria local que figura en nuestro archivo de La Liga. En cuanto a los goles totales, la probabilidad de 3 goles o más se sitúa ligeramente por delante con un 53%, lo que apunta a un escenario de victoria del favorito con goles. Las últimas 5 jornadas de Bilbao, con 8 goles marcados y 3 partidos con 3 goles o más, respaldan esta tendencia; aun así, queda ligeramente por debajo del promedio de La Liga, que es del 56%. La victoria visitante del Espanyol, con un 14%, es una probabilidad baja; como segundo resultado más probable, el empate destaca con un 21%.",
+        "de": "Athletic Bilbao wirkt mit seinem Heimvorteil als klarer Favorit; die Wahrscheinlichkeit für einen Sieg liegt bei 64%, deutlich über der Heimsiegquote von 43% in unserem La-Liga-Archiv. Bei den Gesamttoren hebt sich mit 53% die Wahrscheinlichkeit für 3 oder mehr Tore leicht hervor; das spricht für das Szenario eines torreichen Sieges des Favoriten. Dass Bilbao in den letzten 5 Spielen 8 Tore erzielt hat und in 3 Spielen 3 oder mehr Tore fielen, stützt diese Tendenz; dabei bleibt der Wert leicht unter dem La-Liga-Durchschnitt von 56%. Der Auswärtssieg von Espanyol mit 14% ist dagegen eine geringe Wahrscheinlichkeit; als zweitwahrscheinlichstes Ergebnis sticht mit 21% ein Unentschieden hervor.",
+        "fr": "Athletic Bilbao, grâce à l'avantage du terrain, apparaît comme le grand favori ; une probabilité de victoire de 64 %, nettement supérieure à la probabilité de victoire à domicile de 43 % dans notre archive de la Liga. Concernant le total de buts, 3 buts ou plus ressortent légèrement avec une probabilité de 53 %, ce qui laisse envisager un scénario de victoire du favori avec plusieurs buts. Les 8 buts marqués par Bilbao lors de ses 5 derniers matchs et les 3 rencontres avec 3 buts ou plus vont dans ce sens ; cela reste légèrement en dessous de la moyenne de la Liga, qui est de 56 %. La victoire de l'Espanyol à l'extérieur, avec une probabilité de 14 %, est peu probable ; le match nul, avec 21 %, constitue le second résultat le plus probable.",
+        "it": "Athletic Bilbao, ev sahibi avantajıyla net favori görünüyor; %64 galibiyet olasılığı, La Liga arşivimizdeki %43'lük ev sahibi kazanma olasılığının belirgin üzerinde. Toplam gol tarafında %53 ile 3 veya daha fazla gol ihtimali hafifçe öne çıkıyor; bu, favorinin gollü bir galibiyetinin senaryosuna işaret ediyor. Bilbao'nun son 5 maçta 8 gol atıp 3 maçta 3+ gol görülmesi bu yönü destekliyor; La Liga ortalaması olan %56'nın da hafif altında kalıyor. Espanyol'un %14'lük deplasman galibiyeti ise düşük bir ihtimal; ikinci olası sonuç olarak %21 ile beraberlik öne çıkıyor.",
+        "pt": "Athletic Bilbao, mandante, aparece claramente como favorito; a probabilidade de vitória é de 64%, bem acima dos 43% de vitória em casa registrados em nosso arquivo da La Liga. No total de gols, 3 ou mais gols tem leve destaque, com 53%, o que aponta para o cenário de uma vitória do favorito com muitos gols. Os 8 gols marcados pelo Bilbao nos últimos 5 jogos e a ocorrência de 3 ou mais gols em 3 partidas reforçam essa tendência, embora fiquem um pouco abaixo da média da La Liga, de 56%. Já a vitória do Espanyol como visitante, com 14%, é uma probabilidade baixa; o segundo resultado mais provável é o empate, com 21%."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "deb5feb11ba6d2e87bcf2f4183b255f3",
+      "lig": "soccer_england_league1",
+      "ev_sahibi": "Barnsley",
+      "deplasman": "Sheffield Wednesday",
+      "baslama_utc": "2026-11-20T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.33,
+        "X": 0.2472,
+        "2": 0.4227
+      },
+      "tahmin": "2",
+      "guven": 0.0927,
+      "alt_ust": null,
+      "ai_metin": "Deplasman takımı Sheffield Wednesday, Barnsley karşısında %42 olasılıkla galip gelmesiyle hafif öne çıkıyor; ancak %33 ev sahibi galibiyeti ve %25 beraberlik ihtimali nedeniyle maç oldukça dengeli görünüyor. Bu tablo, sıkı geçen ve sonucu son dakikalara kadar belirsiz bir karşılaşmaya işaret ediyor. Geçmişte bu güven seviyesindeki tahminlerimiz 112 maçta %53 isabet oranına ulaştı; bu da beklenen %41'in üzerinde bir performans. Ev sahibinin galibiyet ihtimali ise %15'in üzerinde olduğu için gerçekçi bir senaryo olarak değerlendirilebilir.",
+      "ai_metinler": {
+        "en": "The away side, Sheffield Wednesday, stands out slightly with a 42% probability of winning against Barnsley; however, with a 33% probability of a home win and a 25% chance of a draw, the match appears quite balanced. This picture points to a tight contest where the outcome remains uncertain until the final minutes. Our predictions at this confidence level have reached a 53% hit rate over 112 matches, which is above the expected 41%. Since the home side's probability of winning is above 15%, it can be considered a realistic scenario.",
+        "es": "El equipo visitante, Sheffield Wednesday, destaca ligeramente con una probabilidad del 42% de vencer a Barnsley; sin embargo, con una probabilidad del 33% de victoria local y un 25% de empate, el partido parece bastante equilibrado. Este panorama apunta a un encuentro reñido, cuyo resultado permanecerá incierto hasta los minutos finales. En el pasado, nuestras predicciones con este nivel de confianza acertaron en un 53% de los 112 partidos, lo que supera el 41% esperado. Además, como la probabilidad de victoria local supera el 15%, puede considerarse un escenario realista.",
+        "de": "Der Gastgeber Sheffield Wednesday hat mit einer Wahrscheinlichkeit von 42% einen leichten Vorsprung gegenüber Barnsley, doch angesichts einer 33%igen Heimsieg-Wahrscheinlichkeit und einer 25%igen Unentschieden-Wahrscheinlichkeit wirkt die Partie insgesamt sehr ausgeglichen. Diese Konstellation deutet auf eine enge Begegnung hin, deren Ausgang bis in die Schlussminuten offen bleibt. Unsere Einschätzungen mit diesem Vertrauensniveau haben in der Vergangenheit bei 112 Spielen eine Trefferquote von 53% erreicht, was über den erwarteten 41% liegt. Die Wahrscheinlichkeit eines Heimsiegs liegt zudem über 15%, weshalb auch dieses Szenario als realistisch eingeschätzt werden kann.",
+        "fr": "L'équipe visiteuse, Sheffield Wednesday, ressort légèrement avec une probabilité de victoire de 42 %, face à Barnsley ; cependant, avec une probabilité de victoire de l'équipe à domicile de 33 % et une probabilité de match nul de 25 %, la rencontre paraît très équilibrée. Ce profil laisse entrevoir un match serré, dont l'issue reste incertaine jusqu'aux dernières minutes. Par le passé, nos pronostics affichant ce niveau de confiance ont atteint un taux de réussite de 53 % sur 112 matchs, soit une performance supérieure aux 41 % attendus. La probabilité de victoire de l'équipe à domicile dépassant 15 %, ce scénario peut par ailleurs être considéré comme réaliste.",
+        "it": "La squadra ospite Sheffield Wednesday è leggermente favorita con una probabilità del 42% di vincere contro il Barnsley; tuttavia, con una probabilità del 33% di vittoria della squadra di casa e del 25% di pareggio, la partita appare piuttosto equilibrata. Questo quadro indica un incontro combattuto, con un esito incerto fino agli ultimi minuti. In passato, le nostre previsioni con questo livello di fiducia hanno raggiunto una percentuale di precisione del 53% su 112 partite, superiore al 41% atteso. La probabilità di vittoria della squadra di casa è superiore al 15%, quindi può essere considerata uno scenario realistico.",
+        "pt": "A equipe visitante, Sheffield Wednesday, aparece ligeiramente à frente, com 42% de probabilidade de vencer o Barnsley; ainda assim, com 33% de probabilidade de vitória da equipe da casa e 25% de chance de empate, a partida parece bastante equilibrada. Esse cenário aponta para um confronto disputado, cujo resultado pode permanecer incerto até os minutos finais. Em previsões anteriores com esse nível de confiança, a taxa de acerto foi de 53% em 112 partidas, acima dos 41% esperados. Já a probabilidade de vitória do mandante, acima de 15%, pode ser considerada um cenário realista."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "5dcc9d2b0da87770a4f49e924275be39",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Troyes",
+      "deplasman": "Le Havre",
+      "baslama_utc": "2026-11-20T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.4369,
+        "X": 0.277,
+        "2": 0.2861
+      },
+      "tahmin": "1",
+      "guven": 0.1508,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5124,
+          "alt": 0.4876
+        },
+        "tahmin": "ust",
+        "guven": 0.0248,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Troyes, Le Havre karşısında belirgin biçimde önde görünüyor: ev sahibi kazanma olasılığı %44, deplasman galibiyeti ise %29. Toplam gol tarafında 3 veya daha fazla gol %51 ile hafif öne çıkıyor; bu, favorinin gollü bir galibiyetine işaret eden bir senaryo. Le Havre'ın son 4 maçta 4 mağlubiyet alıp 14 gol yemesi, arşivdeki Ligue 1 ortalamasının (%58) biraz üzerindeki gollü maç eğilimini destekliyor. Bu nedenle ikinci en olası sonuç olan beraberlik (%28) makul bir ihtimal; 3 veya daha fazla gollü bir beraberlik de senaryolar arasında yer alabilir.",
+      "ai_metinler": {
+        "en": "Troyes appears clearly ahead against Le Havre: the probability of a home win is 44%, while the probability of an away win is 29%. On total goals, 3 or more goals leads slightly at 51%, a scenario pointing to a high-scoring win for the favourite. Le Havre's 4 defeats in their last 4 matches, conceding 14 goals, supports a tendency toward high-scoring matches slightly above the archived Ligue 1 average (58%). For this reason, a draw, the second most likely result at 28%, is a reasonable probability; a draw with 3 or more goals may also be among the scenarios.",
+        "es": "Troyes parece claramente superior frente a Le Havre: la probabilidad de victoria local es del 44%, mientras que la de victoria visitante es del 29%. En el apartado de goles totales, 3 goles o más destaca ligeramente con un 51%, lo que apunta a un escenario en el que el favorito logra una victoria con goles. El hecho de que Le Havre haya sumado 4 derrotas en sus últimos 4 partidos y haya encajado 14 goles respalda una tendencia a partidos con goles algo por encima del promedio de la Ligue 1 en el archivo (58%). Por ello, el empate, como segundo resultado más probable (28%), es una posibilidad razonable; un empate con 3 goles o más también puede contemplarse entre los escenarios.",
+        "de": "Troyes scheint gegenüber Le Havre deutlich im Vorteil zu sein: Die Wahrscheinlichkeit eines Heimsiegs liegt bei 44%, ein Auswärtssieg bei 29%. Bei den Toren liegt die Wahrscheinlichkeit für 3 oder mehr Tore mit 51% leicht vorn; das spricht für ein Szenario, in dem der Favorit mit einem torreichen Sieg gewinnt. Dass Le Havre in den letzten 4 Spielen 4 Niederlagen hinnehmen musste und dabei 14 Gegentore kassierte, unterstützt die Tendenz zu torreichen Spielen, die leicht über dem Ligue-1-Durchschnitt im Archiv (58%) liegt. Daher ist das zweitwahrscheinlichste Ergebnis, ein Unentschieden (28%), eine realistische Möglichkeit; auch ein Unentschieden mit 3 oder mehr Toren kann unter den Szenarien sein.",
+        "fr": "Troyes apparaît nettement favori face au Havre : la probabilité de victoire à domicile est de 44 %, tandis que celle d'une victoire à l'extérieur atteint 29 %. Côté total de buts, 3 buts ou plus ressortent légèrement avec 51 %, ce qui correspond à un scénario où le favori remporte un match riche en buts. La série récente du Havre, avec 4 défaites en 4 matchs et 14 buts encaissés, soutient une tendance aux matchs à nombreux buts, légèrement supérieure à la moyenne de Ligue 1 dans les archives (58 %). Ainsi, le match nul, deuxième issue la plus probable (28 %), reste une possibilité raisonnable ; un match nul avec 3 buts ou plus fait également partie des scénarios envisageables.",
+        "it": "Troyes sembra chiaramente in vantaggio contro il Le Havre: la probabilità di vittoria interna è del 44%, mentre quella di una vittoria esterna è del 29%. Per quanto riguarda il totale gol, 3 o più gol emergono leggermente con il 51%, uno scenario che indica una vittoria con gol della squadra favorita. La sequenza del Le Havre, con 4 sconfitte nelle ultime 4 partite e 14 gol subiti, sostiene una tendenza a partite ricche di gol, leggermente superiore alla media dell'archivio della Ligue 1 (58%). Per questo il pareggio, secondo esito più probabile (28%), è un'ipotesi ragionevole; anche un pareggio con 3 o più gol può rientrare tra gli scenari possibili.",
+        "pt": "Troyes aparece claramente à frente diante do Le Havre: a probabilidade de vitória da equipe da casa é de 44%, enquanto a vitória como visitante é de 29%. No total de gols, 3 ou mais gols aparecem levemente à frente, com 51%; isso aponta para um cenário em que o favorito vence com vários gols. O Le Havre somou 4 derrotas nas últimas 4 partidas e sofreu 14 gols, o que sustenta uma tendência de jogos com gols um pouco acima da média do arquivo da Ligue 1 (58%). Por isso, o empate, o segundo resultado mais provável (28%), é uma possibilidade razoável; um empate com 3 ou mais gols também pode estar entre os cenários."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "cae480fb1195f0032554a268cb80eb44",
       "lig": "soccer_germany_bundesliga",
@@ -10129,102 +10237,6 @@
       "skor": "3-2",
       "toplam_gol": 5,
       "tuttu": true,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "8aa36b30d655d6c81ed98bf9ec1b4039",
-      "lig": "soccer_france_ligue_one",
-      "ev_sahibi": "Brest",
-      "deplasman": "Nice",
-      "baslama_utc": "2026-10-23T18:45:00Z",
-      "olasiliklar": {
-        "1": 0.4217,
-        "X": 0.2784,
-        "2": 0.2998
-      },
-      "tahmin": "1",
-      "guven": 0.1219,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5535,
-          "alt": 0.4465
-        },
-        "tahmin": "ust",
-        "guven": 0.107,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "Brest, Nice karşısında çok hafif bir favori olarak öne çıkıyor. Veri kaynaklarımızın %55'i 3 veya daha fazla gol beklerken, ev sahibinin galibiyeti ve gollü bir maç senaryosu oldukça olası görünüyor. Bu maç, 21 kaynağın alışılmadık derecede hemfikir olduğu, güven seviyesi yüksek tahminlerimizden biri. Beraberlik ihtimali %28 ile ikinci en olası sonuç olarak dikkat çekiyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "1-2",
-      "toplam_gol": 3,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "d4d56a31d8ccd432e3a6183180e093f3",
-      "lig": "soccer_germany_bundesliga",
-      "ev_sahibi": "VfB Stuttgart",
-      "deplasman": "Borussia Monchengladbach",
-      "baslama_utc": "2026-10-23T18:30:00Z",
-      "olasiliklar": {
-        "1": 0.6898,
-        "X": 0.1702,
-        "2": 0.14
-      },
-      "tahmin": "1",
-      "guven": 0.5196,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.746,
-          "alt": 0.254
-        },
-        "tahmin": "ust",
-        "guven": 0.492,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "VfB Stuttgart, %69 kazanma olasılığıyla net favori olarak öne çıkıyor ve maçın 3 veya daha fazla golle sonuçlanma ihtimali %75. Bu durum, favori takımın gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Geçmiş tahminlerimizin %78 isabet oranıyla bu güven seviyesindeki maçlarda başarılı olduğumuzu belirtmek gerekir. Beraberlik (%17) veya Gladbach galibiyeti (%14) ise düşük birer ihtimal olarak değerlendiriliyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "2-3",
-      "toplam_gol": 5,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": true
-    },
-    {
-      "mac_id": "81bfedfcca305af30f0f7cb7a739c878",
-      "lig": "soccer_turkey_super_league",
-      "ev_sahibi": "Alanyaspor",
-      "deplasman": "Kocaelispor",
-      "baslama_utc": "2026-10-23T17:00:00Z",
-      "olasiliklar": {
-        "1": 0.4781,
-        "X": 0.291,
-        "2": 0.2309
-      },
-      "tahmin": "1",
-      "guven": 0.1871,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4032,
-          "alt": 0.5968
-        },
-        "tahmin": "alt",
-        "guven": 0.1936,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Alanyaspor, Kocaelispor karşısında %48 kazanma olasılığıyla favori konumda. Maçın %60 ihtimalle en fazla 2 golle tamamlanması, kontrollü ve az gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimizdeki %62'lik isabet oranı, bu maçtaki favori tercihimizi destekliyor. Beraberlik %29 ile ikinci en olası sonuç olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "1-2",
-      "toplam_gol": 3,
-      "tuttu": false,
       "alt_ust_tuttu": false,
       "ucretsiz": false
     }
