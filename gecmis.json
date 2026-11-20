@@ -1,7 +1,85 @@
 {
-  "guncelleme_utc": "2026-11-20T17:30:47Z",
-  "mac_sayisi": 397,
+  "guncelleme_utc": "2026-11-20T19:30:53Z",
+  "mac_sayisi": 399,
   "maclar": [
+    {
+      "mac_id": "cae480fb1195f0032554a268cb80eb44",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Bayern Munich",
+      "deplasman": "1. FC Köln",
+      "baslama_utc": "2026-11-20T19:30:00Z",
+      "olasiliklar": {
+        "1": 0.8842,
+        "X": 0.0735,
+        "2": 0.0422
+      },
+      "tahmin": "1",
+      "guven": 0.8107,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.828,
+          "alt": 0.172
+        },
+        "tahmin": "ust",
+        "guven": 0.656,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bayern Münih, evinde 1. FC Köln karşısında net bir favori: %88 galibiyet olasılığıyla maçın genel tablosu büyük ölçüde ev sahibinden yana. %83 olasılıkla 3 veya daha fazla gol beklenmesi, favorinin üstünlüğünün gollü bir galibiyete dönüşebileceği senaryosunu öne çıkarıyor; bu, Bayern'in son 5 maçta 11 gol atmasıyla da uyumlu. Lig ortalamasının (%67) üzerindeki bu gol olasılığı, geçmiş tahminlerimizde %75 isabet gösteren bu güven seviyesiyle birlikte değerlendirilebilir. Beraberlik %7 ile düşük bir ihtimal; Köln'ün kazanma olasılığı ise %4 ile çok sınırlı görünüyor.",
+      "ai_metinler": {
+        "en": "Bayern Munich are clear favourites at home against 1. FC Köln: an 88% probability of a win puts the overall outlook firmly in the hosts' favour. An 83% probability of 3 or more goals points to a scenario in which the favourite's superiority turns into a high-scoring win, which fits with Bayern scoring 11 goals in their last 5 matches. This probability of goals, above the league average (67%), can be considered alongside our past forecasts, which have been accurate 75% of the time at this confidence level. A draw is unlikely at 7%, and Köln's probability of winning appears very limited at 4%.",
+        "es": "Bayern Múnich es claramente el favorito en casa frente al 1. FC Köln: con una probabilidad de victoria del 88%, el panorama general del partido se inclina en gran medida hacia el equipo local. Con una probabilidad del 83% de que se esperen 3 goles o más, el escenario de que la superioridad del favorito se traduzca en una victoria con goles cobra protagonismo; esto también encaja con los 11 goles que Bayern ha marcado en sus últimos 5 partidos. Esta probabilidad de gol por encima del promedio de la liga (67%) puede valorarse junto con este nivel de confianza, que en nuestras predicciones anteriores ha acertado en el 75% de los casos. El empate, con un 7%, es una posibilidad baja; la probabilidad de victoria del Köln, con un 4%, parece muy limitada.",
+        "de": "Bayern München ist im eigenen Stadion gegen den 1. FC Köln ein klarer Favorit: Mit einer Siegwahrscheinlichkeit von 88% spricht das Gesamtbild weitgehend für den Gastgeber. Eine Wahrscheinlichkeit von 83% für 3 oder mehr Tore unterstreicht das Szenario, in dem die Überlegenheit des Favoriten in einen torreichen Sieg mündet; dazu passt, dass Bayern in den letzten 5 Spielen 11 Tore erzielt hat. Diese Torwahrscheinlichkeit liegt über dem Ligadurchschnitt (67%) und kann zusammen mit dem Konfidenzniveau, mit dem unsere früheren Prognosen in 75% der Fälle zutreffend waren, bewertet werden. Ein Unentschieden ist mit 7% eine unwahrscheinliche Option; die Siegwahrscheinlichkeit für Köln erscheint mit 4% sehr gering.",
+        "fr": "Le Bayern Munich est un favori net face au 1. FC Köln à domicile : avec une probabilité de victoire de 88 %, le tableau général du match penche largement en faveur de l'équipe locale. Une probabilité de 83 % de voir 3 buts ou plus renforce le scénario d'une victoire avec de nombreux buts, la supériorité du favori pouvant se traduire par un succès riche en réalisations ; cela concorde d'ailleurs avec les 11 buts marqués par le Bayern lors de ses 5 derniers matchs. Cette probabilité de but supérieure à la moyenne de la ligue (67 %), associée à ce niveau de confiance qui a affiché une précision de 75 % dans nos pronostics passés, peut être prise en compte dans l'évaluation. Le match nul, à 7 %, apparaît comme une issue peu probable, tandis que la probabilité de victoire de Cologne, à 4 %, semble très limitée.",
+        "it": "Il Bayern Monaco è nettamente favorito in casa contro il 1. FC Köln: con una probabilità di vittoria dell'88%, il quadro generale della partita pende in gran parte dalla parte della squadra di casa. Una probabilità dell'83% di vedere 3 o più gol rafforza lo scenario in cui la superiorità della favorita si traduce in una vittoria ricca di reti, in linea con i 11 gol segnati dal Bayern nelle ultime 5 partite. Questa probabilità di gol, superiore alla media del campionato (67%), può essere valutata insieme al livello di fiducia del 75% di precisione registrato nelle nostre precedenti previsioni. Il pareggio, con il 7%, è un'ipotesi remota, mentre la probabilità di vittoria del Köln, pari al 4%, appare molto limitata.",
+        "pt": "Bayern Münique é o grande favorito em casa contra o 1. FC Köln: com 88% de probabilidade de vitória, o panorama geral do jogo pende em grande parte para o mandante. A probabilidade de 83% de se esperar 3 gols ou mais destaca o cenário em que a superioridade do favorito se transforma em uma vitória com muitos gols; isso também combina com os 11 gols que o Bayern marcou nos últimos 5 jogos. Essa probabilidade de gols acima da média da liga (67%) pode ser avaliada junto com esse nível de confiança, que teve 75% de acerto em nossas previsões anteriores. O empate, com 7%, é uma possibilidade baixa; já a probabilidade de vitória do Köln, de 4%, parece muito limitada."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "fabb494cc1ebe6de14b1d38f9a34b091",
+      "lig": "soccer_spain_segunda_division",
+      "ev_sahibi": "Andorra CF",
+      "deplasman": "Leganés",
+      "baslama_utc": "2026-11-20T19:30:00Z",
+      "olasiliklar": {
+        "1": 0.4931,
+        "X": 0.2631,
+        "2": 0.2437
+      },
+      "tahmin": "1",
+      "guven": 0.23,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5219,
+          "alt": 0.4781
+        },
+        "tahmin": "ust",
+        "guven": 0.0438,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Andorra CF, Leganés karşısında belirgin ama kesin olmayan bir favori konumunda; ev sahibinin kazanma olasılığı %49, Leganés'in %24 ve beraberliğin %26. Toplam gol tarafında 3 veya daha fazla gol %52 ile hafif önde, bu da favorinin gollü bir galibiyetinin ya da açık geçen bir maçın daha olası senaryo olduğunu gösteriyor. Geçmiş tahminlerimiz bu güven seviyesinde 116 maçta %61 isabet sağladı; bu, olasılıkların öngördüğü %49'un üzerinde bir performans. İkinci olası sonuç beraberlik (%26) ve bunu yakından takip eden ihtimal, Leganés'in galibiyeti (%24) olarak görünüyor; bu ihtimaller birbirine oldukça yakın.",
+      "ai_metinler": {
+        "en": "Andorra CF holds a clear but not certain edge over Leganés; the probability of a home win is 49%, Leganés winning 24%, and a draw 26%. On total goals, 3 or more goals leads slightly at 52%, which suggests a goal-filled win for the favourite or an open game is the more likely scenario. Our past predictions at this confidence level were correct 61% of the time across 116 matches, which is a performance above the 49% probability assigned. The second most likely outcome appears to be a draw (26%), closely followed by a Leganés win (24%); these probabilities are quite close to each other.",
+        "es": "Andorra CF es claramente favorito frente al Leganés, aunque sin ser una ventaja definitiva: la probabilidad de victoria del local es del 49%, la del Leganés del 24% y la del empate del 26%. En cuanto a los goles totales, la opción de 3 goles o más tiene una ligera ventaja con un 52%, lo que indica que una victoria goleadora del favorito o un partido abierto es el escenario más probable. Nuestras predicciones anteriores con este nivel de confianza acertaron en 116 partidos con un 61%, un rendimiento por encima del 49% que estimaban las probabilidades. El segundo resultado más probable es el empate (26%), seguido de cerca por la victoria del Leganés (24%); estas probabilidades están bastante igualadas.",
+        "de": "Andorra CF hat im Duell gegen Leganés eine deutliche, aber nicht sichere Favoritenrolle; die Wahrscheinlichkeit für einen Heimsieg liegt bei 49%, für einen Sieg von Leganés bei 24% und für ein Unentschieden bei 26%. Bei der Gesamtzahl der Tore liegt die Variante „3 oder mehr Tore\" mit 52% leicht vorn, was darauf hinweist, dass ein torreicher Sieg des Favoriten oder ein offen verlaufendes Spiel das wahrscheinlichere Szenario ist. Unsere bisherigen Vorhersagen erreichten bei diesem Konfidenzniveau in 116 Spielen eine Trefferquote von 61%, was über den 49% liegt, die die Wahrscheinlichkeiten vorhersagten. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (26%), dicht gefolgt von einem Sieg von Leganés (24%); diese Wahrscheinlichkeiten liegen eng beieinander.",
+        "fr": "Andorra CF est dans une position de favori nette mais non certaine face à Leganés ; la probabilité de victoire à domicile est de 49 %, celle de Leganés de 24 % et celle du match nul de 26 %. Côté nombre de buts, 3 buts ou plus ressortent légèrement en tête avec 52 %, ce qui indique qu'une victoire de l'équipe favorite avec plusieurs buts, ou une rencontre ouverte, constitue le scénario le plus probable. Nos pronostics passés ont atteint un taux de réussite de 61 % sur 116 matchs à ce niveau de confiance, soit une performance supérieure aux 49 % de probabilité attribués. Le deuxième résultat possible est le match nul (26 %), suivi de près par la victoire de Leganés (24 %) ; ces probabilités sont assez proches l'une de l'autre.",
+        "it": "Andorra CF si trova in una posizione di favorita evidente ma non netta contro il Leganés; la probabilità di vittoria della squadra di casa è del 49%, quella del Leganés del 24% e quella del pareggio del 26%. Per quanto riguarda il totale gol, 3 o più gol è leggermente in vantaggio con il 52%, il che indica che una vittoria della favorita con reti o una partita aperta è lo scenario più probabile. Le nostre precedenti previsioni con questo livello di fiducia hanno avuto successo nel 61% dei 116 incontri, una prestazione superiore al 49% che le probabilità indicavano. Il secondo esito possibile appare il pareggio (26%), seguito molto da vicino dalla vittoria del Leganés (24%); queste probabilità sono piuttosto vicine tra loro.",
+        "pt": "Andorra CF está em uma posição de favorito claro, mas não definitivo, contra o Leganés: a probabilidade de vitória do time da casa é de 49%, a do Leganés é de 24% e a do empate é de 26%. No quesito total de gols, 3 gols ou mais está ligeiramente à frente, com 52%, o que indica que uma vitória do favorito com gols ou uma partida aberta é o cenário mais provável. Nossas previsões anteriores com este nível de confiança acertaram 61% em 116 partidas, um desempenho acima dos 49% que as probabilidades indicavam. O segundo resultado mais provável parece ser o empate (26%), seguido de perto pela vitória do Leganés (24%); essas probabilidades estão bem próximas entre si."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "659d55886f2f0170609b4f02bec960c5",
       "lig": "soccer_brazil_campeonato",
@@ -10148,70 +10226,6 @@
       "toplam_gol": 3,
       "tuttu": false,
       "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "2ebbccdeea2dab59717d5c3d802c3fed",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Bayern Munich",
-      "deplasman": "Arsenal",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "olasiliklar": {
-        "1": 0.467,
-        "X": 0.2456,
-        "2": 0.2874
-      },
-      "tahmin": "1",
-      "guven": 0.1796,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5938,
-          "alt": 0.4062
-        },
-        "tahmin": "ust",
-        "guven": 0.1876,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Bayern Münih, bu Şampiyonlar Ligi mücadelesinde %47 galibiyet olasılığıyla favori konumda. Maçın gollü geçme ihtimali de yüksek (%59), bu da ev sahibinin gollü bir galibiyet alabileceği senaryosunu güçlendiriyor. Geçmiş tahminlerimizdeki %64'lük isabet oranıyla bu maça güvenle yaklaşıyoruz. Arsenal'in galibiyet ihtimali ise %29 ile ikinci en olası sonuç.",
-      "ai_metinler": null,
-      "gercek_sonuc": "X",
-      "skor": "2-2",
-      "toplam_gol": 4,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "d3b3e714b6af9e5430e3030ed639e6dd",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Aston Villa",
-      "deplasman": "Viking FK",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "olasiliklar": {
-        "1": 0.7732,
-        "X": 0.1431,
-        "2": 0.0836
-      },
-      "tahmin": "1",
-      "guven": 0.6301,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.7406,
-          "alt": 0.2594
-        },
-        "tahmin": "ust",
-        "guven": 0.4812,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Aston Villa, %77 kazanma olasılığıyla maçın net favorisi konumunda. Yüksek gol beklentisi (%74 ile 3 veya daha fazla gol) favorinin gollü bir galibiyet alacağına işaret ediyor. Geçmiş tahminlerimizin %79 isabet oranı, bu tür maçlarda güvenilirliğimizi gösteriyor. Beraberlik ve Viking FK galibiyeti ise oldukça düşük ihtimaller (%14 ve %8).",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "3-1",
-      "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
       "ucretsiz": false
     }
   ]

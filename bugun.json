@@ -1,201 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-20T17:30:47Z",
+  "guncelleme_utc": "2026-11-20T19:30:53Z",
   "mac_sayisi": 53,
   "maclar": [
-    {
-      "mac_id": "cae480fb1195f0032554a268cb80eb44",
-      "lig": "soccer_germany_bundesliga",
-      "ev_sahibi": "Bayern Munich",
-      "deplasman": "1. FC Köln",
-      "baslama_utc": "2026-11-20T19:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.8842,
-        "X": 0.0735,
-        "2": 0.0422
-      },
-      "tahmin": "1",
-      "guven": 0.8107,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.828,
-          "alt": 0.172
-        },
-        "tahmin": "ust",
-        "guven": 0.656,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Bayern Münih, evinde 1. FC Köln karşısında net bir favori: %88 galibiyet olasılığıyla maçın genel tablosu büyük ölçüde ev sahibinden yana. %83 olasılıkla 3 veya daha fazla gol beklenmesi, favorinin üstünlüğünün gollü bir galibiyete dönüşebileceği senaryosunu öne çıkarıyor; bu, Bayern'in son 5 maçta 11 gol atmasıyla da uyumlu. Lig ortalamasının (%67) üzerindeki bu gol olasılığı, geçmiş tahminlerimizde %75 isabet gösteren bu güven seviyesiyle birlikte değerlendirilebilir. Beraberlik %7 ile düşük bir ihtimal; Köln'ün kazanma olasılığı ise %4 ile çok sınırlı görünüyor.",
-      "ai_metinler": {
-        "en": "Bayern Munich are clear favourites at home against 1. FC Köln: an 88% probability of a win puts the overall outlook firmly in the hosts' favour. An 83% probability of 3 or more goals points to a scenario in which the favourite's superiority turns into a high-scoring win, which fits with Bayern scoring 11 goals in their last 5 matches. This probability of goals, above the league average (67%), can be considered alongside our past forecasts, which have been accurate 75% of the time at this confidence level. A draw is unlikely at 7%, and Köln's probability of winning appears very limited at 4%.",
-        "es": "Bayern Múnich es claramente el favorito en casa frente al 1. FC Köln: con una probabilidad de victoria del 88%, el panorama general del partido se inclina en gran medida hacia el equipo local. Con una probabilidad del 83% de que se esperen 3 goles o más, el escenario de que la superioridad del favorito se traduzca en una victoria con goles cobra protagonismo; esto también encaja con los 11 goles que Bayern ha marcado en sus últimos 5 partidos. Esta probabilidad de gol por encima del promedio de la liga (67%) puede valorarse junto con este nivel de confianza, que en nuestras predicciones anteriores ha acertado en el 75% de los casos. El empate, con un 7%, es una posibilidad baja; la probabilidad de victoria del Köln, con un 4%, parece muy limitada.",
-        "de": "Bayern München ist im eigenen Stadion gegen den 1. FC Köln ein klarer Favorit: Mit einer Siegwahrscheinlichkeit von 88% spricht das Gesamtbild weitgehend für den Gastgeber. Eine Wahrscheinlichkeit von 83% für 3 oder mehr Tore unterstreicht das Szenario, in dem die Überlegenheit des Favoriten in einen torreichen Sieg mündet; dazu passt, dass Bayern in den letzten 5 Spielen 11 Tore erzielt hat. Diese Torwahrscheinlichkeit liegt über dem Ligadurchschnitt (67%) und kann zusammen mit dem Konfidenzniveau, mit dem unsere früheren Prognosen in 75% der Fälle zutreffend waren, bewertet werden. Ein Unentschieden ist mit 7% eine unwahrscheinliche Option; die Siegwahrscheinlichkeit für Köln erscheint mit 4% sehr gering.",
-        "fr": "Le Bayern Munich est un favori net face au 1. FC Köln à domicile : avec une probabilité de victoire de 88 %, le tableau général du match penche largement en faveur de l'équipe locale. Une probabilité de 83 % de voir 3 buts ou plus renforce le scénario d'une victoire avec de nombreux buts, la supériorité du favori pouvant se traduire par un succès riche en réalisations ; cela concorde d'ailleurs avec les 11 buts marqués par le Bayern lors de ses 5 derniers matchs. Cette probabilité de but supérieure à la moyenne de la ligue (67 %), associée à ce niveau de confiance qui a affiché une précision de 75 % dans nos pronostics passés, peut être prise en compte dans l'évaluation. Le match nul, à 7 %, apparaît comme une issue peu probable, tandis que la probabilité de victoire de Cologne, à 4 %, semble très limitée.",
-        "it": "Il Bayern Monaco è nettamente favorito in casa contro il 1. FC Köln: con una probabilità di vittoria dell'88%, il quadro generale della partita pende in gran parte dalla parte della squadra di casa. Una probabilità dell'83% di vedere 3 o più gol rafforza lo scenario in cui la superiorità della favorita si traduce in una vittoria ricca di reti, in linea con i 11 gol segnati dal Bayern nelle ultime 5 partite. Questa probabilità di gol, superiore alla media del campionato (67%), può essere valutata insieme al livello di fiducia del 75% di precisione registrato nelle nostre precedenti previsioni. Il pareggio, con il 7%, è un'ipotesi remota, mentre la probabilità di vittoria del Köln, pari al 4%, appare molto limitata.",
-        "pt": "Bayern Münique é o grande favorito em casa contra o 1. FC Köln: com 88% de probabilidade de vitória, o panorama geral do jogo pende em grande parte para o mandante. A probabilidade de 83% de se esperar 3 gols ou mais destaca o cenário em que a superioridade do favorito se transforma em uma vitória com muitos gols; isso também combina com os 11 gols que o Bayern marcou nos últimos 5 jogos. Essa probabilidade de gols acima da média da liga (67%) pode ser avaliada junto com esse nível de confiança, que teve 75% de acerto em nossas previsões anteriores. O empate, com 7%, é uma possibilidade baixa; já a probabilidade de vitória do Köln, de 4%, parece muito limitada."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-07",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "FSV Mainz 05",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-03",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Atlético Madrid",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-31",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "Borussia Dortmund",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 2,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-25",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "SC Freiburg",
-              "ic_saha": false,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-21",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Arsenal",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 2,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 3,
-            "beraberlik": 2,
-            "maglubiyet": 0,
-            "atilan": 11,
-            "yenilen": 6,
-            "ust25": 4
-          },
-          "ic_saha": {
-            "mac": 3,
-            "galibiyet": 1,
-            "beraberlik": 2,
-            "maglubiyet": 0,
-            "atilan": 10,
-            "yenilen": 5,
-            "ust25": 3
-          },
-          "deplasman": {
-            "mac": 4,
-            "galibiyet": 3,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 10,
-            "yenilen": 5,
-            "ust25": 3
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-08",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "Bayer Leverkusen",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-01",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "Union Berlin",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-24",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "FC Schalke 04",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 0,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-16",
-              "lig": "soccer_germany_bundesliga",
-              "rakip": "Eintracht Frankfurt",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 1,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 4,
-            "galibiyet": 0,
-            "beraberlik": 2,
-            "maglubiyet": 2,
-            "atilan": 2,
-            "yenilen": 4,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 0
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-20T05:37:19Z",
-        "ilk": {
-          "1": 0.8718,
-          "X": 0.0812,
-          "2": 0.047
-        },
-        "son": {
-          "1": 0.8873,
-          "X": 0.0712,
-          "2": 0.0414
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "5dcc9d2b0da87770a4f49e924275be39",
       "lig": "soccer_france_ligue_one",
@@ -9910,6 +9716,117 @@
           "1": 0.5222,
           "X": 0.2645,
           "2": 0.2133
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "dddc911eddfe6a3943d037b9494921be",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Atletico Paranaense",
+      "deplasman": "Remo",
+      "baslama_utc": "2026-11-22T19:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-18",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Flamengo",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-18",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Chapecoense",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-13T05:37:20Z",
+        "son_utc": "2026-11-18T05:37:21Z",
+        "ilk": {
+          "1": 0.6258,
+          "X": 0.2239,
+          "2": 0.1502
+        },
+        "son": {
+          "1": 0.6278,
+          "X": 0.2228,
+          "2": 0.1493
         }
       },
       "ucretsiz": false
