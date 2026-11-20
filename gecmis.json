@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-19T22:30:58Z",
-  "mac_sayisi": 396,
+  "guncelleme_utc": "2026-11-20T05:37:18Z",
+  "mac_sayisi": 397,
   "maclar": [
+    {
+      "mac_id": "659d55886f2f0170609b4f02bec960c5",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Sao Paulo",
+      "deplasman": "Fluminense",
+      "baslama_utc": "2026-11-20T00:30:00Z",
+      "olasiliklar": {
+        "1": 0.3975,
+        "X": 0.2937,
+        "2": 0.3089
+      },
+      "tahmin": "1",
+      "guven": 0.0886,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4487,
+          "alt": 0.5513
+        },
+        "tahmin": "alt",
+        "guven": 0.1026,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Maçta iki takım arasında dengeli bir tablo var, ev sahibi Sao Paulo yalnızca çok hafif önde (%40'a %31). Toplam gol tarafında 3 veya daha fazla gol %45, en fazla 2 gol %55 ile daha olası görünüyor; bu da kontrollü, az gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 112 maçta %53 isabet etti, bu beklenen %41'in üzerinde. İkinci olası sonuç olan Fluminense galibiyeti (%31) de gerçekçi bir ihtimal olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "The match shows a balanced picture between the two teams, with the home side Sao Paulo only slightly ahead (40% to 31%). On total goals, 3 or more goals has a 45% probability, while at most 2 goals is more likely at 55%, pointing to a controlled, low-scoring scenario. Our past predictions at this confidence level hit 53% of the time across 112 matches, above the expected 41%. The second most likely outcome, a Fluminense win (31%), also stands out as a realistic possibility.",
+        "es": "El partido muestra un panorama equilibrado entre ambos equipos, con el anfitrión Sao Paulo solo ligeramente por delante (40% frente a 31%). En cuanto al total de goles, 3 goles o más tienen una probabilidad del 45%, mientras que al menos 2 goles como máximo parecen más probables, con un 55%, lo que apunta a un escenario controlado y de pocos goles. Nuestras predicciones anteriores con este nivel de confianza acertaron en 112 partidos con un 53%, por encima del 41% esperado. La victoria del Fluminense, segundo resultado más probable (31%), también destaca como una posibilidad realista.",
+        "de": "Die Partie zeigt ein ausgeglichenes Bild zwischen beiden Mannschaften, wobei der Gastgeber Sao Paulo nur ganz leicht vorne liegt (40% zu 31%). Bei der Anzahl der Tore erscheinen 3 oder mehr Tore mit 45% und höchstens 2 Tore mit 55% wahrscheinlicher, was auf ein kontrolliertes Spiel mit wenigen Toren hindeutet. Unsere bisherigen Prognosen haben bei diesem Vertrauensniveau in 112 Spielen eine Trefferquote von 53% erreicht, was über den erwarteten 41% liegt. Auch ein Sieg von Fluminense (31%) als zweitwahrscheinlichstes Ergebnis erscheint als realistische Möglichkeit.",
+        "fr": "Le match oppose deux équipes au niveau très équilibré : le club à domicile, Sao Paulo, n'a qu'un léger avantage (40 % contre 31 %). Concernant le nombre de buts, la probabilité d'au moins 3 buts est de 45 %, tandis qu'au plus 2 buts apparaît plus probable avec 55 %, ce qui laisse envisager un scénario maîtrisé et peu prolifique. Nos précédentes prévisions faites à ce niveau de confiance ont été justes dans 53 % des cas sur 112 matchs, un résultat supérieur aux 41 % attendus. La victoire de Fluminense (31 %), second résultat le plus probable, apparaît également comme une issue réaliste.",
+        "it": "Il match presenta un quadro equilibrato tra le due squadre, con il São Paulo padrone di casa solo leggermente in vantaggio (40% contro 31%). Per quanto riguarda il totale gol, la probabilità di 3 o più gol è del 45%, mentre quella di al massimo 2 gol è del 55%, il che indica uno scenario controllato e con pochi gol. Le nostre previsioni passate, a questo livello di fiducia, hanno avuto successo in 112 partite nel 53% dei casi, superando il 41% atteso. Anche il secondo esito più probabile, la vittoria del Fluminense (31%), emerge come un'ipotesi realistica.",
+        "pt": "O jogo apresenta um quadro equilibrado entre as duas equipes, com o mandante São Paulo apenas levemente à frente (40% contra 31%). No quesito de total de gols, 3 gols ou mais aparecem com 45% de probabilidade, enquanto no máximo 2 gols têm 55%, o que aponta para um cenário controlado e de poucos gols. Nossas previsões anteriores com este nível de confiança acertaram em 53% das 112 partidas, acima dos 41% esperados. O segundo resultado mais provável, a vitória do Fluminense (31%), também se destaca como uma possibilidade realista."
+      },
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
+      "ucretsiz": false
+    },
     {
       "mac_id": "fa3ad7ccd23c6fe47c3062a2b69d3ddd",
       "lig": "soccer_brazil_campeonato",
@@ -34,11 +73,11 @@
         "it": "Bragantino-SP ha un leggero vantaggio in trasferta, ma la partita appare piuttosto equilibrata: trasferta 37%, Vitoria in casa 35%, pareggio 28%. Sul fronte dei gol totali, la probabilità di 3 o più gol è leggermente in vantaggio con il 53%, il che indica uno scenario aperto e ricco di reti. Le nostre valutazioni precedenti con questo livello di fiducia hanno avuto ragione in 112 partite su 53%; un risultato superiore al 41% atteso mostra che questo tipo di valutazione ha funzionato meglio questa volta. Come secondo esito possibile, la vittoria del Vitoria con il 35% resta un'opzione seria nel quadro complessivo.",
         "pt": "Bragantino-SP tem uma ligeira vantagem como visitante, mas a partida parece bastante equilibrada: visitante 37%, mandante Vitória 35%, empate 28%. No quesito total de gols, 3 ou mais gols aparece com 53%, um pouco à frente, o que aponta para um cenário aberto e com gols. Nossas avaliações anteriores com este nível de confiança acertaram 53% em 112 partidas; um resultado acima dos 41% esperados mostra que esse tipo de análise funcionou melhor desta vez. Como segundo resultado possível, a vitória do Vitória, com 35%, se mantém como uma opção séria na análise."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -73,11 +112,11 @@
         "it": "Vasco da Gama è nettamente favorito in casa: la probabilità di vittoria del padrone di casa è del 57%, quella di pareggio del 24% e quella di vittoria dell'Internacional del 19%. Per quanto riguarda il totale gol, la probabilità di 3 o più gol è del 53%, leggermente in vantaggio, il che indica uno scenario ricco di reti con una chiara vittoria interna. Tuttavia, la marcata divergenza di opinioni tra le 21 fonti di dati indica un livello di incertezza superiore alla norma. In passato, il 78% delle nostre 152 previsioni con questo livello di fiducia si è avverato, una percentuale superiore al 66% atteso. Il secondo esito più probabile è il pareggio (24%), che non è affatto un'ipotesi remota.",
         "pt": "Vasco da Gama é o claro favorito em casa: a probabilidade de vitória do mandante é de 57%, a de empate é de 24% e a de vitória do Internacional é de 19%. Para o total de gols, a probabilidade de 3 ou mais gols é de 53%, ligeiramente à frente, o que aponta para um cenário com gols e uma vitória clara do mandante. No entanto, a diferença marcante de opiniões entre as 21 fontes de dados indica que a incerteza está acima do normal. No passado, 78% das nossas 152 previsões com esse nível de confiança se confirmaram, um desempenho acima dos 66% esperados. O segundo resultado mais provável é o empate (24%), que também não é improvável."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": true
     },
     {
@@ -10171,38 +10210,6 @@
       "gercek_sonuc": "1",
       "skor": "3-1",
       "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "d306a78e402e5f505e8644fdf3f75dcd",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Club Brugge",
-      "deplasman": "RC Lens",
-      "baslama_utc": "2026-10-21T19:00:00Z",
-      "olasiliklar": {
-        "1": 0.4701,
-        "X": 0.2383,
-        "2": 0.2917
-      },
-      "tahmin": "1",
-      "guven": 0.1784,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.646,
-          "alt": 0.354
-        },
-        "tahmin": "ust",
-        "guven": 0.292,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Club Brugge, %47 kazanma olasılığı ve %65'lik 3 veya daha fazla gol beklentisiyle bu maça favori olarak çıkıyor; gollü bir ev sahibi galibiyeti öne çıkıyor. 22 kaynağın bu denli hemfikir olması, tahminimizin güvenilirliğini artırıyor ve geçmişteki %64'lük isabet oranımızla uyumlu. Lens'in galibiyet ihtimali %29 ile düşük olsa da, beraberlik %24 ile ikinci en olası sonuç.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "3-0",
-      "toplam_gol": 3,
       "tuttu": true,
       "alt_ust_tuttu": true,
       "ucretsiz": false
