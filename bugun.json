@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-20T21:30:48Z",
-  "mac_sayisi": 55,
+  "guncelleme_utc": "2026-11-20T22:30:45Z",
+  "mac_sayisi": 56,
   "maclar": [
     {
       "mac_id": "bc405017f004bace7b944216134e1660",
@@ -10090,6 +10090,126 @@
           "1": 0.5472,
           "X": 0.253,
           "2": 0.1998
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "08f1d5a366e711c1e29845352bb8137d",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Bragantino-SP",
+      "deplasman": "Vasco da Gama",
+      "baslama_utc": "2026-11-22T22:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-19",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Vitoria",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-19",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Internacional",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-14",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Chapecoense",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 2,
+            "galibiyet": 2,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 4,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-13T05:37:20Z",
+        "son_utc": "2026-11-18T05:37:21Z",
+        "ilk": {
+          "1": 0.4305,
+          "X": 0.2715,
+          "2": 0.2981
+        },
+        "son": {
+          "1": 0.4312,
+          "X": 0.2679,
+          "2": 0.3009
         }
       },
       "ucretsiz": false

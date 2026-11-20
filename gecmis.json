@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-20T21:30:48Z",
+  "guncelleme_utc": "2026-11-20T22:30:45Z",
   "mac_sayisi": 402,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "Athletic Bilbao, ev sahibi avantajıyla net favori görünüyor; %64 galibiyet olasılığı, La Liga arşivimizdeki %43'lük ev sahibi kazanma olasılığının belirgin üzerinde. Toplam gol tarafında %53 ile 3 veya daha fazla gol ihtimali hafifçe öne çıkıyor; bu, favorinin gollü bir galibiyetinin senaryosuna işaret ediyor. Bilbao'nun son 5 maçta 8 gol atıp 3 maçta 3+ gol görülmesi bu yönü destekliyor; La Liga ortalaması olan %56'nın da hafif altında kalıyor. Espanyol'un %14'lük deplasman galibiyeti ise düşük bir ihtimal; ikinci olası sonuç olarak %21 ile beraberlik öne çıkıyor.",
         "pt": "Athletic Bilbao, mandante, aparece claramente como favorito; a probabilidade de vitória é de 64%, bem acima dos 43% de vitória em casa registrados em nosso arquivo da La Liga. No total de gols, 3 ou mais gols tem leve destaque, com 53%, o que aponta para o cenário de uma vitória do favorito com muitos gols. Os 8 gols marcados pelo Bilbao nos últimos 5 jogos e a ocorrência de 3 ou mais gols em 3 partidas reforçam essa tendência, embora fiquem um pouco abaixo da média da La Liga, de 56%. Já a vitória do Espanyol como visitante, com 14%, é uma probabilidade baixa; o segundo resultado mais provável é o empate, com 21%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -64,10 +64,10 @@
         "it": "La squadra ospite Sheffield Wednesday è leggermente favorita con una probabilità del 42% di vincere contro il Barnsley; tuttavia, con una probabilità del 33% di vittoria della squadra di casa e del 25% di pareggio, la partita appare piuttosto equilibrata. Questo quadro indica un incontro combattuto, con un esito incerto fino agli ultimi minuti. In passato, le nostre previsioni con questo livello di fiducia hanno raggiunto una percentuale di precisione del 53% su 112 partite, superiore al 41% atteso. La probabilità di vittoria della squadra di casa è superiore al 15%, quindi può essere considerata uno scenario realistico.",
         "pt": "A equipe visitante, Sheffield Wednesday, aparece ligeiramente à frente, com 42% de probabilidade de vencer o Barnsley; ainda assim, com 33% de probabilidade de vitória da equipe da casa e 25% de chance de empate, a partida parece bastante equilibrada. Esse cenário aponta para um confronto disputado, cujo resultado pode permanecer incerto até os minutos finais. Em previsões anteriores com esse nível de confiança, a taxa de acerto foi de 53% em 112 partidas, acima dos 41% esperados. Já a probabilidade de vitória do mandante, acima de 15%, pode ser considerada um cenário realista."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
       "alt_ust_tuttu": null,
       "ucretsiz": false
     },
@@ -103,11 +103,11 @@
         "it": "Troyes sembra chiaramente in vantaggio contro il Le Havre: la probabilità di vittoria interna è del 44%, mentre quella di una vittoria esterna è del 29%. Per quanto riguarda il totale gol, 3 o più gol emergono leggermente con il 51%, uno scenario che indica una vittoria con gol della squadra favorita. La sequenza del Le Havre, con 4 sconfitte nelle ultime 4 partite e 14 gol subiti, sostiene una tendenza a partite ricche di gol, leggermente superiore alla media dell'archivio della Ligue 1 (58%). Per questo il pareggio, secondo esito più probabile (28%), è un'ipotesi ragionevole; anche un pareggio con 3 o più gol può rientrare tra gli scenari possibili.",
         "pt": "Troyes aparece claramente à frente diante do Le Havre: a probabilidade de vitória da equipe da casa é de 44%, enquanto a vitória como visitante é de 29%. No total de gols, 3 ou mais gols aparecem levemente à frente, com 51%; isso aponta para um cenário em que o favorito vence com vários gols. O Le Havre somou 4 derrotas nas últimas 4 partidas e sofreu 14 gols, o que sustenta uma tendência de jogos com gols um pouco acima da média do arquivo da Ligue 1 (58%). Por isso, o empate, o segundo resultado mais provável (28%), é uma possibilidade razoável; um empate com 3 ou mais gols também pode estar entre os cenários."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-1",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -142,11 +142,11 @@
         "it": "Il Bayern Monaco è nettamente favorito in casa contro il 1. FC Köln: con una probabilità di vittoria dell'88%, il quadro generale della partita pende in gran parte dalla parte della squadra di casa. Una probabilità dell'83% di vedere 3 o più gol rafforza lo scenario in cui la superiorità della favorita si traduce in una vittoria ricca di reti, in linea con i 11 gol segnati dal Bayern nelle ultime 5 partite. Questa probabilità di gol, superiore alla media del campionato (67%), può essere valutata insieme al livello di fiducia del 75% di precisione registrato nelle nostre precedenti previsioni. Il pareggio, con il 7%, è un'ipotesi remota, mentre la probabilità di vittoria del Köln, pari al 4%, appare molto limitata.",
         "pt": "Bayern Münique é o grande favorito em casa contra o 1. FC Köln: com 88% de probabilidade de vitória, o panorama geral do jogo pende em grande parte para o mandante. A probabilidade de 83% de se esperar 3 gols ou mais destaca o cenário em que a superioridade do favorito se transforma em uma vitória com muitos gols; isso também combina com os 11 gols que o Bayern marcou nos últimos 5 jogos. Essa probabilidade de gols acima da média da liga (67%) pode ser avaliada junto com esse nível de confiança, que teve 75% de acerto em nossas previsões anteriores. O empate, com 7%, é uma possibilidade baixa; já a probabilidade de vitória do Köln, de 4%, parece muito limitada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -181,11 +181,11 @@
         "it": "Andorra CF si trova in una posizione di favorita evidente ma non netta contro il Leganés; la probabilità di vittoria della squadra di casa è del 49%, quella del Leganés del 24% e quella del pareggio del 26%. Per quanto riguarda il totale gol, 3 o più gol è leggermente in vantaggio con il 52%, il che indica che una vittoria della favorita con reti o una partita aperta è lo scenario più probabile. Le nostre precedenti previsioni con questo livello di fiducia hanno avuto successo nel 61% dei 116 incontri, una prestazione superiore al 49% che le probabilità indicavano. Il secondo esito possibile appare il pareggio (26%), seguito molto da vicino dalla vittoria del Leganés (24%); queste probabilità sono piuttosto vicine tra loro.",
         "pt": "Andorra CF está em uma posição de favorito claro, mas não definitivo, contra o Leganés: a probabilidade de vitória do time da casa é de 49%, a do Leganés é de 24% e a do empate é de 26%. No quesito total de gols, 3 gols ou mais está ligeiramente à frente, com 52%, o que indica que uma vitória do favorito com gols ou uma partida aberta é o cenário mais provável. Nossas previsões anteriores com este nível de confiança acertaram 61% em 116 partidas, um desempenho acima dos 49% que as probabilidades indicavam. O segundo resultado mais provável parece ser o empate (26%), seguido de perto pela vitória do Leganés (24%); essas probabilidades estão bem próximas entre si."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
