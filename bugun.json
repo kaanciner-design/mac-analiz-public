@@ -1,6 +1,6 @@
 {
-  "guncelleme_utc": "2026-11-21T21:30:45Z",
-  "mac_sayisi": 28,
+  "guncelleme_utc": "2026-11-21T22:30:43Z",
+  "mac_sayisi": 29,
   "maclar": [
     {
       "mac_id": "5f2cf96318bd595404b995c80d5f14a5",
@@ -5214,6 +5214,117 @@
         }
       },
       "ucretsiz": false
+    },
+    {
+      "mac_id": "c1339bf6458b24fdfaa62305a6947a8c",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Internacional",
+      "deplasman": "Vitoria",
+      "baslama_utc": "2026-11-23T22:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-19",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Vasco da Gama",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 1,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 1,
+            "yenilen": 2,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-19",
+              "lig": "soccer_brazil_campeonato",
+              "rakip": "Bragantino-SP",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 1,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 0,
+            "galibiyet": 0,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 0,
+            "yenilen": 0,
+            "ust25": 0
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-16T05:37:23Z",
+        "son_utc": "2026-11-18T05:37:21Z",
+        "ilk": {
+          "1": 0.5554,
+          "X": 0.2598,
+          "2": 0.1848
+        },
+        "son": {
+          "1": 0.5628,
+          "X": 0.2524,
+          "2": 0.1847
+        }
+      },
+      "ucretsiz": false
     }
   ],
   "en_guclu_3": {
@@ -5274,8 +5385,8 @@
           "tahmin": "1",
           "olasilik": 0.8181,
           "guven": 0.6968,
-          "skor": null,
-          "tuttu": null
+          "skor": "2-1",
+          "tuttu": true
         },
         {
           "mac_id": "acdf116ff7e38fd5643038ad39e76964",
@@ -5302,14 +5413,14 @@
           "tuttu": true
         }
       ],
-      "tutan": 2,
-      "sonuclanan": 2
+      "tutan": 3,
+      "sonuclanan": 3
     },
     "genel": {
-      "gun": 11,
-      "tam_isabet_gun": 7,
-      "tahmin": 33,
-      "tutan": 28
+      "gun": 12,
+      "tam_isabet_gun": 8,
+      "tahmin": 36,
+      "tutan": 31
     }
   }
 }
