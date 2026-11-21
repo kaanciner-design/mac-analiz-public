@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-21T17:30:51Z",
-  "mac_sayisi": 426,
+  "guncelleme_utc": "2026-11-21T19:30:47Z",
+  "mac_sayisi": 427,
   "maclar": [
+    {
+      "mac_id": "1d642bb0454dc70058fdefa08fc6131a",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Palmeiras",
+      "deplasman": "Flamengo",
+      "baslama_utc": "2026-11-21T19:30:00Z",
+      "olasiliklar": {
+        "1": 0.3995,
+        "X": 0.2777,
+        "2": 0.3228
+      },
+      "tahmin": "1",
+      "guven": 0.0767,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5177,
+          "alt": 0.4823
+        },
+        "tahmin": "ust",
+        "guven": 0.0354,
+        "kaynak_sayisi": 4
+      },
+      "ai_metin": "Palmeiras ev sahibi olarak hafif bir farkla önde görünüyor, ancak maç oldukça dengeli; Flamengo'nun %32 olasılığı ciddi bir ihtimal. Toplam gol tarafında 3 veya daha fazla gol %52 ile biraz öne çıkıyor, bu da iki takımın da pozisyon bulabileceği, açık geçecek bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 114 maçta %52 isabet etti; beklenen %41'in üzerinde bir sonuç. Beraberlik %28 ile en olası ikinci sonuç olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "Palmeiras appears slightly ahead as the home side, but the match looks quite balanced; Flamengo's 32% probability is a serious possibility. On total goals, 3 or more goals stands out a little at 52%, pointing to an open game in which both teams can create chances. Our past predictions at this confidence level were correct 52% of the time across 114 matches, a result above the expected 41%. A draw stands out as the second most likely outcome at 28%.",
+        "es": "Palmeiras, ev sahibi olarak hafif bir farkla önde görünüyor, ancak maç oldukça dengeli; Flamengo'nun %32 olasılığı ciddi bir ihtimal. Toplam gol tarafında 3 veya daha fazla gol %52 ile biraz öne çıkıyor, bu da iki takımın da pozisyon bulabileceği, açık geçecek bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 114 maçta %52 isabet etti; beklenen %41'in üzerinde bir sonuç. Beraberlik %28 ile en olası ikinci sonuç olarak öne çıkıyor.",
+        "de": "Palmeiras liegt als Heimmannschaft mit einem leichten Vorsprung vorne, doch die Partie ist sehr ausgeglichen; Flamengos Wahrscheinlichkeit von 32% ist ein ernstzunehmender Wert. Bei den Torsummen sticht „3 oder mehr Tore“ mit 52% etwas hervor, was auf ein offenes Spiel hindeutet, in dem beide Mannschaften zu Abschlusspositionen kommen können. Unsere bisherigen Prognosen auf diesem Vertrauensniveau haben bei 114 Spielen in 52% der Fälle zugetroffen; das liegt über dem erwarteten Wert von 41%. Ein Unentschieden ist mit 28% das zweitwahrscheinlichste Ergebnis.",
+        "fr": "Palmeiras, jouant à domicile, apparaît légèrement en tête, mais la rencontre reste très équilibrée ; Flamengo, avec une probabilité de 32 %, constitue une issue sérieuse. Pour le total de buts, 3 buts ou plus ressortent légèrement avec 52 %, ce qui laisse entrevoir un match ouvert, où les deux équipes devraient se créer des occasions. Nos pronostics passés, à ce niveau de confiance, ont atteint juste 52 % de réussite sur 114 matchs, soit un résultat supérieur aux 41 % attendus. Le match nul, avec 28 %, se détache comme le deuxième résultat le plus probable.",
+        "it": "Palmeiras ev sahibi olarak hafif bir farkla önde görünüyor, ancak maç oldukça dengeli; Flamengo'nun %32 olasılığı ciddi bir ihtimal. Toplam gol tarafında 3 veya daha fazla gol %52 ile biraz öne çıkıyor, bu da iki takımın da pozisyon bulabileceği, açık geçecek bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 114 maçta %52 isabet etti; beklenen %41'in üzerinde bir sonuç. Beraberlik %28 ile en olası ikinci sonuç olarak öne çıkıyor.",
+        "pt": "Palmeiras, como mandante, aparece com uma ligeira vantagem, mas a partida é bastante equilibrada; a probabilidade de vitória do Flamengo, de 32%, é um cenário sério. No quesito total de gols, 3 gols ou mais se destacam ligeiramente com 52%, o que aponta para um cenário aberto, em que as duas equipes devem conseguir criar chances. Nossas previsões anteriores acertaram 52% em 114 jogos com esse nível de confiança, um resultado acima dos 41% esperados. O empate, com 28%, aparece como o segundo resultado mais provável."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
       "lig": "soccer_epl",
@@ -151,11 +190,11 @@
         "it": "AS Roma, trasferta sul campo del Parma, è nettamente favorita con una probabilità del 73%; la probabilità di vittoria dei padroni di casa è solo del 10%. Poiché la probabilità di 3 o più gol è del 62%, si può affermare che la partita indichi una vittoria esterna ricca di gol. Questo scenario è sostenuto dal fatto che la Roma ha segnato 17 gol nelle ultime 5 partite, con 5 incontri da 3 o più gol, e da una probabilità superiore alla media di Serie A presente nel nostro archivio (55%). Il pareggio, con il 17%, è il secondo esito possibile; trattandosi di una percentuale superiore al 15%, è una probabilità ragionevole.",
         "pt": "AS Roma é a clara favorita no jogo fora de casa contra o Parma, com probabilidade de 73%; a chance de vitória da equipe da casa é de apenas 10%. Como a probabilidade de 3 ou mais gols é de 62%, pode-se dizer que a partida aponta para uma vitória fora de casa com muitos gols. Esse cenário é reforçado pelo fato de a Roma ter marcado 17 gols nos últimos 5 jogos, com 5 partidas de 3 ou mais gols nesse período, e por uma probabilidade acima da média da Serie A em nosso arquivo (55%). O empate, com 17%, é o segundo resultado mais provável; como está acima de 15%, trata-se de uma possibilidade razoável."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-5",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -190,11 +229,11 @@
         "pt": "O time visitante, PSG, é o claro favorito da partida: com 65% de probabilidade de vitória, aparece em vantagem nítida sobre o Nice, que tem 16%. No quesito total de gols, há 69% de probabilidade de se esperarem 3 ou mais gols; isso aponta para um cenário de vitória do favorito com muitos gols. A sequência de 5 vitórias nos últimos 5 jogos do PSG e os 18 gols marcados em 4 partidas como visitante sustentam esse quadro. O desvio em relação às médias da Ligue 1 (42% de vitórias do mandante) e à probabilidade de 3 ou mais gols (58%) é significativo, o que mostra que esta não é uma partida comum. Como segunda possibilidade, o empate do Nice, com 19%, pode ser considerado; esse resultado é mais provável do que a vitória do mandante.",
         "en": "The away side PSG are the clear favourite for this match: with a 65% probability of winning, they hold a decisive advantage over Nice's 16%. For total goals, a 69% probability points to 3 or more goals, which indicates a high-scoring win scenario for the favourite. PSG's 5 wins from their last 5 matches and their 18 goals scored in 4 away matches support this picture. The deviation from Ligue 1 averages (42% home win) and the 3+ goals probability (58%) is clear, showing this is not an ordinary encounter. As a second possibility, a draw for Nice can be considered at 19%, which is a more likely outcome than the home side winning."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "2-3",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -229,11 +268,11 @@
         "it": "La squadra ospite Fenerbahçe è la netta favorita con una probabilità del 61% di vittoria; la probabilità di successo della squadra di casa Kocaelispor resta bassa, al 17%. Nel totale gol, lo scenario più probabile è quello con 3 o più gol, con il 56%, il che indica una vittoria con gol del Fenerbahçe. Questo quadro è supportato dal fatto che il Fenerbahçe ha segnato 12 gol nelle ultime 5 partite e che in 5 partite su 5 è stata superata la media di gol. La probabilità di pareggio è del 22%; si avvicina alla media del 24% di pareggi nel nostro archivio di Süper Lig, quindi questa probabilità è su un livello ordinario.",
         "pt": "A equipe visitante, Fenerbahçe, é a clara favorita para a vitória, com probabilidade de 61%; a probabilidade de vitória do anfitrião Kocaelispor fica baixa, em 17%. No total de gols, o cenário mais provável é de 3 ou mais gols, com 56%, o que aponta para uma vitória do favorito com gols. O Fenerbahçe marcou 12 gols nos últimos 5 jogos, e em 5 dos 5 jogos o número de gols ficou acima da média, o que sustenta esse quadro. A probabilidade de empate é de 22%; isso está próximo da média de 24% de empates no nosso arquivo da Süper Lig, ou seja, é um nível comum."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -268,11 +307,11 @@
         "it": "Rayo Vallecano, Valencia karşısında belirgin ama mutlak olmayan bir ev sahibi favorisi: %49 galibiyet olasılığı, %23'lük deplasman ihtimalinin iki katından fazla. Bu tablo, La Liga arşivimizin ev sahibi ortalaması olan %44'ün üzerinde, dolayısıyla Rayo'yu bu maçta arşivimize göre daha güçlü gösteriyor. Toplam gol tarafında 3 veya daha fazla gol %47, en fazla 2 gol %53 ile dengeli, hafif az golden yana bir senaryoya işaret ediyor; ligin %56'lık 3+ gol ortalamasının altında kalması da bu beklentiyi destekliyor. Son ikinci sonuç olarak beraberlik %27 ile ilgi çekiyor; bu olasılık arşiv ortalamasının (%24) biraz üzerinde, dolayısıyla berabere bitme ihtimali göz ardı edilmemeli.",
         "pt": "Rayo Vallecano, Valencia karşısında belirgin ama mutlak olmayan bir ev sahibi favorisi: 49% galibiyet olasılığı, 23% deplasman ihtimalinin iki katından fazla. Bu tablo, La Liga arşivimizin ev sahibi ortalaması olan 44%'ün üzerinde, dolayısıyla Rayo'yu bu maçta arşivimize göre daha güçlü gösteriyor. Toplam gol tarafında 3 veya daha fazla gol 47%, en fazla 2 gol 53% ile dengeli, hafif az golden yana bir senaryoya işaret ediyor; ligin 56% olan 3+ gol ortalamasının altında kalması da bu beklentiyi destekliyor. Son ikinci sonuç olarak beraberlik 27% ile ilgi çekiyor; bu olasılık arşiv ortalamasının (24%) biraz üzerinde, dolayısıyla berabere bitme ihtimali göz ardı edilmemeli."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -10358,38 +10397,6 @@
       "toplam_gol": 3,
       "tuttu": true,
       "alt_ust_tuttu": true,
-      "ucretsiz": true
-    },
-    {
-      "mac_id": "70df1835c3b5ddff1c99e0189532136b",
-      "lig": "soccer_spain_la_liga",
-      "ev_sahibi": "Atlético Madrid",
-      "deplasman": "Deportivo La Coruña",
-      "baslama_utc": "2026-10-24T19:00:00Z",
-      "olasiliklar": {
-        "1": 0.7447,
-        "X": 0.1624,
-        "2": 0.0929
-      },
-      "tahmin": "1",
-      "guven": 0.5823,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6051,
-          "alt": 0.3949
-        },
-        "tahmin": "ust",
-        "guven": 0.2102,
-        "kaynak_sayisi": 5
-      },
-      "ai_metin": "Atlético Madrid, evinde Deportivo La Coruña karşısında net favori. Maçın gollü geçme ihtimali yüksek (%61), bu da favorinin rahat bir galibiyet alabileceğine işaret ediyor. Atlético'nun son dört maçlık formu da bu senaryoyu destekliyor, ancak bu maçların sadece birinde üç veya daha fazla gol oldu. Beraberlik olasılığı %16 ile düşük bir ihtimal olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "1-0",
-      "toplam_gol": 1,
-      "tuttu": true,
-      "alt_ust_tuttu": false,
       "ucretsiz": true
     }
   ]
