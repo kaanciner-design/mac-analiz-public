@@ -1,7 +1,275 @@
 {
-  "guncelleme_utc": "2026-11-21T19:30:47Z",
-  "mac_sayisi": 427,
+  "guncelleme_utc": "2026-11-21T20:30:44Z",
+  "mac_sayisi": 434,
   "maclar": [
+    {
+      "mac_id": "f538ac619132a25fd0c065cacfa5c05f",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Bahia",
+      "deplasman": "Coritiba",
+      "baslama_utc": "2026-11-21T20:30:00Z",
+      "olasiliklar": {
+        "1": 0.6678,
+        "X": 0.1983,
+        "2": 0.1339
+      },
+      "tahmin": "1",
+      "guven": 0.4695,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6138,
+          "alt": 0.3862
+        },
+        "tahmin": "ust",
+        "guven": 0.2276,
+        "kaynak_sayisi": 4
+      },
+      "ai_metin": "Bahia, Coritiba karşısında belirgin biçimde önde; olasılıklar ev sahibinin %67 ile net favori olduğunu gösteriyor. Ev sahibinin galibiyeti ile 3 veya daha fazla gol ihtimalinin birlikte yüksek olması, favorinin rahat ve gollü bir galibiyet arayacağı bir senaryoya işaret ediyor. Bu tür tahminlerde geçmiş performansımız, 154 maçta %78 isabet ile beklenen %66'nın üzerinde kaldı. Beraberlik %20 ile ikinci olası sonuç; bu ihtimal düşük değil, ancak en olası senaryo Bahia'nın üstünlüğü.",
+      "ai_metinler": {
+        "en": "Bahia holds a clear advantage over Coritiba; the probabilities show the home side as a clear favorite at 67%. A home win combined with a high probability of 3 or more goals points to a scenario in which the favorite seeks a comfortable, high-scoring victory. In predictions of this kind, our past performance has held at 78% accuracy over 154 matches, above the expected 66%. A draw at 20% is the second most likely outcome; that probability is not low, but the most likely scenario is Bahia's dominance.",
+        "es": "Bahía tiene una clara ventaja sobre el Coritiba; las probabilidades muestran que el local es el gran favorito con un 67%. La combinación de victoria del local con una alta probabilidad de 3 o más goles apunta a un escenario en el que el favorito buscará una victoria cómoda y con goles. En este tipo de pronósticos, nuestro historial de aciertos fue del 78% en 154 partidos, por encima del 66% esperado. El empate, con un 20%, es el segundo resultado posible; esta probabilidad no es baja, pero el escenario más probable es la superioridad del Bahía.",
+        "de": "Bahia liegt gegen Coritiba deutlich vorn; die Wahrscheinlichkeiten zeigen, dass der Heimclub mit 67% klarer Favorit ist. Dass sowohl der Heimsieg als auch 3 oder mehr Tore eine hohe Wahrscheinlichkeit haben, deutet auf ein Szenario hin, in dem der Favorit einen souveränen und torreichen Sieg anstrebt. Bei solchen Einschätzungen lag unsere bisherige Trefferquote bei 78% aus 154 Spielen und damit über den erwarteten 66%. Ein Unentschieden mit 20% ist das zweitwahrscheinlichste Ergebnis; diese Wahrscheinlichkeit ist nicht gering, doch das wahrscheinlichste Szenario bleibt die Überlegenheit von Bahia.",
+        "fr": "Bahia est nettement en tête face à Coritiba ; les probabilités font de l'équipe à domicile un favori net, avec 67 %. La combinaison d'une victoire de l'équipe à domicile et d'une probabilité élevée de 3 buts ou plus laisse entrevoir un scénario dans lequel le favori cherchera une victoire aisée et riche en buts. Dans ce type de pronostics, notre performance passée s'est établie à 78 % de réussite sur 154 matchs, au-dessus des 66 % attendus. Le match nul, à 20 %, constitue le second résultat possible ; cette probabilité n'est pas faible, mais le scénario le plus probable reste la domination de Bahia.",
+        "it": "Bahia è nettamente in vantaggio contro il Coritiba; le probabilità indicano che la squadra di casa è la netta favorita con il 67%. La vittoria della squadra di casa unita alla probabilità elevata di 3 o più gol suggerisce uno scenario in cui la favorita cercherà un successo tranquillo e ricco di reti. Per questo tipo di previsioni, la nostra precedente performance è stata superiore alle attese: con un tasso di successo del 78% su 154 partite, ha superato il 66% atteso. Il pareggio, con il 20%, rappresenta il secondo esito possibile; questa probabilità non è bassa, ma lo scenario più probabile resta la superiorità del Bahia.",
+        "pt": "Bahia está claramente à frente contra o Coritiba; as probabilidades mostram o mandante como favorito incontestável, com 67%. A vitória do mandante combinada com a alta probabilidade de 3 ou mais gols aponta para um cenário em que o favorito busca uma vitória tranquila e com muitos gols. Em previsões desse tipo, nosso histórico de acertos ficou em 78% em 154 jogos, acima dos 66% esperados. O empate, com 20%, é o segundo resultado mais provável; essa chance não é baixa, mas o cenário mais provável é o domínio do Bahia."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "90af957b2f622a5cf805e60b151c54b9",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Real Madrid",
+      "deplasman": "Celta Vigo",
+      "baslama_utc": "2026-11-21T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.8181,
+        "X": 0.1213,
+        "2": 0.0606
+      },
+      "tahmin": "1",
+      "guven": 0.6968,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6966,
+          "alt": 0.3034
+        },
+        "tahmin": "ust",
+        "guven": 0.3932,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Real Madrid, Celta Vigo karşısında belirgin biçimde önde; ev sahibinin kazanma olasılığı %82 ve bu, La Liga arşivimizin genel ortalamasının (%44) çok üzerinde. Bu tabloda beklenen senaryo, favorinin kontrollü ama gollü bir galibiyeti: 3 veya daha fazla gol olasılığı %70. Real Madrid'in son 5 maçta 5 galibiyet alıp 15 gol atması bu yönü destekliyor; yine de Celta'nın son 5 maçta 4 gol yediği de hatırlanmalı. En olası ikinci sonuç %12 ile beraberlik; bu, düşük ama tamamen dışlanamayacak bir ihtimal. Deplasman galibiyeti (%6) ise nadir bir ihtimal olarak değerlendirilebilir.",
+      "ai_metinler": {
+        "en": "Real Madrid is clearly ahead against Celta Vigo; the home side's probability of winning is 82%, which is well above the average of our La Liga archive (44%). In this picture, the expected scenario is a controlled but high-scoring win for the favorite: the probability of 3 or more goals is 70%. Real Madrid's 5 wins and 15 goals scored in their last 5 matches support this direction; still, it should be remembered that Celta conceded 4 goals in their last 5 matches. The second most likely result is a draw at 12%, a low but not entirely ruled-out probability. An away win (6%) can be considered a rare possibility.",
+        "es": "Real Madrid está claramente por delante frente al Celta de Vigo; la probabilidad de victoria del local es del 82%, muy por encima de la media general de nuestro archivo de La Liga (44%). En este escenario, lo esperado es una victoria del favorito, controlada pero con goles: la probabilidad de 3 goles o más es del 70%. Que el Real Madrid haya ganado 5 de sus últimos 5 partidos y marcado 15 goles respalda esta tendencia; aun así, también conviene recordar que el Celta ha encajado 4 goles en sus últimos 5 partidos. El segundo resultado más probable es el empate, con un 12%; es una opción baja, pero que no puede descartarse por completo. La victoria visitante (6%) puede considerarse una posibilidad poco frecuente.",
+        "de": "Real Madrid liegt gegen Celta Vigo deutlich vorn; die Wahrscheinlichkeit für einen Heimsieg des Gastgebers beträgt 82%, und das liegt weit über dem Durchschnitt unseres La-Liga-Archivs (44%). Das wahrscheinlichste Szenario in dieser Konstellation ist ein kontrollierter, aber torreicher Sieg des Favoriten: Die Wahrscheinlichkeit für 3 oder mehr Tore liegt bei 70%. Dass Real Madrid in den letzten 5 Spielen 5 Siege eingefahren und dabei 15 Tore erzielt hat, stützt diese Einschätzung; dennoch sollte man auch daran denken, dass Celta in den letzten 5 Spielen 4 Gegentore hinnehmen musste. Das zweitwahrscheinlichste Ergebnis ist mit 12% ein Unentschieden; das ist eine geringe, aber keineswegs auszuschließende Wahrscheinlichkeit. Ein Auswärtssieg (6%) ist dagegen als seltener Fall einzustufen.",
+        "fr": "Real Madrid est nettement favori face au Celta Vigo ; la probabilité de victoire de l'équipe à domicile est de 82 %, un niveau bien supérieur à la moyenne générale de nos archives de La Liga (44 %). Dans ce tableau, le scénario attendu est une victoire contrôlée du favori, mais riche en buts : la probabilité de 3 buts ou plus est de 70 %. Le fait que Real Madrid ait remporté 5 victoires lors de ses 5 derniers matchs, en marquant 15 buts, soutient cette tendance ; il faut toutefois rappeler que le Celta a encaissé 4 buts lors de ses 5 derniers matchs. Le deuxième résultat le plus probable est le match nul, avec 12 % ; une possibilité faible, mais qu'on ne peut pas totalement écarter. La victoire à l'extérieur (6 %) peut quant à elle être considérée comme une issue rare.",
+        "it": "Real Madrid si trova nettamente in vantaggio contro il Celta Vigo; la probabilità di vittoria della squadra di casa è dell'82%, un valore ben superiore alla media generale del nostro archivio della Liga (44%). Lo scenario atteso in questo quadro è una vittoria controllata ma ricca di gol da parte della favorita: la probabilità di 3 o più gol è del 70%. Le 5 vittorie e i 15 gol segnati dal Real Madrid nelle ultime 5 partite sostengono questa tendenza; va tuttavia ricordato che il Celta ha subito 4 gol nelle ultime 5 partite. Il secondo esito più probabile è il pareggio, con il 12%: una possibilità bassa, ma che non può essere del tutto esclusa. La vittoria in trasferta (6%) può invece essere considerata un evento raro.",
+        "pt": "Real Madrid tem uma vantagem clara contra o Celta Vigo; a probabilidade de vitória da equipe da casa é de 82%, bem acima da média geral do nosso arquivo da La Liga (44%). Neste cenário, o resultado esperado é uma vitória controlada do favorito, mas com gols: a probabilidade de 3 ou mais gols é de 70%. As 5 vitórias seguidas do Real Madrid nos últimos 5 jogos, com 15 gols marcados, reforçam essa tendência; ainda assim, vale lembrar que o Celta sofreu 4 gols nos últimos 5 jogos. O segundo resultado mais provável é o empate, com 12%; uma possibilidade baixa, mas que não pode ser totalmente descartada. Já a vitória do visitante (6%) deve ser considerada uma possibilidade rara."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "e59809eb38340e3bca323cef070dfd34",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Napoli",
+      "deplasman": "Torino",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.6403,
+        "X": 0.21,
+        "2": 0.1497
+      },
+      "tahmin": "1",
+      "guven": 0.4303,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5684,
+          "alt": 0.4316
+        },
+        "tahmin": "ust",
+        "guven": 0.1368,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Napoli, ev sahibi olarak belirgin biçimde önde; kazanma olasılığı %64 ile beraberlik %21 ve Torino'nun %15'i karşısında net bir favori görünüyor. Toplam gol tarafında %57'lik 3 veya daha fazla gol olasılığı, Napoli'nin son 4 iç saha maçında yedi gol yiyip beş gol atmasıyla kısmen örtüşüyor; hücum ağırlıklı, gollü bir Napoli galibiyeti en olası senaryo. Torino'nun son 5 maçta 3 veya daha fazla golün çıktığı üç karşılaşma da bu ihtimali destekliyor. Beraberlik olasılığı Serie A ortalamasının (%25) altında kalıyor. Torino'nun galibiyeti ise %15 ile düşük bir ihtimal olarak görülmeli.",
+      "ai_metinler": {
+        "es": "Napoli, como equipo local, aparece claramente como favorito: la probabilidad de victoria es del 64%, frente a un 21% de empate y un 15% de triunfo del Torino. En cuanto al total de goles, la probabilidad de 3 goles o más es del 57%, lo que coincide en parte con el hecho de que el Napoli haya recibido siete goles y marcado cinco en sus últimos 4 partidos en casa; el escenario más probable es una victoria del Napoli con un partido de ataque y muchos goles. Los tres encuentros en los que el Torino ha visto 3 goles o más en sus últimos 5 partidos también respaldan esta posibilidad. La probabilidad de empate queda por debajo de la media de la Serie A (25%). La victoria del Torino, con un 15%, debe considerarse una posibilidad baja.",
+        "de": "Neapel zeigt sich als Gastgeber klar im Vorteil; gegen Torino erscheint Neapel mit 64% Siegwahrscheinlichkeit, 21% Unentschieden und 15% gegen Torino als deutlicher Favorit. Bei den Gesamttreffern liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 57%, was sich teilweise mit Neapels letzten 4 Heimspielen deckt, in denen sieben Gegentore kassiert und fünf erzielt wurden; ein torreicher Neapel-Sieg ist das wahrscheinlichste Szenario. Auch die letzten drei Duelle mit 3 oder mehr Toren in den letzten 5 Spielen von Torino stützen diese Einschätzung. Die Unentschieden-Wahrscheinlichkeit liegt unter dem Serie-A-Durchschnitt von 25%. Ein Torino-Sieg mit 15% ist dagegen als unwahrscheinliche Möglichkeit einzuordnen.",
+        "fr": "Naples, à domicile, apparaît nettement en tête : la probabilité de victoire est de 64 %, contre 21 % pour le match nul et 15 % pour une victoire de Turin, ce qui en fait un favori net. Côté total de buts, la probabilité de 3 buts ou plus atteint 57 %, un chiffre qui rejoint en partie la réalité récente de Naples : sept buts encaissés et cinq marqués lors de ses 4 dernières rencontres à domicile. Un succès napolitain riche en buts, avec une dynamique offensive, constitue donc le scénario le plus probable. Turin a par ailleurs connu 3 buts ou plus dans trois de ses 5 derniers matchs, ce qui renforce cette hypothèse. La probabilité de match nul reste inférieure à la moyenne de Serie A (25 %). Enfin, la victoire de Turin, à 15 %, doit être considérée comme une issue peu probable.",
+        "it": "Il Napoli, in quanto squadra di casa, appare nettamente in vantaggio: la probabilità di vittoria è del 64%, contro un 21% di pareggio e un 15% di successo del Torino. Sul fronte dei gol totali, la probabilità di 3 o più gol è del 57%, in parte coerente con il dato delle ultime 4 partite casalinghe del Napoli, in cui ha subito sette gol e ne ha segnati cinque. Uno scenario offensivo e ricco di reti, con una vittoria del Napoli, appare il più probabile. Anche le ultime 5 gare del Torino supportano questa ipotesi: in tre di esse sono stati segnati 3 o più gol. La probabilità di pareggio resta al di sotto della media della Serie A (25%). La vittoria del Torino, con il 15%, va invece considerata un'ipotesi poco probabile.",
+        "pt": "Nápoli, como anfitrião, aparece nitidamente à frente; com 64% de probabilidade de vitória, 21% de empate e 15% contra o Torino, surge como um claro favorito. No quesito total de gols, a probabilidade de 3 ou mais gols é de 57%, o que se alinha em parte com o fato de o Nápoli ter sofrido sete gols e marcado cinco nos últimos 4 jogos em casa; um triunfo do Nápoli com muitos gols e ataque predominante é o cenário mais provável. Nos últimos 5 jogos do Torino, as três partidas com 3 ou mais gols também reforçam essa probabilidade. A probabilidade de empate fica abaixo da média da Serie A (25%). Já a vitória do Torino, com 15%, deve ser vista como uma possibilidade baixa.",
+        "en": "Napoli, home advantage, is clearly in front; with a probability of 64% to win, a 21% chance of a draw and 15% for Torino, they appear as a clear favourite. On total goals, the 57% probability of 3 or more goals partly aligns with Napoli conceding seven and scoring five in their last 4 home matches; an attacking, high-scoring Napoli win is the most likely scenario. The three matches out of Torino's last 5 that produced 3 or more goals also support this possibility. The draw probability sits below the Serie A average (25%). A Torino win, at 15%, should be seen as a low probability."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9130b46991ab991f808daf307f004469",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "AS Monaco",
+      "deplasman": "Auxerre",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.6725,
+        "X": 0.1899,
+        "2": 0.1376
+      },
+      "tahmin": "1",
+      "guven": 0.4826,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6277,
+          "alt": 0.3723
+        },
+        "tahmin": "ust",
+        "guven": 0.2554,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "AS Monaco'nun ev sahibi olarak belirgin biçimde önde olduğu bu maçta, %67 olasılıkla Monaco'nun kazanması ve %63 ile 3 veya daha fazla gol beklentisi, favorinin gollü bir galibiyetine işaret ediyor. Monaco'nun son 4 maçta 0 galibiyet alması ve Auxerre'in 2 maçta 3 veya daha fazla gol görmesi, bu senaryonun takımların son dönem performansıyla tam örtüşmediğini gösteriyor; ligin genel ihtimali olan %42 ev sahibi galibiyetinin üzerindeki bu olasılık ise Monaco lehine açık bir fark yaratıyor. En olası ikinci sonuç %19 ile beraberlik; bu ihtimal ligin genel beraberlik olasılığı olan %24'ün altında kalıyor.",
+      "ai_metinler": {
+        "en": "AS Monaco, as the home side, is clearly ahead in this match. A 67% probability of a Monaco win and a 63% probability of 3 or more goals point to a high-scoring victory for the favorite. However, Monaco's 0 wins in their last 4 matches and Auxerre's 3 or more goals in 2 matches show that this scenario does not fully match the teams' recent form. This probability, which sits above the league's general home win probability of 42%, creates a clear edge in favor of Monaco. The second most likely outcome is a draw at 19%, a probability that falls below the league's general draw probability of 24%."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "4d6dd3defbbe20fa24b719f9fcdbf280",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Strasbourg",
+      "deplasman": "Brest",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.4264,
+        "X": 0.2581,
+        "2": 0.3154
+      },
+      "tahmin": "1",
+      "guven": 0.111,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5772,
+          "alt": 0.4228
+        },
+        "tahmin": "ust",
+        "guven": 0.1544,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Strasbourg ev sahibi olarak hafif önde görünse de olasılıklar belirgin bir üstünlük ortaya koymuyor: Strasbourg %43, Brest %32, beraberlik %26. Toplam gol tarafında 3 veya daha fazla gol %58 ile öne çıkıyor; bu, açık geçecek bir maç senaryosuna işaret ediyor. Ligue 1 arşivimizdeki %42 ev sahibi kazanma ortalamasına kıyasla Strasbourg'un payı biraz yüksek, ancak son 4 maçtaki 3 mağlubiyeti ve 10 gol yemesi bu tabloyu dengeliyor. Brest'in de son dört maçta 6 gol atıp 3 gol yemesi, deplasman tarafının da skor üretebileceğini gösteriyor. En olası ikinci sonuç olan Brest'in galibiyeti %32 ile dikkat çekiyor.",
+      "ai_metinler": {
+        "en": "Although Strasbourg appear slightly ahead as the home side, the probabilities do not point to a clear advantage: Strasbourg 43%, Brest 32%, draw 26%. On total goals, 3 or more goals stands out at 58%, which points to an open match scenario. Compared with the 42% home-win average in our Ligue 1 archive, Strasbourg's share is a little higher, but their 3 defeats and 10 goals conceded in the last 4 matches balance this picture. Brest's 6 goals scored and 3 conceded over their last four matches also show that the away side can produce scores. Brest's win, the second most likely result, stands out at 32%.",
+        "es": "Aunque Strasbourg parece ligeramente favorito como local, las probabilidades no muestran una ventaja clara: Strasbourg 43%, Brest 32%, empate 26%. En cuanto a los goles totales, 3 goles o más destacan con un 58%, lo que apunta a un partido abierto. La probabilidad de victoria local de Strasbourg es algo superior al promedio de 42% de nuestro archivo de la Ligue 1, pero sus 3 derrotas en los últimos 4 partidos y los 10 goles recibidos equilibran esta situación. Que Brest también haya marcado 6 goles y recibido 3 en sus últimos cuatro partidos muestra que el equipo visitante también puede producir goles. La segunda opción más probable, la victoria de Brest, llama la atención con un 32%.",
+        "de": "Obwohl Strasbourg als Heimmannschaft leicht im Vorteil zu sein scheint, zeigen die Wahrscheinlichkeiten keine deutliche Überlegenheit: Strasbourg 43%, Brest 32%, Unentschieden 26%. Bei den Torzahlen sticht „3 oder mehr Tore“ mit 58% hervor; das deutet auf ein offenes Spielszenario hin. Im Vergleich zum Heimsieg-Durchschnitt von 42% in unserem Ligue-1-Archiv ist Strasbourgs Anteil etwas höher, doch die drei Niederlagen und die 10 Gegentore aus den letzten 4 Spielen gleichen dieses Bild wieder aus. Dass Brest in den letzten vier Spielen 6 Tore erzielt und 3 Gegentore kassiert hat, zeigt zudem, dass die Auswärtsmannschaft ebenfalls torgefährlich sein kann. Der zweitwahrscheinlichste Ausgang, ein Sieg von Brest, fällt mit 32% besonders ins Auge.",
+        "fr": "Bien que Strasbourg paraisse légèrement favori à domicile, les probabilités ne révèlent pas de supériorité nette : Strasbourg 43 %, Brest 32 %, match nul 26 %. Concernant le total de buts, 3 buts ou plus ressortent à 58 %, ce qui laisse présager un scénario de match ouvert. Par rapport à la moyenne de victoires à domicile de 42 % dans nos archives de Ligue 1, la part de Strasbourg est un peu plus élevée, mais ses 3 défaites lors des 4 derniers matchs et les 10 buts encaissés équilibrent ce tableau. Les 6 buts marqués par Brest lors de ses 4 derniers matchs, pour 3 buts encaissés, montrent que l'équipe visiteuse est aussi capable de marquer. Le deuxième résultat le plus probable, la victoire de Brest, attire l'attention avec 32 %.",
+        "it": "Strasbourg, giocando in casa, appare leggermente in vantaggio, ma le probabilità non mostrano una superiorità evidente: Strasbourg 43%, Brest 32%, pareggio 26%. Per il totale gol, la probabilità di 3 gol o più è al 58%, il che indica uno scenario di partita aperta. Rispetto alla media di vittorie interne dell'archivio della Ligue 1, pari al 42%, la quota di Strasbourg è un po' più alta, ma le 3 sconfitte nelle ultime 4 partite e i 10 gol subiti riequilibrano il quadro. Anche il Brest, con 6 gol segnati e 3 subiti nelle ultime quattro partite, dimostra che la squadra ospite può produrre risultati, e la vittoria del Brest, secono esito più probabile con il 32%, merita attenzione.",
+        "pt": "Embora o Strasbourg pareça levemente favorito por jogar em casa, as probabilidades não apontam para uma vantagem clara: Strasbourg 43%, Brest 32%, empate 26%. No quesito total de gols, a opção de 3 ou mais gols se destaca com 58%, o que aponta para um cenário de jogo aberto. Em comparação com a média de vitórias do mandante em nosso arquivo da Ligue 1, de 42%, a participação do Strasbourg está um pouco acima, mas suas 3 derrotas nos últimos 4 jogos e os 10 gols sofridos equilibram esse quadro. Os 6 gols marcados pelo Brest nos últimos quatro jogos, com 3 sofridos, mostram que o time visitante também pode produzir placar. A segunda possibilidade mais provável, a vitória do Brest, chama a atenção com 32%."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "d2113ca19873218496f8b2fe6c7e7c41",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Lille",
+      "deplasman": "Lyon",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.4146,
+        "X": 0.2854,
+        "2": 0.2999
+      },
+      "tahmin": "1",
+      "guven": 0.1147,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4765,
+          "alt": 0.5235
+        },
+        "tahmin": "alt",
+        "guven": 0.047,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Maçta ev sahibi Lille hafif önde, ama fark sınırlı: %41'e %30 ve beraberlik %29. Toplam gol tarafında 3 veya daha fazla gol %48, en fazla 2 gol %52 ile neredeyse dengede, yani açık ve kontrollü bir senaryo arasında gidip gelen bir maç bekleniyor. Lille'in son 5 maçta 6 gol atıp 6 gol yemesi, Ligue 1 arşivimizdeki %58'lik 3+ gol ortalamasının altında kalan bir tablo; bu nedenle gollü bir maçtan çok dengeli bir karşılaşma öne çıkıyor. İkinci olası sonuç olarak Lyon'un deplasman galibiyeti (%30) değerlendirilebilir; bu, son 4 maçtaki 2 galibiyetiyle uyumlu bir ihtimal.",
+      "ai_metinler": {
+        "en": "The home side Lille is slightly ahead, but the margin is limited: 41% against 30% for Lyon and a draw at 29%. On total goals, 3 or more goals sits at 48% and at most 2 goals at 52%, so the two scenarios are nearly balanced, meaning a match is expected to swing between an open and a controlled game. Lille scoring 6 goals and conceding 6 in their last 5 matches is a picture that falls below the 58% 3+ goals average in our Ligue 1 archive, so a balanced contest stands out more than a high-scoring one. As a second likely outcome, a Lyon away win (30%) can be considered, a probability consistent with their 2 wins in the last 4 matches.",
+        "es": "El equipo local, el Lille, tiene una ligera ventaja, pero la diferencia es limitada: 41% frente a 30% y empate con 29%. En cuanto al total de goles, la probabilidad de 3 goles o más es del 48% y la de como máximo 2 goles es del 52%, así que el equilibrio es casi total; se espera un partido que oscile entre un escenario abierto y uno controlado. Lille ha marcado 6 goles y recibido 6 en sus últimos 5 partidos, una cifra que queda por debajo del promedio de 58% de 3 o más goles en nuestro archivo de la Ligue 1; por ello, un encuentro equilibrado destaca más que uno con muchos goles. Como segundo resultado posible, puede considerarse la victoria del Lyon como visitante (30%), una probabilidad coherente con sus 2 victorias en los últimos 4 partidos.",
+        "de": "Im Spiel liegt der Heimgegner Lille leicht vorn, der Vorsprung ist jedoch begrenzt: 41% zu 30% und ein Unentschieden mit 29%. Bei der Toranzahl liegen 3 oder mehr Tore bei 48% und höchstens 2 Tore bei 52%, also nahezu ausgeglichen; erwartet wird eine Partie, die zwischen einem offenen und einem kontrollierten Szenario pendelt. Lille hat in den letzten 5 Spielen 6 Tore geschossen und 6 Tore kassiert, was unter dem 3+-Tore-Durchschnitt von 58% in unserem Ligue-1-Archiv liegt; deshalb tritt eine ausgeglichene Begegnung stärker hervor als ein torreiches Spiel. Als zweites mögliches Ergebnis kommt der Auswärtssieg von Lyon (30%) infrage, was zu seinen 2 Siegen aus den letzten 4 Spielen passt.",
+        "fr": "Le match voit l'équipe à domicile, Lille, légèrement devant, mais l'écart reste limité : 41 % contre 30 % pour l'extérieur et 29 % pour le match nul. Côté nombre de buts, 3 buts ou plus ont une probabilité de 48 %, tandis qu'au plus 2 buts en ont une de 52 %, ce qui rend les deux scénarios presque équilibrés ; on s'attend donc à une rencontre qui oscille entre un jeu ouvert et une maîtrise plus contrôlée. Les 6 buts marqués et les 6 buts encaissés par Lille lors de ses 5 derniers matchs restent en deçà de la moyenne de 58 % de 3 buts ou plus observée dans nos archives de Ligue 1 ; une rencontre équilibrée ressort donc davantage qu'un match riche en buts. Comme second résultat possible, la victoire à l'extérieur de Lyon (30 %) peut être envisagée, une probabilité cohérente avec ses 2 victoires lors de ses 4 derniers matchs.",
+        "it": "La partita vede la squadra di casa Lille leggermente in vantaggio, ma la differenza è limitata: 41% contro 30%, con il pareggio al 29%. Per il numero totale di gol, la probabilità di 3 o più gol è del 48%, mentre quella di al massimo 2 gol è del 52%, quindi le due ipotesi sono quasi in equilibrio: ci si aspetta una partita che oscilla tra uno scenario aperto e uno controllato. I 6 gol segnati e i 6 subiti dal Lille nelle ultime 5 partite collocano la squadra al di sotto della media di 3 o più gol del 58% presente nel nostro archivio della Ligue 1; per questo emerge l'idea di una sfida equilibrata piuttosto che ricca di reti. Come secondo esito possibile si può considerare la vittoria esterna del Lyon (30%), probabilità coerente con le sue 2 vittorie nelle ultime 4 partite.",
+        "pt": "O jogo tem o mandante Lille levemente à frente, mas a vantagem é limitada: 41% para o Lille, 30% para o Lyon e 29% para o empate. No quesito total de gols, 3 gols ou mais tem probabilidade de 48%, enquanto no máximo 2 gols tem 52%, praticamente empatados, o que indica uma partida que pode oscilar entre um cenário aberto e outro mais controlado. Os últimos 5 jogos do Lille somam 6 gols marcados e 6 sofridos, um quadro abaixo da média de 58% de 3 gols ou mais no nosso arquivo da Ligue 1; por isso, um confronto equilibrado parece mais provável do que uma partida com muitos gols. Como segundo resultado possível, a vitória do Lyon como visitante (30%) pode ser considerada, probabilidade compatível com suas 2 vitórias nos últimos 4 jogos."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "13ac2151b9f6893cedb7f509e64eb070",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "RC Lens",
+      "deplasman": "Toulouse",
+      "baslama_utc": "2026-11-21T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.5118,
+        "X": 0.2427,
+        "2": 0.2454
+      },
+      "tahmin": "1",
+      "guven": 0.2664,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5839,
+          "alt": 0.4161
+        },
+        "tahmin": "ust",
+        "guven": 0.1678,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "RC Lens, Toulouse karşısında belirgin ama dar bir farkla öne çıkıyor; ev sahibinin %51 galibiyet olasılığı, deplasmanın %25'ine kıyasla daha güçlü bir resim çiziyor. Toplam gol tarafında %58 ile 3 veya daha fazla gol öne çıkıyor; bu da favorinin gollü bir galibiyet arayabileceği açık bir senaryoya işaret ediyor. Lens'in son 5 maçta 16 gol yemesi ve 3 veya daha fazla gollü maçların 4'ünü bulması bu eğilimi destekliyor. Toulouse'un %25'lik ihtimali ise düşük değil, ancak Lens'in son dönem performansı onu öne taşıyor. Beraberlik %24 ile ikinci en olası sonuç olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "RC Lens stands out against Toulouse with a clear but narrow edge: the home side's 51% probability of victory paints a stronger picture than the away side's 25%. On total goals, 3 or more goals leads at 58%, pointing to a clear scenario in which the favorite could seek a high-scoring win. Lens conceding 16 goals in their last 5 matches and 3 or more goal games occurring in 4 of them supports this trend. Toulouse's 25% probability is not low, but Lens's recent form puts them ahead. A draw, at 24%, stands out as the second most likely outcome.",
+        "es": "RC Lens se destaca frente a Toulouse con una ventaja clara pero estrecha; la probabilidad de victoria local del 51% dibuja un panorama más sólido que el 25% del visitante. En cuanto a los goles totales, el 58% de probabilidad para 3 goles o más apunta a un escenario abierto en el que el favorito podría buscar una victoria con goles. Que Lens haya recibido 16 goles en sus últimos 5 partidos y que 4 de sus encuentros hayan terminado con 3 goles o más respalda esta tendencia. La probabilidad del 25% de Toulouse no es baja, pero el rendimiento reciente de Lens lo coloca en ventaja. El empate, con un 24%, aparece como el segundo resultado más probable.",
+        "de": "RC Lens hebt sich gegen Toulouse mit einem deutlichen, aber knappen Vorsprung hervor; die Heimmannschaft hat eine Siegwahrscheinlichkeit von 51 %, was ein stärkeres Bild zeichnet als die 25 % der Gäste. Bei den Toren liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 58 %, was auf ein torreiches Szenario hindeutet, in dem der Favorit einen Sieg mit mehreren Treffern anstreben könnte. Dieser Trend wird durch die Bilanz von Lens gestützt: In den letzten 5 Spielen kassierte die Mannschaft 16 Gegentore, und 4 der Spiele endeten mit 3 oder mehr Toren. Die Wahrscheinlichkeit von 25 % für Toulouse ist nicht gering, doch die jüngste Form von Lens stellt die Mannschaft klar in den Vordergrund. Ein Unentschieden liegt mit 24 % als zweitwahrscheinlichstes Ergebnis an zweiter Stelle.",
+        "fr": "RC Lens se détache face à Toulouse avec un avantage net mais serré : la probabilité de victoire à domicile de 51 % dessine un tableau plus solide que les 25 % accordés à l'équipe visiteuse. Côté total de buts, 3 buts ou plus ressortent à 58 %, ce qui laisse entrevoir un scénario où le favori pourrait chercher une victoire riche en buts. Les 16 buts encaissés par Lens lors de ses 5 derniers matchs et le fait que 4 de ses rencontres aient atteint 3 buts ou plus renforcent cette tendance. La probabilité de 25 % pour Toulouse n'est pas faible, mais la forme récente de Lens la place en tête. Le match nul, à 24 %, apparaît comme le deuxième résultat le plus probable.",
+        "it": "RC Lens si distingue contro il Toulouse con un vantaggio evidente ma stretto; la probabilità di vittoria casalinga del 51% disegna un quadro più solido rispetto al 25% degli ospiti. Sul fronte dei gol totali, il 58% di probabilità per 3 o più gol mette in evidenza uno scenario in cui la squadra favorita potrebbe cercare una vittoria ricca di reti. A supportare questa tendenza ci sono i 16 gol subiti dal Lens nelle ultime 5 partite e il fatto che le sfide con 3 o più gol siano state 4. La probabilità del Toulouse, pari al 25%, non è bassa, ma il rendimento recente del Lens lo porta in vantaggio. Il pareggio, con il 24%, si colloca al secondo posto tra gli esiti più probabili.",
+        "pt": "RC Lens se destaca diante do Toulouse com uma vantagem clara, porém apertada; a probabilidade de vitória do mandante em 51% desenha um cenário mais forte do que os 25% do visitante. No quesito total de gols, 3 ou mais gols aparecem em destaque com 58%, o que aponta para um cenário em que o favorito pode buscar uma vitória com muitos gols. As 16 sofridas pelo Lens nas últimas 5 partidas e o fato de ter registrado 3 ou mais gols em 4 jogos reforçam essa tendência. A probabilidade de 25% do Toulouse não é baixa, mas o desempenho recente do Lens o coloca à frente. O empate, com 24%, surge como o segundo resultado mais provável."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "1d642bb0454dc70058fdefa08fc6131a",
       "lig": "soccer_brazil_campeonato",
@@ -73,11 +341,11 @@
         "it": "Arsenal, deplasmanda net favori: %61 olasılıkla kazanması bekleniyor ve bu, sonuç tablosunda belirgin bir fark. Toplam gol tarafında 3 veya daha fazla gol %56 ile biraz öne çıkıyor; bu, Arsenal'in son 5 maçta 8 gol atıp 3 gol yediği hücum-savunma dengesiyle uyumlu bir senaryo işareti. Arşivimizdeki Premier Lig ortalamasında ev sahibi galibiyeti %42 iken Newcastle'ın %17'de kalması, ev sahibinin bu maçta belirgin biçimde geride olduğunu gösteriyor. İkinci olası sonuç olarak beraberlik %22 ile öne çıkıyor; bu ihtimal ortalamanın üzerinde, ancak Newcastle'ın son 5 maçta 3 mağlubiyeti düşünüldüğünde yine de Arsenal'in galibiyeti ana senaryo olarak kalıyor.",
         "pt": "Arsenal, deplasmanda net favori: %61 olasılıkla kazanması bekleniyor ve bu, sonuç tablosunda belirgin bir fark. Toplam gol tarafında 3 veya daha fazla gol %56 ile biraz öne çıkıyor; bu, Arsenal'in son 5 maçta 8 gol atıp 3 gol yediği hücum-savunma dengesiyle uyumlu bir senaryo işareti. Arşivimizdeki Premier Lig ortalamasında ev sahibi galibiyeti %42 iken Newcastle'ın %17'de kalması, ev sahibinin bu maçta belirgin biçimde geride olduğunu gösteriyor. İkinci olası sonuç olarak beraberlik %22 ile öne çıkıyor; bu ihtimal ortalamanın üzerinde, ancak Newcastle'ın son 5 maçta 3 mağlubiyeti düşünüldüğünde yine de Arsenal'in galibiyeti ana senaryo olarak kalıyor."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -112,11 +380,11 @@
         "it": "La squadra ospite, il Real Betis, ha una leggera probabilità di vittoria; tuttavia il margine è stretto e la partita appare in gran parte equilibrata. Per quanto riguarda il numero totale di gol, la probabilità di 3 o più gol è del 52%, leggermente in vantaggio, il che indica uno scenario di partita aperta. Nella media archiviata della Liga, la probabilità di 3 o più gol è del 56%, quindi questo incontro si colloca leggermente al di sotto della tendenza generale del campionato. I 10 gol subiti dal Siviglia nelle ultime 5 partite e i 2 gol subiti dal Betis nelle ultime 3 trasferte mostrano invece che le due squadre hanno solidità difensive molto diverse. Il secondo esito più probabile, il pareggio, si attesta al 28%: una probabilità considerevole, che suggerisce un incontro che potrebbe rimanere equilibrato.",
         "pt": "A equipe visitante, Real Betis, tem uma leve vantagem segundo as probabilidades; porém a diferença é pequena e a partida parece em grande parte equilibrada. No quesito total de gols, a previsão de 3 gols ou mais aparece um pouco à frente, com 52%, o que aponta para um cenário de jogo aberto. Na média da La Liga em nosso arquivo, 3 gols ou mais ocorrem em 56% dos casos, então esta partida fica um pouco abaixo da tendência geral da liga. O fato de o Sevilla ter sofrido 10 gols nos últimos 5 jogos e o Betis ter sofrido 2 gols nos últimos 3 jogos como visitante mostra que o quadro defensivo das duas equipes é diferente. O segundo resultado mais provável, o empate, aparece com 28% de probabilidade; esse índice é relevante e sugere que o confronto pode seguir de forma equilibrada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -151,11 +419,11 @@
         "it": "In questa partita la squadra in trasferta, il VfB Stoccarda, è nettamente in vantaggio con una probabilità del 52%; la probabilità di vittoria dello Schalke, la squadra di casa, pari al 24%, non può essere considerata un vantaggio significativo. Il fatto che lo Stoccarda, in trasferta nelle ultime quattro partite, abbia segnato 7 gol e ne abbia subiti 5, e che la probabilità di 3 o più gol sia del 65%, mette in primo piano uno scenario di vittoria in trasferta con diversi gol. Questa probabilità resta però appena al di sotto della media della Bundesliga, pari al 68%, e poiché il tasso di successo delle nostre precedenti previsioni è del 40%, questa valutazione va letta con prudenza. Il secondo esito possibile, il pareggio, con una probabilità del 23%, merita anch'esso attenzione.",
         "pt": "Nesta partida, o time visitante VfB Stuttgart está claramente à frente, com 52%; a probabilidade de vitória do mandante Schalke, de 24%, não é considerada uma vantagem séria. O desempenho do Stuttgart nos últimos quatro jogos fora de casa, com 7 gols marcados e 5 sofridos, e a probabilidade de 65% de 3 gols ou mais destacam um cenário de vitória visitante com muitos gols. Essa probabilidade fica logo abaixo da média da Bundesliga, de 68%, e como a taxa de acerto de nossas previsões anteriores é de 40%, essa avaliação deve ser lida com cautela. O segundo resultado possível, o empate, chama a atenção com probabilidade de 23%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -10174,230 +10442,6 @@
       "tuttu": true,
       "alt_ust_tuttu": false,
       "ucretsiz": false
-    },
-    {
-      "mac_id": "fe235b26408c477368c40672a4488694",
-      "lig": "soccer_epl",
-      "ev_sahibi": "Crystal Palace",
-      "deplasman": "Newcastle United",
-      "baslama_utc": "2026-10-25T14:00:00Z",
-      "olasiliklar": {
-        "1": 0.3291,
-        "X": 0.2634,
-        "2": 0.4074
-      },
-      "tahmin": "2",
-      "guven": 0.0783,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.602,
-          "alt": 0.398
-        },
-        "tahmin": "ust",
-        "guven": 0.204,
-        "kaynak_sayisi": 10
-      },
-      "ai_metin": "Bu dengeli maçta Newcastle United, %41 ile çok hafif favori konumda. Veri kaynaklarının alışılmadık fikir birliği, %60 olasılıkla 3 veya daha fazla golle birlikte Newcastle'ın gollü bir galibiyetine işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %54 isabet sağladı. Beraberlik %26 ile ikinci en olası sonuç olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "0-2",
-      "toplam_gol": 2,
-      "tuttu": true,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "63aa6e3f679ee4c68de5b4bd8d3361bb",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Atalanta BC",
-      "deplasman": "Frosinone",
-      "baslama_utc": "2026-10-25T14:00:00Z",
-      "olasiliklar": {
-        "1": 0.5221,
-        "X": 0.2312,
-        "2": 0.2467
-      },
-      "tahmin": "1",
-      "guven": 0.2754,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6731,
-          "alt": 0.3269
-        },
-        "tahmin": "ust",
-        "guven": 0.3462,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Atalanta bu maçta açık ara favori konumunda ve %52'lik kazanma olasılığıyla öne çıkıyor. Yüksek gol beklentisi (%67 ile 3 veya daha fazla gol) favorinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimiz, bu güven seviyesindeki maçlarda beklenen %48'in üzerinde, %59 isabet oranıyla başarılıydı. Beraberlik (%23) ve Frosinone galibiyeti (%25) ise daha düşük ihtimaller olarak dikkat çekiyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "X",
-      "skor": "4-4",
-      "toplam_gol": 8,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "95cfaecfe96bb7ced1fb6af974a4110b",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Genoa",
-      "deplasman": "Venezia",
-      "baslama_utc": "2026-10-25T14:00:00Z",
-      "olasiliklar": {
-        "1": 0.4427,
-        "X": 0.2911,
-        "2": 0.2662
-      },
-      "tahmin": "1",
-      "guven": 0.1516,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4886,
-          "alt": 0.5114
-        },
-        "tahmin": "alt",
-        "guven": 0.0228,
-        "kaynak_sayisi": 17
-      },
-      "ai_metin": "Genoa, %44 kazanma olasılığıyla bu maçın favorisi konumunda. Ortalama gol beklentisi en fazla 2 gol yönünde olsa da, 3 veya daha fazla gol ihtimali %49 ile oldukça yakın. Geçmiş tahminlerimizin bu güven seviyesinde %59 isabet oranıyla beklentinin üzerinde performans gösterdiğini belirtelim. Beraberlik (%29) ve Venezia galibiyeti (%27) arasındaki farkın düşük olması, maçın her sonuca açık olabileceğine işaret ediyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "1-0",
-      "toplam_gol": 1,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c177a3c900d7febf9870ca8de90a9e35",
-      "lig": "soccer_france_ligue_one",
-      "ev_sahibi": "AS Monaco",
-      "deplasman": "Lille",
-      "baslama_utc": "2026-10-25T14:00:00Z",
-      "olasiliklar": {
-        "1": 0.4612,
-        "X": 0.2775,
-        "2": 0.2613
-      },
-      "tahmin": "1",
-      "guven": 0.1837,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5232,
-          "alt": 0.4768
-        },
-        "tahmin": "ust",
-        "guven": 0.0464,
-        "kaynak_sayisi": 15
-      },
-      "ai_metin": "Monaco, %46 galibiyet olasılığıyla bu maçın favorisi konumunda. Yüksek gol beklentisi (%52 ile 3 veya daha fazla gol) Monaco'nun gollü bir galibiyet alabileceğine işaret ediyor. Lille'in son üç maçında iki kez 3+ gol olması, bu senaryoyu destekliyor. Beraberlik %28 ile ikinci en olası sonuç.",
-      "ai_metinler": null,
-      "gercek_sonuc": "X",
-      "skor": "1-1",
-      "toplam_gol": 2,
-      "tuttu": false,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "99d0a781893c9d0640e334eec0d7c941",
-      "lig": "soccer_turkey_super_league",
-      "ev_sahibi": "Torku Konyaspor",
-      "deplasman": "Genclerbirligi SK",
-      "baslama_utc": "2026-10-25T13:00:00Z",
-      "olasiliklar": {
-        "1": 0.5073,
-        "X": 0.2688,
-        "2": 0.2239
-      },
-      "tahmin": "1",
-      "guven": 0.2385,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4731,
-          "alt": 0.5269
-        },
-        "tahmin": "alt",
-        "guven": 0.0538,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "Ev sahibi Konyaspor, %51 kazanma olasılığıyla bu maçın favorisi konumunda. Düşük gol beklentisi (%53 ile en fazla 2 gol) göz önüne alındığında, Konyaspor'un kontrollü bir galibiyet alması olası. Geçmiş tahminlerimizde bu güven seviyesinde beklenen %48 isabet oranının üzerinde, %59 başarı yakaladık. Beraberlik %27 ile ikinci en olası sonuçken, Gençlerbirliği'nin galibiyet ihtimali %22 ile daha düşük.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "2-0",
-      "toplam_gol": 2,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "9c4254cba9944a839b421db27260504d",
-      "lig": "soccer_spain_la_liga",
-      "ev_sahibi": "Athletic Bilbao",
-      "deplasman": "Getafe",
-      "baslama_utc": "2026-10-25T13:00:00Z",
-      "olasiliklar": {
-        "1": 0.6042,
-        "X": 0.2417,
-        "2": 0.1541
-      },
-      "tahmin": "1",
-      "guven": 0.3625,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.4178,
-          "alt": 0.5822
-        },
-        "tahmin": "alt",
-        "guven": 0.1644,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Athletic Bilbao, %60 kazanma olasılığıyla bu maçın net favorisi. Ancak %58 ile en fazla 2 gol beklentisi, favorinin kontrollü ve az gollü bir galibiyetine işaret ediyor. Bu güven seviyesindeki geçmiş tahminlerimiz %79 isabet oranıyla beklentinin üzerinde performans gösterdi. Getafe'nin galibiyet ihtimali ise sadece %15 ile oldukça düşük.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "4-0",
-      "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c9b6c7048d8dc33dae618f67f462f67a",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Inter Milan",
-      "deplasman": "Fiorentina",
-      "baslama_utc": "2026-10-25T11:30:00Z",
-      "olasiliklar": {
-        "1": 0.7015,
-        "X": 0.1734,
-        "2": 0.1251
-      },
-      "tahmin": "1",
-      "guven": 0.5281,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.67,
-          "alt": 0.33
-        },
-        "tahmin": "ust",
-        "guven": 0.34,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Inter Milan, Fiorentina karşısında açık ara favori konumda. Yüksek gol beklentisiyle birlikte ev sahibinin gollü bir galibiyet alması en olası senaryo. Veri kaynaklarındaki belirgin görüş farkı nedeniyle bu maçta normalden yüksek bir belirsizlik söz konusu. Fiorentina'nın galibiyet ihtimali %13 ile oldukça düşük kalıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "2-1",
-      "toplam_gol": 3,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": true
     }
   ]
 }
