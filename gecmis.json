@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-22T17:30:48Z",
-  "mac_sayisi": 452,
+  "guncelleme_utc": "2026-11-22T19:30:46Z",
+  "mac_sayisi": 453,
   "maclar": [
+    {
+      "mac_id": "dddc911eddfe6a3943d037b9494921be",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Atletico Paranaense",
+      "deplasman": "Remo",
+      "baslama_utc": "2026-11-22T19:00:00Z",
+      "olasiliklar": {
+        "1": 0.6278,
+        "X": 0.2228,
+        "2": 0.1493
+      },
+      "tahmin": "1",
+      "guven": 0.405,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5434,
+          "alt": 0.4566
+        },
+        "tahmin": "ust",
+        "guven": 0.0868,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Atletico Paranaense, Remo karşısında belirgin biçimde önde: %63 galibiyet olasılığı ve %15'lik deplasman galibiyeti ihtimaline karşı net bir fark var. Toplam gol tarafında 3 veya daha fazla gol %54, en fazla 2 gol %46 ile hafif bir üstünlük taşıyor; bu da ev sahibinin üstünlüğünün gollü bir galibiyete dönüşebileceği, ama açık bir fark olmadığı bir senaryoya işaret ediyor. Bu güven düzeyindeki geçmiş tahminlerimiz 157 maçta %77 isabet oranına ulaştı, beklenen %66'nın üzerinde; yine de bu tek bir maçta sonucun garantisi değil. En olası ikinci sonuç olan beraberlik %22 ihtimalle mümkün, Remo'nun galibiyeti ise %15 ile düşük bir ihtimal.",
+      "ai_metinler": {
+        "en": "Atletico Paranaense holds a clear advantage over Remo: a 63% probability of winning, with a clear gap against the 15% probability of an away win. On total goals, 3 or more goals sits at 54% and at most 2 goals at 46%, a slight edge that points to a scenario where the home side's superiority could turn into a high-scoring win, though without a decisive margin. Our past predictions at this confidence level have reached a 77% hit rate over 157 matches, above the expected 66%; even so, this is no guarantee of the outcome in a single match. The second most likely result, a draw, has a 22% probability, while Remo's win, at 15%, is a less likely outcome.",
+        "es": "Atlético Paranaense claramente por delante frente a Remo: hay una diferencia notable frente a una probabilidad de victoria visitante del 15%, con una probabilidad de victoria local del 63%. En cuanto a los goles totales, 3 goles o más tienen un 54% y como máximo 2 goles un 46%, con una ligera ventaja para el primero; esto apunta a un escenario en el que la superioridad del equipo local podría traducirse en una victoria con goles, aunque sin una diferencia abrumadora. Nuestras predicciones anteriores con este nivel de confianza alcanzaron un índice de acierto del 77% en 157 partidos, por encima del 66% esperado; aun así, esto no garantiza el resultado de un único partido. El empate, como segundo resultado más probable, tiene un 22% de posibilidades, mientras que la victoria de Remo, con un 15%, es una opción poco probable.",
+        "de": "Atletico Paranaense liegt gegenüber Remo deutlich vorne: Die Wahrscheinlichkeit eines Heimsiegs beträgt 63%, und gegenüber der Wahrscheinlichkeit eines Auswärtssiegs von 15% ist der Unterschied klar. Bei der Gesamtzahl der Tore hat „3 oder mehr Tore“ mit 54% einen leichten Vorsprung vor „höchstens 2 Tore“ mit 46%. Das deutet auf ein Szenario hin, in dem der Heimvorteil zu einem torreichen Sieg werden kann, ein klarer Abstand besteht hier jedoch nicht. Unsere früheren Prognosen mit diesem Konfidenzniveau erreichten bei 157 Spielen eine Trefferquote von 77%, was über den erwarteten 66% liegt; dennoch ist das bei einem einzelnen Spiel keine Garantie für das Ergebnis. Ein Unentschieden, das mit 22% das zweitwahrscheinlichste Ergebnis ist, ist ebenfalls möglich, während ein Sieg von Remo mit 15% nur eine geringe Wahrscheinlichkeit hat.",
+        "fr": "Atletico Paranaense est nettement favori face à Remo : une probabilité de victoire de 63 %, avec un écart clair face à la probabilité de 15 % d'une victoire à l'extérieur. Concernant le total de buts, 3 buts ou plus ont une probabilité de 54 %, et au plus 2 buts une probabilité de 46 %, ce qui indique une légère prédominance ; cela correspond à un scénario où l'avantage de l'équipe à domicile pourrait se traduire par une victoire riche en buts, sans pour autant constituer un écart net. Avec ce niveau de confiance, nos pronostics passés ont atteint un taux de réussite de 77 % sur 157 matchs, au-dessus du taux attendu de 66 % ; cela ne garantit toutefois pas le résultat d'un match isolé. Le deuxième résultat le plus probable, le match nul, a une probabilité de 22 %, tandis que la victoire de Remo, à 15 %, reste peu probable.",
+        "it": "Atletico Paranaense è nettamente in vantaggio sul Remo: c'è una chiara differenza rispetto alla probabilità di vittoria esterna del 15% e alla probabilità di vittoria interna del 63%. Per il totale gol, 3 o più gol hanno una probabilità del 54%, mentre al massimo 2 gol del 46%, un leggero vantaggio che indica uno scenario in cui la superiorità della squadra di casa potrebbe tradursi in una vittoria con gol, ma senza un divario netto. Le nostre previsioni passate con questo livello di fiducia hanno raggiunto una percentuale di successo del 77% su 157 partite, superiore al 66% atteso; ciononostante, questo non garantisce l'esito di una singola partita. Il secondo esito più probabile, il pareggio, è possibile con una probabilità del 22%, mentre la vittoria del Remo, con il 15%, è una possibilità remota.",
+        "pt": "Atlético Paranaense está claramente à frente do Remo: há uma probabilidade de 63% de vitória, com uma diferença nítida em relação à chance de 15% de vitória fora de casa para o Remo. No quesito total de gols, 3 gols ou mais tem 54% e no máximo 2 gols tem 46%, uma leve vantagem que aponta para um cenário em que a superioridade do mandante pode se transformar em uma vitória com gols, mas sem uma diferença marcante. Em nossas previsões anteriores com este nível de confiança, alcançamos uma taxa de acerto de 77% em 157 partidas, acima dos 66% esperados; ainda assim, isso não garante o resultado em uma partida isolada. O segundo resultado mais provável, o empate, tem 22% de probabilidade, enquanto a vitória do Remo, com 15%, é uma possibilidade baixa."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "893268e5503c4e58fbf137e4b5db7e93",
       "lig": "soccer_spain_la_liga",
@@ -73,11 +112,11 @@
         "pt": "AC Milan, ev sahibi olarak belirgin biçimde önde; %62 galibiyet olasılığı, arşivdeki Serie A ortalamasının (%42) oldukça üzerinde. Toplam gol tarafında 3 veya daha fazla gol %70 ile öne çıkıyor; bu, Milan'ın son 5 maçta 4 maçın 3+ golle bitmesiyle ve arşivdeki %55 ortalamayla uyumlu, gollü bir favori galibiyeti senaryosuna işaret ediyor. En olası ikinci sonuç %20 ile beraberlik; bu, dengesiz bir maçta Frosinone'nin deplasmandaki son üç maçta yalnızca bir beraberlik alması bağlamında akla yatkın bir ihtimal.",
         "de": "AC Milan ist als Heimmannschaft deutlich im Vorteil; die Wahrscheinlichkeit eines Sieges liegt bei 62 %, weit über dem Durchschnitt von 42 % im Archiv der Serie A. Bei den Torsummen sticht die Wahrscheinlichkeit für 3 oder mehr Tore mit 70 % hervor; das passt zu einem torreichen Szenario mit einem Sieg des Favoriten, das durch die letzten 5 Spiele Mailands gestützt wird, von denen 4 mit 3 oder mehr Toren endeten, und zum Archivdurchschnitt von 55 %. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden mit 20 %; angesichts der nur einen Punkt, den Frosinone in den letzten drei Auswärtsspielen geholt hat, ist das in einer ausgeglichenen Partie ein plausibles Szenario."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "5-1",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -112,11 +151,11 @@
         "it": "Liverpool, Manchester United karşısında belirgin biçimde önde: ev sahibi kazanma olasılığı 56%, deplasman galibiyeti ise 21%. Toplam gol tarafında 3 veya daha fazla gol 64% ile daha olası görünüyor; bu da favorinin gollü bir galibiyetinin ön plana çıktığı açık bir senaryoya işaret ediyor. Liverpool'un son 5 maçta 11 gol atıp 8 gol yediği, Manchester United'ın ise deplasmanda son 4 maçta yalnızca 2 gol attığı göz önüne alındığında bu tablo kendi verilerimizle de tutarlı. Premier Lig ortalamasında ev sahibi kazanma olasılığı 43% iken bu maçtaki 56% belirgin bir üstünlük anlamına geliyor. Bu noktada en olası ikinci sonuç beraberlik (22%); ancak Manchester United'ın deplasmanda son 4 maçta 9 gol yemiş olması, sonucun deplasman galibiyetine dönme ihtimalini düşük (21%) tutuyor.",
         "pt": "Liverpool, Manchester United karşısında belirgin biçimde önde: ev sahibi kazanma olasılığı 56%, deplasman galibiyeti ise 21%. Toplam gol tarafında 3 veya daha fazla gol 64% ile daha olası görünüyor; bu da favorinin gollü bir galibiyetinin ön plana çıktığı açık bir senaryoya işaret ediyor. Liverpool'un son 5 maçta 11 gol atıp 8 gol yediği, Manchester United'ın ise deplasmanda son 4 maçta yalnızca 2 gol attığı göz önüne alındığında bu tablo kendi verilerimizle de tutarlı. Premier Lig ortalamasında ev sahibi kazanma olasılığı 43% iken bu maçtaki 56% belirgin bir üstünlük anlamına geliyor. Bu noktada en olası ikinci sonuç beraberlik (22%); ancak Manchester United'ın deplasmanda son 4 maçta 9 gol yemiş olması, sonucun deplasman galibiyetine dönme ihtimalini düşük (21%) tutuyor."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "4-0",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -151,11 +190,11 @@
         "it": "Werder Brema, il vantaggio di giocare in casa, appare un chiaro favorito: nelle probabilità di esito della partita è in testa con il 57%, mentre l'Amburgo SV si ferma al 21%. Per il totale dei gol, il 62% è a favore di 3 o più gol, uno scenario che indica una vittoria del favorito con molte reti. Poiché nella media della Bundesliga la probabilità di vittoria della squadra di casa è del 45%, il 57% del Brema è nettamente superiore a questa media. La probabilità di pareggio, pari al 22%, attira l'attenzione; come secondo esito più probabile, rimane leggermente al di sopra della media (21%).",
         "pt": "O Werder Bremen aparece como um claro favorito, beneficiado por jogar em casa: nas probabilidades de resultado da partida, tem 57% à frente e o Hamburger SV fica com 21%. Nas probabilidades de total de gols, 3 gols ou mais aparecem com destaque, com 62%; isso aponta para um cenário em que o favorito vence com vários gols. Como a média da Bundesliga para vitória do mandante é de 45%, os 57% do Bremen ficam bem acima dessa média. A probabilidade de empate, de 22%, também chama a atenção: como segundo resultado mais provável, ela fica praticamente acima da média (21%)."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "4-0",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -190,11 +229,11 @@
         "it": "Nella partita Lorient–Rennes, la squadra ospite Rennes è leggermente in vantaggio con il 40%; tuttavia le probabilità sono piuttosto equilibrate. Il fatto che il Rennes abbia subito 11 gol nelle ultime quattro partite, e che in tutte e quattro si siano visti 3 o più gol, indica uno scenario con molte reti, anche se la probabilità di 3 o più gol (51%) resta sotto la media del campionato (58%). Il fatto che il Lorient, nelle ultime quattro partite, non abbia mai giocato una partita con 3 gol bilancia in parte questa possibilità. Il secondo esito più probabile, la vittoria del Lorient, ha una probabilità ragionevole del 33%; il pareggio, con una probabilità del 27%, è anch'esso plausibile.",
         "pt": "Na partida Lorient–Rennes, a equipe visitante Rennes está ligeiramente à frente, com 40%; porém, as probabilidades são bastante equilibradas. O fato de o Rennes ter sofrido 11 gols nos últimos quatro jogos, com 3 ou mais gols em todos esses quatro jogos, aponta para um cenário com muitos gols, embora a probabilidade de 3 ou mais gols (51%) fique abaixo da média da liga (58%). Por outro lado, o Lorient não teve nenhum jogo com 3 gols nos últimos quatro jogos, o que equilibra um pouco essa possibilidade. A segunda opção mais provável, a vitória do Lorient, tem 33%, uma probabilidade razoável; o empate, com 27%, também está dentro das possibilidades."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -220,10 +259,10 @@
         "it": "Trabzonspor è nettamente avanti rispetto all'Eyüpspor: con una probabilità di vittoria dell'83%, la squadra di casa è la netta favorita. Nelle ultime 5 partite il Trabzonspor ha ottenuto 5 vittorie e segnato 13 gol, mentre l'Eyüpspor, con un solo gol segnato nelle ultime 5 partite, ne ha subiti 14: un contrasto evidente sul piano offensivo. Questo quadro rende più probabile uno scenario in cui la favorita ottenga una vittoria con più reti, anche se in Süper Lig la probabilità di 3 o più gol è del 53%; per questo incontro, con un'attesa di gol superiore alla media, le nostre previsioni simili del passato hanno registrato un tasso di precisione dell'87%. Il pareggio, secondo esito possibile, è valutato con una probabilità ridotta dell'11%.",
         "pt": "Trabzonspor, Eyüpspor karşısında belirgin biçimde önde: %83 galibiyet olasılığı ile ev sahibi net favori. Son 5 maçta 5 galibiyet alıp 13 gol atan Trabzonspor'un hücum üretkenliği, son 5 maçta tek gol atıp 14 gol yiyen Eyüpspor'un tablosuyla keskin bir kontrast oluşturuyor. Bu tablo, favorinin gollü bir galibiyete yönelebileceği senaryoyu öne çıkarıyor; yine de Süper Lig'de 3 veya daha fazla gol olasılığı %53 olduğundan, ortalamanın üzerinde bir gol beklentisi taşıyan bu maç için benzer geçmiş tahminlerimiz %87 isabet oranıyla dikkat çekiyor. İkinci olası sonuç olan beraberlik %11 ile düşük bir ihtimal olarak değerlendiriliyor."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
       "alt_ust_tuttu": null,
       "ucretsiz": false
     },
@@ -259,11 +298,11 @@
         "it": "In questa partita la squadra ospite Real Sociedad è chiaramente in vantaggio: le probabilità indicano un 47% di vittoria e un 30% di vittoria della squadra di casa, e il fatto che la Sociedad abbia vinto 4 delle ultime 5 partite rafforza questo quadro. Lo scenario più probabile è una vittoria degli ospiti con diversi gol; una probabilità del 70% di 3 o più gol indica un'aspettativa di partita aperta in questo senso. La media del campionato (55%) e il fatto che il Santander abbia visto 3 o più gol in 4 delle ultime 5 partite sostengono questa probabilità, ma va ricordato che le nostre precedenti previsioni con questo livello di fiducia hanno avuto un'accuratezza del 46%. Il secondo esito più probabile è il pareggio, con il 23%: una possibilità che resta a un livello ragionevole.",
         "pt": "Nesta partida, a equipe visitante Real Sociedad está claramente à frente: as probabilidades apontam 47% de vitória e 30% de vitória da equipe da casa, e a sequência da Sociedad, com 4 vitórias nos últimos 5 jogos, reforça esse quadro. O cenário de maior probabilidade é uma vitória do visitante com gols, e a probabilidade de 70% de 3 gols ou mais aponta claramente para essa expectativa de jogo aberto. A média da liga (55%) e o fato de o Santander ter visto 3 gols ou mais em 4 dos últimos 5 jogos sustentam essa probabilidade por cima, mas também vale lembrar que nossas previsões anteriores nesse nível de confiança acertaram 46% das vezes. O segundo resultado mais provável é o empate, com 23%; essa probabilidade permanece em um nível razoável."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -10532,29 +10571,6 @@
       "tuttu": true,
       "alt_ust_tuttu": null,
       "ucretsiz": false
-    },
-    {
-      "mac_id": "54ecd2cf77168d62e84f2fd5ccc54a82",
-      "lig": "soccer_turkey_super_league",
-      "ev_sahibi": "Besiktas JK",
-      "deplasman": "Basaksehir",
-      "baslama_utc": "2026-10-26T16:00:00Z",
-      "olasiliklar": {
-        "1": 0.6917,
-        "X": 0.1785,
-        "2": 0.1298
-      },
-      "tahmin": "1",
-      "guven": 0.5132,
-      "alt_ust": null,
-      "ai_metin": "Beşiktaş, bu maçta %69 kazanma olasılığıyla net favori konumunda. Veriler, favorinin gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Bu güven seviyesindeki geçmiş tahminlerimiz, beklenen %68 isabet oranının üzerinde seyrediyor. Beraberlik ihtimali %18 ile ikinci en olası sonuçken, Başakşehir'in galibiyeti %13 ile oldukça düşük bir olasılık.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "2-0",
-      "toplam_gol": 2,
-      "tuttu": true,
-      "alt_ust_tuttu": null,
-      "ucretsiz": true
     }
   ]
 }
