@@ -1,17 +1,17 @@
 {
-  "guncelleme_utc": "2026-11-22T20:30:44Z",
-  "toplam_tahmin": 444,
-  "tutan": 285,
-  "isabet_orani": 0.6419,
-  "beklenen_isabet": 0.5384,
-  "sonuc_bekleyen": 18,
+  "guncelleme_utc": "2026-11-22T21:30:46Z",
+  "toplam_tahmin": 445,
+  "tutan": 286,
+  "isabet_orani": 0.6427,
+  "beklenen_isabet": 0.5386,
+  "sonuc_bekleyen": 17,
   "lig_bazinda": {
     "soccer_brazil_campeonato": {
-      "toplam_tahmin": 14,
-      "tutan": 7,
-      "isabet_orani": 0.5,
-      "beklenen_isabet": 0.5151,
-      "sonuc_bekleyen": 3
+      "toplam_tahmin": 15,
+      "tutan": 8,
+      "isabet_orani": 0.5333,
+      "beklenen_isabet": 0.5226,
+      "sonuc_bekleyen": 2
     },
     "soccer_england_league1": {
       "toplam_tahmin": 6,
@@ -107,11 +107,11 @@
       "sonuc_bekleyen": 5
     },
     "0.30+": {
-      "toplam_tahmin": 184,
-      "tutan": 141,
-      "isabet_orani": 0.7663,
-      "beklenen_isabet": 0.665,
-      "sonuc_bekleyen": 5
+      "toplam_tahmin": 185,
+      "tutan": 142,
+      "isabet_orani": 0.7676,
+      "beklenen_isabet": 0.6648,
+      "sonuc_bekleyen": 4
     }
   },
   "lig_guven_bazinda": {
@@ -131,11 +131,11 @@
         "sonuc_bekleyen": 1
       },
       "0.30+": {
-        "toplam_tahmin": 6,
-        "tutan": 5,
-        "isabet_orani": 0.8333,
-        "beklenen_isabet": 0.6341,
-        "sonuc_bekleyen": 1
+        "toplam_tahmin": 7,
+        "tutan": 6,
+        "isabet_orani": 0.8571,
+        "beklenen_isabet": 0.6332,
+        "sonuc_bekleyen": 0
       }
     },
     "soccer_england_league1": {
@@ -395,11 +395,11 @@
   "aylik": {
     "2026-11": {
       "genel": {
-        "toplam_tahmin": 247,
-        "tutan": 164,
-        "isabet_orani": 0.664,
-        "beklenen_isabet": 0.5414,
-        "sonuc_bekleyen": 18
+        "toplam_tahmin": 248,
+        "tutan": 165,
+        "isabet_orani": 0.6653,
+        "beklenen_isabet": 0.5418,
+        "sonuc_bekleyen": 17
       },
       "0-0.15": {
         "toplam_tahmin": 70,
@@ -416,11 +416,11 @@
         "sonuc_bekleyen": 5
       },
       "0.30+": {
-        "toplam_tahmin": 102,
-        "tutan": 81,
-        "isabet_orani": 0.7941,
-        "beklenen_isabet": 0.6699,
-        "sonuc_bekleyen": 5
+        "toplam_tahmin": 103,
+        "tutan": 82,
+        "isabet_orani": 0.7961,
+        "beklenen_isabet": 0.6695,
+        "sonuc_bekleyen": 4
       }
     },
     "2026-10": {
@@ -455,18 +455,18 @@
     }
   },
   "alt_ust": {
-    "toplam_tahmin": 417,
-    "tutan": 245,
-    "isabet_orani": 0.5875,
-    "beklenen_isabet": 0.5951,
-    "sonuc_bekleyen": 18,
+    "toplam_tahmin": 418,
+    "tutan": 246,
+    "isabet_orani": 0.5885,
+    "beklenen_isabet": 0.5949,
+    "sonuc_bekleyen": 17,
     "lig_bazinda": {
       "soccer_brazil_campeonato": {
-        "toplam_tahmin": 14,
-        "tutan": 7,
-        "isabet_orani": 0.5,
-        "beklenen_isabet": 0.5593,
-        "sonuc_bekleyen": 3
+        "toplam_tahmin": 15,
+        "tutan": 8,
+        "isabet_orani": 0.5333,
+        "beklenen_isabet": 0.5583,
+        "sonuc_bekleyen": 2
       },
       "soccer_england_league1": {
         "toplam_tahmin": 4,
@@ -548,11 +548,11 @@
     },
     "guven_araligi_bazinda": {
       "0-0.15": {
-        "toplam_tahmin": 192,
-        "tutan": 98,
-        "isabet_orani": 0.5104,
+        "toplam_tahmin": 193,
+        "tutan": 99,
+        "isabet_orani": 0.513,
         "beklenen_isabet": 0.537,
-        "sonuc_bekleyen": 13
+        "sonuc_bekleyen": 12
       },
       "0.15-0.30": {
         "toplam_tahmin": 143,
@@ -572,11 +572,11 @@
     "lig_guven_bazinda": {
       "soccer_brazil_campeonato": {
         "0-0.15": {
-          "toplam_tahmin": 9,
-          "tutan": 5,
-          "isabet_orani": 0.5556,
-          "beklenen_isabet": 0.5347,
-          "sonuc_bekleyen": 3
+          "toplam_tahmin": 10,
+          "tutan": 6,
+          "isabet_orani": 0.6,
+          "beklenen_isabet": 0.5356,
+          "sonuc_bekleyen": 2
         },
         "0.15-0.30": {
           "toplam_tahmin": 5,
@@ -850,18 +850,18 @@
     "aylik": {
       "2026-11": {
         "genel": {
-          "toplam_tahmin": 238,
-          "tutan": 140,
-          "isabet_orani": 0.5882,
-          "beklenen_isabet": 0.5887,
-          "sonuc_bekleyen": 18
+          "toplam_tahmin": 239,
+          "tutan": 141,
+          "isabet_orani": 0.59,
+          "beklenen_isabet": 0.5885,
+          "sonuc_bekleyen": 17
         },
         "0-0.15": {
-          "toplam_tahmin": 114,
-          "tutan": 58,
-          "isabet_orani": 0.5088,
-          "beklenen_isabet": 0.5361,
-          "sonuc_bekleyen": 13
+          "toplam_tahmin": 115,
+          "tutan": 59,
+          "isabet_orani": 0.513,
+          "beklenen_isabet": 0.5362,
+          "sonuc_bekleyen": 12
         },
         "0.15-0.30": {
           "toplam_tahmin": 86,

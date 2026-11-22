@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-22T20:30:44Z",
-  "mac_sayisi": 456,
+  "guncelleme_utc": "2026-11-22T21:30:46Z",
+  "mac_sayisi": 457,
   "maclar": [
+    {
+      "mac_id": "fe93738d5c6aca8b60e7f18e1d685e98",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Fluminense",
+      "deplasman": "Mirassol",
+      "baslama_utc": "2026-11-22T21:30:00Z",
+      "olasiliklar": {
+        "1": 0.5472,
+        "X": 0.253,
+        "2": 0.1998
+      },
+      "tahmin": "1",
+      "guven": 0.2942,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5021,
+          "alt": 0.4979
+        },
+        "tahmin": "ust",
+        "guven": 0.0042,
+        "kaynak_sayisi": 4
+      },
+      "ai_metin": "Fluminense, ev sahibi avantajını da taşıyan bariz bir favori görünüyor; olasılıkların %55'e ulaşması kazanma ihtimalinin Mirassol'un önüne net biçimde geçtiğini gösteriyor. Toplam gol dağılımının %50-%50 olması ise maçın tek bir gollü senaryoya kilitlenmediğini, hem gollü hem kontrollü bir akışın eşit ihtimalle mümkün olduğunu ortaya koyuyor. Geçmişte bu güven seviyesindeki tahminlerimiz 120 maçta %62 isabet oranına ulaştı; beklenen %49'un üzerindeki bu sonuç, bu tür tahminlerin istatistiksel olarak anlamlı biçimde çalıştığına işaret ediyor. En olası ikinci sonuç olan beraberlik %25 ile dikkat çekiyor; Mirassol'un galibiyeti ise %20 olasılıkla senaryo dışı kalmıyor.",
+      "ai_metinler": {
+        "en": "Fluminense appears to be a clear favorite, also carrying the home advantage; a probability of 55% shows that their chance of winning clearly stands ahead of Mirassol's. A 50%-50% split in total goals, however, indicates that the match is not locked into a single low-scoring scenario: a match with 3 or more goals and one with at most 2 goals are equally likely. Our predictions at this confidence level have reached a 62% success rate over 120 matches; this result, above the expected 49%, suggests that predictions of this kind work in a statistically meaningful way. The second most likely outcome, a draw, stands out at 25%, while Mirassol's victory still has a 20% probability of not being ruled out.",
+        "es": "Fluminense parece un claro favorito, con la ventaja de jugar en casa; que sus probabilidades alcancen el 55% muestra que la posibilidad de victoria supera claramente a la de Mirassol. La distribución de 3 o más goles frente a 2 goles como máximo, con un 50% para cada opción, indica que el partido no se inclina hacia un único escenario de goles: tanto un encuentro con muchos goles como uno controlado tienen la misma probabilidad. En el pasado, nuestras predicciones con este nivel de confianza acertaron en un 62% de los 120 partidos; este resultado, por encima del 49% esperado, indica que este tipo de predicciones funciona de forma estadísticamente significativa. El segundo resultado más probable, el empate, destaca con un 25%; la victoria de Mirassol, por su parte, tiene un 20% de probabilidad y no queda descartada.",
+        "de": "Fluminense wirkt als klarer Favorit, der auch vom Heimvorteil profitiert; dass die Wahrscheinlichkeiten bei 55% liegen, zeigt deutlich, dass die Chance auf einen Sieg die von Mirassol klar übertrifft. Dass die Verteilung der Gesamttore 50% zu 50% beträgt, deutet darauf hin, dass sich das Spiel nicht auf ein einziges torarmes Szenario festlegt: Ein Spiel mit 3 oder mehr Toren und ein Spiel mit höchstens 2 Toren sind gleich wahrscheinlich. Unsere Prognosen mit diesem Vertrauensniveau haben in der Vergangenheit bei 120 Spielen eine Trefferquote von 62% erreicht; dieses Ergebnis über den erwarteten 49% spricht dafür, dass solche Prognosen statistisch aussagekräftig funktionieren. Das zweitwahrscheinlichste Ergebnis, das Unentschieden, fällt mit 25% auf, und einen Sieg von Mirassol schließen wir mit einer Wahrscheinlichkeit von 20% ebenfalls nicht aus.",
+        "fr": "Fluminense apparaît comme un favori évident, bénéficiant aussi de l'avantage du terrain ; une probabilité de 55 % pour sa victoire montre clairement que sa chance de gagner dépasse nettement celle de Mirassol. La répartition de 50 %-50 concernant le nombre de buts indique que le match ne se dessine pas autour d'un scénario à un seul but : un déroulement riche en buts et un déroulement plus contrôlé sont tous deux possibles, avec une probabilité égale. Dans le passé, nos pronostics à ce niveau de confiance ont atteint un taux de réussite de 62 % sur 120 matchs ; ce résultat, supérieur au 49 % attendu, suggère que ce type de prévision fonctionne de manière statistiquement significative. Le match nul, deuxième issue la plus probable, se démarque avec 25 % ; quant à la victoire de Mirassol, elle n'est pas exclue pour autant, avec une probabilité de 20 %.",
+        "it": "Fluminense appare un favorito evidente, che beneficia anche del vantaggio di giocare in casa; probabilità del 55% indicano chiaramente che la possibilità di vittoria supera nettamente quella del Mirassol. La distribuzione del numero totale di gol al 50%-50% mostra invece che la partita non è vincolata a un unico scenario: uno sviluppo con 3 o più gol e uno con al massimo 2 gol sono considerati ugualmente probabili. In passato, le nostre previsioni con questo livello di fiducia hanno raggiunto una percentuale di successo del 62% su 120 partite; questo risultato, superiore al 49% atteso, indica che tali previsioni funzionano in modo statisticamente significativo. Il pareggio, secondo esito più probabile, si distingue con il 25%; la vittoria del Mirassol, però, non è esclusa dagli scenari, con una probabilità del 20%.",
+        "pt": "Fluminense aparece como um claro favorito, também beneficiado pela vantagem de jogar em casa; a probabilidade de 55% indica com clareza que a chance de vitória do Fluminense está bem à frente da do Mirassol. A distribuição de gols igual a 50%-50% sugere que a partida não se fixa em um único cenário de gols: um jogo com gols e um jogo mais controlado têm, na mesma medida, probabilidades equivalentes. Em previsões desse nível de confiança feitas no passado, nossa taxa de acerto foi de 62% em 120 jogos; esse resultado acima dos 49% esperados sinaliza que este tipo de previsão funciona de forma estatisticamente significativa. O segundo resultado mais provável, o empate, chama a atenção com 25%; já a vitória do Mirassol, com probabilidade de 20%, também não está fora do cenário."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "7a62fe738bd20cfff6027c52fec05d51",
       "lig": "soccer_spain_la_liga",
@@ -151,11 +190,11 @@
         "it": "Atletico Paranaense è nettamente in vantaggio sul Remo: c'è una chiara differenza rispetto alla probabilità di vittoria esterna del 15% e alla probabilità di vittoria interna del 63%. Per il totale gol, 3 o più gol hanno una probabilità del 54%, mentre al massimo 2 gol del 46%, un leggero vantaggio che indica uno scenario in cui la superiorità della squadra di casa potrebbe tradursi in una vittoria con gol, ma senza un divario netto. Le nostre previsioni passate con questo livello di fiducia hanno raggiunto una percentuale di successo del 77% su 157 partite, superiore al 66% atteso; ciononostante, questo non garantisce l'esito di una singola partita. Il secondo esito più probabile, il pareggio, è possibile con una probabilità del 22%, mentre la vittoria del Remo, con il 15%, è una possibilità remota.",
         "pt": "Atlético Paranaense está claramente à frente do Remo: há uma probabilidade de 63% de vitória, com uma diferença nítida em relação à chance de 15% de vitória fora de casa para o Remo. No quesito total de gols, 3 gols ou mais tem 54% e no máximo 2 gols tem 46%, uma leve vantagem que aponta para um cenário em que a superioridade do mandante pode se transformar em uma vitória com gols, mas sem uma diferença marcante. Em nossas previsões anteriores com este nível de confiança, alcançamos uma taxa de acerto de 77% em 157 partidas, acima dos 66% esperados; ainda assim, isso não garante o resultado em uma partida isolada. O segundo resultado mais provável, o empate, tem 22% de probabilidade, enquanto a vitória do Remo, com 15%, é uma possibilidade baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "4-2",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -10566,38 +10605,6 @@
       "gercek_sonuc": "2",
       "skor": "1-3",
       "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c7445242bf16a8f37afef7863af45a78",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Sassuolo",
-      "deplasman": "Lazio",
-      "baslama_utc": "2026-10-27T17:30:00Z",
-      "olasiliklar": {
-        "1": 0.2889,
-        "X": 0.2666,
-        "2": 0.4445
-      },
-      "tahmin": "2",
-      "guven": 0.1556,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5635,
-          "alt": 0.4365
-        },
-        "tahmin": "ust",
-        "guven": 0.127,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "Lazio, %44 kazanma olasılığıyla Sassuolo deplasmanında favori konumda. Maçın %56 ihtimalle 3 veya daha fazla golle bitmesi, Lazio'nun gollü bir galibiyet alabileceğine işaret ediyor. Son 3 maçında 8 gol atan Lazio'nun bu performansı, genel ortalamamızın üzerinde bir gollü maç beklentisi yaratıyor. Beraberlik (%27) veya Sassuolo galibiyeti (%29) ise daha düşük ihtimaller.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "2-6",
-      "toplam_gol": 8,
       "tuttu": true,
       "alt_ust_tuttu": true,
       "ucretsiz": false
