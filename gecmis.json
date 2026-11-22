@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-22T21:30:46Z",
-  "mac_sayisi": 457,
+  "guncelleme_utc": "2026-11-22T22:30:41Z",
+  "mac_sayisi": 458,
   "maclar": [
+    {
+      "mac_id": "08f1d5a366e711c1e29845352bb8137d",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Bragantino-SP",
+      "deplasman": "Vasco da Gama",
+      "baslama_utc": "2026-11-22T22:30:00Z",
+      "olasiliklar": {
+        "1": 0.4312,
+        "X": 0.2679,
+        "2": 0.3009
+      },
+      "tahmin": "1",
+      "guven": 0.1303,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5408,
+          "alt": 0.4592
+        },
+        "tahmin": "ust",
+        "guven": 0.0816,
+        "kaynak_sayisi": 4
+      },
+      "ai_metin": "Bragantino-SP'nin ev sahibi olarak hafif bir üstünlüğü var ancak maç oldukça dengeli görünüyor; Vasco da Gama'nın %30 ihtimali de göz ardı edilecek düzeyde değil. Toplam gol açısından 3 veya daha fazla gol olasılığı (%54) en fazla 2 gol ihtimalinin (%46) biraz önünde, bu da iki takımın da gol bulabileceği açık bir maça işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 117 maçta %51 isabet ederek beklenen %41'in üzerinde kaldı. Beraberlik %27 ile belirgin bir alternatif; yine de Vasco'nun deplasman galibiyeti de olasılığını koruyor.",
+      "ai_metinler": {
+        "en": "Bragantino-SP has a slight edge as the home side, but the match appears quite balanced, and Vasco da Gama's 30% probability is not negligible either. In terms of total goals, the probability of 3 or more goals (54%) is slightly ahead of the probability of at most 2 goals (46%), which points to an open match where both teams are likely to find the net. Our past predictions at this confidence level have been correct in 51% of 117 matches, staying above the expected 41%. A draw, at 27%, is a clear alternative; still, Vasco's away win also retains its probability.",
+        "es": "El Bragantino-SP tiene una ligera ventaja como equipo local, pero el partido parece muy equilibrado; la probabilidad del Vasco da Gama, del 30%, tampoco es despreciable. En cuanto al total de goles, la probabilidad de 3 goles o más (54%) supera ligeramente la de como máximo 2 goles (46%), lo que apunta a un partido abierto en el que ambos equipos pueden marcar. Nuestras predicciones anteriores con este nivel de confianza acertaron en 117 partidos un 51%, por encima del 41% esperado. El empate, con un 27%, es una alternativa clara; aun así, la victoria visitante del Vasco mantiene su probabilidad.",
+        "de": "Bragantino-SP hat als Heimmannschaft einen leichten Vorteil, doch die Partie wirkt recht ausgeglichen; auch die Wahrscheinlichkeit von 30% für Vasco da Gama ist nicht zu vernachlässigen. Bei der Gesamtzahl der Tore ist die Wahrscheinlichkeit für 3 oder mehr Tore (54%) etwas höher als die für höchstens 2 Tore (46%), was auf ein offenes Spiel hindeutet, in dem beide Teams treffen können. Unsere bisherigen Prognosen auf diesem Vertrauensniveau waren bei 117 Spielen mit 51% richtig und lagen damit über den erwarteten 41%. Ein Unentschieden ist mit 27% eine deutliche Alternative; dennoch bleibt auch ein Auswärtssieg von Vasco mit einer Wahrscheinlichkeit im Blick.",
+        "fr": "Bragantino-SP, à domicile, dispose d'un léger avantage, mais la rencontre paraît très équilibrée ; Vasco da Gama a tout de même une probabilité de 30 % qui ne doit pas être négligée. En ce qui concerne le total des buts, la probabilité de 3 buts ou plus (54 %) dépasse légèrement celle d'au plus 2 buts (46 %), ce qui laisse présager un match ouvert où les deux équipes peuvent trouver le filet. Nos pronostics précédents, à ce niveau de confiance, ont atteint un taux de réussite de 51 % sur 117 matchs, au-dessus des 41 % attendus. Le match nul, à 27 %, constitue une alternative nette ; la victoire à l'extérieur de Vasco conserve néanmoins sa probabilité.",
+        "it": "Il Bragantino-SP ha un leggero vantaggio come squadra di casa, ma la partita appare molto equilibrata; anche la probabilità del 30% per il Vasco da Gama non è da trascurare. In termini di gol totali, la probabilità di 3 o più gol (54%) è leggermente superiore a quella di al massimo 2 gol (46%), il che indica una partita in cui entrambe le squadre possono segnare. Le nostre previsioni passate, con questo livello di fiducia, hanno avuto successo nel 51% di 117 partite, superando il 41% atteso. Il pareggio, con il 27%, è un'alternativa chiara; tuttavia, anche la probabilità di una vittoria in trasferta del Vasco rimane valida.",
+        "pt": "O Bragantino-SP, como mandante, tem uma leve vantagem, mas a partida parece bastante equilibrada; a probabilidade de vitória do Vasco da Gama, de 30%, também não pode ser desconsiderada. No critério de total de gols, a probabilidade de 3 gols ou mais (54%) está um pouco à frente da probabilidade de no máximo 2 gols (46%), o que aponta para um jogo em que as duas equipes devem conseguir marcar. Nossas previsões anteriores, com este nível de confiança, acertaram 51% em 117 partidas, acima dos 41% esperados. O empate, com 27%, é uma alternativa clara; ainda assim, a vitória do Vasco como visitante mantém sua probabilidade."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "fe93738d5c6aca8b60e7f18e1d685e98",
       "lig": "soccer_brazil_campeonato",
@@ -73,11 +112,11 @@
         "it": "Atlético Madrid è nettamente favorito in trasferta contro il Getafe: con una probabilità di vittoria del 61% è un chiaro favorito esterno. Sul totale gol il quadro è equilibrato; 3 o più gol al 47%, al massimo 2 gol al 53%. Ciò lo rende vicino sia a uno scenario in cui il favorito ottiene una vittoria comoda ma con pochi gol, sia a un dominio gol dell'Atlético. Anche le ultime 4 trasferte dell'Atlético, con 3 vittorie e nessuna sconfitta, sostengono questa lettura. Per il Getafe, il pareggio, secondo esito più probabile, si attesta al 24%, mentre la probabilità di vittoria del 15% resta bassa.",
         "pt": "Atlético Madrid claramente à frente no campo do Getafe: 61% de probabilidade de vitória, um favorito visitante nítido. No total de gols, o cenário é equilibrado: 3 gols ou mais com 47%, e no máximo 2 gols com 53%. Isso aproxima o jogo tanto de um cenário em que o favorito vence de forma tranquila, mas com poucos gols, quanto de um domínio ofensivo do Atlético com muitos gols. Nas últimas 4 partidas fora de casa, o Atlético venceu 3 vezes e não sofreu nenhuma derrota, o que reforça essa tendência. Já para o Getafe, o empate, o resultado mais provável depois da vitória do Atlético, aparece com 24%; a probabilidade de vitória do Getafe, de 15%, permanece baixa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -112,11 +151,11 @@
         "it": "Inter Milan è chiaramente favorita secondo le probabilità indicate: la vittoria in trasferta ha una probabilità del 60%, sostenuta dalle 3 vittorie nelle ultime 4 trasferte. Per il totale gol, lo scenario di 3 o più gol emerge con una probabilità del 68%; questo è coerente con il fatto che l'Atalanta nelle ultime 5 partite ha visto 3 o più gol in 4 occasioni e con il trend di forma dell'Inter, che ha segnato 10 gol, e si colloca al di sopra della media della Serie A, pari al 55%. Quindi il quadro indica che la partita con ogni probabilità si concluderà con una vittoria dell'Inter con gol. Il pareggio, con una probabilità del 21%, è il secondo esito più probabile; questo è in linea con i 2 pareggi ottenuti dall'Atalanta nelle ultime 5 partite, ma resta al di sotto della media della Serie A, pari al 24%.",
         "pt": "Inter Milan, apresentadas as probabilidades, está claramente na frente: a vitória como visitante tem probabilidade de 60%, e as 3 vitórias nos últimos 4 jogos como visitante reforçam essa vantagem. Três ou mais gols aparecem com probabilidade de 68%, o que se alinha ao fato de o Atalanta ter visto 3 ou mais gols em 4 dos últimos 5 jogos e ao gráfico de forma do Inter, com 10 gols marcados, além de ser um cenário acima da média da Serie A, de 55%. Ou seja, o quadro indica que a partida provavelmente terminará com uma vitória do Inter com muitos gols. O empate, com 21%, é o segundo resultado mais provável; isso é coerente com os 2 empates do Atalanta nos últimos 5 jogos, embora fique abaixo da média da Serie A, de 24%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "4-4",
+      "toplam_gol": 8,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -151,11 +190,11 @@
         "it": "Marsiglia è nettamente in vantaggio sul Le Mans: la probabilità di vittoria casalinga è del 65%, a indicare che la squadra di casa è la chiara favorita della partita. Dopo quattro vittorie nelle ultime quattro gare e 13 gol segnati, il Marsiglia punta a uno scenario ricco di reti: la probabilità di 3 o più gol è del 63%, sopra la media della Ligue 1 pari al 58%. A rafforzare questo quadro c'è la difficoltà del Le Mans a trovare la rete nelle ultime quattro partite e i 7 gol subiti. La vittoria in trasferta ha una probabilità bassa, pari al 15%, mentre il pareggio, con una probabilità del 20%, resta una sorpresa possibile.",
         "pt": "Marselha está claramente na frente contra o Le Mans: a probabilidade de vitória da equipe da casa é de 65%, o que mostra que o Marselha é o favorito nítido da partida. Tendo vencido quatro dos últimos quatro jogos e marcado 13 gols, a probabilidade de 3 ou mais gols é de 63%, apontando para um cenário com muitos gols; acima da média da Ligue 1, que é de 58%. O fato de o Le Mans ter dificuldade para marcar nos últimos quatro jogos e ter sofrido 7 gols reforça esse quadro. A vitória do visitante tem probabilidade baixa, de 15%; já o empate, com probabilidade de 20%, permanece como uma surpresa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "2-3",
+      "toplam_gol": 5,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -10576,38 +10615,6 @@
       "tuttu": true,
       "alt_ust_tuttu": true,
       "ucretsiz": true
-    },
-    {
-      "mac_id": "7d989a0a7bae47eb957731e97c5bd9c1",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Torino",
-      "deplasman": "Como",
-      "baslama_utc": "2026-10-27T19:45:00Z",
-      "olasiliklar": {
-        "1": 0.2096,
-        "X": 0.2507,
-        "2": 0.5397
-      },
-      "tahmin": "2",
-      "guven": 0.289,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5652,
-          "alt": 0.4348
-        },
-        "tahmin": "ust",
-        "guven": 0.1304,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "Bu Serie A mücadelesinde Como, %54 galibiyet olasılığıyla deplasmanda favori konumda. Maçın 3 veya daha fazla golle (%57) sonuçlanma ihtimali yüksek, bu da Como'nun gollü bir galibiyet alabileceği bir senaryoya işaret ediyor. Torino'nun son üç maçındaki gollü galibiyet serisi, bu maçta da gol potansiyelini destekliyor. Beraberlik %25 ile ikinci en olası sonuçken, Torino'nun galibiyeti %21 ile daha düşük bir ihtimal taşıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "1-3",
-      "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
     }
   ]
 }
