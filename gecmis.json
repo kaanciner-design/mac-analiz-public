@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-21T22:30:43Z",
-  "mac_sayisi": 434,
+  "guncelleme_utc": "2026-11-22T05:37:26Z",
+  "mac_sayisi": 435,
   "maclar": [
+    {
+      "mac_id": "5f2cf96318bd595404b995c80d5f14a5",
+      "lig": "soccer_brazil_campeonato",
+      "ev_sahibi": "Chapecoense",
+      "deplasman": "Cruzeiro",
+      "baslama_utc": "2026-11-22T00:00:00Z",
+      "olasiliklar": {
+        "1": 0.1882,
+        "X": 0.231,
+        "2": 0.5808
+      },
+      "tahmin": "2",
+      "guven": 0.3498,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5832,
+          "alt": 0.4168
+        },
+        "tahmin": "ust",
+        "guven": 0.1664,
+        "kaynak_sayisi": 4
+      },
+      "ai_metin": "Cruzeiro, deplasmanda belirgin bir favori: maç sonucu olasılığı %58 ile net önde, Chapecoense'nin galibiyet ihtimali %19. Bu tablo, Cruzeiro'nun gollü bir galibiyetine işaret ediyor; toplam gol olasılığı da %58 ile 3 veya daha fazla golden yana. Yine de %23 beraberlik ihtimali, maçın tek yönlü gitmeyebileceğini gösteriyor. Geçmiş tahminlerimiz bu güven seviyesinde 154 maçta %78 isabet etti; beklenen olasılık %66'ydı. En olası ikinci sonuç beraberlik (%23), ama bu sonuç Cruzeiro'nun kontrolü bırakmasına bağlı.",
+      "ai_metinler": {
+        "en": "Cruzeiro is a clear favorite on the road: the match outcome probability gives them a clear lead at 58%, while Chapecoense's chance of winning is 19%. This picture points to a Cruzeiro win with several goals, and the probability of 3 or more goals is also 58%. Even so, a 23% chance of a draw shows the match may not go one way. Our past predictions at this confidence level were correct 78% of the time across 154 matches; the expected probability was 66%. The second most likely result is a draw (23%), but that outcome depends on Cruzeiro losing control of the game.",
+        "es": "Cruzeiro, visitante, es un claro favorito: la probabilidad de resultado está en un 58%, con una ventaja neta, mientras que la probabilidad de victoria del Chapecoense es del 19%. Este panorama apunta a una victoria de Cruzeiro con goles, y la probabilidad de 3 goles o más también es del 58%. Aun así, una probabilidad de empate del 23% indica que el partido podría no ser de una sola dirección. Nuestras predicciones anteriores, con este nivel de confianza, acertaron en un 78% de los 154 partidos; la probabilidad esperada era del 66%. El segundo resultado más probable es el empate (23%), pero este resultado depende de que Cruzeiro deje de controlar el juego.",
+        "de": "Cruzeiro ist auswärts ein klarer Favorit: Die Wahrscheinlichkeit für den Spielausgang liegt mit 58% deutlich vorn, während die Wahrscheinlichkeit für einen Sieg von Chapecoense bei 19% liegt. Dieses Bild spricht für einen Sieg von Cruzeiro mit mehreren Toren; auch die Wahrscheinlichkeit für insgesamt 3 oder mehr Tore liegt bei 58%. Dennoch zeigt die Wahrscheinlichkeit eines Unentschiedens von 23%, dass die Partie möglicherweise nicht einseitig verlaufen wird. Unsere bisherigen Prognosen haben auf diesem Vertrauensniveau bei 154 Spielen eine Trefferquote von 78% erreicht; die erwartete Wahrscheinlichkeit lag bei 66%. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (23%), das jedoch davon abhängt, ob Cruzeiro die Kontrolle abgibt.",
+        "fr": "Cruzeiro, à l'extérieur, est un favori net : la probabilité de victoire finale est de 58 %, avec une nette avance, tandis que la probabilité de victoire de Chapecoense est de 19 %. Ce tableau indique une victoire de Cruzeiro accompagnée de buts, et la probabilité de 3 buts ou plus est également de 58 %. Néanmoins, la probabilité de match nul, à 23 %, montre que la rencontre pourrait ne pas se dérouler à sens unique. Parmi nos pronostics passés réalisés à ce niveau de confiance, 78 % ont été justes sur 154 matchs ; la probabilité attendue était de 66 %. Le deuxième résultat le plus probable est le match nul (23 %), mais ce scénario dépend du fait que Cruzeiro lâche le contrôle du jeu.",
+        "it": "Cruzeiro, trasferta, è un chiaro favorito: la probabilità di vittoria è del 58%, nettamente in testa, mentre quella di vittoria del Chapecoense è del 19%. Questo quadro indica una vittoria di Cruzeiro con più gol; anche la probabilità di 3 o più gol è del 58%. Tuttavia, una probabilità di pareggio del 23% mostra che la partita potrebbe non andare in una sola direzione. Le nostre previsioni passate, a questo livello di fiducia, hanno avuto ragione nel 78% dei 154 incontri; la probabilità attesa era del 66%. Il secondo esito più probabile è il pareggio (23%), ma questo risultato dipende dal fatto che Cruzeiro perda il controllo della partita.",
+        "pt": "Cruzeiro, deplasmanda belirgin bir favori: maç sonucu olasılığı %58 ile net önde, Chapecoense'nin galibiyet ihtimali %19. Bu tablo, Cruzeiro'nun gollü bir galibiyetine işaret ediyor; toplam gol olasılığı da %58 ile 3 veya daha fazla golden yana. Yine de %23 beraberlik ihtimali, maçın tek yönlü gitmeyebileceğini gösteriyor. Geçmiş tahminlerimiz bu güven seviyesinde 154 maçta %78 isabet etti; beklenen olasılık %66'ydı. En olası ikinci sonuç beraberlik (%23), ama bu sonuç Cruzeiro'nun kontrolü bırakmasına bağlı."
+      },
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
+      "ucretsiz": true
+    },
     {
       "mac_id": "f538ac619132a25fd0c065cacfa5c05f",
       "lig": "soccer_brazil_campeonato",
@@ -34,11 +73,11 @@
         "it": "Bahia è nettamente in vantaggio contro il Coritiba; le probabilità indicano che la squadra di casa è la netta favorita con il 67%. La vittoria della squadra di casa unita alla probabilità elevata di 3 o più gol suggerisce uno scenario in cui la favorita cercherà un successo tranquillo e ricco di reti. Per questo tipo di previsioni, la nostra precedente performance è stata superiore alle attese: con un tasso di successo del 78% su 154 partite, ha superato il 66% atteso. Il pareggio, con il 20%, rappresenta il secondo esito possibile; questa probabilità non è bassa, ma lo scenario più probabile resta la superiorità del Bahia.",
         "pt": "Bahia está claramente à frente contra o Coritiba; as probabilidades mostram o mandante como favorito incontestável, com 67%. A vitória do mandante combinada com a alta probabilidade de 3 ou mais gols aponta para um cenário em que o favorito busca uma vitória tranquila e com muitos gols. Em previsões desse tipo, nosso histórico de acertos ficou em 78% em 154 jogos, acima dos 66% esperados. O empate, com 20%, é o segundo resultado mais provável; essa chance não é baixa, mas o cenário mais provável é o domínio do Bahia."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -10408,38 +10447,6 @@
       "skor": "1-1",
       "toplam_gol": 2,
       "tuttu": false,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "290ba8cd3f3a2e9252effca673bf5549",
-      "lig": "soccer_epl",
-      "ev_sahibi": "Liverpool",
-      "deplasman": "Brighton and Hove Albion",
-      "baslama_utc": "2026-10-25T14:00:00Z",
-      "olasiliklar": {
-        "1": 0.455,
-        "X": 0.2484,
-        "2": 0.2966
-      },
-      "tahmin": "1",
-      "guven": 0.1584,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6215,
-          "alt": 0.3785
-        },
-        "tahmin": "ust",
-        "guven": 0.243,
-        "kaynak_sayisi": 7
-      },
-      "ai_metin": "Liverpool, %46 galibiyet olasılığıyla bu maçın favorisi olarak öne çıkıyor. Maçın %62 ihtimalle 3 veya daha fazla golle bitmesi, favorinin gollü bir galibiyet alabileceği bir senaryoya işaret ediyor; bu durum Liverpool'un son 4 maçındaki yüksek gol ortalamasıyla da uyumlu. Geçmiş tahminlerimizdeki %59'luk isabet oranı, bu güven seviyesindeki beklentimizin üzerinde. Beraberlik (%25) veya Brighton galibiyeti (%30) ise daha düşük ihtimaller olarak görünüyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "2-0",
-      "toplam_gol": 2,
-      "tuttu": true,
       "alt_ust_tuttu": false,
       "ucretsiz": false
     }

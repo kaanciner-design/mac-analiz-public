@@ -1,147 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-21T22:30:43Z",
-  "mac_sayisi": 29,
+  "guncelleme_utc": "2026-11-22T05:37:26Z",
+  "mac_sayisi": 24,
   "maclar": [
-    {
-      "mac_id": "5f2cf96318bd595404b995c80d5f14a5",
-      "lig": "soccer_brazil_campeonato",
-      "ev_sahibi": "Chapecoense",
-      "deplasman": "Cruzeiro",
-      "baslama_utc": "2026-11-22T00:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.1882,
-        "X": 0.231,
-        "2": 0.5808
-      },
-      "tahmin": "2",
-      "guven": 0.3498,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5832,
-          "alt": 0.4168
-        },
-        "tahmin": "ust",
-        "guven": 0.1664,
-        "kaynak_sayisi": 4
-      },
-      "ai_metin": "Cruzeiro, deplasmanda belirgin bir favori: maç sonucu olasılığı %58 ile net önde, Chapecoense'nin galibiyet ihtimali %19. Bu tablo, Cruzeiro'nun gollü bir galibiyetine işaret ediyor; toplam gol olasılığı da %58 ile 3 veya daha fazla golden yana. Yine de %23 beraberlik ihtimali, maçın tek yönlü gitmeyebileceğini gösteriyor. Geçmiş tahminlerimiz bu güven seviyesinde 154 maçta %78 isabet etti; beklenen olasılık %66'ydı. En olası ikinci sonuç beraberlik (%23), ama bu sonuç Cruzeiro'nun kontrolü bırakmasına bağlı.",
-      "ai_metinler": {
-        "en": "Cruzeiro is a clear favorite on the road: the match outcome probability gives them a clear lead at 58%, while Chapecoense's chance of winning is 19%. This picture points to a Cruzeiro win with several goals, and the probability of 3 or more goals is also 58%. Even so, a 23% chance of a draw shows the match may not go one way. Our past predictions at this confidence level were correct 78% of the time across 154 matches; the expected probability was 66%. The second most likely result is a draw (23%), but that outcome depends on Cruzeiro losing control of the game.",
-        "es": "Cruzeiro, visitante, es un claro favorito: la probabilidad de resultado está en un 58%, con una ventaja neta, mientras que la probabilidad de victoria del Chapecoense es del 19%. Este panorama apunta a una victoria de Cruzeiro con goles, y la probabilidad de 3 goles o más también es del 58%. Aun así, una probabilidad de empate del 23% indica que el partido podría no ser de una sola dirección. Nuestras predicciones anteriores, con este nivel de confianza, acertaron en un 78% de los 154 partidos; la probabilidad esperada era del 66%. El segundo resultado más probable es el empate (23%), pero este resultado depende de que Cruzeiro deje de controlar el juego.",
-        "de": "Cruzeiro ist auswärts ein klarer Favorit: Die Wahrscheinlichkeit für den Spielausgang liegt mit 58% deutlich vorn, während die Wahrscheinlichkeit für einen Sieg von Chapecoense bei 19% liegt. Dieses Bild spricht für einen Sieg von Cruzeiro mit mehreren Toren; auch die Wahrscheinlichkeit für insgesamt 3 oder mehr Tore liegt bei 58%. Dennoch zeigt die Wahrscheinlichkeit eines Unentschiedens von 23%, dass die Partie möglicherweise nicht einseitig verlaufen wird. Unsere bisherigen Prognosen haben auf diesem Vertrauensniveau bei 154 Spielen eine Trefferquote von 78% erreicht; die erwartete Wahrscheinlichkeit lag bei 66%. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden (23%), das jedoch davon abhängt, ob Cruzeiro die Kontrolle abgibt.",
-        "fr": "Cruzeiro, à l'extérieur, est un favori net : la probabilité de victoire finale est de 58 %, avec une nette avance, tandis que la probabilité de victoire de Chapecoense est de 19 %. Ce tableau indique une victoire de Cruzeiro accompagnée de buts, et la probabilité de 3 buts ou plus est également de 58 %. Néanmoins, la probabilité de match nul, à 23 %, montre que la rencontre pourrait ne pas se dérouler à sens unique. Parmi nos pronostics passés réalisés à ce niveau de confiance, 78 % ont été justes sur 154 matchs ; la probabilité attendue était de 66 %. Le deuxième résultat le plus probable est le match nul (23 %), mais ce scénario dépend du fait que Cruzeiro lâche le contrôle du jeu.",
-        "it": "Cruzeiro, trasferta, è un chiaro favorito: la probabilità di vittoria è del 58%, nettamente in testa, mentre quella di vittoria del Chapecoense è del 19%. Questo quadro indica una vittoria di Cruzeiro con più gol; anche la probabilità di 3 o più gol è del 58%. Tuttavia, una probabilità di pareggio del 23% mostra che la partita potrebbe non andare in una sola direzione. Le nostre previsioni passate, a questo livello di fiducia, hanno avuto ragione nel 78% dei 154 incontri; la probabilità attesa era del 66%. Il secondo esito più probabile è il pareggio (23%), ma questo risultato dipende dal fatto che Cruzeiro perda il controllo della partita.",
-        "pt": "Cruzeiro, deplasmanda belirgin bir favori: maç sonucu olasılığı %58 ile net önde, Chapecoense'nin galibiyet ihtimali %19. Bu tablo, Cruzeiro'nun gollü bir galibiyetine işaret ediyor; toplam gol olasılığı da %58 ile 3 veya daha fazla golden yana. Yine de %23 beraberlik ihtimali, maçın tek yönlü gitmeyebileceğini gösteriyor. Geçmiş tahminlerimiz bu güven seviyesinde 154 maçta %78 isabet etti; beklenen olasılık %66'ydı. En olası ikinci sonuç beraberlik (%23), ama bu sonuç Cruzeiro'nun kontrolü bırakmasına bağlı."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-18",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Remo",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-14",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Vasco da Gama",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 2,
-            "atilan": 0,
-            "yenilen": 4,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 0,
-            "yenilen": 2,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 0,
-            "yenilen": 2,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-18",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Palmeiras",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-16T05:37:23Z",
-        "son_utc": "2026-11-18T05:37:21Z",
-        "ilk": {
-          "1": 0.1882,
-          "X": 0.231,
-          "2": 0.5808
-        },
-        "son": {
-          "1": 0.1882,
-          "X": 0.231,
-          "2": 0.5808
-        }
-      },
-      "ucretsiz": true
-    },
     {
       "mac_id": "f687dcdffc83e8d365c3c00e857a5846",
       "lig": "soccer_turkey_super_league",
@@ -330,17 +190,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:21Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.3223,
-          "X": 0.2865,
-          "2": 0.3912
+          "1": 0.3279,
+          "X": 0.2859,
+          "2": 0.3862
         },
         "son": {
-          "1": 0.3253,
-          "X": 0.2871,
-          "2": 0.3876
+          "1": 0.34,
+          "X": 0.2895,
+          "2": 0.3705
         }
       },
       "ucretsiz": false
@@ -533,17 +393,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.7024,
-          "X": 0.1838,
-          "2": 0.1139
+          "1": 0.7001,
+          "X": 0.1844,
+          "2": 0.1156
         },
         "son": {
-          "1": 0.7024,
-          "X": 0.1829,
-          "2": 0.1147
+          "1": 0.6985,
+          "X": 0.1849,
+          "2": 0.1166
         }
       },
       "ucretsiz": false
@@ -727,17 +587,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:21Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.468,
-          "X": 0.2739,
-          "2": 0.2581
+          "1": 0.4677,
+          "X": 0.2738,
+          "2": 0.2585
         },
         "son": {
-          "1": 0.4726,
-          "X": 0.2722,
-          "2": 0.2552
+          "1": 0.5013,
+          "X": 0.2659,
+          "2": 0.2327
         }
       },
       "ucretsiz": false
@@ -930,17 +790,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:21Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.1871,
-          "X": 0.2348,
-          "2": 0.5781
+          "1": 0.1883,
+          "X": 0.235,
+          "2": 0.5768
         },
         "son": {
-          "1": 0.1858,
-          "X": 0.2336,
-          "2": 0.5807
+          "1": 0.1806,
+          "X": 0.2301,
+          "2": 0.5893
         }
       },
       "ucretsiz": false
@@ -1133,17 +993,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.7705,
-          "X": 0.1381,
-          "2": 0.0914
+          "1": 0.7882,
+          "X": 0.1293,
+          "2": 0.0825
         },
         "son": {
-          "1": 0.7915,
-          "X": 0.1279,
-          "2": 0.0806
+          "1": 0.8019,
+          "X": 0.1225,
+          "2": 0.0755
         }
       },
       "ucretsiz": false
@@ -1336,17 +1196,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.1575,
-          "X": 0.2155,
-          "2": 0.627
+          "1": 0.1562,
+          "X": 0.2135,
+          "2": 0.6303
         },
         "son": {
-          "1": 0.1526,
-          "X": 0.2151,
-          "2": 0.6323
+          "1": 0.144,
+          "X": 0.2101,
+          "2": 0.6459
         }
       },
       "ucretsiz": false
@@ -1539,17 +1399,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.5465,
-          "X": 0.2525,
-          "2": 0.201
+          "1": 0.5433,
+          "X": 0.2541,
+          "2": 0.2026
         },
         "son": {
-          "1": 0.5495,
-          "X": 0.2517,
-          "2": 0.1988
+          "1": 0.544,
+          "X": 0.2521,
+          "2": 0.2039
         }
       },
       "ucretsiz": false
@@ -1738,17 +1598,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.3722,
-          "X": 0.2832,
-          "2": 0.3446
+          "1": 0.3437,
+          "X": 0.2824,
+          "2": 0.3738
         },
         "son": {
-          "1": 0.3495,
-          "X": 0.2825,
-          "2": 0.368
+          "1": 0.3571,
+          "X": 0.2866,
+          "2": 0.3563
         }
       },
       "ucretsiz": false
@@ -1923,17 +1783,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:23Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.6948,
-          "X": 0.1883,
-          "2": 0.1169
+          "1": 0.7009,
+          "X": 0.1847,
+          "2": 0.1144
         },
         "son": {
-          "1": 0.7171,
-          "X": 0.1767,
-          "2": 0.1062
+          "1": 0.7245,
+          "X": 0.1703,
+          "2": 0.1051
         }
       },
       "ucretsiz": false
@@ -2108,17 +1968,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.3513,
-          "X": 0.2463,
-          "2": 0.4024
+          "1": 0.352,
+          "X": 0.2459,
+          "2": 0.402
         },
         "son": {
-          "1": 0.3574,
-          "X": 0.2443,
-          "2": 0.3983
+          "1": 0.3597,
+          "X": 0.2446,
+          "2": 0.3957
         }
       },
       "ucretsiz": false
@@ -2311,17 +2171,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.3016,
-          "X": 0.2425,
-          "2": 0.456
+          "1": 0.3008,
+          "X": 0.2417,
+          "2": 0.4575
         },
         "son": {
-          "1": 0.297,
-          "X": 0.2316,
-          "2": 0.4714
+          "1": 0.2947,
+          "X": 0.234,
+          "2": 0.4713
         }
       },
       "ucretsiz": false
@@ -2505,17 +2365,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:21Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.8177,
-          "X": 0.1197,
-          "2": 0.0626
+          "1": 0.8187,
+          "X": 0.1185,
+          "2": 0.0628
         },
         "son": {
-          "1": 0.8314,
-          "X": 0.1109,
-          "2": 0.0576
+          "1": 0.8399,
+          "X": 0.1069,
+          "2": 0.0532
         }
       },
       "ucretsiz": false
@@ -2690,17 +2550,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:23Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.3284,
-          "X": 0.2712,
-          "2": 0.4004
+          "1": 0.3275,
+          "X": 0.2716,
+          "2": 0.4008
         },
         "son": {
-          "1": 0.3282,
-          "X": 0.2746,
-          "2": 0.3973
+          "1": 0.3229,
+          "X": 0.281,
+          "2": 0.3961
         }
       },
       "ucretsiz": false
@@ -2893,17 +2753,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.5452,
-          "X": 0.2297,
-          "2": 0.2251
+          "1": 0.5419,
+          "X": 0.229,
+          "2": 0.2291
         },
         "son": {
-          "1": 0.5605,
-          "X": 0.2248,
-          "2": 0.2147
+          "1": 0.5621,
+          "X": 0.2243,
+          "2": 0.2136
         }
       },
       "ucretsiz": false
@@ -3078,17 +2938,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.5682,
-          "X": 0.2248,
-          "2": 0.207
+          "1": 0.5619,
+          "X": 0.2263,
+          "2": 0.2118
         },
         "son": {
-          "1": 0.5715,
-          "X": 0.2228,
-          "2": 0.2057
+          "1": 0.5928,
+          "X": 0.2192,
+          "2": 0.1879
         }
       },
       "ucretsiz": false
@@ -3281,17 +3141,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.6122,
-          "X": 0.2064,
-          "2": 0.1814
+          "1": 0.6225,
+          "X": 0.2003,
+          "2": 0.1772
         },
         "son": {
-          "1": 0.6218,
-          "X": 0.2013,
-          "2": 0.1769
+          "1": 0.6059,
+          "X": 0.208,
+          "2": 0.1861
         }
       },
       "ucretsiz": false
@@ -3475,148 +3335,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.5355,
-          "X": 0.2583,
-          "2": 0.2062
+          "1": 0.5342,
+          "X": 0.2598,
+          "2": 0.206
         },
         "son": {
-          "1": 0.5227,
-          "X": 0.2645,
-          "2": 0.2128
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "dddc911eddfe6a3943d037b9494921be",
-      "lig": "soccer_brazil_campeonato",
-      "ev_sahibi": "Atletico Paranaense",
-      "deplasman": "Remo",
-      "baslama_utc": "2026-11-22T19:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.6278,
-        "X": 0.2228,
-        "2": 0.1493
-      },
-      "tahmin": "1",
-      "guven": 0.405,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5434,
-          "alt": 0.4566
-        },
-        "tahmin": "ust",
-        "guven": 0.0868,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Atletico Paranaense, Remo karşısında belirgin biçimde önde: %63 galibiyet olasılığı ve %15'lik deplasman galibiyeti ihtimaline karşı net bir fark var. Toplam gol tarafında 3 veya daha fazla gol %54, en fazla 2 gol %46 ile hafif bir üstünlük taşıyor; bu da ev sahibinin üstünlüğünün gollü bir galibiyete dönüşebileceği, ama açık bir fark olmadığı bir senaryoya işaret ediyor. Bu güven düzeyindeki geçmiş tahminlerimiz 157 maçta %77 isabet oranına ulaştı, beklenen %66'nın üzerinde; yine de bu tek bir maçta sonucun garantisi değil. En olası ikinci sonuç olan beraberlik %22 ihtimalle mümkün, Remo'nun galibiyeti ise %15 ile düşük bir ihtimal.",
-      "ai_metinler": {
-        "en": "Atletico Paranaense holds a clear advantage over Remo: a 63% probability of winning, with a clear gap against the 15% probability of an away win. On total goals, 3 or more goals sits at 54% and at most 2 goals at 46%, a slight edge that points to a scenario where the home side's superiority could turn into a high-scoring win, though without a decisive margin. Our past predictions at this confidence level have reached a 77% hit rate over 157 matches, above the expected 66%; even so, this is no guarantee of the outcome in a single match. The second most likely result, a draw, has a 22% probability, while Remo's win, at 15%, is a less likely outcome.",
-        "es": "Atlético Paranaense claramente por delante frente a Remo: hay una diferencia notable frente a una probabilidad de victoria visitante del 15%, con una probabilidad de victoria local del 63%. En cuanto a los goles totales, 3 goles o más tienen un 54% y como máximo 2 goles un 46%, con una ligera ventaja para el primero; esto apunta a un escenario en el que la superioridad del equipo local podría traducirse en una victoria con goles, aunque sin una diferencia abrumadora. Nuestras predicciones anteriores con este nivel de confianza alcanzaron un índice de acierto del 77% en 157 partidos, por encima del 66% esperado; aun así, esto no garantiza el resultado de un único partido. El empate, como segundo resultado más probable, tiene un 22% de posibilidades, mientras que la victoria de Remo, con un 15%, es una opción poco probable.",
-        "de": "Atletico Paranaense liegt gegenüber Remo deutlich vorne: Die Wahrscheinlichkeit eines Heimsiegs beträgt 63%, und gegenüber der Wahrscheinlichkeit eines Auswärtssiegs von 15% ist der Unterschied klar. Bei der Gesamtzahl der Tore hat „3 oder mehr Tore“ mit 54% einen leichten Vorsprung vor „höchstens 2 Tore“ mit 46%. Das deutet auf ein Szenario hin, in dem der Heimvorteil zu einem torreichen Sieg werden kann, ein klarer Abstand besteht hier jedoch nicht. Unsere früheren Prognosen mit diesem Konfidenzniveau erreichten bei 157 Spielen eine Trefferquote von 77%, was über den erwarteten 66% liegt; dennoch ist das bei einem einzelnen Spiel keine Garantie für das Ergebnis. Ein Unentschieden, das mit 22% das zweitwahrscheinlichste Ergebnis ist, ist ebenfalls möglich, während ein Sieg von Remo mit 15% nur eine geringe Wahrscheinlichkeit hat.",
-        "fr": "Atletico Paranaense est nettement favori face à Remo : une probabilité de victoire de 63 %, avec un écart clair face à la probabilité de 15 % d'une victoire à l'extérieur. Concernant le total de buts, 3 buts ou plus ont une probabilité de 54 %, et au plus 2 buts une probabilité de 46 %, ce qui indique une légère prédominance ; cela correspond à un scénario où l'avantage de l'équipe à domicile pourrait se traduire par une victoire riche en buts, sans pour autant constituer un écart net. Avec ce niveau de confiance, nos pronostics passés ont atteint un taux de réussite de 77 % sur 157 matchs, au-dessus du taux attendu de 66 % ; cela ne garantit toutefois pas le résultat d'un match isolé. Le deuxième résultat le plus probable, le match nul, a une probabilité de 22 %, tandis que la victoire de Remo, à 15 %, reste peu probable.",
-        "it": "Atletico Paranaense è nettamente in vantaggio sul Remo: c'è una chiara differenza rispetto alla probabilità di vittoria esterna del 15% e alla probabilità di vittoria interna del 63%. Per il totale gol, 3 o più gol hanno una probabilità del 54%, mentre al massimo 2 gol del 46%, un leggero vantaggio che indica uno scenario in cui la superiorità della squadra di casa potrebbe tradursi in una vittoria con gol, ma senza un divario netto. Le nostre previsioni passate con questo livello di fiducia hanno raggiunto una percentuale di successo del 77% su 157 partite, superiore al 66% atteso; ciononostante, questo non garantisce l'esito di una singola partita. Il secondo esito più probabile, il pareggio, è possibile con una probabilità del 22%, mentre la vittoria del Remo, con il 15%, è una possibilità remota.",
-        "pt": "Atlético Paranaense está claramente à frente do Remo: há uma probabilidade de 63% de vitória, com uma diferença nítida em relação à chance de 15% de vitória fora de casa para o Remo. No quesito total de gols, 3 gols ou mais tem 54% e no máximo 2 gols tem 46%, uma leve vantagem que aponta para um cenário em que a superioridade do mandante pode se transformar em uma vitória com gols, mas sem uma diferença marcante. Em nossas previsões anteriores com este nível de confiança, alcançamos uma taxa de acerto de 77% em 157 partidas, acima dos 66% esperados; ainda assim, isso não garante o resultado em uma partida isolada. O segundo resultado mais provável, o empate, tem 22% de probabilidade, enquanto a vitória do Remo, com 15%, é uma possibilidade baixa."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-18",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Flamengo",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-18",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Chapecoense",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-16T05:37:23Z",
-        "son_utc": "2026-11-18T05:37:21Z",
-        "ilk": {
-          "1": 0.6278,
-          "X": 0.2228,
-          "2": 0.1493
-        },
-        "son": {
-          "1": 0.6278,
-          "X": 0.2228,
-          "2": 0.1493
+          "1": 0.5232,
+          "X": 0.2644,
+          "2": 0.2124
         }
       },
       "ucretsiz": false
@@ -3809,17 +3538,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.2004,
-          "X": 0.2151,
-          "2": 0.5845
+          "1": 0.2034,
+          "X": 0.215,
+          "2": 0.5816
         },
         "son": {
-          "1": 0.1915,
-          "X": 0.2088,
-          "2": 0.5997
+          "1": 0.1834,
+          "X": 0.2051,
+          "2": 0.6115
         }
       },
       "ucretsiz": false
@@ -3994,17 +3723,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:23Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.6639,
-          "X": 0.1934,
-          "2": 0.1427
+          "1": 0.6532,
+          "X": 0.1961,
+          "2": 0.1507
         },
         "son": {
-          "1": 0.6509,
-          "X": 0.197,
-          "2": 0.1521
+          "1": 0.655,
+          "X": 0.195,
+          "2": 0.15
         }
       },
       "ucretsiz": false
@@ -4197,288 +3926,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.1684,
-          "X": 0.2462,
-          "2": 0.5855
+          "1": 0.1683,
+          "X": 0.2469,
+          "2": 0.5848
         },
         "son": {
-          "1": 0.1537,
-          "X": 0.2382,
-          "2": 0.6081
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "fe93738d5c6aca8b60e7f18e1d685e98",
-      "lig": "soccer_brazil_campeonato",
-      "ev_sahibi": "Fluminense",
-      "deplasman": "Mirassol",
-      "baslama_utc": "2026-11-22T21:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.5472,
-        "X": 0.253,
-        "2": 0.1998
-      },
-      "tahmin": "1",
-      "guven": 0.2942,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5021,
-          "alt": 0.4979
-        },
-        "tahmin": "ust",
-        "guven": 0.0042,
-        "kaynak_sayisi": 4
-      },
-      "ai_metin": "Fluminense, ev sahibi avantajını da taşıyan bariz bir favori görünüyor; olasılıkların %55'e ulaşması kazanma ihtimalinin Mirassol'un önüne net biçimde geçtiğini gösteriyor. Toplam gol dağılımının %50-%50 olması ise maçın tek bir gollü senaryoya kilitlenmediğini, hem gollü hem kontrollü bir akışın eşit ihtimalle mümkün olduğunu ortaya koyuyor. Geçmişte bu güven seviyesindeki tahminlerimiz 120 maçta %62 isabet oranına ulaştı; beklenen %49'un üzerindeki bu sonuç, bu tür tahminlerin istatistiksel olarak anlamlı biçimde çalıştığına işaret ediyor. En olası ikinci sonuç olan beraberlik %25 ile dikkat çekiyor; Mirassol'un galibiyeti ise %20 olasılıkla senaryo dışı kalmıyor.",
-      "ai_metinler": {
-        "en": "Fluminense appears to be a clear favorite, also carrying the home advantage; a probability of 55% shows that their chance of winning clearly stands ahead of Mirassol's. A 50%-50% split in total goals, however, indicates that the match is not locked into a single low-scoring scenario: a match with 3 or more goals and one with at most 2 goals are equally likely. Our predictions at this confidence level have reached a 62% success rate over 120 matches; this result, above the expected 49%, suggests that predictions of this kind work in a statistically meaningful way. The second most likely outcome, a draw, stands out at 25%, while Mirassol's victory still has a 20% probability of not being ruled out.",
-        "es": "Fluminense parece un claro favorito, con la ventaja de jugar en casa; que sus probabilidades alcancen el 55% muestra que la posibilidad de victoria supera claramente a la de Mirassol. La distribución de 3 o más goles frente a 2 goles como máximo, con un 50% para cada opción, indica que el partido no se inclina hacia un único escenario de goles: tanto un encuentro con muchos goles como uno controlado tienen la misma probabilidad. En el pasado, nuestras predicciones con este nivel de confianza acertaron en un 62% de los 120 partidos; este resultado, por encima del 49% esperado, indica que este tipo de predicciones funciona de forma estadísticamente significativa. El segundo resultado más probable, el empate, destaca con un 25%; la victoria de Mirassol, por su parte, tiene un 20% de probabilidad y no queda descartada.",
-        "de": "Fluminense wirkt als klarer Favorit, der auch vom Heimvorteil profitiert; dass die Wahrscheinlichkeiten bei 55% liegen, zeigt deutlich, dass die Chance auf einen Sieg die von Mirassol klar übertrifft. Dass die Verteilung der Gesamttore 50% zu 50% beträgt, deutet darauf hin, dass sich das Spiel nicht auf ein einziges torarmes Szenario festlegt: Ein Spiel mit 3 oder mehr Toren und ein Spiel mit höchstens 2 Toren sind gleich wahrscheinlich. Unsere Prognosen mit diesem Vertrauensniveau haben in der Vergangenheit bei 120 Spielen eine Trefferquote von 62% erreicht; dieses Ergebnis über den erwarteten 49% spricht dafür, dass solche Prognosen statistisch aussagekräftig funktionieren. Das zweitwahrscheinlichste Ergebnis, das Unentschieden, fällt mit 25% auf, und einen Sieg von Mirassol schließen wir mit einer Wahrscheinlichkeit von 20% ebenfalls nicht aus.",
-        "fr": "Fluminense apparaît comme un favori évident, bénéficiant aussi de l'avantage du terrain ; une probabilité de 55 % pour sa victoire montre clairement que sa chance de gagner dépasse nettement celle de Mirassol. La répartition de 50 %-50 concernant le nombre de buts indique que le match ne se dessine pas autour d'un scénario à un seul but : un déroulement riche en buts et un déroulement plus contrôlé sont tous deux possibles, avec une probabilité égale. Dans le passé, nos pronostics à ce niveau de confiance ont atteint un taux de réussite de 62 % sur 120 matchs ; ce résultat, supérieur au 49 % attendu, suggère que ce type de prévision fonctionne de manière statistiquement significative. Le match nul, deuxième issue la plus probable, se démarque avec 25 % ; quant à la victoire de Mirassol, elle n'est pas exclue pour autant, avec une probabilité de 20 %.",
-        "it": "Fluminense appare un favorito evidente, che beneficia anche del vantaggio di giocare in casa; probabilità del 55% indicano chiaramente che la possibilità di vittoria supera nettamente quella del Mirassol. La distribuzione del numero totale di gol al 50%-50% mostra invece che la partita non è vincolata a un unico scenario: uno sviluppo con 3 o più gol e uno con al massimo 2 gol sono considerati ugualmente probabili. In passato, le nostre previsioni con questo livello di fiducia hanno raggiunto una percentuale di successo del 62% su 120 partite; questo risultato, superiore al 49% atteso, indica che tali previsioni funzionano in modo statisticamente significativo. Il pareggio, secondo esito più probabile, si distingue con il 25%; la vittoria del Mirassol, però, non è esclusa dagli scenari, con una probabilità del 20%.",
-        "pt": "Fluminense aparece como um claro favorito, também beneficiado pela vantagem de jogar em casa; a probabilidade de 55% indica com clareza que a chance de vitória do Fluminense está bem à frente da do Mirassol. A distribuição de gols igual a 50%-50% sugere que a partida não se fixa em um único cenário de gols: um jogo com gols e um jogo mais controlado têm, na mesma medida, probabilidades equivalentes. Em previsões desse nível de confiança feitas no passado, nossa taxa de acerto foi de 62% em 120 jogos; esse resultado acima dos 49% esperados sinaliza que este tipo de previsão funciona de forma estatisticamente significativa. O segundo resultado mais provável, o empate, chama a atenção com 25%; já a vitória do Mirassol, com probabilidade de 20%, também não está fora do cenário."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-20",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Sao Paulo",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 1,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-14",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Atletico Mineiro",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 0,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-16T05:37:23Z",
-        "son_utc": "2026-11-18T05:37:21Z",
-        "ilk": {
-          "1": 0.5472,
-          "X": 0.253,
-          "2": 0.1998
-        },
-        "son": {
-          "1": 0.5472,
-          "X": 0.253,
-          "2": 0.1998
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "08f1d5a366e711c1e29845352bb8137d",
-      "lig": "soccer_brazil_campeonato",
-      "ev_sahibi": "Bragantino-SP",
-      "deplasman": "Vasco da Gama",
-      "baslama_utc": "2026-11-22T22:30:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4312,
-        "X": 0.2679,
-        "2": 0.3009
-      },
-      "tahmin": "1",
-      "guven": 0.1303,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5408,
-          "alt": 0.4592
-        },
-        "tahmin": "ust",
-        "guven": 0.0816,
-        "kaynak_sayisi": 4
-      },
-      "ai_metin": "Bragantino-SP'nin ev sahibi olarak hafif bir üstünlüğü var ancak maç oldukça dengeli görünüyor; Vasco da Gama'nın %30 ihtimali de göz ardı edilecek düzeyde değil. Toplam gol açısından 3 veya daha fazla gol olasılığı (%54) en fazla 2 gol ihtimalinin (%46) biraz önünde, bu da iki takımın da gol bulabileceği açık bir maça işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde 117 maçta %51 isabet ederek beklenen %41'in üzerinde kaldı. Beraberlik %27 ile belirgin bir alternatif; yine de Vasco'nun deplasman galibiyeti de olasılığını koruyor.",
-      "ai_metinler": {
-        "en": "Bragantino-SP has a slight edge as the home side, but the match appears quite balanced, and Vasco da Gama's 30% probability is not negligible either. In terms of total goals, the probability of 3 or more goals (54%) is slightly ahead of the probability of at most 2 goals (46%), which points to an open match where both teams are likely to find the net. Our past predictions at this confidence level have been correct in 51% of 117 matches, staying above the expected 41%. A draw, at 27%, is a clear alternative; still, Vasco's away win also retains its probability.",
-        "es": "El Bragantino-SP tiene una ligera ventaja como equipo local, pero el partido parece muy equilibrado; la probabilidad del Vasco da Gama, del 30%, tampoco es despreciable. En cuanto al total de goles, la probabilidad de 3 goles o más (54%) supera ligeramente la de como máximo 2 goles (46%), lo que apunta a un partido abierto en el que ambos equipos pueden marcar. Nuestras predicciones anteriores con este nivel de confianza acertaron en 117 partidos un 51%, por encima del 41% esperado. El empate, con un 27%, es una alternativa clara; aun así, la victoria visitante del Vasco mantiene su probabilidad.",
-        "de": "Bragantino-SP hat als Heimmannschaft einen leichten Vorteil, doch die Partie wirkt recht ausgeglichen; auch die Wahrscheinlichkeit von 30% für Vasco da Gama ist nicht zu vernachlässigen. Bei der Gesamtzahl der Tore ist die Wahrscheinlichkeit für 3 oder mehr Tore (54%) etwas höher als die für höchstens 2 Tore (46%), was auf ein offenes Spiel hindeutet, in dem beide Teams treffen können. Unsere bisherigen Prognosen auf diesem Vertrauensniveau waren bei 117 Spielen mit 51% richtig und lagen damit über den erwarteten 41%. Ein Unentschieden ist mit 27% eine deutliche Alternative; dennoch bleibt auch ein Auswärtssieg von Vasco mit einer Wahrscheinlichkeit im Blick.",
-        "fr": "Bragantino-SP, à domicile, dispose d'un léger avantage, mais la rencontre paraît très équilibrée ; Vasco da Gama a tout de même une probabilité de 30 % qui ne doit pas être négligée. En ce qui concerne le total des buts, la probabilité de 3 buts ou plus (54 %) dépasse légèrement celle d'au plus 2 buts (46 %), ce qui laisse présager un match ouvert où les deux équipes peuvent trouver le filet. Nos pronostics précédents, à ce niveau de confiance, ont atteint un taux de réussite de 51 % sur 117 matchs, au-dessus des 41 % attendus. Le match nul, à 27 %, constitue une alternative nette ; la victoire à l'extérieur de Vasco conserve néanmoins sa probabilité.",
-        "it": "Il Bragantino-SP ha un leggero vantaggio come squadra di casa, ma la partita appare molto equilibrata; anche la probabilità del 30% per il Vasco da Gama non è da trascurare. In termini di gol totali, la probabilità di 3 o più gol (54%) è leggermente superiore a quella di al massimo 2 gol (46%), il che indica una partita in cui entrambe le squadre possono segnare. Le nostre previsioni passate, con questo livello di fiducia, hanno avuto successo nel 51% di 117 partite, superando il 41% atteso. Il pareggio, con il 27%, è un'alternativa chiara; tuttavia, anche la probabilità di una vittoria in trasferta del Vasco rimane valida.",
-        "pt": "O Bragantino-SP, como mandante, tem uma leve vantagem, mas a partida parece bastante equilibrada; a probabilidade de vitória do Vasco da Gama, de 30%, também não pode ser desconsiderada. No critério de total de gols, a probabilidade de 3 gols ou mais (54%) está um pouco à frente da probabilidade de no máximo 2 gols (46%), o que aponta para um jogo em que as duas equipes devem conseguir marcar. Nossas previsões anteriores, com este nível de confiança, acertaram 51% em 117 partidas, acima dos 41% esperados. O empate, com 27%, é uma alternativa clara; ainda assim, a vitória do Vasco como visitante mantém sua probabilidade."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-19",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Vitoria",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-19",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Internacional",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-14",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Chapecoense",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 2,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 4,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-16T05:37:23Z",
-        "son_utc": "2026-11-18T05:37:21Z",
-        "ilk": {
-          "1": 0.4312,
-          "X": 0.2679,
-          "2": 0.3009
-        },
-        "son": {
-          "1": 0.4312,
-          "X": 0.2679,
-          "2": 0.3009
+          "1": 0.1398,
+          "X": 0.2341,
+          "2": 0.6262
         }
       },
       "ucretsiz": false
@@ -4489,13 +3947,33 @@
       "ev_sahibi": "Basaksehir",
       "deplasman": "Çorum FK",
       "baslama_utc": "2026-11-23T17:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5028,
+        "X": 0.2473,
+        "2": 0.2499
+      },
+      "tahmin": "1",
+      "guven": 0.2529,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5984,
+          "alt": 0.4016
+        },
+        "tahmin": "ust",
+        "guven": 0.1968,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Basaksehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor: ev sahibi kazanma ihtimali %50, Çorum FK'nın %25. Toplam gol tarafında 3 veya daha fazla gol %60 ile daha olası görünüyor; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması %53 olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de senaryoyu destekliyor. Deplasman ihtimali olan beraberlik %25 olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+      "ai_metinler": {
+        "en": "Başakşehir holds a clear but narrow edge based on probabilities: the probability of a home win is 50%, compared with 25% for Çorum FK. On total goals, 3 or more goals appears more likely at 60%, which points to either a high-scoring win for the favorite or an open match where both teams find the net. This expectation sits above the Süper Lig average for 3 or more goals, which stands at 53%. The information that Çorum FK has seen 3 or more goals in four of its last five matches also supports this scenario. A draw, with a 25% probability, is the second most likely result, but it is not a high-probability scenario.",
+        "es": "Başakşehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor: ev sahibinin kazanma ihtimali %50, Çorum FK'nın ise %25. Toplam gol tarafında 3 veya daha fazla gol %60 ile daha olası görünüyor; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması %53 olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de bu senaryoyu destekliyor. Deplasman ihtimali olan beraberlik %25 olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+        "de": "Başakşehir hat olasılıklara göre belirgin, ama dar bir farkla öne çıkıyor: Ev sahibinin kazanma wahrscheinlichkeit'i 50%, Çorum FK'nın ise 25%. Bei den Gesamttoren erscheinen 3 oder mehr Tore mit 60% wahrscheinlicher; das deutet auf einen torreichen Sieg des Favoriten oder auf ein offenes Spiel hin, in dem beide Mannschaften treffen können. Da der Durchschnitt der Süper Lig bei 3 oder mehr Toren 53% beträgt, liegt diese Erwartung über dem Ligadurchschnitt. Die Information, dass Çorum FK in den letzten fünf Spielen viermal 3 oder mehr Tore gesehen hat, stützt dieses Szenario ebenfalls. Ein Unentschieden mit 25% Wahrscheinlichkeit ist das zweitwahrscheinlichste Ergebnis, eine hochwahrscheinliche Variante ist es jedoch nicht.",
+        "fr": "Başakşehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor : ev sahibinin kazanma ihtimali 50 %, Çorum FK'nın ise 25 %. Toplam gol tarafında 3 veya daha fazla gol 60 % ile daha olası görünüyor ; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması 53 % olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de senaryoyu destekliyor. Deplasman ihtimali olan beraberlik 25 % olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+        "it": "Başakşehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor: ev sahibi kazanma ihtimali %50, Çorum FK'nın %25. Toplam gol tarafında 3 veya daha fazla gol %60 ile daha olası görünüyor; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması %53 olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de senaryoyu destekliyor. Deplasman ihtimali olan beraberlik %25 olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+        "pt": "Basaksehir, olasılıklara göre belirgin ama dar bir farkla à frente: a probabilidade de vitória do time da casa é de 50%, contra 25% do Çorum FK. No quesito total de gols, 3 gols ou mais parece mais provável, com 60%; isso aponta para uma vitória do favorito com muitos gols ou para uma partida aberta, em que as duas equipes podem balançar as redes. Como a média de jogos com 3 gols ou mais na Süper Lig é de 53%, essa expectativa está acima da média geral. A informação de que o Çorum FK viu 3 gols ou mais em quatro das últimas cinco partidas também reforça esse cenário. O empate, com 25% de probabilidade, aparece como o segundo resultado mais provável, mas não é um cenário de alta probabilidade."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4651,17 +4129,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:21Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.4868,
-          "X": 0.249,
-          "2": 0.2641
+          "1": 0.4882,
+          "X": 0.2499,
+          "2": 0.2619
         },
         "son": {
-          "1": 0.4987,
-          "X": 0.2481,
-          "2": 0.2532
+          "1": 0.5028,
+          "X": 0.2473,
+          "2": 0.2499
         }
       },
       "ucretsiz": false
@@ -4672,13 +4150,33 @@
       "ev_sahibi": "Monza",
       "deplasman": "Fiorentina",
       "baslama_utc": "2026-11-23T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2583,
+        "X": 0.2488,
+        "2": 0.4929
+      },
+      "tahmin": "2",
+      "guven": 0.2346,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5942,
+          "alt": 0.4058
+        },
+        "tahmin": "ust",
+        "guven": 0.1884,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Fiorentina, Monza deplasmanında %49 ile belirgin biçimde önde; ev sahibi Monza'nın %26 olasılığı ise zayıf bir ihtimal. Toplam golde ise 3 veya daha fazla gol %59 ile öne çıkıyor; bu da deplasman favorisinin gollü bir galibiyet arayacağı senaryoya işaret ediyor. Monza'nın son 5 maçta 10 gol yemesi ve Fiorentina'nın son 5 maçta 11 gol yemesi bu tabloyu destekliyor. Serie A ortalaması olan %56'nın hafif üzerinde seyreden bu görünüm, açık geçecek bir maç beklentisini güçlendiriyor. En olası ikinci sonuç %25 ile beraberlik; ancak Monza'nın son 3 iç saha maçında 2 mağlubiyet alması bu ihtimali sınırlı tutuyor.",
+      "ai_metinler": {
+        "en": "Fiorentina holds a clear lead on the away trip to Monza with a 49% probability, while the home side Monza's 26% probability is a weak chance. For total goals, 3 or more goals stands out at 59%, pointing to a scenario in which the away favorite seeks a high-scoring win. Monza conceding 10 goals in their last 5 matches and Fiorentina conceding 11 goals in their last 5 matches support this picture. Slightly above the Serie A average of 56%, this outlook strengthens the expectation of an open match. The second most likely result is a draw at 25%; however, Monza's 2 defeats in their last 3 home matches keep this probability limited.",
+        "es": "Fiorentina, como visitante frente al Monza, aparece claramente por delante con un 49%; la probabilidad del 26% para el equipo local, el Monza, es una opción débil. En el total de goles, 3 goles o más destaca con un 59%, lo que apunta a un escenario en el que el favorito visitante buscará una victoria con goles. Que el Monza haya encajado 10 goles en sus últimos 5 partidos y la Fiorentina 11 en los suyos respalda este panorama. Esta perspectiva, algo por encima del promedio de la Serie A de 56%, refuerza la expectativa de un partido abierto. El segundo resultado más probable es el empate, con un 25%; sin embargo, que el Monza haya perdido 2 de sus últimos 3 partidos en casa limita esta probabilidad.",
+        "de": "Fiorentina ist auswärts bei Monza mit 49% deutlich im Vorteil; die Wahrscheinlichkeit für einen Heimsieg der Gastgeber Monza liegt mit 26% dagegen nur im niedrigen Bereich. Bei der Gesamtzahl der Tore sticht die Wahrscheinlichkeit für 3 oder mehr Tore mit 59% hervor, was auf ein Szenario hindeutet, in dem der auswärts favorisierte Klub einen torreichen Sieg anstrebt. Dazu passt, dass Monza in den letzten 5 Spielen 10 Gegentore kassiert hat und Fiorentina in denselben 5 Spielen 11 Gegentore. Dieses Bild liegt leicht über dem Serie-A-Durchschnitt von 56% und stärkt die Erwartung einer offenen Partie. Das zweitwahrscheinlichste Ergebnis ist mit 25% ein Unentschieden; allerdings hält die Niederlage Monzas in 2 der letzten 3 Heimspiele diese Möglichkeit begrenzt.",
+        "fr": "Fiorentina, en déplacement à Monza, est nettement en tête avec 49 % de probabilité ; la probabilité de victoire de Monza à domicile, à 26 %, reste faible. Pour le total de buts, 3 buts ou plus ressortent avec 59 %, ce qui suggère un scénario où le favori en déplacement cherchera une victoire riche en buts. Monza ayant encaissé 10 buts lors de ses 5 derniers matchs, et Fiorentina 11 buts lors de ses 5 derniers matchs, cette lecture est confortée. Légèrement au-dessus de la moyenne de Serie A, qui est de 56 %, cette perspective renforce l'attente d'un match ouvert. Le deuxième résultat le plus probable est le match nul, à 25 % ; cependant, les 2 défaites de Monza lors de ses 3 derniers matchs à domicile limitent cette probabilité.",
+        "it": "Fiorentina, trasferta a Monza, è nettamente in vantaggio con il 49%; la probabilità del 26% per la squadra di casa, il Monza, è una possibilità debole. Per il totale gol, invece, emerge con il 59% lo scenario di 3 o più gol, che indica una trasferta favorita in cerca di una vittoria ricca di reti. A sostegno di questo quadro ci sono i 10 gol subiti dal Monza nelle ultime 5 partite e gli 11 subiti dalla Fiorentina nelle ultime 5 partite. Questo scenario, leggermente superiore alla media della Serie A del 56%, rafforza l'aspettativa di una partita aperta. Il secondo esito più probabile è il pareggio con il 25%; tuttavia, le 2 sconfitte nelle ultime 3 partite casalinghe del Monza limitano la portata di questa possibilità.",
+        "pt": "Fiorentina, na partida como visitante, está claramente à frente com 49%; a probabilidade de vitória do Monza, mandante, de 26% é uma possibilidade fraca. Já no total de gols, 3 gols ou mais se destacam com 59%, o que aponta para um cenário em que o favorito visitante buscará uma vitória com muitos gols. Os 10 gols sofridos pelo Monza nos últimos 5 jogos e os 11 gols sofridos pela Fiorentina nos últimos 5 jogos reforçam esse quadro. Esse panorama, um pouco acima da média da Serie A de 56%, fortalece a expectativa de uma partida aberta. O segundo resultado mais provável é o empate, com 25%; no entanto, as 2 derrotas do Monza nos últimos 3 jogos em casa limitam essa probabilidade."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4834,17 +4332,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:21Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.269,
-          "X": 0.2547,
-          "2": 0.4762
+          "1": 0.2633,
+          "X": 0.2522,
+          "2": 0.4845
         },
         "son": {
-          "1": 0.2585,
-          "X": 0.2479,
-          "2": 0.4936
+          "1": 0.2583,
+          "X": 0.2488,
+          "2": 0.4929
         }
       },
       "ucretsiz": false
@@ -4855,13 +4353,33 @@
       "ev_sahibi": "Brentford",
       "deplasman": "Everton",
       "baslama_utc": "2026-11-23T20:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4186,
+        "X": 0.2718,
+        "2": 0.3096
+      },
+      "tahmin": "1",
+      "guven": 0.109,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5324,
+          "alt": 0.4676
+        },
+        "tahmin": "ust",
+        "guven": 0.0648,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Brentford ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Toplam gol tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3+ gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir.",
+      "ai_metinler": {
+        "en": "Brentford, as the home side, has a slight edge, but the gap is narrow at 42% against 31%; the match looks largely balanced. On total goals, 3 or more goals stands out a little at 53%, pointing to an open scenario in which both teams could find the net. However, compared with our archive's Premier League averages (home side 43%, 3 or more goals 57%), the figures for this match sit slightly below average. The fact that our past predictions at this confidence level have been right 29% of the time also calls for a cautious reading of these probabilities. The second most likely outcome is a draw at 27%, which can be considered a serious alternative.",
+        "es": "Brentford, ev sahibi olarak hafif önde, ancak %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Gol toplamı tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalamasıyla (ev sahibi %43, 3 veya daha fazla gol %57) kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir.",
+        "de": "Brentford liegt als Heimmannschaft leicht vorn, doch bei 42% gegenüber 31% ist der Abstand knapp; das Spiel wirkt insgesamt weitgehend ausgeglichen. Bei den Torzahlen liegt „3 oder mehr Tore“ mit 53% etwas vorne, was auf ein offenes Szenario hindeutet, in dem beide Mannschaften treffen können. Im Vergleich mit dem Premier-League-Durchschnitt aus unserem Archiv (Heimsieg 43%, 3 oder mehr Tore 57%) liegen die Werte dieser Partie jedoch leicht darunter. Dass unsere früheren Einschätzungen bei diesem Konfidenzniveau nur in 29% der Fälle zutrafen, spricht ebenfalls dafür, die Wahrscheinlichkeiten vorsichtig zu lesen. Das zweitwahrscheinlichste Ergebnis ist mit 27% ein Unentschieden; diese Möglichkeit ist als ernstzunehmende Alternative zu betrachten.",
+        "fr": "Brentford, en tant qu'équipe à domicile, est légèrement en tête, mais l'écart est étroit entre 42 % et 31 % ; le match semble globalement équilibré. Côté total de buts, 3 buts ou plus ressortent légèrement avec 53 %, ce qui indique un scénario ouvert où les deux équipes peuvent marquer. Toutefois, comparées à la moyenne de notre archive pour la Premier League (domicile 43 %, 3 buts ou plus 57 %), les valeurs de ce match restent légèrement en dessous de la moyenne. Le fait que nos pronostics passés à ce niveau de confiance n'aient réussi que 29 % du temps impose également de lire ces probabilités avec prudence. Le deuxième résultat le plus probable est le match nul à 27 %, une possibilité qui mérite d'être considérée comme une alternative sérieuse.",
+        "it": "Brentford, ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Gol sayısı tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3 veya daha fazla gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir.",
+        "pt": "Brentford, ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Toplam gol tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3+ gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -5017,17 +4535,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:26Z",
         "ilk": {
-          "1": 0.4653,
-          "X": 0.2607,
-          "2": 0.274
+          "1": 0.4584,
+          "X": 0.2628,
+          "2": 0.2788
         },
         "son": {
-          "1": 0.446,
-          "X": 0.2696,
-          "2": 0.2844
+          "1": 0.4186,
+          "X": 0.2718,
+          "2": 0.3096
         }
       },
       "ucretsiz": false
@@ -5038,13 +4556,33 @@
       "ev_sahibi": "Levante",
       "deplasman": "Elche CF",
       "baslama_utc": "2026-11-23T20:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4365,
+        "X": 0.2671,
+        "2": 0.2964
+      },
+      "tahmin": "1",
+      "guven": 0.1401,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5567,
+          "alt": 0.4433
+        },
+        "tahmin": "ust",
+        "guven": 0.1134,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Maçta Levante hafif önde ama fark belirgin değil: ev sahibi %44, Elche %30, beraberlik %27 olasılığıyla görünüyor. Toplam golde 3 veya daha fazla gol %56 ile biraz öne çıkıyor; bu, açık geçebilecek ama kesin olmayan bir senaryoya işaret ediyor. Levante'nin son 5 maçta 2 maçta 3+ gol görmesi ve Elche'nin son 5 maçta 3 gol atıp 3 gol yemesi bu dengeyi destekliyor. Arşivimizdeki La Liga ortalamasına göre ev sahibi galibiyeti (%44) ile birebir örtüşüyor, ancak geçmiş tahminlerimizde bu güven seviyesinde isabet %40 olarak beklenenin biraz altında kaldı. İkinci olası sonuç olan Elche galibiyeti %30 ile makul bir ihtimal.",
+      "ai_metinler": {
+        "en": "The match assessment leans slightly toward Levante, but the difference is not clear-cut: the home side has a 44% probability, Elche 30%, and a draw 27%. For total goals, 3 or more goals stands out a little at 56%, pointing to a scenario that could be open but is not certain. Levante seeing 3+ goals in 2 of their last 5 matches, and Elche scoring 3 and conceding 3 in their last 5, support this balance. Compared with our archived La Liga average, the home win probability (44%) matches it exactly, but in our past predictions, accuracy at this confidence level came in at 40%, slightly below what was expected. Elche winning, the second most likely outcome at 30%, remains a reasonable possibility.",
+        "es": "El Levante ligeramente por delante, pero la diferencia no es clara: el equipo local aparece con una probabilidad del 44%, el Elche del 30% y el empate del 27%. En el total de goles, 3 goles o más destaca un poco con un 56%, lo que apunta a un escenario abierto pero no seguro. Que el Levante haya visto 3 o más goles en 2 de sus últimos 5 partidos, y que el Elche haya marcado 3 goles y recibido 3 goles en sus últimos 5 partidos, respalda este equilibrio. Según nuestro promedio archivado de La Liga, la victoria local (44%) coincide exactamente, aunque en nuestras predicciones anteriores con este nivel de confianza el acierto fue del 40%, algo por debajo de lo esperado. La segunda opción, la victoria del Elche con un 30%, es una probabilidad razonable.",
+        "de": "Im Spiel liegt Levante leicht vorn, der Unterschied ist jedoch nicht deutlich: Der Heimsieg erscheint mit einer Wahrscheinlichkeit von 44%, ein Sieg von Elche mit 30% und ein Unentschieden mit 27%. Bei der Gesamtzahl der Tore hebt sich „3 oder mehr Tore\" mit 56% etwas hervor; das deutet auf ein offenes, aber nicht sicheres Szenario hin. Dieses Gleichgewicht wird durch die letzten 5 Spiele gestützt: Levante sah in 2 dieser Spiele 3 oder mehr Tore, und Elche hat in den letzten 5 Spielen 3 Tore geschossen und 3 Tore kassiert. Im Vergleich zum Durchschnitt unseres Archivs für La Liga stimmt der Heimsieg (44%) genau damit überein. Allerdings blieb die Trefferquote unserer früheren Einschätzungen bei diesem Vertrauensniveau mit 40% etwas unter dem Erwarteten. Der zweite mögliche Ausgang, ein Sieg von Elche mit 30%, ist eine plausible Wahrscheinlichkeit.",
+        "fr": "Dans ce match, Levante est légèrement favori mais l'écart n'est pas net : la victoire de l'équipe à domicile apparaît avec une probabilité de 44 %, celle d'Elche de 30 %, et le match nul de 27 %. Pour le total de buts, 3 buts ou plus ressort un peu avec 56 %, ce qui indique un scénario ouvert mais non certain. Les derniers 5 matchs de Levante, où 3 buts ou plus ont été vus à 2 reprises, et ceux d'Elche, avec 3 buts marqués et 3 encaissés, soutiennent cet équilibre. Selon notre moyenne d'archives pour la Liga, la victoire à domicile (44 %) correspond exactement, mais dans nos pronostics passés, la réussite à ce niveau de confiance est restée légèrement inférieure aux 40 % attendus. La deuxième issue possible, la victoire d'Elche à 30 %, reste une probabilité raisonnable.",
+        "it": "La partita vede il Levante leggermente in vantaggio, ma la differenza non è netta: la vittoria della squadra di casa appare con una probabilità del 44%, quella dell'Elche con il 30% e il pareggio con il 27%. Per il totale gol, 3 o più gol hanno una probabilità del 56%, in leggero rialzo; questo indica uno scenario aperto ma non certo. A sostegno di questo equilibrio ci sono i dati recenti: il Levante nelle ultime 5 partite ha visto 3 o più gol in 2 occasioni, mentre l'Elche nelle ultime 5 ha segnato 3 gol e ne ha subiti 3. Rispetto alla media della Liga presente nel nostro archivio, la vittoria interna (44%) è in linea, tuttavia nelle nostre precedenti previsioni con questo livello di fiducia la precisione si è attestata al 40%, leggermente sotto le attese. La seconda possibile esito, la vittoria dell'Elche, con il 30%, resta un'ipotesi plausibile.",
+        "pt": "A partida mostra o Levante ligeiramente à frente, mas a diferença não é marcante: a vitória do mandante tem probabilidade de 44%, a do Elche de 30% e o empate de 27%. Em relação ao total de gols, 3 gols ou mais se destaca um pouco, com 56%; isso aponta para um cenário com jogo aberto, porém não certo. Nos últimos 5 jogos, o Levante teve 3 gols ou mais em 2 partidas, e o Elche marcou 3 gols e sofreu 3 gols nesse mesmo período, o que sustenta esse equilíbrio. De acordo com a média do nosso arquivo para La Liga, a vitória do mandante (44%) coincide exatamente com esse valor, porém, nas nossas previsões anteriores com esse nível de confiança, o índice de acerto ficou em 40%, um pouco abaixo do esperado. O segundo resultado possível, a vitória do Elche, com 30%, é uma probabilidade razoável."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -5200,128 +4738,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-14T05:37:20Z",
-        "son_utc": "2026-11-21T05:37:22Z",
+        "ilk_utc": "2026-11-17T05:37:20Z",
+        "son_utc": "2026-11-22T05:37:27Z",
         "ilk": {
-          "1": 0.4418,
-          "X": 0.2564,
-          "2": 0.3019
+          "1": 0.439,
+          "X": 0.2627,
+          "2": 0.2983
         },
         "son": {
-          "1": 0.4372,
-          "X": 0.2669,
-          "2": 0.2959
-        }
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "c1339bf6458b24fdfaa62305a6947a8c",
-      "lig": "soccer_brazil_campeonato",
-      "ev_sahibi": "Internacional",
-      "deplasman": "Vitoria",
-      "baslama_utc": "2026-11-23T22:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-19",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Vasco da Gama",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-19",
-              "lig": "soccer_brazil_campeonato",
-              "rakip": "Bragantino-SP",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 0,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 0,
-            "yenilen": 0,
-            "ust25": 0
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-16T05:37:23Z",
-        "son_utc": "2026-11-18T05:37:21Z",
-        "ilk": {
-          "1": 0.5554,
-          "X": 0.2598,
-          "2": 0.1848
-        },
-        "son": {
-          "1": 0.5628,
-          "X": 0.2524,
-          "2": 0.1847
+          "1": 0.4365,
+          "X": 0.2671,
+          "2": 0.2964
         }
       },
       "ucretsiz": false
