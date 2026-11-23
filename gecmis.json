@@ -1,7 +1,46 @@
 {
-  "guncelleme_utc": "2026-11-23T14:30:50Z",
-  "mac_sayisi": 458,
+  "guncelleme_utc": "2026-11-23T17:30:47Z",
+  "mac_sayisi": 459,
   "maclar": [
+    {
+      "mac_id": "c1958a1dcd4f8228f4d09148fd6ea216",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Basaksehir",
+      "deplasman": "Çorum FK",
+      "baslama_utc": "2026-11-23T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.5028,
+        "X": 0.2473,
+        "2": 0.2499
+      },
+      "tahmin": "1",
+      "guven": 0.2529,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5984,
+          "alt": 0.4016
+        },
+        "tahmin": "ust",
+        "guven": 0.1968,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Basaksehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor: ev sahibi kazanma ihtimali %50, Çorum FK'nın %25. Toplam gol tarafında 3 veya daha fazla gol %60 ile daha olası görünüyor; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması %53 olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de senaryoyu destekliyor. Deplasman ihtimali olan beraberlik %25 olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+      "ai_metinler": {
+        "en": "Başakşehir holds a clear but narrow edge based on probabilities: the probability of a home win is 50%, compared with 25% for Çorum FK. On total goals, 3 or more goals appears more likely at 60%, which points to either a high-scoring win for the favorite or an open match where both teams find the net. This expectation sits above the Süper Lig average for 3 or more goals, which stands at 53%. The information that Çorum FK has seen 3 or more goals in four of its last five matches also supports this scenario. A draw, with a 25% probability, is the second most likely result, but it is not a high-probability scenario.",
+        "es": "Başakşehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor: ev sahibinin kazanma ihtimali %50, Çorum FK'nın ise %25. Toplam gol tarafında 3 veya daha fazla gol %60 ile daha olası görünüyor; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması %53 olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de bu senaryoyu destekliyor. Deplasman ihtimali olan beraberlik %25 olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+        "de": "Başakşehir hat olasılıklara göre belirgin, ama dar bir farkla öne çıkıyor: Ev sahibinin kazanma wahrscheinlichkeit'i 50%, Çorum FK'nın ise 25%. Bei den Gesamttoren erscheinen 3 oder mehr Tore mit 60% wahrscheinlicher; das deutet auf einen torreichen Sieg des Favoriten oder auf ein offenes Spiel hin, in dem beide Mannschaften treffen können. Da der Durchschnitt der Süper Lig bei 3 oder mehr Toren 53% beträgt, liegt diese Erwartung über dem Ligadurchschnitt. Die Information, dass Çorum FK in den letzten fünf Spielen viermal 3 oder mehr Tore gesehen hat, stützt dieses Szenario ebenfalls. Ein Unentschieden mit 25% Wahrscheinlichkeit ist das zweitwahrscheinlichste Ergebnis, eine hochwahrscheinliche Variante ist es jedoch nicht.",
+        "fr": "Başakşehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor : ev sahibinin kazanma ihtimali 50 %, Çorum FK'nın ise 25 %. Toplam gol tarafında 3 veya daha fazla gol 60 % ile daha olası görünüyor ; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması 53 % olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de senaryoyu destekliyor. Deplasman ihtimali olan beraberlik 25 % olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+        "it": "Başakşehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor: ev sahibi kazanma ihtimali %50, Çorum FK'nın %25. Toplam gol tarafında 3 veya daha fazla gol %60 ile daha olası görünüyor; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması %53 olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de senaryoyu destekliyor. Deplasman ihtimali olan beraberlik %25 olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
+        "pt": "Basaksehir, olasılıklara göre belirgin ama dar bir farkla à frente: a probabilidade de vitória do time da casa é de 50%, contra 25% do Çorum FK. No quesito total de gols, 3 gols ou mais parece mais provável, com 60%; isso aponta para uma vitória do favorito com muitos gols ou para uma partida aberta, em que as duas equipes podem balançar as redes. Como a média de jogos com 3 gols ou mais na Süper Lig é de 53%, essa expectativa está acima da média geral. A informação de que o Çorum FK viu 3 gols ou mais em quatro das últimas cinco partidas também reforça esse cenário. O empate, com 25% de probabilidade, aparece como o segundo resultado mais provável, mas não é um cenário de alta probabilidade."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "08f1d5a366e711c1e29845352bb8137d",
       "lig": "soccer_brazil_campeonato",
@@ -10583,38 +10622,6 @@
       "tuttu": false,
       "alt_ust_tuttu": true,
       "ucretsiz": false
-    },
-    {
-      "mac_id": "7eecf109ae6a5f87441a79b0e4111982",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "AS Roma",
-      "deplasman": "Cagliari",
-      "baslama_utc": "2026-10-27T19:45:00Z",
-      "olasiliklar": {
-        "1": 0.703,
-        "X": 0.1891,
-        "2": 0.1079
-      },
-      "tahmin": "1",
-      "guven": 0.5139,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5689,
-          "alt": 0.4311
-        },
-        "tahmin": "ust",
-        "guven": 0.1378,
-        "kaynak_sayisi": 13
-      },
-      "ai_metin": "AS Roma, Cagliari karşısında net favori konumda. Yüksek gol beklentisiyle birlikte, ev sahibinin gollü bir galibiyet alması en olası senaryo gibi duruyor. Son 5 maçında 12 gol atan Roma'nın iç sahadaki üretkenliği bu beklentiyi destekliyor. Ancak, 21 veri kaynağındaki belirgin görüş farkı, bu maçta normalden yüksek bir belirsizliğe işaret ediyor. Beraberlik (%19) veya Cagliari galibiyeti (%11) ise düşük ihtimaller olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "4-2",
-      "toplam_gol": 6,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": true
     }
   ]
 }
