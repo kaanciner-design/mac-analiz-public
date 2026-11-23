@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-22T22:30:41Z",
+  "guncelleme_utc": "2026-11-23T05:37:21Z",
   "mac_sayisi": 458,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "Il Bragantino-SP ha un leggero vantaggio come squadra di casa, ma la partita appare molto equilibrata; anche la probabilità del 30% per il Vasco da Gama non è da trascurare. In termini di gol totali, la probabilità di 3 o più gol (54%) è leggermente superiore a quella di al massimo 2 gol (46%), il che indica una partita in cui entrambe le squadre possono segnare. Le nostre previsioni passate, con questo livello di fiducia, hanno avuto successo nel 51% di 117 partite, superando il 41% atteso. Il pareggio, con il 27%, è un'alternativa chiara; tuttavia, anche la probabilità di una vittoria in trasferta del Vasco rimane valida.",
         "pt": "O Bragantino-SP, como mandante, tem uma leve vantagem, mas a partida parece bastante equilibrada; a probabilidade de vitória do Vasco da Gama, de 30%, também não pode ser desconsiderada. No critério de total de gols, a probabilidade de 3 gols ou mais (54%) está um pouco à frente da probabilidade de no máximo 2 gols (46%), o que aponta para um jogo em que as duas equipes devem conseguir marcar. Nossas previsões anteriores, com este nível de confiança, acertaram 51% em 117 partidas, acima dos 41% esperados. O empate, com 27%, é uma alternativa clara; ainda assim, a vitória do Vasco como visitante mantém sua probabilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -73,11 +73,11 @@
         "it": "Fluminense appare un favorito evidente, che beneficia anche del vantaggio di giocare in casa; probabilità del 55% indicano chiaramente che la possibilità di vittoria supera nettamente quella del Mirassol. La distribuzione del numero totale di gol al 50%-50% mostra invece che la partita non è vincolata a un unico scenario: uno sviluppo con 3 o più gol e uno con al massimo 2 gol sono considerati ugualmente probabili. In passato, le nostre previsioni con questo livello di fiducia hanno raggiunto una percentuale di successo del 62% su 120 partite; questo risultato, superiore al 49% atteso, indica che tali previsioni funzionano in modo statisticamente significativo. Il pareggio, secondo esito più probabile, si distingue con il 25%; la vittoria del Mirassol, però, non è esclusa dagli scenari, con una probabilità del 20%.",
         "pt": "Fluminense aparece como um claro favorito, também beneficiado pela vantagem de jogar em casa; a probabilidade de 55% indica com clareza que a chance de vitória do Fluminense está bem à frente da do Mirassol. A distribuição de gols igual a 50%-50% sugere que a partida não se fixa em um único cenário de gols: um jogo com gols e um jogo mais controlado têm, na mesma medida, probabilidades equivalentes. Em previsões desse nível de confiança feitas no passado, nossa taxa de acerto foi de 62% em 120 jogos; esse resultado acima dos 49% esperados sinaliza que este tipo de previsão funciona de forma estatisticamente significativa. O segundo resultado mais provável, o empate, chama a atenção com 25%; já a vitória do Mirassol, com probabilidade de 20%, também não está fora do cenário."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
