@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-23T17:30:47Z",
+  "guncelleme_utc": "2026-11-23T19:30:49Z",
   "mac_sayisi": 459,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "Başakşehir, olasılıklara göre belirgin ama dar bir farkla öne çıkıyor: ev sahibi kazanma ihtimali %50, Çorum FK'nın %25. Toplam gol tarafında 3 veya daha fazla gol %60 ile daha olası görünüyor; bu da favorinin gollü bir galibiyetine ya da iki tarafın da gol bulabileceği açık bir maça işaret ediyor. Süper Lig'de 3 veya daha fazla gol ortalaması %53 olduğundan bu beklenti genel ortalamanın üzerinde. Çorum FK'nın son beş maçta dört kez 3 veya daha fazla gol gördüğü bilgisi de senaryoyu destekliyor. Deplasman ihtimali olan beraberlik %25 olasılıkla ikinci en olası sonuç, ancak bu seçenek yüksek olasılıklı bir senaryo değil.",
         "pt": "Basaksehir, olasılıklara göre belirgin ama dar bir farkla à frente: a probabilidade de vitória do time da casa é de 50%, contra 25% do Çorum FK. No quesito total de gols, 3 gols ou mais parece mais provável, com 60%; isso aponta para uma vitória do favorito com muitos gols ou para uma partida aberta, em que as duas equipes podem balançar as redes. Como a média de jogos com 3 gols ou mais na Süper Lig é de 53%, essa expectativa está acima da média geral. A informação de que o Çorum FK viu 3 gols ou mais em quatro das últimas cinco partidas também reforça esse cenário. O empate, com 25% de probabilidade, aparece como o segundo resultado mais provável, mas não é um cenário de alta probabilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "4-2",
+      "toplam_gol": 6,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
