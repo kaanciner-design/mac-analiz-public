@@ -1,7 +1,124 @@
 {
-  "guncelleme_utc": "2026-11-23T19:30:49Z",
-  "mac_sayisi": 459,
+  "guncelleme_utc": "2026-11-23T20:30:45Z",
+  "mac_sayisi": 462,
   "maclar": [
+    {
+      "mac_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "lig": "soccer_epl",
+      "ev_sahibi": "Brentford",
+      "deplasman": "Everton",
+      "baslama_utc": "2026-11-23T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4186,
+        "X": 0.2718,
+        "2": 0.3096
+      },
+      "tahmin": "1",
+      "guven": 0.109,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5324,
+          "alt": 0.4676
+        },
+        "tahmin": "ust",
+        "guven": 0.0648,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Brentford ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Toplam gol tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3+ gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir.",
+      "ai_metinler": {
+        "en": "Brentford, as the home side, has a slight edge, but the gap is narrow at 42% against 31%; the match looks largely balanced. On total goals, 3 or more goals stands out a little at 53%, pointing to an open scenario in which both teams could find the net. However, compared with our archive's Premier League averages (home side 43%, 3 or more goals 57%), the figures for this match sit slightly below average. The fact that our past predictions at this confidence level have been right 29% of the time also calls for a cautious reading of these probabilities. The second most likely outcome is a draw at 27%, which can be considered a serious alternative.",
+        "es": "Brentford, ev sahibi olarak hafif önde, ancak %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Gol toplamı tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalamasıyla (ev sahibi %43, 3 veya daha fazla gol %57) kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir.",
+        "de": "Brentford liegt als Heimmannschaft leicht vorn, doch bei 42% gegenüber 31% ist der Abstand knapp; das Spiel wirkt insgesamt weitgehend ausgeglichen. Bei den Torzahlen liegt „3 oder mehr Tore“ mit 53% etwas vorne, was auf ein offenes Szenario hindeutet, in dem beide Mannschaften treffen können. Im Vergleich mit dem Premier-League-Durchschnitt aus unserem Archiv (Heimsieg 43%, 3 oder mehr Tore 57%) liegen die Werte dieser Partie jedoch leicht darunter. Dass unsere früheren Einschätzungen bei diesem Konfidenzniveau nur in 29% der Fälle zutrafen, spricht ebenfalls dafür, die Wahrscheinlichkeiten vorsichtig zu lesen. Das zweitwahrscheinlichste Ergebnis ist mit 27% ein Unentschieden; diese Möglichkeit ist als ernstzunehmende Alternative zu betrachten.",
+        "fr": "Brentford, en tant qu'équipe à domicile, est légèrement en tête, mais l'écart est étroit entre 42 % et 31 % ; le match semble globalement équilibré. Côté total de buts, 3 buts ou plus ressortent légèrement avec 53 %, ce qui indique un scénario ouvert où les deux équipes peuvent marquer. Toutefois, comparées à la moyenne de notre archive pour la Premier League (domicile 43 %, 3 buts ou plus 57 %), les valeurs de ce match restent légèrement en dessous de la moyenne. Le fait que nos pronostics passés à ce niveau de confiance n'aient réussi que 29 % du temps impose également de lire ces probabilités avec prudence. Le deuxième résultat le plus probable est le match nul à 27 %, une possibilité qui mérite d'être considérée comme une alternative sérieuse.",
+        "it": "Brentford, ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Gol sayısı tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3 veya daha fazla gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir.",
+        "pt": "Brentford, ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Toplam gol tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3+ gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "afae1c9d986e4ab2200dc9bd44b6b6c4",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Levante",
+      "deplasman": "Elche CF",
+      "baslama_utc": "2026-11-23T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.4365,
+        "X": 0.2671,
+        "2": 0.2964
+      },
+      "tahmin": "1",
+      "guven": 0.1401,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5567,
+          "alt": 0.4433
+        },
+        "tahmin": "ust",
+        "guven": 0.1134,
+        "kaynak_sayisi": 13
+      },
+      "ai_metin": "Maçta Levante hafif önde ama fark belirgin değil: ev sahibi %44, Elche %30, beraberlik %27 olasılığıyla görünüyor. Toplam golde 3 veya daha fazla gol %56 ile biraz öne çıkıyor; bu, açık geçebilecek ama kesin olmayan bir senaryoya işaret ediyor. Levante'nin son 5 maçta 2 maçta 3+ gol görmesi ve Elche'nin son 5 maçta 3 gol atıp 3 gol yemesi bu dengeyi destekliyor. Arşivimizdeki La Liga ortalamasına göre ev sahibi galibiyeti (%44) ile birebir örtüşüyor, ancak geçmiş tahminlerimizde bu güven seviyesinde isabet %40 olarak beklenenin biraz altında kaldı. İkinci olası sonuç olan Elche galibiyeti %30 ile makul bir ihtimal.",
+      "ai_metinler": {
+        "en": "The match assessment leans slightly toward Levante, but the difference is not clear-cut: the home side has a 44% probability, Elche 30%, and a draw 27%. For total goals, 3 or more goals stands out a little at 56%, pointing to a scenario that could be open but is not certain. Levante seeing 3+ goals in 2 of their last 5 matches, and Elche scoring 3 and conceding 3 in their last 5, support this balance. Compared with our archived La Liga average, the home win probability (44%) matches it exactly, but in our past predictions, accuracy at this confidence level came in at 40%, slightly below what was expected. Elche winning, the second most likely outcome at 30%, remains a reasonable possibility.",
+        "es": "El Levante ligeramente por delante, pero la diferencia no es clara: el equipo local aparece con una probabilidad del 44%, el Elche del 30% y el empate del 27%. En el total de goles, 3 goles o más destaca un poco con un 56%, lo que apunta a un escenario abierto pero no seguro. Que el Levante haya visto 3 o más goles en 2 de sus últimos 5 partidos, y que el Elche haya marcado 3 goles y recibido 3 goles en sus últimos 5 partidos, respalda este equilibrio. Según nuestro promedio archivado de La Liga, la victoria local (44%) coincide exactamente, aunque en nuestras predicciones anteriores con este nivel de confianza el acierto fue del 40%, algo por debajo de lo esperado. La segunda opción, la victoria del Elche con un 30%, es una probabilidad razonable.",
+        "de": "Im Spiel liegt Levante leicht vorn, der Unterschied ist jedoch nicht deutlich: Der Heimsieg erscheint mit einer Wahrscheinlichkeit von 44%, ein Sieg von Elche mit 30% und ein Unentschieden mit 27%. Bei der Gesamtzahl der Tore hebt sich „3 oder mehr Tore\" mit 56% etwas hervor; das deutet auf ein offenes, aber nicht sicheres Szenario hin. Dieses Gleichgewicht wird durch die letzten 5 Spiele gestützt: Levante sah in 2 dieser Spiele 3 oder mehr Tore, und Elche hat in den letzten 5 Spielen 3 Tore geschossen und 3 Tore kassiert. Im Vergleich zum Durchschnitt unseres Archivs für La Liga stimmt der Heimsieg (44%) genau damit überein. Allerdings blieb die Trefferquote unserer früheren Einschätzungen bei diesem Vertrauensniveau mit 40% etwas unter dem Erwarteten. Der zweite mögliche Ausgang, ein Sieg von Elche mit 30%, ist eine plausible Wahrscheinlichkeit.",
+        "fr": "Dans ce match, Levante est légèrement favori mais l'écart n'est pas net : la victoire de l'équipe à domicile apparaît avec une probabilité de 44 %, celle d'Elche de 30 %, et le match nul de 27 %. Pour le total de buts, 3 buts ou plus ressort un peu avec 56 %, ce qui indique un scénario ouvert mais non certain. Les derniers 5 matchs de Levante, où 3 buts ou plus ont été vus à 2 reprises, et ceux d'Elche, avec 3 buts marqués et 3 encaissés, soutiennent cet équilibre. Selon notre moyenne d'archives pour la Liga, la victoire à domicile (44 %) correspond exactement, mais dans nos pronostics passés, la réussite à ce niveau de confiance est restée légèrement inférieure aux 40 % attendus. La deuxième issue possible, la victoire d'Elche à 30 %, reste une probabilité raisonnable.",
+        "it": "La partita vede il Levante leggermente in vantaggio, ma la differenza non è netta: la vittoria della squadra di casa appare con una probabilità del 44%, quella dell'Elche con il 30% e il pareggio con il 27%. Per il totale gol, 3 o più gol hanno una probabilità del 56%, in leggero rialzo; questo indica uno scenario aperto ma non certo. A sostegno di questo equilibrio ci sono i dati recenti: il Levante nelle ultime 5 partite ha visto 3 o più gol in 2 occasioni, mentre l'Elche nelle ultime 5 ha segnato 3 gol e ne ha subiti 3. Rispetto alla media della Liga presente nel nostro archivio, la vittoria interna (44%) è in linea, tuttavia nelle nostre precedenti previsioni con questo livello di fiducia la precisione si è attestata al 40%, leggermente sotto le attese. La seconda possibile esito, la vittoria dell'Elche, con il 30%, resta un'ipotesi plausibile.",
+        "pt": "A partida mostra o Levante ligeiramente à frente, mas a diferença não é marcante: a vitória do mandante tem probabilidade de 44%, a do Elche de 30% e o empate de 27%. Em relação ao total de gols, 3 gols ou mais se destaca um pouco, com 56%; isso aponta para um cenário com jogo aberto, porém não certo. Nos últimos 5 jogos, o Levante teve 3 gols ou mais em 2 partidas, e o Elche marcou 3 gols e sofreu 3 gols nesse mesmo período, o que sustenta esse equilíbrio. De acordo com a média do nosso arquivo para La Liga, a vitória do mandante (44%) coincide exatamente com esse valor, porém, nas nossas previsões anteriores com esse nível de confiança, o índice de acerto ficou em 40%, um pouco abaixo do esperado. O segundo resultado possível, a vitória do Elche, com 30%, é uma probabilidade razoável."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "99776445d5a5f4ed008f9a6d6a1495b7",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Monza",
+      "deplasman": "Fiorentina",
+      "baslama_utc": "2026-11-23T19:45:00Z",
+      "olasiliklar": {
+        "1": 0.2583,
+        "X": 0.2488,
+        "2": 0.4929
+      },
+      "tahmin": "2",
+      "guven": 0.2346,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5942,
+          "alt": 0.4058
+        },
+        "tahmin": "ust",
+        "guven": 0.1884,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Fiorentina, Monza deplasmanında %49 ile belirgin biçimde önde; ev sahibi Monza'nın %26 olasılığı ise zayıf bir ihtimal. Toplam golde ise 3 veya daha fazla gol %59 ile öne çıkıyor; bu da deplasman favorisinin gollü bir galibiyet arayacağı senaryoya işaret ediyor. Monza'nın son 5 maçta 10 gol yemesi ve Fiorentina'nın son 5 maçta 11 gol yemesi bu tabloyu destekliyor. Serie A ortalaması olan %56'nın hafif üzerinde seyreden bu görünüm, açık geçecek bir maç beklentisini güçlendiriyor. En olası ikinci sonuç %25 ile beraberlik; ancak Monza'nın son 3 iç saha maçında 2 mağlubiyet alması bu ihtimali sınırlı tutuyor.",
+      "ai_metinler": {
+        "en": "Fiorentina holds a clear lead on the away trip to Monza with a 49% probability, while the home side Monza's 26% probability is a weak chance. For total goals, 3 or more goals stands out at 59%, pointing to a scenario in which the away favorite seeks a high-scoring win. Monza conceding 10 goals in their last 5 matches and Fiorentina conceding 11 goals in their last 5 matches support this picture. Slightly above the Serie A average of 56%, this outlook strengthens the expectation of an open match. The second most likely result is a draw at 25%; however, Monza's 2 defeats in their last 3 home matches keep this probability limited.",
+        "es": "Fiorentina, como visitante frente al Monza, aparece claramente por delante con un 49%; la probabilidad del 26% para el equipo local, el Monza, es una opción débil. En el total de goles, 3 goles o más destaca con un 59%, lo que apunta a un escenario en el que el favorito visitante buscará una victoria con goles. Que el Monza haya encajado 10 goles en sus últimos 5 partidos y la Fiorentina 11 en los suyos respalda este panorama. Esta perspectiva, algo por encima del promedio de la Serie A de 56%, refuerza la expectativa de un partido abierto. El segundo resultado más probable es el empate, con un 25%; sin embargo, que el Monza haya perdido 2 de sus últimos 3 partidos en casa limita esta probabilidad.",
+        "de": "Fiorentina ist auswärts bei Monza mit 49% deutlich im Vorteil; die Wahrscheinlichkeit für einen Heimsieg der Gastgeber Monza liegt mit 26% dagegen nur im niedrigen Bereich. Bei der Gesamtzahl der Tore sticht die Wahrscheinlichkeit für 3 oder mehr Tore mit 59% hervor, was auf ein Szenario hindeutet, in dem der auswärts favorisierte Klub einen torreichen Sieg anstrebt. Dazu passt, dass Monza in den letzten 5 Spielen 10 Gegentore kassiert hat und Fiorentina in denselben 5 Spielen 11 Gegentore. Dieses Bild liegt leicht über dem Serie-A-Durchschnitt von 56% und stärkt die Erwartung einer offenen Partie. Das zweitwahrscheinlichste Ergebnis ist mit 25% ein Unentschieden; allerdings hält die Niederlage Monzas in 2 der letzten 3 Heimspiele diese Möglichkeit begrenzt.",
+        "fr": "Fiorentina, en déplacement à Monza, est nettement en tête avec 49 % de probabilité ; la probabilité de victoire de Monza à domicile, à 26 %, reste faible. Pour le total de buts, 3 buts ou plus ressortent avec 59 %, ce qui suggère un scénario où le favori en déplacement cherchera une victoire riche en buts. Monza ayant encaissé 10 buts lors de ses 5 derniers matchs, et Fiorentina 11 buts lors de ses 5 derniers matchs, cette lecture est confortée. Légèrement au-dessus de la moyenne de Serie A, qui est de 56 %, cette perspective renforce l'attente d'un match ouvert. Le deuxième résultat le plus probable est le match nul, à 25 % ; cependant, les 2 défaites de Monza lors de ses 3 derniers matchs à domicile limitent cette probabilité.",
+        "it": "Fiorentina, trasferta a Monza, è nettamente in vantaggio con il 49%; la probabilità del 26% per la squadra di casa, il Monza, è una possibilità debole. Per il totale gol, invece, emerge con il 59% lo scenario di 3 o più gol, che indica una trasferta favorita in cerca di una vittoria ricca di reti. A sostegno di questo quadro ci sono i 10 gol subiti dal Monza nelle ultime 5 partite e gli 11 subiti dalla Fiorentina nelle ultime 5 partite. Questo scenario, leggermente superiore alla media della Serie A del 56%, rafforza l'aspettativa di una partita aperta. Il secondo esito più probabile è il pareggio con il 25%; tuttavia, le 2 sconfitte nelle ultime 3 partite casalinghe del Monza limitano la portata di questa possibilità.",
+        "pt": "Fiorentina, na partida como visitante, está claramente à frente com 49%; a probabilidade de vitória do Monza, mandante, de 26% é uma possibilidade fraca. Já no total de gols, 3 gols ou mais se destacam com 59%, o que aponta para um cenário em que o favorito visitante buscará uma vitória com muitos gols. Os 10 gols sofridos pelo Monza nos últimos 5 jogos e os 11 gols sofridos pela Fiorentina nos últimos 5 jogos reforçam esse quadro. Esse panorama, um pouco acima da média da Serie A de 56%, fortalece a expectativa de uma partida aberta. O segundo resultado mais provável é o empate, com 25%; no entanto, as 2 derrotas do Monza nos últimos 3 jogos em casa limitam essa probabilidade."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "c1958a1dcd4f8228f4d09148fd6ea216",
       "lig": "soccer_turkey_super_league",
@@ -10524,102 +10641,6 @@
       "skor": "1-4",
       "toplam_gol": 5,
       "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "3d0b0fbec194258530882514714c74be",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "AC Milan",
-      "deplasman": "Bologna",
-      "baslama_utc": "2026-10-28T17:30:00Z",
-      "olasiliklar": {
-        "1": 0.589,
-        "X": 0.2377,
-        "2": 0.1733
-      },
-      "tahmin": "1",
-      "guven": 0.3513,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5221,
-          "alt": 0.4779
-        },
-        "tahmin": "ust",
-        "guven": 0.0442,
-        "kaynak_sayisi": 17
-      },
-      "ai_metin": "AC Milan, Bologna karşısında açık favori konumunda. Maçın 3 veya daha fazla golle Milan galibiyetiyle sonuçlanması en olası senaryo olarak öne çıkıyor. Geçmiş tahminlerimizde bu güven seviyesindeki %80'lik isabet oranımız, bu maç için de olumlu bir beklenti oluşturuyor. Bologna'nın galibiyet ihtimali ise oldukça düşük, %17 civarında.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "2-4",
-      "toplam_gol": 6,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "33320ad169692216a91dec030e7ef6a6",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Venezia",
-      "deplasman": "Inter Milan",
-      "baslama_utc": "2026-10-28T17:30:00Z",
-      "olasiliklar": {
-        "1": 0.1238,
-        "X": 0.1688,
-        "2": 0.7074
-      },
-      "tahmin": "2",
-      "guven": 0.5386,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.7098,
-          "alt": 0.2902
-        },
-        "tahmin": "ust",
-        "guven": 0.4196,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Inter Milan, deplasmanda %71 kazanma olasılığıyla maçın net favorisi. Maçın %71 ihtimalle 3 veya daha fazla golle tamamlanması, favorinin gollü bir galibiyet alabileceğine işaret ediyor; Inter'in son 5 maçının 4'ünde bu senaryo gerçekleşti. Geçmiş tahminlerimizde bu güven seviyesinde %80 isabet sağladık. Beraberlik (%17) veya Venezia galibiyeti (%12) düşük ihtimaller olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "0-2",
-      "toplam_gol": 2,
-      "tuttu": true,
-      "alt_ust_tuttu": false,
-      "ucretsiz": true
-    },
-    {
-      "mac_id": "482c18a8081afdfa310324fa8f37e95a",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Parma",
-      "deplasman": "Udinese",
-      "baslama_utc": "2026-10-28T17:30:00Z",
-      "olasiliklar": {
-        "1": 0.3195,
-        "X": 0.3024,
-        "2": 0.3781
-      },
-      "tahmin": "2",
-      "guven": 0.0586,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.437,
-          "alt": 0.563
-        },
-        "tahmin": "alt",
-        "guven": 0.126,
-        "kaynak_sayisi": 15
-      },
-      "ai_metin": "Bu dengeli maçta Udinese'nin çok hafif bir favori olduğunu görüyoruz. İki takımın da son üç maçını kaybetmesi ve bol gol yemesi, 3 veya daha fazla gol olasılığının %44 olmasını destekliyor. Geçmiş tahminlerimiz bu güven seviyesinde %51 isabetle beklentinin üzerinde performans gösterdi. Beraberlik ihtimali de %30 ile oldukça yüksek bir seçenek olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "X",
-      "skor": "0-0",
-      "toplam_gol": 0,
-      "tuttu": false,
       "alt_ust_tuttu": true,
       "ucretsiz": false
     }
