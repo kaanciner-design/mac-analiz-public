@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-23T21:30:47Z",
+  "guncelleme_utc": "2026-11-23T22:30:46Z",
   "mac_sayisi": 462,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "Brentford, ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Gol sayısı tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3 veya daha fazla gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir.",
         "pt": "Brentford, ev sahibi olarak hafif önde, ama %42'ye %31 karşısında fark dar; maç büyük ölçüde dengeli görünüyor. Toplam gol tarafında 3 veya daha fazla gol %53 ile biraz öne çıkıyor; bu, iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Ancak arşivimizdeki Premier Lig ortalaması (ev sahibi %43, 3+ gol %57) ile kıyaslandığında bu maçın değerleri ortalamanın hafif altında kalıyor. Geçmiş tahminlerimizin bu güven düzeyinde %29 isabet etmesi de olasılıkları temkinli okumayı gerektiriyor. En olası ikinci sonuç %27 ile beraberlik; bu ihtimal ciddi bir alternatif olarak değerlendirilebilir."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "4-0",
+      "toplam_gol": 4,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -73,11 +73,11 @@
         "it": "La partita vede il Levante leggermente in vantaggio, ma la differenza non è netta: la vittoria della squadra di casa appare con una probabilità del 44%, quella dell'Elche con il 30% e il pareggio con il 27%. Per il totale gol, 3 o più gol hanno una probabilità del 56%, in leggero rialzo; questo indica uno scenario aperto ma non certo. A sostegno di questo equilibrio ci sono i dati recenti: il Levante nelle ultime 5 partite ha visto 3 o più gol in 2 occasioni, mentre l'Elche nelle ultime 5 ha segnato 3 gol e ne ha subiti 3. Rispetto alla media della Liga presente nel nostro archivio, la vittoria interna (44%) è in linea, tuttavia nelle nostre precedenti previsioni con questo livello di fiducia la precisione si è attestata al 40%, leggermente sotto le attese. La seconda possibile esito, la vittoria dell'Elche, con il 30%, resta un'ipotesi plausibile.",
         "pt": "A partida mostra o Levante ligeiramente à frente, mas a diferença não é marcante: a vitória do mandante tem probabilidade de 44%, a do Elche de 30% e o empate de 27%. Em relação ao total de gols, 3 gols ou mais se destaca um pouco, com 56%; isso aponta para um cenário com jogo aberto, porém não certo. Nos últimos 5 jogos, o Levante teve 3 gols ou mais em 2 partidas, e o Elche marcou 3 gols e sofreu 3 gols nesse mesmo período, o que sustenta esse equilíbrio. De acordo com a média do nosso arquivo para La Liga, a vitória do mandante (44%) coincide exatamente com esse valor, porém, nas nossas previsões anteriores com esse nível de confiança, o índice de acerto ficou em 40%, um pouco abaixo do esperado. O segundo resultado possível, a vitória do Elche, com 30%, é uma probabilidade razoável."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "1-1",
+      "toplam_gol": 2,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -112,11 +112,11 @@
         "it": "Fiorentina, trasferta a Monza, è nettamente in vantaggio con il 49%; la probabilità del 26% per la squadra di casa, il Monza, è una possibilità debole. Per il totale gol, invece, emerge con il 59% lo scenario di 3 o più gol, che indica una trasferta favorita in cerca di una vittoria ricca di reti. A sostegno di questo quadro ci sono i 10 gol subiti dal Monza nelle ultime 5 partite e gli 11 subiti dalla Fiorentina nelle ultime 5 partite. Questo scenario, leggermente superiore alla media della Serie A del 56%, rafforza l'aspettativa di una partita aperta. Il secondo esito più probabile è il pareggio con il 25%; tuttavia, le 2 sconfitte nelle ultime 3 partite casalinghe del Monza limitano la portata di questa possibilità.",
         "pt": "Fiorentina, na partida como visitante, está claramente à frente com 49%; a probabilidade de vitória do Monza, mandante, de 26% é uma possibilidade fraca. Já no total de gols, 3 gols ou mais se destacam com 59%, o que aponta para um cenário em que o favorito visitante buscará uma vitória com muitos gols. Os 10 gols sofridos pelo Monza nos últimos 5 jogos e os 11 gols sofridos pela Fiorentina nos últimos 5 jogos reforçam esse quadro. Esse panorama, um pouco acima da média da Serie A de 56%, fortalece a expectativa de uma partida aberta. O segundo resultado mais provável é o empate, com 25%; no entanto, as 2 derrotas do Monza nos últimos 3 jogos em casa limitam essa probabilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-0",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
