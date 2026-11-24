@@ -1,7 +1,280 @@
 {
-  "guncelleme_utc": "2026-11-24T19:30:45Z",
-  "mac_sayisi": 464,
+  "guncelleme_utc": "2026-11-24T20:30:44Z",
+  "mac_sayisi": 471,
   "maclar": [
+    {
+      "mac_id": "ba719e378ac366262013bdb51a06aa6f",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Como",
+      "deplasman": "AEK Athens",
+      "baslama_utc": "2026-11-24T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.7425,
+        "X": 0.1571,
+        "2": 0.1004
+      },
+      "tahmin": "1",
+      "guven": 0.5854,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7061,
+          "alt": 0.2939
+        },
+        "tahmin": "ust",
+        "guven": 0.4122,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Como, 74 yüzde olasılıkla belirgin biçimde önde; AEK Athens'in son üç maçta puan alamaması ve 11 gol yemesi bu tabloyu destekliyor. 3 veya daha fazla gol olasılığı %71 olduğundan gollü bir Como galibiyeti en olası senaryo. Arşivimizdeki Şampiyonlar Ligi ortalamasının (ev sahibi %44) üzerinde bir favori görünümü var ve Como'nun son beş maçtaki 4 galibiyeti ile iç sahadaki 9 gol bu farkı açıklıyor. En olası ikinci sonuç %16 ile beraberlik; bu ihtimal düşük değil ama favorinin üstünlüğü açık.",
+      "ai_metinler": {
+        "en": "Como is clearly ahead with a 74% probability; AEK Athens' failure to take any points in their last three matches and conceding 11 goals support this picture. Since the probability of 3 or more goals is 71%, a Como win with goals is the most likely scenario. The favourite's standing looks stronger than our archive's Champions League average for home teams (44%), and Como's 4 wins in their last five matches along with their 9 goals at home explain this gap. The second most likely result is a draw at 16%; this possibility is not low, but the favourite's advantage is clear.",
+        "es": "Como tiene una clara ventaja con una probabilidad del 74%; la ausencia de puntos del AEK Athens en sus últimos tres partidos y los 11 goles recibidos respaldan este escenario. Como la probabilidad de 3 goles o más es del 71%, una victoria de Como con goles es el escenario más probable. Se trata de un favorito por encima de la media de nuestro archivo de la Liga de Campeones (local con un 44%), y sus 4 victorias en los últimos cinco partidos junto con los 9 goles en casa explican esa diferencia. El segundo resultado más probable es el empate, con un 16%; esta probabilidad no es baja, pero la superioridad del favorito es evidente.",
+        "de": "Como liegt mit einer Wahrscheinlichkeit von 74% deutlich vorn; die letzten drei Spiele ohne Punktgewinn von AEK Athens und 11 Gegentore unterstützen dieses Bild. Die Wahrscheinlichkeit für 3 oder mehr Tore liegt bei 71%, daher ist ein Como-Sieg mit mehreren Toren das wahrscheinlichste Szenario. Im Vergleich zum Durchschnitt unseres Archivs für die Champions League (Heimteam 44%) erscheint Como als deutlich stärkerer Favorit, was durch die 4 Siege aus den letzten fünf Spielen und die 9 Heimtore erklärt wird. Das zweitwahrscheinlichste Ergebnis ist ein Unentschieden mit 16%; diese Möglichkeit ist nicht gering, doch die Überlegenheit des Favoriten ist klar erkennbar.",
+        "fr": "Como est nettement favori avec une probabilité de 74 %, et le fait qu'AEK Athènes n'ait pris aucun point lors de ses trois derniers matchs et encaissé 11 buts renforce cette lecture. La probabilité de 3 buts ou plus atteint 71 %, faisant d'une victoire de Como avec plusieurs buts le scénario le plus probable. Ce favori se détache au-delà de la moyenne de nos archives pour la Ligue des champions (équipe à domicile à 44 %), et ses 4 victoires lors de ses cinq derniers matchs ainsi que ses 9 buts marqués à domicile expliquent cet écart. Le deuxième résultat le plus probable est le match nul, avec 16 % ; cette probabilité n'est pas négligeable, mais la supériorité du favori reste évidente.",
+        "it": "Como è nettamente favorita con una probabilità del 74%; l'assenza di punti di AEK Athens nelle ultime tre partite e i 11 gol subiti supportano questo quadro. Poiché la probabilità di 3 o più gol è del 71%, una vittoria del Como con goal è lo scenario più probabile. Il quadro di favorita è superiore alla media archiviata delle partite di Champions League (squadra di casa al 44%), e le 4 vittorie del Como nelle ultime cinque partite insieme ai 9 gol segnati in casa spiegano questa differenza. Il secondo esito più probabile è il pareggio con il 16%; questa probabilità non è bassa, ma la superiorità della favorita è evidente.",
+        "pt": "Como, 74% olasılıkla belirgin biçimde önde; AEK Athens'in son üç maçta puan alamaması ve 11 gol yemesi bu tabloyu destekliyor. 3 veya daha fazla gol olasılığı %71 olduğundan gollü bir Como galibiyeti en olası senaryo. Arşivimizdeki Şampiyonlar Ligi ortalamasının (ev sahibi %44) üzerinde bir favori görünümü var ve Como'nun son beş maçtaki 4 galibiyeti ile iç sahadaki 9 gol bu farkı açıklıyor. En olası ikinci sonuç %16 ile beraberlik; bu ihtimal düşük değil ama favorinin üstünlüğü açık."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "aee4e3c225603397ab52de3d066b566b",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Arsenal",
+      "deplasman": "Borussia Dortmund",
+      "baslama_utc": "2026-11-24T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.6864,
+        "X": 0.1917,
+        "2": 0.1219
+      },
+      "tahmin": "1",
+      "guven": 0.4947,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5757,
+          "alt": 0.4243
+        },
+        "tahmin": "ust",
+        "guven": 0.1514,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Arsenal, Borussia Dortmund karşısında belirgin bir favori konumunda; ev sahibinin galibiyet ihtimali %69 olarak öne çıkıyor. Toplam gol tarafında 3 veya daha fazla gol %58 ile daha olası görünse de, bu ihtimal UEFA Şampiyonlar Ligi'nde 3 veya daha fazla gol olasılığı olan %66'nın altında kalıyor; yani maç, bu organizasyonun genel gollülük eğiliminden daha kontrollü bir çizgide seyredebilir. Arşivimizdeki ortalamalarda ev sahibinin kazanma olasılığı %44 iken bu maçtaki %69, favorinin ciddi biçimde öne çıktığını gösteriyor. İkinci olası sonuç olan beraberlik ise %19 ile makul bir ihtimal olarak kalıyor.",
+      "ai_metinler": {
+        "en": "Arsenal is clearly the favorite against Borussia Dortmund; the home side's probability of winning stands out at 69%. In terms of total goals, 3 or more goals appears more likely at 58%, but this probability remains below the 66% probability of 3 or more goals seen across UEFA Champions League matches, meaning the game may follow a more controlled course than the tournament's general goal-scoring tendency. In our archive averages, the home side's probability of winning is 44%, while the 69% for this match shows that the favorite is standing out considerably. The second most likely outcome, a draw, remains a reasonable probability at 19%.",
+        "es": "El Arsenal se perfila como favorito claro frente al Borussia Dortmund; la probabilidad de victoria del local destaca en un 69%. En cuanto al total de goles, 3 goles o más parece más probable con un 58%, aunque esta cifra queda por debajo del 66% de probabilidad de 3 goles o más que se registra en la UEFA Champions League, por lo que el partido podría desarrollarse en una línea más controlada que la tendencia goleadora general de este torneo. En nuestro historial promedio, la probabilidad de victoria del local es del 44%, mientras que el 69% de este partido muestra que el favorito se impone de forma notable. El segundo resultado posible, el empate, se mantiene como una opción razonable con un 19%.",
+        "de": "Arsenal steht im Duell gegen Borussia Dortmund klar als Favorit da; die Siegwahrscheinlichkeit des Gastgebers wird mit 69% deutlich hervorgehoben. Bei den Toren erscheinen 3 oder mehr Tore mit 58% zwar wahrscheinlicher, diese Wahrscheinlichkeit bleibt jedoch unter der Wahrscheinlichkeit von 66% für 3 oder mehr Tore in der UEFA Champions League. Das Spiel könnte also in einem kontrollierteren Rahmen verlaufen als der allgemeine Tortrend dieses Wettbewerbs. Im Durchschnitt unseres Archivs liegt die Siegwahrscheinlichkeit des Gastgebers bei 44%; die 69% in dieser Partie zeigen, dass der Favorit deutlich hervortritt. Das zweitwahrscheinlichste Ergebnis, ein Unentschieden, bleibt mit 19% eine plausible Möglichkeit.",
+        "fr": "Arsenal est nettement favori face au Borussia Dortmund ; la probabilité de victoire de l'équipe à domicile ressort à 69 %. Côté nombre de buts, 3 buts ou plus apparaît plus probable avec 58 %, mais cette probabilité reste inférieure aux 66 % observés pour 3 buts ou plus en Ligue des champions de l'UEFA ; le match pourrait donc suivre une trajectoire plus maîtrisée que la tendance générale de la compétition en matière de buts. Dans nos moyennes d'archives, la probabilité de victoire de l'équipe à domicile est de 44 %, alors que les 69 % de ce match indiquent que le favori se détache nettement. Le second résultat possible, le match nul, reste quant à lui une hypothèse plausible avec 19 %.",
+        "it": "Arsenal è nettamente favorita contro il Borussia Dortmund; la probabilità di vittoria della squadra di casa emerge al 69%. Per quanto riguarda il totale gol, 3 o più gol appaiono più probabili con il 58%, ma questa probabilità resta al di sotto del 66% di 3 o più gol registrato nella UEFA Champions League, quindi la partita potrebbe svilupparsi su un ritmo più controllato rispetto alla tendenza generale di questa competizione. Nelle medie del nostro archivio, la probabilità di vittoria della squadra di casa è del 44%, mentre il 69% di questo incontro indica che la favorita è chiaramente in vantaggio. Il secondo esito possibile, il pareggio, si mantiene come un'ipotesi ragionevole con il 19%.",
+        "pt": "Arsenal é claramente o favorito contra o Borussia Dortmund; a probabilidade de vitória do mandante aparece em destaque, com 69%. No total de gols, 3 gols ou mais parece mais provável, com 58%, mas essa chance fica abaixo dos 66% de probabilidade de 3 gols ou mais que se observam na UEFA Champions League; ou seja, a partida pode seguir uma linha mais controlada do que a tendência geral de gols dessa competição. Nas médias do nosso arquivo, a probabilidade de vitória do mandante é de 44%, enquanto neste jogo os 69% indicam que o favorito se destaca de forma significativa. O segundo resultado possível, o empate, permanece como uma possibilidade razoável, com 19%."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "9a2ebad454db4ab3d53b89e96c79847a",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Feyenoord",
+      "deplasman": "Porto",
+      "baslama_utc": "2026-11-24T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.3442,
+        "X": 0.2601,
+        "2": 0.3958
+      },
+      "tahmin": "2",
+      "guven": 0.0516,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5831,
+          "alt": 0.4169
+        },
+        "tahmin": "ust",
+        "guven": 0.1662,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Porto, Feyenoord'a karşı deplasmanda hafif bir üstünlükle öne çıkıyor; yine de %40'a %34'lük dağılım maçın büyük ölçüde açık olduğunu gösteriyor. Toplam golde 3 veya daha fazla gol %58 ile daha olası, bu da iki takımın da gol bulabileceği, hareketli bir senaryoya işaret ediyor. Genel UEFA Şampiyonlar Ligi ortalamasında 3 veya daha fazla gol %66 olduğundan, bu maç o ortalamanın altında kalıyor. Feyenoord'un ev sahibi olarak %34 ile kalması, arşivimizdeki %44'lük ev sahibi ortalamasının da gerisinde. Beraberlik ihtimali %26 olarak ikinci en olası sonuç; bu da %15'in üzerinde ve ciddi bir seçenek.",
+      "ai_metinler": {
+        "en": "Porto holds a slight edge in the away fixture at Feyenoord; still, the split of 40% to 34% shows the match is largely open. A probability of 58% for 3 or more goals makes a high-scoring, end-to-end game more likely, pointing to a scenario in which both sides can find the net. Since the overall UEFA Champions League average for 3 or more goals is 66%, this match sits below that average. Feyenoord's probability of winning at home, at 34%, also falls short of our archive's home-side average of 44%. A draw, at 26%, is the second most likely outcome; that is above 15% and a serious possibility.",
+        "es": "Porto sale con una ligera ventaja en su visita al Feyenoord; aun así, la distribución de 40% frente a 34% indica que el partido está en gran medida abierto. La probabilidad de 3 o más goles en el total es de 58%, lo que apunta a un escenario dinámico en el que ambos equipos pueden encontrar la red. Dado que la media general en la Liga de Campeones de la UEFA para 3 o más goles es de 66%, este partido queda por debajo de ese promedio. El 34% del Feyenoord como local también se sitúa por debajo de la media de 44% de locales en nuestro archivo. La probabilidad de empate es de 26%, la segunda opción más probable; supera el 15% y es una alternativa seria.",
+        "de": "Porto geht im Auswärtsspiel bei Feyenoord mit einem leichten Vorsprung in die Partie; dennoch zeigt die Verteilung von 40% zu 34%, dass das Spiel weitgehend offen ist. Bei der Gesamttorzahl ist 3 oder mehr Tore mit 58% wahrscheinlicher, was auf ein lebhaftes Szenario hindeutet, in dem beide Mannschaften Tore erzielen können. Im allgemeinen Durchschnitt der UEFA Champions League liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 66%, daher bleibt diese Partie darunter. Dass Feyenoord als Heimmannschaft nur auf 34% kommt, liegt auch unter dem Heimdurchschnitt von 44% in unserem Archiv. Ein Unentschieden mit 26% ist das zweitwahrscheinlichste Ergebnis; das liegt über 15% und ist eine ernstzunehmende Option.",
+        "fr": "Porto ressort légèrement favori lors de son déplacement chez Feyenoord ; cependant, la répartition de 40 % contre 34 % indique que la rencontre reste largement ouverte. La probabilité de 3 buts ou plus dans le match est de 58 %, ce qui laisse envisager un scénario animé, où les deux équipes sont capables de marquer. La moyenne générale de la Ligue des champions UEFA pour 3 buts ou plus étant de 66 %, cette rencontre se situe en dessous de cette moyenne. Le fait que Feyenoord ne obtienne que 34 % à domicile est également inférieur à la moyenne de 44 % à domicile de nos archives. La probabilité de match nul, à 26 %, constitue le deuxième résultat le plus probable ; ce chiffre dépasse 15 % et représente donc une issue sérieuse.",
+        "it": "Porto è leggermente favorito in trasferta contro il Feyenoord; tuttavia, la distribuzione del 40% contro il 34% indica che la partita è in gran parte aperta. La probabilità di 3 o più gol nel totale è del 58%, più alta, il che suggerisce uno scenario movimentato in cui entrambe le squadre possono trovare la rete. Poiché la media generale della UEFA Champions League per 3 o più gol è del 66%, questa partita si colloca al di sotto di quella media. Il Feyenoord, giocando in casa, si ferma al 34%, anche al di sotto della media casalinga del nostro archivio, pari al 44%. La probabilità di pareggio è del 26%, il secondo esito più probabile; si tratta di un dato superiore al 15% e quindi un'opzione concreta.",
+        "pt": "O Porto aparece com uma leve vantagem no duelo fora de casa contra o Feyenoord; ainda assim, a distribuição de 40% para 34% mostra que a partida está em grande parte em aberto. Em relação ao total de gols, 3 gols ou mais têm probabilidade maior, com 58%, o que aponta para um cenário movimentado, em que as duas equipes podem balançar as redes. Na média geral da Liga dos Campeões da UEFA, 3 gols ou mais ocorrem em 66% dos jogos, então esta partida fica abaixo dessa média. A permanência do Feyenoord como mandante com 34% também está abaixo da média de mandantes em nosso arquivo, que é de 44%. A probabilidade de empate, com 26%, é o segundo resultado mais provável; isso está acima de 15% e representa uma possibilidade séria."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b9f00a4d399ec661e733857c9d5fb2dc",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Manchester City",
+      "deplasman": "Napoli",
+      "baslama_utc": "2026-11-24T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.7586,
+        "X": 0.1476,
+        "2": 0.0938
+      },
+      "tahmin": "1",
+      "guven": 0.611,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6971,
+          "alt": 0.3029
+        },
+        "tahmin": "ust",
+        "guven": 0.3942,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Manchester City, ev sahibi olarak %76 olasılıkla belirgin bir favori; Napoli'nin galibiyet ihtimali ise %9. Maçta 3 veya daha fazla gol olasılığı %70 ile öne çıkıyor; bu, favorinin gollü bir galibiyet arayacağı açık bir senaryoya işaret ediyor. Arşivimizdeki Şampiyonlar Ligi ortalamasında 3 veya daha fazla gol olasılığı %66 olduğundan, bu tahmin ortalamanın biraz üzerinde. Napoli'nin beraberlik ihtimali %15 olup, bu düşük bir olasılık ve bu seviyede ciddi bir ihtimal olarak görülmemeli.",
+      "ai_metinler": {
+        "en": "Manchester City, as the home side, is a clear favorite with a 76% probability; Napoli's probability of winning is 9%. The probability of 3 or more goals in the match stands out at 70%, which points to a clear scenario in which the favorite will seek a high-scoring win. Since the average probability of 3 or more goals in our archive of Champions League matches is 66%, this estimate is slightly above average. Napoli's probability of a draw is 15%, which is low and should not be regarded as a serious possibility at this level.",
+        "es": "Manchester City, como equipo local, es un favorito claro con una probabilidad del 76%; la probabilidad de victoria del Napoli es del 9%. En el partido, la probabilidad de 3 goles o más destaca con un 70%, lo que apunta a un escenario abierto en el que el favorito buscará una victoria con goles. Dado que el promedio de nuestro archivo de la Liga de Campeones para 3 goles o más es del 66%, esta estimación está ligeramente por encima de la media. La probabilidad de empate del Napoli es del 15%; se trata de una probabilidad baja y no debe considerarse un escenario serio a este nivel.",
+        "de": "Manchester City ist als Gastgeber mit einer Wahrscheinlichkeit von 76% ein klarer Favorit; die Siegwahrscheinlichkeit für Napoli liegt bei 9%. Für die Partie sticht die Wahrscheinlichkeit von 70% für 3 oder mehr Tore hervor; dies deutet auf ein klares Szenario hin, in dem der Favorit einen torreichen Sieg anstrebt. Da der Durchschnitt unserer Archivdaten zur Champions League für 3 oder mehr Tore bei 66% liegt, liegt diese Einschätzung leicht über dem Durchschnitt. Die Unentschieden-Wahrscheinlichkeit für Napoli liegt bei 15%; dies ist ein niedriger Wert und sollte auf diesem Niveau nicht als ernsthafte Möglichkeit betrachtet werden.",
+        "fr": "Manchester City, en tant qu'équipe à domicile, est un favori net avec une probabilité de 76 % ; la probabilité de victoire de Naples est quant à elle de 9 %. La probabilité de 3 buts ou plus dans le match ressort à 70 %, ce qui indique un scénario clair où le favori cherchera une victoire riche en buts. Dans notre archive, la moyenne en Ligue des champions pour 3 buts ou plus est de 66 %, cette prévision est donc légèrement au-dessus de cette moyenne. La probabilité de match nul pour Naples est de 15 %, ce qui reste faible et ne doit pas être considéré comme une issue sérieusement probable à ce niveau.",
+        "it": "Manchester City, ev sahibi olarak %76 olasılıkla belirgin bir favori; Napoli'nin galibiyet ihtimali ise %9. Maçta 3 veya daha fazla gol olasılığı %70 ile öne çıkıyor; bu, favorinin gollü bir galibiyet arayacağı açık bir senaryoya işaret ediyor. Arşivimizdeki Şampiyonlar Ligi ortalamasında 3 veya daha fazla gol olasılığı %66 olduğundan, bu tahmin ortalamanın biraz üzerinde. Napoli'nin beraberlik ihtimali %15 olup, bu düşük bir olasılık ve bu seviyede ciddi bir ihtimal olarak görülmemeli.",
+        "pt": "Manchester City, como mandante, é um favorito claro, com probabilidade de 76%; a probabilidade de vitória do Napoli é de 9%. A probabilidade de 3 ou mais gols na partida se destaca com 70%, o que aponta para um cenário em que o favorito deve buscar uma vitória com gols. Como a média de nosso arquivo para a Liga dos Campeões é de 66% de probabilidade de 3 ou mais gols, essa estimativa fica um pouco acima da média. A probabilidade de empate do Napoli é de 15%, um valor baixo, e que não deve ser visto como uma possibilidade séria nesse nível."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3fb5e4a792cf34a0459efcb79a11a785",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "Real Madrid",
+      "deplasman": "PSV Eindhoven",
+      "baslama_utc": "2026-11-24T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.8114,
+        "X": 0.1115,
+        "2": 0.0772
+      },
+      "tahmin": "1",
+      "guven": 0.6999,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.815,
+          "alt": 0.185
+        },
+        "tahmin": "ust",
+        "guven": 0.63,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Real Madrid, PSV Eindhoven karşısında belirgin biçimde önde; ev sahibinin galibiyet olasılığı %81 ve bu, arşivdeki ortalama ev sahibi galibiyeti olan %44'ün çok üzerinde. Son 5 maçta 5 galibiyet ve 13 gol atan Real Madrid için tablo gollü bir üstünlüğe işaret ediyor; 3 veya daha fazla gol olasılığı %82, Şampiyonlar Ligi ortalaması olan %66'nın da hayli üzerinde. Geçmişte bu güven seviyesindeki tahminlerimiz %79 isabet etmişti. Beraberlik ihtimali %11 olup düşük, PSV'nin galibiyeti ise %8 ile zayıf görünüyor; yine de 22 kaynak arasındaki görüş farkı nedeniyle belirsizlik normalin üzerinde.",
+      "ai_metinler": {
+        "en": "Real Madrid is clearly ahead of PSV Eindhoven; the home side's probability of winning is 81%, well above the archive's average home win rate of 44%. For Real Madrid, who have won all 5 of their last 5 matches and scored 13 goals in that span, the picture points to a comfortable advantage with plenty of goals: the probability of 3 or more goals is 82%, also well above the Champions League average of 66%. Our past predictions at this confidence level have been correct 79% of the time. The probability of a draw is low at 11%, and PSV's chance of winning looks weak at 8%. Even so, uncertainty is above normal because the 22 sources we drew on disagree with one another.",
+        "es": "Real Madrid tiene una clara ventaja frente al PSV Eindhoven; la probabilidad de victoria del local es del 81%, muy por encima del 44% de victoria local promedio en el archivo. Para un Real Madrid que en sus últimos 5 partidos ganó los 5 y marcó 13 goles, el panorama apunta a una superioridad con goles: la probabilidad de 3 goles o más es del 82%, bastante por encima del promedio de la Liga de Campeones, que es del 66%. En el pasado, nuestras predicciones con este nivel de confianza acertaron en un 79%. La probabilidad de empate es baja, del 11%, y la victoria del PSV, con un 8%, parece débil; sin embargo, la diferencia de opiniones entre las 22 fuentes hace que la incertidumbre sea superior a lo normal.",
+        "de": "Real Madrid liegt gegen PSV Eindhoven deutlich vorn; die Wahrscheinlichkeit für einen Heimsieg beträgt 81%, was deutlich über dem Archivdurchschnitt für Heimsiege von 44% liegt. Für Real Madrid, das in den letzten 5 Spielen 5 Siege und 13 Tore erzielt hat, deutet das Bild auf eine torreiche Überlegenheit hin; die Wahrscheinlichkeit für 3 oder mehr Tore liegt bei 82% und damit weit über dem Champions-League-Durchschnitt von 66%. Frühere Einschätzungen mit diesem Konfidenzniveau haben sich in 79% der Fälle bestätigt. Die Wahrscheinlichkeit für ein Unentschieden ist mit 11% gering, und für einen Sieg von PSV zeigt sich mit 8% nur eine schwache Wahrscheinlichkeit. Aufgrund der Abweichungen zwischen den 22 Quellen ist die Unsicherheit dennoch höher als üblich.",
+        "fr": "Real Madrid est nettement favori face au PSV Eindhoven ; la probabilité de victoire à domicile est de 81 %, un niveau bien supérieur à la moyenne archivée de 44 % de victoires à domicile. Pour le Real Madrid, qui a remporté 5 victoires et marqué 13 buts lors de ses 5 derniers matchs, le tableau indique une supériorité accompagnée de nombreux buts : la probabilité de 3 buts ou plus est de 82 %, nettement au-dessus de la moyenne de 66 % observée en Ligue des champions. Par le passé, nos pronostics à ce niveau de confiance se sont vérifiés dans 79 % des cas. La probabilité de match nul est faible, à 11 %, et celle d'une victoire du PSV paraît limitée, à 8 %. Néanmoins, l'incertitude est supérieure à la normale en raison des écarts d'opinion entre les 22 sources consultées.",
+        "it": "Real Madrid è nettamente favorito contro il PSV Eindhoven; la probabilità di vittoria interna è dell'81%, ben al di sopra della media archivistica delle vittorie casalinghe, pari al 44%. Per il Real Madrid, che nelle ultime 5 partite ha vinto 5 volte e segnato 13 gol, il quadro indica una superiorità anche in termini di reti: la probabilità di 3 o più gol è dell'82%, nettamente superiore alla media della Champions League, pari al 66%. In passato, le nostre previsioni con questo livello di fiducia hanno avuto un'accuratezza del 79%. La probabilità di pareggio è dell'11%, quindi bassa, mentre la vittoria del PSV appare debole, con l'8%; tuttavia, a causa delle divergenze tra le 22 fonti, l'incertezza è superiore al normale.",
+        "pt": "Real Madrid está claramente à frente contra o PSV Eindhoven; a probabilidade de vitória do mandante é de 81%, muito acima da média histórica de vitórias do mandante no arquivo, que é de 44%. Para o Real Madrid, que venceu 5 das últimas 5 partidas e marcou 13 gols, o cenário aponta para uma superioridade com muitos gols: a probabilidade de 3 ou mais gols é de 82%, também bem acima da média da Liga dos Campeões, que é de 66%. Em previsões anteriores com este nível de confiança, tivemos 79% de acerto. A probabilidade de empate é baixa, de 11%, e a vitória do PSV aparece fraca, com 8%; ainda assim, a incerteza está acima do normal devido à divergência de opiniões entre as 22 fontes."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": true
+    },
+    {
+      "mac_id": "aea973c122c91837c15e066c757c747f",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "RB Leipzig",
+      "deplasman": "RC Lens",
+      "baslama_utc": "2026-11-24T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.6851,
+        "X": 0.1712,
+        "2": 0.1438
+      },
+      "tahmin": "1",
+      "guven": 0.5139,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.727,
+          "alt": 0.273
+        },
+        "tahmin": "ust",
+        "guven": 0.454,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "RB Leipzig, RC Lens karşısında %69 ile net bir favori konumunda ve bu ev sahibi üstünlüğü belirgin. Toplam gol tarafında 3 veya daha fazla gol %73 ile öne çıkıyor; bu da favorinin gollü bir galibiyet senaryosuna işaret ediyor. Leipzig'in son 5 maçta 18 gol atıp 6 gol yemesi ve Lens'in deplasmanda son 3 maçta 5 gol yemesi bu tabloyu destekliyor. Arşivimizdeki UEFA Şampiyonlar Ligi ortalamasının (ev sahibi %44) üzerindeki bu tahmin, mevcut verilerin ağırlığını gösteriyor. Beraberlik ihtimali %17 olup en olası ikinci sonuç, ancak Lens'in %14'lük deplasman galibiyeti düşük bir ihtimal olarak kalıyor.",
+      "ai_metinler": {
+        "en": "RB Leipzig is clearly the favorite against RC Lens at 69%, and this home-side advantage is pronounced. On total goals, 3 or more goals stand out at 73%, pointing to the favorite winning in a high-scoring scenario. Leipzig scoring 18 goals and conceding 6 in their last 5 matches, and Lens conceding 5 goals in their last 3 away matches, support this picture. Sitting above our archive's UEFA Champions League average for home sides (44%), this assessment reflects the weight of the current data. The probability of a draw is 17%, making it the second most likely outcome, while Lens winning away at 14% remains a low probability.",
+        "es": "RB Leipzig, RC Lens karşısında %69 ile net bir favori konumunda ve bu ev sahibi üstünlüğü belirgin. Gol tarafında 3 veya daha fazla gol %73 ile öne çıkıyor; bu da favorinin gollü bir galibiyet senaryosuna işaret ediyor. Leipzig'in son 5 maçta 18 gol atıp 6 gol yemesi ve Lens'in deplasmanda son 3 maçta 5 gol yemesi bu tabloyu destekliyor. Arşivimizdeki UEFA Şampiyonlar Ligi ortalamasının (ev sahibi %44) üzerindeki bu tahmin, mevcut verilerin ağırlığını gösteriyor. Beraberlik ihtimali %17 olup en olası ikinci sonuç, ancak Lens'in %14'lük deplasman galibiyeti düşük bir ihtimal olarak kalıyor.",
+        "de": "RB Leipzig liegt gegen RC Lens mit einer Wahrscheinlichkeit von 69% klar vorne, und dieser Heimvorteil ist deutlich erkennbar. Bei der Gesamtzahl der Tore sticht die Wahrscheinlichkeit für 3 oder mehr Tore mit 73% hervor; dies deutet auf ein torreiches Siegszenario des Favoriten hin. Dieses Bild wird durch die letzten 5 Spiele von Leipzig gestützt, in denen 18 Tore erzielt und 6 Gegentore kassiert wurden, sowie durch die letzten 3 Auswärtsspiele von Lens, in denen 5 Gegentore fielen. Diese Einschätzung liegt über dem Durchschnitt unseres Archivs für die UEFA Champions League (Heimteam 44%) und zeigt das Gewicht der vorliegenden Daten. Die Wahrscheinlichkeit für ein Unentschieden beträgt 17% und ist damit das zweitwahrscheinlichste Ergebnis, während der Auswärtssieg von Lens mit 14% eine geringe Wahrscheinlichkeit bleibt.",
+        "fr": "RB Leipzig est clairement favori face au RC Lens avec une probabilité de 69 %, ce qui traduit un net avantage à domicile. Concernant le nombre de buts, 3 buts ou plus ressortent avec une probabilité de 73 %, ce qui indique un scénario de victoire du favori accompagnée de nombreux buts. Cette tendance est soutenue par les 18 buts marqués et 6 buts encaissés par Leipzig lors de ses 5 derniers matchs, ainsi que par les 5 buts encaissés par Lens lors de ses 3 derniers déplacements. Cette estimation, supérieure à la moyenne de nos archives pour la Ligue des champions (victoire à domicile à 44 %), reflète le poids des données disponibles. La probabilité de match nul est de 17 %, constituant le deuxième résultat le plus probable, tandis que la victoire de Lens à l'extérieur, à 14 %, reste un scénario peu probable.",
+        "it": "RB Lipsia è nettamente favorita contro il RC Lens con una probabilità del 69%, un vantaggio casalingo evidente. Per il totale gol, la probabilità di 3 o più gol è del 73%, il che indica uno scenario di vittoria del favorito con molte reti. Questo quadro è supportato dal fatto che il Lipsia ha segnato 18 gol e subito 6 nelle ultime 5 partite, mentre il Lens ha subito 5 gol nelle ultime 3 trasferte. Questa previsione, superiore alla media archiviata per la UEFA Champions League (vittoria casalinga al 44%), mostra il peso dei dati disponibili. La probabilità di pareggio è del 17%, il secondo esito più probabile, mentre la vittoria esterna del Lens, al 14%, resta un'ipotesi poco probabile.",
+        "pt": "RB Leipzig, RC Lens karşısında %69 ile net bir favori konumunda ve bu ev sahibi üstünlüğü belirgin. Toplam gol tarafında 3 veya daha fazla gol %73 ile öne çıkıyor; bu da favorinin gollü bir galibiyet senaryosuna işaret ediyor. Leipzig'in son 5 maçta 18 gol atıp 6 gol yemesi ve Lens'in deplasmanda son 3 maçta 5 gol yemesi bu tabloyu destekliyor. Arşivimizdeki UEFA Şampiyonlar Ligi ortalamasının (ev sahibi %44) üzerindeki bu tahmin, mevcut verilerin ağırlığını gösteriyor. Beraberlik ihtimali %17 olup en olası ikinci sonuç, ancak Lens'in %14'lük deplasman galibiyeti düşük bir ihtimal olarak kalıyor."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "8e93849b4c1ccbf1c207836d5c470150",
+      "lig": "soccer_uefa_champs_league",
+      "ev_sahibi": "ŠK Slovan Bratislava",
+      "deplasman": "Real Betis",
+      "baslama_utc": "2026-11-24T20:00:00Z",
+      "olasiliklar": {
+        "1": 0.089,
+        "X": 0.143,
+        "2": 0.7681
+      },
+      "tahmin": "2",
+      "guven": 0.6251,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7011,
+          "alt": 0.2989
+        },
+        "tahmin": "ust",
+        "guven": 0.4022,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Real Betis, deplasman olmasına rağmen belirgin biçimde önde: galibiyet olasılığı %77, ev sahibinin %9'da kalması maçın dengesiz bir yapıda olduğunu gösteriyor. Üç veya daha fazla gol olasılığının %70 olması, favorinin gollü bir galibiyetine işaret ediyor; Slovan Bratislava'nın son üç maçta gol bulamayıp 11 gol yemesi bu senaryoyu destekliyor. Arşivimizdeki UEFA Şampiyonlar Ligi ortalamasında deplasman galibiyeti %35 iken bu maçtaki %77 belirgin bir ayrışma; benzer güven seviyesindeki geçmiş tahminlerimizin %79 isabet etmesi de bu yönü destekliyor. Beraberlik %14 ile ikinci olası sonuç, ancak bu ihtimal de düşük kalıyor.",
+      "ai_metinler": {
+        "en": "Real Betis, despite playing away, is clearly ahead: the probability of a win is 77%, and the host's 9% suggests the match has an unbalanced structure. A probability of 70% for 3 or more goals points to a high-scoring win for the favorite; Slovan Bratislava's failure to score in their last three matches while conceding 11 goals supports this scenario. In our archive, the average away win rate in the UEFA Champions League is 35%, so the 77% in this match is a clear divergence; the fact that our past predictions at a similar confidence level were correct 79% of the time also supports this direction. A draw, at 14%, is the second most likely outcome, but that possibility also remains low.",
+        "es": "Real Betis, a pesar de jugar como visitante, aparece claramente por delante: la probabilidad de victoria es del 77%, y que el equipo local solo tenga un 9% indica que el partido presenta una estructura desequilibrada. Una probabilidad del 70% de 3 o más goles apunta a una victoria del favorito con goles, escenario que respalda el hecho de que Slovan Bratislava no haya marcado en sus últimos tres partidos y haya recibido 11 goles. En nuestro archivo, la media de victorias visitantes en la Liga de Campeones de la UEFA es del 35%, por lo que este 77% en el partido representa una diferencia marcada; que nuestras predicciones pasadas con un nivel de confianza similar hayan acertado el 79% también respalda esta dirección. El empate, con un 14%, es el segundo resultado más probable, aunque esta posibilidad sigue siendo baja.",
+        "de": "Real Betis ist trotz Auswärtsspiel deutlich im Vorteil: Die Siegwahrscheinlichkeit liegt bei 77%, und dass der Gastgeber nur auf 9% kommt, zeigt, dass die Partie ein unausgewogenes Gefüge hat. Eine Wahrscheinlichkeit von 70% für 3 oder mehr Tore deutet auf einen torreichen Sieg des Favoriten hin; dazu passt, dass Slovan Bratislava in den letzten drei Spielen kein Tor erzielen konnte und 11 Gegentore kassierte. Im Archiv unserer UEFA-Champions-League-Daten liegt der Durchschnitt für Auswärtssiege bei 35%, während die 77% in diesem Spiel eine deutliche Abweichung darstellen; dass vergleichbar sichere frühere Einschätzungen in 79% der Fälle zutrafen, stützt diese Richtung zusätzlich. Ein Unentschieden mit 14% ist das zweitwahrscheinlichste Ergebnis, bleibt aber ebenfalls gering.",
+        "fr": "Le Real Betis est nettement favori malgré le fait de jouer à l'extérieur : la probabilité de victoire est de 77 %, tandis que le club local n'atteint que 9 %, ce qui indique un match au déséquilibre marqué. La probabilité de 3 buts ou plus, à 70 %, pointe vers une victoire du favori accompagnée de plusieurs buts ; le fait que le Slovan Bratislava n'ait pas marqué au cours de ses trois derniers matchs et ait encaissé 11 buts soutient ce scénario. Dans notre archive, la moyenne des victoires à l'extérieur en Ligue des champions de l'UEFA est de 35 %, alors que les 77 % de ce match marquent un écart net ; le fait que nos pronostics passés, affichant un niveau de confiance comparable, aient atteint 79 % de réussite renforce également cette orientation. Le match nul, à 14 %, constitue le deuxième résultat possible, mais cette issue reste peu probable.",
+        "it": "Il Real Betis, nonostante giochi in trasferta, è nettamente in vantaggio: la probabilità di vittoria è del 77%, mentre il 9% di possibilità per la squadra di casa indica che la partita presenta un equilibrio molto squilibrato. La probabilità di 3 o più gol è del 70%, il che indica una vittoria esterna ricca di reti; questo scenario è rafforzato dal fatto che lo Slovan Bratislava, nelle ultime tre partite, non è riuscito a segnare e ha subito 11 gol. Nel nostro archivio, la media della UEFA Champions League per le vittorie in trasferta è del 35%, quindi il 77% di questa partita rappresenta una differenza marcata; anche il fatto che le nostre precedenti previsioni con un livello di fiducia simile abbiano avuto un'accuratezza del 79% sostiene questa direzione. Il pareggio, con il 14%, è il secondo esito possibile, ma anche questa probabilità resta bassa.",
+        "pt": "Real Betis, apesar de jogar fora de casa, aparece com clara vantagem: a probabilidade de vitória é de 77%, e o fato de o mandante ficar com apenas 9% indica que a partida tem um equilíbrio bastante desigual. A probabilidade de 3 ou mais gols, de 70%, aponta para uma vitória do favorito com muitos gols, cenário reforçado pelo fato de o Slovan Bratislava não ter marcado nos últimos três jogos e ter sofrido 11 gols nesse período. Na nossa média de arquivo da UEFA Champions League, a vitória do visitante fica em 35%; o índice de 77% nesta partida representa, portanto, um distanciamento considerável. Além disso, nossas previsões anteriores com nível de confiança semelhante acertaram 79% das vezes, o que também sustenta essa direção. O empate, com 14%, é o segundo resultado mais provável, mas essa possibilidade continua baixa."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "e422af92d1fc06c0a330838c1c2f2e08",
       "lig": "soccer_uefa_champs_league",
@@ -34,11 +307,11 @@
         "it": "Galatasaray–Aston Villa maçında deplasman ekibi hafif önde; Aston Villa'nın galibiyet olasılığı %40, Galatasaray'ın %35, beraberlik ise %24. Bu tablo dengeli bir karşılaşmaya işaret ediyor. Toplam golde 3 veya daha fazla gol olasılığı %69 olup, UEFA Şampiyonlar Ligi'ndeki ortalama %66'nın biraz üzerinde; gollü bir maç senaryosu öne çıkıyor. Galatasaray'ın son 5 maçta 14 gol attığı ve bu maçların 4'ünde 3 veya daha fazla gol çıktığı düşünülürse bu eğilim daha da belirgin. Ayrıca bu güven düzeyindeki geçmiş tahminlerimiz 11 maçta %64 isabet etti. En olası ikinci sonuç ise Galatasaray'ın galibiyeti (%35); bu ihtimal ev sahibinin iç saha performansıyla desteklense de ikinci sıradaki bu sonuç en az %35 olasılığa sahip.",
         "pt": "O jogo Galatasaray–Aston Villa tem a equipe visitante levemente à frente; a probabilidade de vitória do Aston Villa é de 40%, a do Galatasaray é de 35%, e o empate tem 24%. Esse quadro aponta para um confronto equilibrado. A probabilidade de 3 ou mais gols no total da partida é de 69%, um pouco acima da média de 66% na UEFA Champions League, o que indica um cenário de jogo com muitos gols. Considerando que o Galatasaray marcou 14 gols nas últimas 5 partidas e que em 4 delas houve 3 ou mais gols, essa tendência fica ainda mais evidente. Além disso, nossas previsões anteriores com este nível de confiança acertaram 64% das vezes em 11 partidas. O segundo resultado mais provável é a vitória do Galatasaray (35%); embora essa possibilidade seja reforçada pelo desempenho da equipe da casa em seus jogos em casa, esse segundo resultado tem pelo menos 35% de probabilidade."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -73,11 +346,11 @@
         "it": "Bodø/Glimt, evinde 62% olasılıkla net favori; ancak maçın gol tablosu daha dikkat çekici: 3 o più gol olasılığı 74%, UEFA Champions League ortalaması olan 66%'nın üzerinde. Bu, favorinin gollu bir galibiyetine işaret eden açık bir senaryo. LASK'ın son 3 maçta 10 gol atıp 8 gol yemesi ve bu maçların üçünde 3 o più gol çıkması da gollu bir karşılaşma beklentisini destekliyor. Pareggio olasılığı 19% ile ikinci olası sonuç, ancak bu ihtimal ortalamanın (20%) hemen altında kalıyor.",
         "pt": "Bodø/Glimt, evinde %62 probabilidade, é o nítido favorito; porém, a projeção de gols da partida é ainda mais chamativa: a probabilidade de 3 ou mais gols é de %74, acima da média da UEFA Champions League, que é de %66. Isso aponta para um cenário claro de vitória do favorito com muitos gols. O LASK, que nas últimas 3 partidas marcou 10 gols e sofreu 8, e em três dessas partidas tiveram 3 ou mais gols, também reforça a expectativa de um jogo com muitos gols. A probabilidade de empate, de %19, é o segundo resultado mais provável, mas fica ligeiramente abaixo da média (%20)."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -10433,230 +10706,6 @@
       "tuttu": true,
       "alt_ust_tuttu": false,
       "ucretsiz": false
-    },
-    {
-      "mac_id": "00b03cb40c27ed23e2ecb18f062a5122",
-      "lig": "soccer_spain_la_liga",
-      "ev_sahibi": "Villarreal",
-      "deplasman": "Espanyol",
-      "baslama_utc": "2026-10-30T20:00:00Z",
-      "olasiliklar": {
-        "1": 0.6668,
-        "X": 0.1905,
-        "2": 0.1426
-      },
-      "tahmin": "1",
-      "guven": 0.4763,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6308,
-          "alt": 0.3692
-        },
-        "tahmin": "ust",
-        "guven": 0.2616,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Villarreal, Espanyol karşısında %67 galibiyet olasılığıyla net favori konumda. Maçın %63 ihtimalle 3 veya daha fazla golle sonuçlanması, favori ekibin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizde bu güven seviyesinde %76 isabet yakaladık. Beraberlik %19, Espanyol galibiyeti ise sadece %14 ihtimalle düşük bir sürpriz olarak görünüyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "0-1",
-      "toplam_gol": 1,
-      "tuttu": false,
-      "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "b275fe870ec88a9f0054c9220beb2673",
-      "lig": "soccer_germany_bundesliga",
-      "ev_sahibi": "Elversberg",
-      "deplasman": "FSV Mainz 05",
-      "baslama_utc": "2026-10-30T19:30:00Z",
-      "olasiliklar": {
-        "1": 0.305,
-        "X": 0.2466,
-        "2": 0.4484
-      },
-      "tahmin": "2",
-      "guven": 0.1434,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6473,
-          "alt": 0.3527
-        },
-        "tahmin": "ust",
-        "guven": 0.2946,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Bu dengeli maçta FSV Mainz 05'in %45 ile hafif favori olduğunu görüyoruz. Yüksek gol beklentisi (%65 ile 3 veya daha fazla gol) deplasman ekibinin gollü bir galibiyet alabileceğine işaret ediyor. Geçmiş tahminlerimizde bu güven seviyesindeki isabet oranımız beklenen %41'in üzerinde, bu da bu tahmine olan güvenimizi artırıyor. Beraberlik %25 ile ikinci en olası sonuçken, Elversberg'in galibiyet ihtimali %30.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "4-1",
-      "toplam_gol": 5,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "9a9f6c78276f74f15f42b013b033aa5d",
-      "lig": "soccer_france_ligue_one",
-      "ev_sahibi": "Le Havre",
-      "deplasman": "Paris Saint Germain",
-      "baslama_utc": "2026-10-30T18:00:00Z",
-      "olasiliklar": {
-        "1": 0.0905,
-        "X": 0.1383,
-        "2": 0.7712
-      },
-      "tahmin": "2",
-      "guven": 0.6329,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.7147,
-          "alt": 0.2853
-        },
-        "tahmin": "ust",
-        "guven": 0.4294,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Paris Saint Germain, Le Havre karşısında %77 kazanma olasılığıyla net favori. Deplasman ekibinin gollü bir galibiyet alması bekleniyor, zira maçın %71 ihtimalle 3 veya daha fazla golle sonuçlanacağı öngörülüyor. PSG'nin son dört maçında üç kez 3 veya daha fazla gol olması, bu senaryoyu destekliyor. Beraberlik (%14) veya Le Havre galibiyeti (%9) ise oldukça düşük ihtimaller olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "1-5",
-      "toplam_gol": 6,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": true
-    },
-    {
-      "mac_id": "a547720e6b4661d6319c4f11dbdf8e1f",
-      "lig": "soccer_france_ligue_one",
-      "ev_sahibi": "Nice",
-      "deplasman": "Rennes",
-      "baslama_utc": "2026-10-30T18:00:00Z",
-      "olasiliklar": {
-        "1": 0.3482,
-        "X": 0.2547,
-        "2": 0.3971
-      },
-      "tahmin": "2",
-      "guven": 0.0489,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6072,
-          "alt": 0.3928
-        },
-        "tahmin": "ust",
-        "guven": 0.2144,
-        "kaynak_sayisi": 5
-      },
-      "ai_metin": "Bu dengeli mücadelede Rennes %40 ile galibiyete daha yakın görünse de, Nice'in %35'lik kazanma olasılığıyla sürpriz yapma potansiyeli yüksek. %61 ihtimalle 3 veya daha fazla gol beklenen bu karşılaşma, açık ve gollü bir senaryoya işaret ediyor. Geçmiş tahminlerimizdeki %52'lik isabet oranı, bu tür maçlarda beklentinin üzerinde performans gösterdiğimizi ortaya koyuyor. Beraberlik ise %25 ile ikinci en olası sonuç olarak dikkat çekiyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "5-2",
-      "toplam_gol": 7,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "feb03ec355aa5c94e0d7ae612a59b813",
-      "lig": "soccer_turkey_super_league",
-      "ev_sahibi": "Torku Konyaspor",
-      "deplasman": "Galatasaray",
-      "baslama_utc": "2026-10-30T17:00:00Z",
-      "olasiliklar": {
-        "1": 0.1911,
-        "X": 0.2266,
-        "2": 0.5823
-      },
-      "tahmin": "2",
-      "guven": 0.3557,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5797,
-          "alt": 0.4203
-        },
-        "tahmin": "ust",
-        "guven": 0.1594,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Galatasaray, deplasmanda %58 kazanma olasılığıyla maçın net favorisi. Maçın gollü geçme ihtimali de yüksek (%58), bu da favorinin gollü bir galibiyet alabileceğine işaret ediyor. Veri kaynaklarındaki belirgin görüş farkı, bu maçtaki belirsizliğin normalden yüksek olduğunu gösteriyor. Beraberlik %23 ile ikinci en olası sonuçken, Konyaspor'un galibiyeti düşük bir ihtimal (%19).",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "0-4",
-      "toplam_gol": 4,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "da159a6b84dbb548b4d7b94c722caac5",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Fiorentina",
-      "deplasman": "Atalanta BC",
-      "baslama_utc": "2026-10-29T19:45:00Z",
-      "olasiliklar": {
-        "1": 0.4316,
-        "X": 0.2608,
-        "2": 0.3077
-      },
-      "tahmin": "1",
-      "guven": 0.1239,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5808,
-          "alt": 0.4192
-        },
-        "tahmin": "ust",
-        "guven": 0.1616,
-        "kaynak_sayisi": 11
-      },
-      "ai_metin": "Fiorentina'nın evinde hafif favori olduğu dengeli bir maç bizi bekliyor. Yüksek gol beklentisiyle birlikte, ev sahibinin galibiyeti (%43) veya karşılıklı gollerin olacağı açık bir maç senaryosu öne çıkıyor. Bu maçtaki ev sahibi galibiyet olasılığı, Serie A ortalamasının (%40) biraz üzerinde. Beraberlik (%26) de göz ardı edilmemesi gereken bir ihtimal.",
-      "ai_metinler": null,
-      "gercek_sonuc": "X",
-      "skor": "2-2",
-      "toplam_gol": 4,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "667cf69986b200753742c90cb9c5126c",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Frosinone",
-      "deplasman": "Lecce",
-      "baslama_utc": "2026-10-29T17:30:00Z",
-      "olasiliklar": {
-        "1": 0.5653,
-        "X": 0.2304,
-        "2": 0.2043
-      },
-      "tahmin": "1",
-      "guven": 0.3349,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.65,
-          "alt": 0.35
-        },
-        "tahmin": "ust",
-        "guven": 0.3,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Frosinone, %57 kazanma olasılığıyla net favori olarak öne çıkıyor ve bu durum Serie A ortalamasının oldukça üzerinde. Maçın %65 ihtimalle 3 veya daha fazla golle geçmesi beklenirken, Frosinone'nin son 3 maçının tamamında yüksek gol sayısı dikkat çekiyor. Geçmiş tahminlerimizin bu güven seviyesinde %80 isabet oranıyla başarılı olduğunu düşünürsek, favorinin gollü bir galibiyet alması muhtemel. Beraberlik %23, Lecce galibiyeti ise %20 gibi düşük bir ihtimal taşıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "1",
-      "skor": "5-1",
-      "toplam_gol": 6,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": true
     }
   ]
 }
