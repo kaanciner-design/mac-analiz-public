@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-24T20:30:44Z",
+  "guncelleme_utc": "2026-11-24T21:30:45Z",
   "mac_sayisi": 9,
   "maclar": [
     {
@@ -1725,49 +1725,6 @@
   "en_guclu_3": {
     "gunler": [
       {
-        "tarih": "2026-11-24",
-        "maclar": [
-          {
-            "mac_id": "3fb5e4a792cf34a0459efcb79a11a785",
-            "lig": "soccer_uefa_champs_league",
-            "ev_sahibi": "Real Madrid",
-            "deplasman": "PSV Eindhoven",
-            "baslama_utc": "2026-11-24T20:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.8114,
-            "guven": 0.6999,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "8e93849b4c1ccbf1c207836d5c470150",
-            "lig": "soccer_uefa_champs_league",
-            "ev_sahibi": "ŠK Slovan Bratislava",
-            "deplasman": "Real Betis",
-            "baslama_utc": "2026-11-24T20:00:00Z",
-            "tahmin": "2",
-            "olasilik": 0.7681,
-            "guven": 0.6251,
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "b9f00a4d399ec661e733857c9d5fb2dc",
-            "lig": "soccer_uefa_champs_league",
-            "ev_sahibi": "Manchester City",
-            "deplasman": "Napoli",
-            "baslama_utc": "2026-11-24T20:00:00Z",
-            "tahmin": "1",
-            "olasilik": 0.7586,
-            "guven": 0.611,
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "tutan": 0,
-        "sonuclanan": 0
-      },
-      {
         "tarih": "2026-11-25",
         "maclar": [
           {
@@ -1811,7 +1768,49 @@
         "sonuclanan": 0
       }
     ],
-    "dun": null,
+    "dun": {
+      "tarih": "2026-11-24",
+      "maclar": [
+        {
+          "mac_id": "3fb5e4a792cf34a0459efcb79a11a785",
+          "lig": "soccer_uefa_champs_league",
+          "ev_sahibi": "Real Madrid",
+          "deplasman": "PSV Eindhoven",
+          "baslama_utc": "2026-11-24T20:00:00Z",
+          "tahmin": "1",
+          "olasilik": 0.8114,
+          "guven": 0.6999,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "8e93849b4c1ccbf1c207836d5c470150",
+          "lig": "soccer_uefa_champs_league",
+          "ev_sahibi": "ŠK Slovan Bratislava",
+          "deplasman": "Real Betis",
+          "baslama_utc": "2026-11-24T20:00:00Z",
+          "tahmin": "2",
+          "olasilik": 0.7681,
+          "guven": 0.6251,
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "b9f00a4d399ec661e733857c9d5fb2dc",
+          "lig": "soccer_uefa_champs_league",
+          "ev_sahibi": "Manchester City",
+          "deplasman": "Napoli",
+          "baslama_utc": "2026-11-24T20:00:00Z",
+          "tahmin": "1",
+          "olasilik": 0.7586,
+          "guven": 0.611,
+          "skor": null,
+          "tuttu": null
+        }
+      ],
+      "tutan": 0,
+      "sonuclanan": 0
+    },
     "genel": {
       "gun": 13,
       "tam_isabet_gun": 9,
