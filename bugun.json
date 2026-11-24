@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-24T21:30:45Z",
+  "guncelleme_utc": "2026-11-24T22:30:45Z",
   "mac_sayisi": 9,
   "maclar": [
     {
@@ -1780,8 +1780,8 @@
           "tahmin": "1",
           "olasilik": 0.8114,
           "guven": 0.6999,
-          "skor": null,
-          "tuttu": null
+          "skor": "5-1",
+          "tuttu": true
         },
         {
           "mac_id": "8e93849b4c1ccbf1c207836d5c470150",
@@ -1792,8 +1792,8 @@
           "tahmin": "2",
           "olasilik": 0.7681,
           "guven": 0.6251,
-          "skor": null,
-          "tuttu": null
+          "skor": "0-2",
+          "tuttu": true
         },
         {
           "mac_id": "b9f00a4d399ec661e733857c9d5fb2dc",
@@ -1804,18 +1804,18 @@
           "tahmin": "1",
           "olasilik": 0.7586,
           "guven": 0.611,
-          "skor": null,
-          "tuttu": null
+          "skor": "2-2",
+          "tuttu": false
         }
       ],
-      "tutan": 0,
-      "sonuclanan": 0
+      "tutan": 2,
+      "sonuclanan": 3
     },
     "genel": {
-      "gun": 13,
+      "gun": 14,
       "tam_isabet_gun": 9,
-      "tahmin": 39,
-      "tutan": 34
+      "tahmin": 42,
+      "tutan": 36
     }
   }
 }
