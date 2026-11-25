@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-25T21:30:45Z",
+  "guncelleme_utc": "2026-11-25T22:30:45Z",
   "mac_sayisi": 480,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "PSG, in casa, è nettamente favorito: probabilità di vittoria del 67% e una forma recente di 17 gol segnati e 3 subiti nelle ultime 5 partite sostengono questa superiorità. Sul fronte dei gol totali emerge con il 72% uno scenario con 3 o più gol, che indica una vittoria del favorito con una certa abbondanza di reti. Questa probabilità è leggermente superiore al 67% di probabilità di 3 o più gol registrato nel nostro archivio di partite di Champions League. Anche i 19 gol segnati dalla Roma nelle ultime 5 partite, con 8 subiti, e i 15 gol segnati in trasferta mantengono viva l'ipotesi di una partita aperta. Il secondo esito possibile è il pareggio, con una probabilità del 18%. Non è una probabilità bassa, ma non può nemmeno essere considerata un'alternativa significativa.",
         "pt": "PSG, como time da casa, está claramente à frente: probabilidade de vitória de 67%, e a forma recente, com 17 gols marcados e 3 sofridos nos últimos 5 jogos, sustenta essa superioridade. No mercado de total de gols, um cenário de 3 gols ou mais aparece em destaque, com 72%, o que aponta para uma vitória do favorito com gols. Essa probabilidade está um pouco acima dos 67% de probabilidade de 3 gols ou mais em nosso arquivo de jogos da Liga dos Campeões. O desempenho da Roma, com 19 gols marcados e 8 sofridos nos últimos 5 jogos e 15 gols marcados fora de casa, também mantém viva a possibilidade de um jogo aberto. O segundo resultado possível é o empate, com probabilidade de 18%. Essa probabilidade não é baixa, mas também não é uma alternativa significativa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -73,11 +73,11 @@
         "it": "Atletico Madrid è nettamente favorito contro il Viking FK: la probabilità di vittoria interna è dell'87%, ben al di sopra della media dell'archivio in Champions League, pari al 46%. La probabilità di 3 o più gol totali si attesta al 76%, superiore alla media del 67%, e indica uno scenario di vittoria del favorito con molti gol. Le nostre previsioni passate hanno avuto un'accuratezza del 79% con questo livello di confidenza, il che rende questo quadro degno di nota. Il secondo esito possibile, il pareggio, appare a bassa probabilità, pari al 9%.",
         "pt": "Atlético Madrid, Viking FK karşısında belirgin biçimde önde: ev sahibinin galibiyet olasılığı %87 ve bu, arşivdeki Şampiyonlar Ligi ortalaması olan %46'nın çok üzerinde. Toplam golde 3 veya daha fazla gol %76 ile öne çıkıyor; bu da ortalama %67'nin üzerinde ve gollü bir favori galibiyeti senaryosuna işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde %79 isabet ettiği için bu tablo dikkate değer. İkinci olası sonuç beraberlik, %9 ile düşük bir ihtimal olarak görünüyor."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -112,11 +112,11 @@
         "it": "Nella partita, la squadra ospite Bayern Monaco è nettamente favorita: la probabilità di vittoria è del 59%, mentre quella del Lille è del 19%. La probabilità di 3 o più gol nel totale appare più alta, al 61%, il che indica che una vittoria del Bayern con molti gol è lo scenario principale. A supporto di questo quadro c'è il fatto che il Bayern nelle ultime 5 partite ha segnato 10 gol e ne ha subiti 5, e che la probabilità di 3 o più gol in Champions League è del 67%. Al contrario, il basso numero di partite con 3 o più gol nelle ultime gare del Lille ricorda la possibilità che la squadra di casa resti a secco. Il secondo esito più probabile è il pareggio, al 22%; è vicino alla media (20%), quindi non può essere considerato una vera sorpresa.",
         "pt": "O jogo tem o time visitante, Bayern Munich, como franco favorito: a probabilidade de vitória é de 59%, enquanto a chance de vitória do Lille é de 19%. Para o total de gols, 3 gols ou mais aparecem como mais prováveis, com 61%; isso indica que uma vitória do Bayern com muitos gols é o cenário principal. O fato de o Bayern ter marcado 10 gols e sofrido 5 nos últimos 5 jogos, e de a probabilidade de 3 gols ou mais na Liga dos Campeões ser de 67%, reforça esse quadro. Já o número baixo de jogos com 3 gols ou mais nas partidas recentes do Lille lembra a possibilidade de o mandante ficar sem marcar. O segundo resultado mais provável é o empate, com 22%; esse valor está próximo da média (20%), portanto não é considerado uma surpresa significativa."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-1",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -151,11 +151,11 @@
         "it": "Liverpool è nettamente favorito nella trasferta contro il Club Brugge, con una probabilità del 58%; la probabilità di vittoria del Brugge è del 21%, e quella del pareggio è anch'essa del 21%. Per quanto riguarda il numero totale di gol, 3 o più gol emergono chiaramente con il 74%, il che indica uno scenario di partita aperta e offensiva, in cui il favorito cercherebbe una vittoria con gol. Considerando la media storica di questo tipo di partita (67% in UEFA Champions League) e il 79% di precisione delle nostre previsioni con questo livello di fiducia, l'aspettativa di gol è superiore alla media. Anche i 9 gol segnati dal Brugge nelle ultime tre partite mostrano che la squadra di casa è in grado di produrre gol. Come secondo esito possibile, il pareggio con il 21% appare probabile quanto la sola vittoria del Brugge, anche se non si tratta di una probabilità bassa.",
         "pt": "Liverpool, a visitante ao Club Brugge, aparece como favorito claro com probabilidade de 58%; a probabilidade de vitória do Brugge é de 21%, e a de empate também é de 21%. No quesito total de gols, 3 ou mais gols se destacam com 74%, o que aponta para um cenário de jogo aberto e ofensivo, em que o favorito deve buscar uma vitória com gols. Considerando que a média desse tipo de partida em nossos dados históricos (na Liga dos Campeões da UEFA) é de 67% e que nossas previsões com este nível de confiança acertaram 79% das vezes, a expectativa de gols está acima da média. Os 9 gols marcados pelo Brugge nos últimos três jogos também mostram que o time da casa consegue produzir gols. Como segundo resultado mais provável, o empate, com 21%, parece tão plausível quanto a vitória do Brugge, mas isso não significa que seja uma possibilidade remota."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-3",
+      "toplam_gol": 3,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -190,11 +190,11 @@
         "it": "La partita vede la squadra ospite Fenerbahçe leggermente in vantaggio, ma la differenza è sottile: Fenerbahçe 37%, Shakhtar 36% e pareggio 27%. Per il totale gol, la probabilità di 3 goal o più è al 55%, leggermente in evidenza; questo è in linea anche con la tendenza offensiva del Fenerbahçe, che nelle ultime 5 partite ha visto 3 goal o più in 5 incontri. Il generale vantaggio casalingo dei club in UEFA Champions League (46%) sembra in questo match lasciare spazio a un quadro favorevole alla squadra in trasferta. La seconda possibilità, il pareggio al 27%, ha una probabilità significativa; anche questo esito potrebbe verificarsi in una partita ricca di goal.",
         "pt": "A vantagem é do visitante Fenerbahçe, mas a diferença é pequena: Fenerbahçe 37%, Shakhtar 36% e empate 27%. Em relação ao total de gols, 3 ou mais gols aparecem com 55%, levemente à frente, o que também combina com a tendência ofensiva observada nas últimas 5 partidas do Fenerbahçe, em que 3 ou mais gols ocorreram em 5 confrontos. A vantagem geral de jogar em casa nos clubes na Liga dos Campeões da UEFA (46%) parece ter dado lugar, neste jogo, a um cenário mais favorável ao visitante. A segunda possibilidade, o empate com 27%, tem uma probabilidade relevante; esse resultado também pode acontecer em uma partida com muitos gols."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "0-1",
+      "toplam_gol": 1,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -229,11 +229,11 @@
         "it": "L'Inter Milan è il favorito netto: con una probabilità di vittoria del 67%, la squadra di casa mostra chiaramente il proprio vantaggio in questa partita, ben al di sopra della media del 46% presente nel nostro archivio per la UEFA Champions League. Per il totale gol prevale nettamente l'aspettativa di 3 o più gol, con una probabilità del 77%, il che indica che una vittoria dell'Inter con diversi gol è lo scenario più probabile. Inoltre, le nostre precedenti previsioni con questo livello di fiducia hanno avuto successo nel 79% dei casi su 28 partite, superiore al 71% atteso. Il pareggio, secondo esito più probabile, si attesta su un modesto 17%, mentre la vittoria del VfB Stoccarda, con il 15%, è un'opzione ancora più debole.",
         "pt": "O Inter Milan é o favorito: com 67% de probabilidade de vitória, a equipe da casa demonstra claramente sua vantagem de jogar em casa nesta partida, percentual bem acima da média de 46% registrada em nosso arquivo para a UEFA Champions League. Na probabilidade total de gols, a expectativa de 3 ou mais gols predomina com 77%, o que indica que uma vitória do Inter com gols é o cenário mais provável. Além disso, nossas previsões anteriores com este nível de confiança acertaram 79% em 28 partidas, acima dos 71% esperados. O segundo resultado mais provável, o empate, tem 17% de probabilidade, o que é baixo; a vitória do VfB Stuttgart, com 15%, é uma opção ainda mais fraca."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "2-0",
+      "toplam_gol": 2,
+      "tuttu": true,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -268,11 +268,11 @@
         "it": "Lo Sporting Lisbona, in quanto squadra di casa, è leggermente favorito, ma il quadro è piuttosto equilibrato: probabilità di vittoria casalinga del 39% e probabilità di vittoria del Manchester United del 35%. La probabilità di 3 o più gol in totale è del 61%, quindi si delinea uno scenario di partita ricca di reti. A rafforzare questo quadro c'è il fatto che il Manchester United ha subito 15 gol nelle ultime 5 partite, e in 4 di queste sono stati segnati 3 o più gol; anche la probabilità media di 3 o più gol in Champions League, pari al 67%, indica che la tendenza generale va nella stessa direzione. Il secondo esito più probabile, la vittoria in trasferta, ha una probabilità del 35%, che è significativa e trova una parziale conferma nel fatto che il Manchester United ha subito 13 gol nelle ultime 5 trasferte.",
         "pt": "O Sporting Lisboa tem leve vantagem como mandante, mas a tabela está bastante equilibrada: 39% de probabilidade de vitória da equipe da casa e 35% de vitória do Manchester United. A probabilidade de 3 gols ou mais na partida é de 61%, o que indica que um cenário de jogo com muitos gols se destaca. O fato de o Manchester United ter sofrido 15 gols nos últimos 5 jogos, com 3 gols ou mais em 4 dessas partidas, sustenta esse quadro; além disso, a média de 67% de probabilidade de 3 gols ou mais na Liga dos Campeões mostra que a tendência geral aponta na mesma direção. O segundo resultado mais provável, a vitória como visitante, com 35%, também representa uma chance séria, e isso se alinha parcialmente com o fato de o Manchester United ter sofrido 13 gols nos últimos 5 jogos como visitante."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "2-2",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
