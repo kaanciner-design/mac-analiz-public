@@ -1,377 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-25T17:30:48Z",
-  "mac_sayisi": 11,
+  "guncelleme_utc": "2026-11-25T19:30:45Z",
+  "mac_sayisi": 10,
   "maclar": [
-    {
-      "mac_id": "e6fa007f93e0cef004be920f96ee95ba",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Sabah FK",
-      "deplasman": "Barcelona",
-      "baslama_utc": "2026-11-25T17:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.0461,
-        "X": 0.074,
-        "2": 0.8799
-      },
-      "tahmin": "2",
-      "guven": 0.8059,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.8617,
-          "alt": 0.1383
-        },
-        "tahmin": "ust",
-        "guven": 0.7234,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Barcelona, deplasmanda da olsa belirgin biçimde önde: %88 galibiyet olasılığıyla Sabah FK'ya kıyasla çok net bir favori. Toplam gol tarafında %86 ile 3 veya daha fazla gol senaryosu öne çıkıyor; bu, Barcelona'nın gollü bir galibiyetine işaret ediyor. Arşivimizdeki UEFA Şampiyonlar Ligi ortalaması olan %67'nin üzerinde bir değer, Barcelona'nın son 5 maçta 5 kez 3 veya daha fazla gol görmesiyle de uyumlu. Geçmişte bu güven seviyesinde yaptığımız tahminler %79 isabetle olasılığın üzerinde sonuç verdi. En olası ikinci sonuç olan beraberlik %7 gibi düşük bir ihtimal; yani bu maçta beklenmedik bir sonuç için alan dar görünüyor.",
-      "ai_metinler": {
-        "en": "Barcelona is clearly ahead despite playing away: with an 88% probability of winning, they are a very strong favorite over Sabah FK. For total goals, the scenario of 3 or more goals stands out at 86%, pointing to a high-scoring win for Barcelona. This value is above our archive average of 67% for UEFA Champions League matches, and it is consistent with Barcelona having seen 3 or more goals in 5 of their last 5 matches. Our past predictions at this confidence level have been correct 79% of the time, exceeding the probability. The second most likely outcome, a draw, is a low 7% probability, so there appears to be little room for an unexpected result in this match.",
-        "es": "El Barcelona, aunque juegue fuera de casa, es claramente el favorito: con una probabilidad de victoria del 88%, es un favorito muy destacado frente al Sabah FK. En cuanto a los goles totales, el escenario de 3 goles o más destaca con un 86%, lo que apunta a una victoria del Barcelona con goles. Este valor, por encima del promedio del 67% de nuestro archivo de la UEFA Champions League, también concuerda con que el Barcelona haya visto 3 goles o más en 5 de sus últimos 5 partidos. Nuestras predicciones anteriores con este nivel de confianza acertaron el 79% de las veces, por encima de lo esperado por la probabilidad. El segundo resultado más probable, el empate, tiene una probabilidad baja de apenas el 7%, así que el margen para una sorpresa en este partido parece reducido.",
-        "de": "Barcelona ist trotz der Auswärtsbegegnung deutlich favorisiert: Die Wahrscheinlichkeit eines Sieges liegt bei 88 %, womit Barcelona gegenüber Sabah FK ein sehr klarer Favorit ist. Bei der Gesamtzahl der Tore sticht das Szenario „3 Tore oder mehr“ mit 86 % hervor; dies deutet auf einen torreichen Sieg von Barcelona hin. Ein Wert oberhalb des Archivdurchschnitts von 67 % für die UEFA Champions League passt außerdem dazu, dass Barcelona in den letzten 5 Spielen fünfmal „3 Tore oder mehr“ erlebt hat. Frühere Einschätzungen mit diesem Vertrauensniveau haben mit einer Trefferquote von 79 % die Wahrscheinlichkeit übertroffen. Das zweitwahrscheinlichste Ergebnis, ein Unentschieden, liegt mit nur 7 % sehr niedrig; für ein unerwartetes Ergebnis in diesem Spiel bleibt daher wenig Raum.",
-        "fr": "Barcelone, même en déplacement, est nettement favori : 88 % de probabilité de victoire face au Sabah FK, ce qui en fait un favori très net. Côté total de buts, le scénario de 3 buts ou plus ressort avec 86 %, ce qui indique une victoire de Barcelone avec des buts à la clé. La moyenne de notre archive en Ligue des champions UEFA, soit 67 %, est dépassée, et cela correspond aussi au fait que Barcelone a vu 3 buts ou plus à 5 reprises lors de ses 5 derniers matchs. Par le passé, nos pronostics réalisés à ce niveau de confiance ont abouti à 79 % de réussite, au-dessus de la probabilité annoncée. Le match nul, deuxième issue la plus probable, n'est qu'à 7 %, ce qui laisse peu de place à une surprise dans cette rencontre.",
-        "it": "Barcellona, anche in trasferta, è nettamente in vantaggio: con una probabilità di vittoria dell'88% è un favorito molto chiaro rispetto allo Sabah FK. Per i gol totali, lo scenario con 3 o più gol emerge con l'86%, il che indica una vittoria del Barcellona ricca di reti. Un valore superiore al 67%, che è la media del nostro archivio per la UEFA Champions League, è coerente anche con il fatto che il Barcellona nelle ultime 5 partite ha visto 3 o più gol in 5 occasioni. In passato, le nostre previsioni con questo livello di fiducia hanno avuto un'accuratezza del 79%, risultando sopra la probabilità attesa. Il pareggio, il secondo esito più probabile, ha una probabilità bassa, pari al 7%; quindi lo spazio per una sorpresa in questa partita appare ridotto.",
-        "pt": "Barcelona, deplasmanda olmasına rağmen belirgin biçimde önde: %88 galibiyet olasılığıyla Sabah FK'ya kıyasla çok net bir favori. Toplam gol tarafında %86 ile 3 veya daha fazla gol senaryosu öne çıkıyor; bu, Barcelona'nın gollü bir galibiyetine işaret ediyor. Arşivimizdeki UEFA Şampiyonlar Ligi ortalaması olan %67'nin üzerinde bir değer, Barcelona'nın son 5 maçta 5 kez 3 veya daha fazla gol görmesiyle de uyumlu. Geçmişte bu güven seviyesinde yaptığımız tahminler %79 isabetle olasılığın üzerinde sonuç verdi. En olası ikinci sonuç olan beraberlik %7 gibi düşük bir ihtimal; yani bu maçta beklenmedik bir sonuç için alan dar görünüyor."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-04",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Viking FK",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 4,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-20",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Borussia Dortmund",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Slavia Praha",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 2,
-            "atilan": 4,
-            "yenilen": 6,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 3,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 4,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Villarreal",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 2,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-08",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Atlético Madrid",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-03",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Aston Villa",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-31",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Alavés",
-              "ic_saha": true,
-              "atilan": 6,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-25",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Real Madrid",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 4,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 15,
-            "yenilen": 6,
-            "ust25": 5
-          },
-          "ic_saha": {
-            "mac": 5,
-            "galibiyet": 4,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 16,
-            "yenilen": 5,
-            "ust25": 5
-          },
-          "deplasman": {
-            "mac": 4,
-            "galibiyet": 3,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 13,
-            "yenilen": 8,
-            "ust25": 4
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-25T05:37:24Z",
-        "ilk": {
-          "1": 0.0481,
-          "X": 0.0763,
-          "2": 0.8757
-        },
-        "son": {
-          "1": 0.0424,
-          "X": 0.0756,
-          "2": 0.882
-        }
-      },
-      "ucretsiz": true
-    },
-    {
-      "mac_id": "a7c87fac9e9cbcfc02ad0e0b29ca89e2",
-      "lig": "soccer_uefa_champs_league",
-      "ev_sahibi": "Slavia Praha",
-      "deplasman": "Villarreal",
-      "baslama_utc": "2026-11-25T17:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.3059,
-        "X": 0.2481,
-        "2": 0.4459
-      },
-      "tahmin": "2",
-      "guven": 0.14,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6199,
-          "alt": 0.3801
-        },
-        "tahmin": "ust",
-        "guven": 0.2398,
-        "kaynak_sayisi": 7
-      },
-      "ai_metin": "Slavia Praha–Villarreal maçında deplasman takımı Villarreal hafif önde (%45 galibiyet olasılığı, ev sahibi %31), ancak fark belirgin değil; maçın dengeli geçmesi bekleniyor. Toplamda 3 veya daha fazla gol olasılığı %62 ile öne çıkıyor; bu, Villarreal'in son maçlarındaki gollü seyirle ve Şampiyonlar Ligi ortalamamızla (%67) uyumlu bir tablo. Geçmiş tahminlerimiz bu güven seviyesinde %64 isabetle, beklenen %41'in üzerinde sonuç verdi. En olası ikinci sonuç ise ev sahibinin galibiyeti (%31), yani bu ihtimal de hesaba katılmalı.",
-      "ai_metinler": {
-        "en": "In the Slavia Praha–Villarreal match, the away side Villarreal is slightly ahead (45% probability of a win, home side 31%), but the difference is not pronounced; the match is expected to be balanced. The probability of 3 or more goals in total stands out at 62%, a picture consistent with Villarreal's recent high-scoring matches and our Champions League average (67%). Our past predictions delivered a 64% hit rate at this confidence level, above the expected 41%. The second most likely outcome is a home side win (31%), so this possibility should also be taken into account.",
-        "es": "El partido Slavia Praha–Villarreal muestra a un Villarreal ligeramente por delante como visitante (45% de probabilidad de victoria, frente al 31% del local), aunque la diferencia no es marcada; se espera un encuentro equilibrado. La probabilidad de 3 goles o más en total destaca con un 62%, un escenario coherente con el ritmo goleador de los últimos partidos del Villarreal y con nuestra media en la Liga de Campeones (67%). Nuestras predicciones anteriores con este nivel de confianza acertaron en un 64%, por encima del 41% esperado. El segundo resultado más probable es la victoria del local (31%), por lo que también debe tenerse en cuenta esta posibilidad.",
-        "de": "Im Spiel Slavia Praha–Villarreal liegt der Gastgeber Villarreal leicht vorne (45 % Siegwahrscheinlichkeit, Heimmannschaft 31 %), doch der Unterschied ist nicht deutlich; das Spiel dürfte ausgeglichen verlaufen. Bei der Gesamtzahl hebt sich die Wahrscheinlichkeit für 3 oder mehr Tore mit 62 % hervor; das passt zum torreichen Verlauf der letzten Spiele von Villarreal und zu unserem Champions-League-Durchschnitt (67 %). Unsere früheren Vorhersagen lagen bei diesem Vertrauensniveau mit 64 % Trefferquote und erzielten Ergebnisse über den erwarteten 41 %. Das zweitwahrscheinlichste Ergebnis ist der Heimsieg (31 %), diese Möglichkeit sollte daher ebenfalls berücksichtigt werden.",
-        "fr": "Dans le match Slavia Praha–Villarreal, l'équipe visiteuse Villarreal est légèrement favorite (45 % de probabilité de victoire), tandis que l'équipe à domicile dispose de 31 %, mais l'écart n'est pas marqué ; le match devrait être équilibré. La probabilité de 3 buts ou plus ressort nettement à 62 %, ce qui correspond au rythme riche en buts des derniers matchs de Villarreal et à notre moyenne en Ligue des champions (67 %). Dans cette tranche de confiance, nos pronostics passés ont atteint 64 % de réussite, au-dessus des 41 % attendus. Le deuxième résultat le plus probable est la victoire de l'équipe à domicile (31 %), une éventualité qui doit donc aussi être prise en compte.",
-        "it": "Nella partita Slavia Praha–Villarreal, la squadra ospite Villarreal è leggermente in vantaggio (probabilità di vittoria del 45%, quella della squadra di casa del 31%), ma la differenza non è netta; ci si aspetta una gara equilibrata. La probabilità di 3 o più gol si colloca in primo piano con il 62%, un quadro coerente con l'andamento ricco di reti delle ultime partite del Villarreal e con la nostra media in Champions League (67%). Le nostre previsioni passate, con questo livello di fiducia, hanno avuto un'accuratezza del 64%, risultando in esiti superiori al 41% atteso. Il secondo esito più probabile è la vittoria della squadra di casa (31%), quindi anche questa possibilità va considerata.",
-        "pt": "O confronto Slavia Praha–Villarreal tem o time visitante, Villarreal, ligeiramente à frente (45% de probabilidade de vitória, contra 31% do mandante), mas a diferença não é marcante; espera-se um jogo equilibrado. A probabilidade de 3 ou mais gols aparece em destaque, com 62%, o que é coerente com o ritmo de gols nas últimas partidas do Villarreal e com a nossa média na Liga dos Campeões (67%). Nossas previsões anteriores com esse nível de confiança acertaram 64% das vezes, acima dos 41% esperados. O segundo resultado mais provável é a vitória do mandante (31%), por isso essa possibilidade também deve ser considerada."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-04",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Arsenal",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-20",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Fenerbahce",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 2,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-13",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Sabah FK",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 3,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 2,
-            "atilan": 3,
-            "yenilen": 6,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 1,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 1,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 4,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Barcelona",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 3,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-08",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Getafe",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-03",
-              "lig": "soccer_uefa_champs_league",
-              "rakip": "Paris Saint Germain",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 6,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-30",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Espanyol",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 1,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-24",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Valencia",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 3,
-            "atilan": 6,
-            "yenilen": 11,
-            "ust25": 3
-          },
-          "ic_saha": {
-            "mac": 5,
-            "galibiyet": 2,
-            "beraberlik": 1,
-            "maglubiyet": 2,
-            "atilan": 5,
-            "yenilen": 8,
-            "ust25": 2
-          },
-          "deplasman": {
-            "mac": 4,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 3,
-            "atilan": 7,
-            "yenilen": 9,
-            "ust25": 3
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-25T05:37:24Z",
-        "ilk": {
-          "1": 0.3173,
-          "X": 0.2519,
-          "2": 0.4307
-        },
-        "son": {
-          "1": 0.3086,
-          "X": 0.247,
-          "2": 0.4444
-        }
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "14007bc0605bce3bd164b132254ba24c",
       "lig": "soccer_uefa_champs_league",
@@ -2083,6 +1713,189 @@
           "1": 0.4974,
           "X": 0.2522,
           "2": 0.2504
+        }
+      },
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "698f4a7967ead89e10205a68ceb4bda4",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Werder Bremen",
+      "deplasman": "Borussia Monchengladbach",
+      "baslama_utc": "2026-11-27T19:30:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-22",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "Hamburger SV",
+              "ic_saha": true,
+              "atilan": 4,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-07",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "VfB Stuttgart",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-31",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "TSG Hoffenheim",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-24",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "FSV Mainz 05",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 2,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-17",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "SC Paderborn",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 2,
+              "sonuc": "B"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 3,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 11,
+            "yenilen": 5,
+            "ust25": 3
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 2,
+            "beraberlik": 1,
+            "maglubiyet": 0,
+            "atilan": 8,
+            "yenilen": 2,
+            "ust25": 2
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 3,
+            "yenilen": 3,
+            "ust25": 1
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-21",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "Borussia Dortmund",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-06",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "Hamburger SV",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-31",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "SC Paderborn",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-23",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "VfB Stuttgart",
+              "ic_saha": false,
+              "atilan": 3,
+              "yenilen": 2,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_germany_bundesliga",
+              "rakip": "TSG Hoffenheim",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 1,
+            "beraberlik": 1,
+            "maglubiyet": 3,
+            "atilan": 5,
+            "yenilen": 8,
+            "ust25": 3
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 2,
+            "atilan": 1,
+            "yenilen": 3,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 2,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 4,
+            "yenilen": 5,
+            "ust25": 2
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-19T05:37:20Z",
+        "son_utc": "2026-11-25T05:37:24Z",
+        "ilk": {
+          "1": 0.541,
+          "X": 0.2286,
+          "2": 0.2305
+        },
+        "son": {
+          "1": 0.5454,
+          "X": 0.2261,
+          "2": 0.2285
         }
       },
       "ucretsiz": false
