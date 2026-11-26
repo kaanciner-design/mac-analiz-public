@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-26T20:30:46Z",
+  "guncelleme_utc": "2026-11-26T21:30:44Z",
   "mac_sayisi": 29,
   "maclar": [
     {
@@ -5687,49 +5687,7 @@
   ],
   "en_guclu_3": {
     "gunler": [],
-    "dun": {
-      "tarih": "2026-11-25",
-      "maclar": [
-        {
-          "mac_id": "e6fa007f93e0cef004be920f96ee95ba",
-          "lig": "soccer_uefa_champs_league",
-          "ev_sahibi": "Sabah FK",
-          "deplasman": "Barcelona",
-          "baslama_utc": "2026-11-25T17:45:00Z",
-          "tahmin": "2",
-          "olasilik": 0.8799,
-          "guven": 0.8059,
-          "skor": "1-4",
-          "tuttu": true
-        },
-        {
-          "mac_id": "b1af6789fe6db7aab18a2945ce56f035",
-          "lig": "soccer_uefa_champs_league",
-          "ev_sahibi": "Atlético Madrid",
-          "deplasman": "Viking FK",
-          "baslama_utc": "2026-11-25T20:00:00Z",
-          "tahmin": "1",
-          "olasilik": 0.8664,
-          "guven": 0.7761,
-          "skor": "2-0",
-          "tuttu": true
-        },
-        {
-          "mac_id": "e7e64568f6af00d395a3fdfc27de8ae3",
-          "lig": "soccer_uefa_champs_league",
-          "ev_sahibi": "Inter Milan",
-          "deplasman": "VfB Stuttgart",
-          "baslama_utc": "2026-11-25T20:00:00Z",
-          "tahmin": "1",
-          "olasilik": 0.6721,
-          "guven": 0.4991,
-          "skor": "2-0",
-          "tuttu": true
-        }
-      ],
-      "tutan": 3,
-      "sonuclanan": 3
-    },
+    "dun": null,
     "genel": {
       "gun": 15,
       "tam_isabet_gun": 10,
