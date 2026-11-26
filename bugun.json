@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-25T22:30:45Z",
+  "guncelleme_utc": "2026-11-26T05:37:19Z",
   "mac_sayisi": 7,
   "maclar": [
     {
@@ -8,13 +8,33 @@
       "ev_sahibi": "Alanyaspor",
       "deplasman": "Torku Konyaspor",
       "baslama_utc": "2026-11-27T17:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3757,
+        "X": 0.2897,
+        "2": 0.3346
+      },
+      "tahmin": "1",
+      "guven": 0.0411,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4683,
+          "alt": 0.5317
+        },
+        "tahmin": "alt",
+        "guven": 0.0634,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Maçta Alanyaspor ev sahibi olarak hafifçe önde görünüyor, ancak fark belirgin değil: ev sahibi %44 ihtimalle kazanır, deplasman takımı için %33 var. Toplam gol tarafında 3 veya daha fazla gol %47 olasılıkla beklenirken, en fazla 2 gol %53 ile biraz daha yüksek. Son 5 maçta 14 gol yiyen Alanyaspor'un savunma tablosu ve 3+ gollü maçların %69 isabetle tutturulan geçmiş tahminlerimiz, kontrollü ve az gollü bir senaryodan çok, gollerin çıkabileceği bir maçı akla getiriyor. Beraberlik %29 ile en olası ikinci sonuç; Torku Konyaspor'un galibiyetine kıyasla bu ihtimal dengeli bir alternatif olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "The match sees Alanyaspor slightly ahead as the home side, but the gap is not pronounced: the home team has a 44% probability of winning, while the away side has 33%. On total goals, 3 or more goals is expected with a 47% probability, whereas at most 2 goals is slightly higher at 53%. Alanyaspor's defensive record, conceding 14 goals in their last 5 matches, and our past predictions for matches with 3+ goals, which hit at 69%, suggest a game where goals are likely to come, rather than a controlled, low-scoring scenario. A draw, at 29%, is the second most likely result; compared with Torku Konyaspor's win, this possibility stands out as a balanced alternative.",
+        "es": "En el partido, el Alanyaspor aparece ligeramente por delante como local, pero la diferencia no es marcada: el equipo local gana con una probabilidad del 44%, mientras que para el equipo visitante hay un 33%. En cuanto al total de goles, se espera 3 goles o más con una probabilidad del 47%, mientras que que haya como máximo 2 goles tiene un 53%, algo más alta. La tabla defensiva del Alanyaspor, que ha recibido 14 goles en los últimos 5 partidos, y nuestro historial de pronósticos acertados en el 69% de los partidos con 3 goles o más, sugieren un encuentro en el que podrían llegar goles, más que un escenario controlado y de pocos goles. El empate, con un 29%, es el segundo resultado más probable; frente a la victoria del Torku Konyaspor, esta probabilidad destaca como una alternativa equilibrada.",
+        "de": "Alanyaspor scheint als Heimmannschaft im Spiel leicht im Vorteil zu sein, der Unterschied ist jedoch nicht deutlich: Die Wahrscheinlichkeit, dass der Gastgeber gewinnt, liegt bei 44%, für die Auswärtsmannschaft bei 33%. Bei der Anzahl der Tore wird mit einer Wahrscheinlichkeit von 47% mit 3 oder mehr Toren gerechnet, während höchstens 2 Tore mit 53% etwas wahrscheinlicher sind. Die Abwehrbilanz von Alanyaspor mit 14 Gegentoren in den letzten 5 Spielen sowie unsere bisherigen Einschätzungen für Spiele mit 3 oder mehr Toren, die mit einer Treffergenauigkeit von 69% erfasst wurden, lassen eher an ein Spiel mit möglichen Toren denken als an ein kontrolliertes Spiel mit wenigen Treffern. Ein Unentschieden ist mit 29% das zweitwahrscheinlichste Ergebnis; im Vergleich zum Sieg von Torku Konyaspor erscheint diese Möglichkeit als ausgewogene Alternative.",
+        "fr": "Le match voit Alanyaspor légèrement favori en tant qu'équipe à domicile, mais l'écart n'est pas marqué : l'équipe à domicile a 44 % de probabilité de gagner, contre 33 % pour l'équipe visiteuse. Côté total de buts, la probabilité de 3 buts ou plus est de 47 %, tandis que celle de 2 buts au maximum est légèrement plus élevée, à 53 %. La défense d'Alanyaspor, qui a encaissé 14 buts lors de ses 5 derniers matchs, ainsi que nos précédentes prévisions de matchs à 3 buts ou plus, réussies à 69 %, évoquent davantage un match où les buts pourraient tomber qu'un scénario contrôlé et pauvre en buts. Le match nul, à 29 %, constitue le deuxième résultat le plus probable ; comparé à la victoire de Torku Konyaspor, ce scénario apparaît comme une alternative équilibrée.",
+        "it": "La partita vede l'Alanyaspor leggermente in vantaggio come squadra di casa, ma la differenza non è netta: la squadra di casa ha una probabilità del 44% di vincere, mentre per la squadra in trasferta la probabilità è del 33%. Sul fronte dei gol totali, è previsto che si segnino 3 o più gol con una probabilità del 47%, mentre per al massimo 2 gol la probabilità è leggermente superiore, al 53%. La difesa dell'Alanyaspor, che nelle ultime 5 partite ha subito 14 gol, e le nostre precedenti previsioni sulle partite con 3 o più gol, azzeccate nel 69% dei casi, fanno pensare più a una partita in cui i gol possono arrivare che a uno scenario controllato con pochi gol. Il pareggio, con il 29%, è il secondo esito più probabile; rispetto alla vittoria del Torku Konyaspor, questa probabilità emerge come un'alternativa equilibrata.",
+        "pt": "O Alanyaspor parece levemente à frente como equipe da casa, mas a diferença não é marcante: o time da casa vence com probabilidade de 44%, e a equipe visitante tem 33%. No quesito total de gols, a expectativa de 3 ou mais gols tem probabilidade de 47%, enquanto a de no máximo 2 gols aparece um pouco mais alta, com 53%. A defesa do Alanyaspor, que sofreu 14 gols nos últimos 5 jogos, e o nosso histórico de acerto de 69% nas partidas com 3 ou mais gols fazem o confronto lembrar mais um jogo com gols do que um cenário controlado e de poucos gols. O empate, com 29%, é o segundo resultado mais provável; comparado à vitória do Torku Konyaspor, essa possibilidade se destaca como uma alternativa equilibrada."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -171,16 +191,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-21T05:37:21Z",
-        "son_utc": "2026-11-23T05:37:22Z",
+        "son_utc": "2026-11-26T05:37:20Z",
         "ilk": {
           "1": 0.3945,
           "X": 0.2794,
           "2": 0.3261
         },
         "son": {
-          "1": 0.3762,
-          "X": 0.291,
-          "2": 0.3327
+          "1": 0.3757,
+          "X": 0.2897,
+          "2": 0.3346
         }
       },
       "ucretsiz": false
@@ -191,13 +211,33 @@
       "ev_sahibi": "Çaykur Rizespor",
       "deplasman": "Kasimpasa SK",
       "baslama_utc": "2026-11-27T17:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4975,
+        "X": 0.2511,
+        "2": 0.2514
+      },
+      "tahmin": "1",
+      "guven": 0.2461,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.563,
+          "alt": 0.437
+        },
+        "tahmin": "ust",
+        "guven": 0.126,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Çaykur Rizespor, %50 olasılıkla kazanmasıyla belirgin biçimde önde görünüyor; Süper Lig arşivimizdeki ev sahibi galibiyet olasılığı %44 olduğundan bu fark dikkat çekici. Toplam gol tarafında 3 veya daha fazla gol %56 ile daha olası bir senaryo; Kasimpasa'nın son 5 maçta 11 gol atması ve Rizespor'un son 5 maçta 7 gol yemesi bu tabloyu destekliyor. Ancak Rizespor'un iç sahada son 3 maçta 8 gol yemesi, ev sahibinin savunmasının bu maçta zor bir sınavla karşılaşabileceğini gösteriyor. Kasimpasa'nın kazanma ihtimali %25 olup düşük bir ihtimal değil; beraberlik ihtimali de aynı düzeyde.",
+      "ai_metinler": {
+        "en": "Çaykur Rizespor appears clearly ahead with a 50% probability of winning; since the home win probability in our Süper Lig archive is 44%, this gap stands out. On total goals, 3 or more goals is the more likely scenario at 56%, supported by Kasımpaşa scoring 11 goals in their last 5 matches and Rizespor conceding 7 goals in their last 5 matches. However, Rizespor conceding 8 goals in their last 3 home matches suggests the home side's defense may face a difficult test in this match. Kasımpaşa's probability of winning is 25%, which is not a low probability, and the probability of a draw is at the same level.",
+        "es": "Çaykur Rizespor, un 50% de probabilidad de ganar, lo que lo sitúa claramente por delante; este margen llama la atención porque en nuestro archivo de la Süper Lig la probabilidad de victoria del equipo local es del 44%. En cuanto al total de goles, los 3 goles o más son un escenario más probable, con un 56%; esta tabla se apoya en que Kasımpaşa ha marcado 11 goles en sus últimos 5 partidos y Rizespor ha encajado 7 goles en esos mismos 5 encuentros. Sin embargo, que Rizespor haya encajado 8 goles en sus últimos 3 partidos como local indica que la defensa del equipo anfitrión podría enfrentarse a una prueba difícil en este partido. La probabilidad de victoria de Kasımpaşa es del 25%, lo que no es una probabilidad baja, y la probabilidad de empate es del mismo nivel.",
+        "de": "Çaykur Rizespor erscheint mit einer Siegwahrscheinlichkeit von 50% deutlich im Vorteil; da die Heimsieg-Wahrscheinlichkeit in unserem Süper-Lig-Archiv bei 44% liegt, fällt dieser Unterschied ins Auge. Bei der Gesamttorzahl ist das Szenario „3 oder mehr Tore“ mit 56% das wahrscheinlichere; dafür sprechen Kasimpasas 11 Tore in den letzten 5 Spielen und die 7 Gegentore Rizespors in den letzten 5 Partien. Allerdings hat Rizespor in den letzten 3 Heimspielen 8 Gegentore kassiert, was darauf hindeutet, dass die Heimabwehr in diesem Spiel vor eine schwierige Aufgabe gestellt werden könnte. Die Wahrscheinlichkeit für einen Sieg Kasimpasas liegt bei 25% und ist damit keineswegs gering; die Wahrscheinlichkeit für ein Unentschieden liegt auf demselben Niveau.",
+        "fr": "Çaykur Rizespor apparaît nettement favori avec une probabilité de victoire de 50 %, un écart notable puisque la probabilité de victoire à domicile dans notre archive de Süper Lig est de 44 %. Côté total de buts, 3 buts ou plus constituent un scénario plus probable à 56 %, appuyé par les 11 buts marqués par Kasimpasa lors de ses 5 derniers matchs et les 7 buts encaissés par Rizespor lors de ses 5 derniers matchs. Toutefois, les 8 buts encaissés par Rizespor à domicile lors de ses 3 derniers matchs indiquent que la défense du club local pourrait être mise à rude épreuve dans cette rencontre. La probabilité de victoire de Kasimpasa est de 25 %, ce qui n'est pas une probabilité faible ; la probabilité de match nul est du même niveau.",
+        "it": "Çaykur Rizespor, una probabilità del 50%, appare nettamente in vantaggio; poiché la probabilità di vittoria interna nel nostro archivio della Süper Lig è del 44%, questa differenza è degna di nota. Per quanto riguarda il totale gol, 3 o più gol rappresentano lo scenario più probabile, con il 56%; a sostegno di questo quadro ci sono gli 11 gol segnati dal Kasimpasa nelle ultime 5 partite e i 7 gol subiti dal Rizespor nelle ultime 5 partite. Tuttavia, il fatto che il Rizespor abbia subito 8 gol nelle ultime 3 partite casalinghe indica che la difesa di casa potrebbe trovarsi di fronte a una prova difficile in questo incontro. La probabilità di vittoria del Kasimpasa è del 25%, quindi non è una possibilità remota; anche la probabilità di pareggio è dello stesso livello.",
+        "pt": "O Çaykur Rizespor aparece claramente à frente, com 50% de probabilidade de vitória; como a probabilidade histórica de vitória do mandante no nosso arquivo da Süper Lig é de 44%, essa diferença chama a atenção. No quesito total de gols, 3 gols ou mais é um cenário mais provável, com 56%, apoiado pelo fato de o Kasimpasa ter marcado 11 gols nos últimos 5 jogos e o Rizespor ter sofrido 7 gols nos últimos 5 jogos. No entanto, o Rizespor sofreu 8 gols nos últimos 3 jogos em casa, o que indica que a defesa da equipe da casa pode enfrentar um teste difícil nesta partida. A probabilidade de vitória do Kasimpasa é de 25%, o que não é baixa, e a probabilidade de empate está no mesmo nível."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -354,16 +394,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-21T05:37:21Z",
-        "son_utc": "2026-11-23T05:37:22Z",
+        "son_utc": "2026-11-26T05:37:20Z",
         "ilk": {
           "1": 0.4202,
           "X": 0.2621,
           "2": 0.3176
         },
         "son": {
-          "1": 0.4974,
-          "X": 0.2522,
-          "2": 0.2504
+          "1": 0.4975,
+          "X": 0.2511,
+          "2": 0.2514
         }
       },
       "ucretsiz": false
@@ -374,13 +414,30 @@
       "ev_sahibi": "Werder Bremen",
       "deplasman": "Borussia Monchengladbach",
       "baslama_utc": "2026-11-27T19:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5509,
+        "X": 0.2261,
+        "2": 0.223
+      },
+      "tahmin": "1",
+      "guven": 0.3248,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6376,
+          "alt": 0.3624
+        },
+        "tahmin": "ust",
+        "guven": 0.2752,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Werder Bremen, ev sahibi avantajıyla net bir favori: %55 galibiyet olasılığına karşılık Borussia Mönchengladbach'ın %22'si var. Toplam gol tarafında 3 ve üzeri gol %64 ile öne çıkıyor; Bremen'in son 5 maçta 11 gol atıp 5 gol yemesi ve Gladbach'ın 8 gol yemesi, gollü bir senaryoyu destekliyor. Bundesliga ortalamasının (%45 ev sahibi galibiyeti, %67 üç ve üzeri gol) ve geçmiş tahminlerimizin isabet oranının (%76) yüksek değerleri de bu tabloyla uyumlu. İkinci olası sonuç beraberlik (%23) olarak öne çıkıyor; Gladbach'ın kazanma ihtimali ise %22 ile yakın ama bu sonuç, Gladbach'ın son 5 maçta 1 galibiyet alması göz önüne alındığında daha az beklenen bir senaryo.",
+      "ai_metinler": {
+        "en": "Werder Bremen is a clear favourite with home advantage: a 55% probability of victory, compared with 22% for Borussia Mönchengladbach. On total goals, 3 or more goals stands out at 64%. Bremen scoring 11 goals and conceding 5 in their last 5 matches, and Gladbach conceding 8, supports a high-scoring scenario. The high values for the Bundesliga average (45% home wins, 67% for 3 or more goals) and our past prediction accuracy rate (76%) are also consistent with this picture. The second most likely outcome is a draw (23%); Gladbach's probability of winning, at 22%, is close, but this result is less expected given that Gladbach have won only 1 of their last 5 matches.",
+        "it": "Werder Bremen, ev sahibi avantajıyla net bir favori: 55% probabilità di vittoria, contro il 22% di probabilità per il Borussia Mönchengladbach. Per i gol totali, 3 o più gol emergono con il 64%; il fatto che il Bremen abbia segnato 11 gol e subito 5 nelle ultime 5 partite, e che il Gladbach abbia subito 8 gol, supporta uno scenario ricco di reti. I valori alti della media della Bundesliga (45% di vittorie interne, 67% per 3 o più gol) e il tasso di successo delle nostre precedenti previsioni (76%) sono anch'essi coerenti con questo quadro. Il secondo esito più probabile è il pareggio (23%); la probabilità di vittoria del Gladbach, pari al 22%, è vicina, ma considerando che il Gladbach ha ottenuto 1 sola vittoria nelle ultime 5 partite, questo esito è uno scenario meno atteso.",
+        "pt": "O Werder Bremen é claramente favorito, com a vantagem de jogar em casa: há 55% de probabilidade de vitória, contra 22% para o Borussia Mönchengladbach. Nos gols totais, 3 ou mais gols se destacam com 64%; o fato de o Bremen ter marcado 11 gols e sofrido 5 nos últimos 5 jogos, e o Gladbach ter sofrido 8 gols, sustenta um cenário com muitos gols. Os valores altos da média da Bundesliga (45% de vitória do mandante e 67% para 3 ou mais gols) e a taxa de acerto de nossas previsões anteriores (76%) também são compatíveis com esse quadro. O segundo resultado mais provável é o empate (23%); já a probabilidade de vitória do Gladbach, com 22%, está próxima, mas esse resultado é um cenário menos esperado, considerando que o Gladbach conquistou apenas 1 vitória nos últimos 5 jogos."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -537,19 +594,19 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-25T05:37:24Z",
+        "son_utc": "2026-11-26T05:37:20Z",
         "ilk": {
           "1": 0.541,
           "X": 0.2286,
           "2": 0.2305
         },
         "son": {
-          "1": 0.5454,
+          "1": 0.5509,
           "X": 0.2261,
-          "2": 0.2285
+          "2": 0.223
         }
       },
-      "ucretsiz": false
+      "ucretsiz": true
     },
     {
       "mac_id": "e9a663f13e7503c0ac20a54804338b60",
@@ -557,13 +614,33 @@
       "ev_sahibi": "Venezia",
       "deplasman": "Bologna",
       "baslama_utc": "2026-11-27T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2787,
+        "X": 0.2858,
+        "2": 0.4356
+      },
+      "tahmin": "2",
+      "guven": 0.1498,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.475,
+          "alt": 0.525
+        },
+        "tahmin": "alt",
+        "guven": 0.05,
+        "kaynak_sayisi": 18
+      },
+      "ai_metin": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde önde: %44'e %28 ve Bologna'nın son 4 deplasman maçını kazanmış olması bu üstünlüğü destekliyor. Toplam golde ise çizgi çok ince; 3 veya daha fazla gol %48, en fazla 2 gol %52 ile neredeyse dengede, bu yüzden açık bir gollü senaryo beklemek için neden yok. Venezia'nın son 5 maçta 9 gol yemesi ve Bologna'nın son 5 maçta 3 gollü maçların üçünde yer alması, ortalama olan %56'ya kıyasla bu maç için daha temkinli bir tabloya işaret ediyor. En olası ikinci sonuç olan beraberlik %29 ile ciddi bir ihtimal; Venezia'nın iç sahada son 3 maçta 3 gol atıp 3 yemesi bu senaryoyu akla getiriyor.",
+      "ai_metinler": {
+        "en": "Bologna has a clear edge even though it's an away match at Venezia: 44% against 28%, and Bologna's win in its last 4 away matches supports that advantage. On total goals the line is very thin: 3 or more goals at 48% and at most 2 goals at 52% are nearly balanced, so there's no strong reason to expect an open, high-scoring game. Venezia conceding 9 goals in its last 5 matches and Bologna appearing in three of the 3-goal games in its last 5, compared with the average of 56%, point to a more cautious picture for this match. A draw, the second most likely result at 29%, is a serious possibility; Venezia scoring 3 and conceding 3 in its last 3 home matches brings that scenario to mind.",
+        "es": "Bolonia, Venecia en su propio campo, claramente por delante: 44% frente a 28%, y que Bolonia haya ganado sus últimos 4 partidos como visitante respalda esa ventaja. En el total de goles, la línea es muy estrecha: 3 goles o más tiene un 48% y como máximo 2 goles un 52%, casi empatados, por lo que no hay motivo para esperar un escenario de muchos goles. Que Venecia haya recibido 9 goles en sus últimos 5 partidos y que Bolonia haya estado en tres de los partidos de 3 goles en sus últimos 5 apunta a un panorama más cauteloso para este encuentro, en comparación con el promedio de 56%. El empate, el segundo resultado más probable, con un 29%, es una posibilidad seria; que Venecia haya marcado 3 y recibido 3 en sus últimos 3 partidos en casa hace que este escenario sea plausible.",
+        "de": "Bologna ist auswärts gegen Venezia trotzdem deutlich im Vorteil: 44% zu 28%, und dass Bologna die letzten 4 Auswärtsspiele gewonnen hat, untermauert diese Überlegenheit. Bei der Gesamtzahl der Tore ist die Linie sehr knapp: 3 oder mehr Tore liegen bei 48%, höchstens 2 Tore bei 52%, also nahezu ausgeglichen. Es gibt daher keinen Grund, ein torreiches Spiel mit klarer Tendenz zu erwarten. Dass Venezia in den letzten 5 Spielen 9 Gegentore kassiert hat und Bologna in drei der letzten 5 Spiele an Partien mit 3 Toren beteiligt war, deutet im Vergleich zum Durchschnitt von 56% auf ein vorsichtigeres Bild für dieses Spiel hin. Das wahrscheinlichste zweite Ergebnis, ein Unentschieden, liegt bei 29% und ist somit eine ernsthafte Möglichkeit; dass Venezia in den letzten 3 Heimspielen jeweils 3 Tore geschossen und 3 Tore kassiert hat, lässt dieses Szenario ebenfalls naheliegend erscheinen.",
+        "fr": "Bologne est nettement en tête malgré le déplacement à Venise : 44 % contre 28 %, et le fait que Bologne ait remporté ses 4 derniers matchs à l'extérieur soutient cette supériorité. Pour le total de buts, la marge est très fine : 3 buts ou plus à 48 %, et au plus 2 buts à 52 %, presque à égalité, il n'y a donc pas de raison d'attendre un scénario riche en buts. Le fait que Venise ait encaissé 9 buts lors de ses 5 derniers matchs, et que Bologne ait été impliqué dans trois des matchs à 3 buts sur ses 5 dernières rencontres, indique un tableau plus prudent pour cette rencontre, comparé à la moyenne de 56 %. Le match nul, deuxième issue la plus probable, à 29 %, est une possibilité sérieuse ; le fait que Venise ait marqué 3 buts et en ait encaissé 3 lors de ses 3 derniers matchs à domicile rend ce scénario plausible.",
+        "it": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde önde: %44'e %28 ve Bologna'nın son 4 deplasman maçını kazanmış olması bu üstünlüğü destekliyor. Toplam golde ise çizgi çok ince; 3 veya daha fazla gol %48, en fazla 2 gol %52 ile neredeyse dengede, bu yüzden açık bir gollü senaryo beklemek için neden yok. Venezia'nın son 5 maçta 9 gol yemesi ve Bologna'nın son 5 maçta 3 gollü maçların üçünde yer alması, ortalama olan %56'ya kıyasla bu maç için daha temkinli bir tabloya işaret ediyor. En olası ikinci sonuç olan beraberlik %29 ile ciddi bir ihtimal; Venezia'nın iç sahada son 3 maçta 3 gol atıp 3 yemesi bu senaryoyu akla getiriyor.",
+        "pt": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde à frente: 44% contra 28%, e o fato de o Bologna ter vencido seus últimos 4 jogos fora de casa reforça essa vantagem. No total de gols, porém, a diferença é muito pequena: 3 gols ou mais tem 48%, e no máximo 2 gols tem 52%, praticamente empatados, por isso não há motivo para esperar um cenário de muitos gols. O fato de o Venezia ter sofrido 9 gols nos últimos 5 jogos e de o Bologna ter estado presente em três dos seus últimos 5 jogos com 3 gols, em comparação com a média de 56%, aponta para um quadro mais cauteloso para esta partida. O empate, segundo resultado mais provável, tem 29% e é uma possibilidade séria; o fato de o Venezia ter marcado 3 e sofrido 3 nos últimos 3 jogos em casa torna esse cenário plausível."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -720,16 +797,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-23T05:37:22Z",
+        "son_utc": "2026-11-26T05:37:20Z",
         "ilk": {
           "1": 0.2594,
           "X": 0.2636,
           "2": 0.477
         },
         "son": {
-          "1": 0.2704,
-          "X": 0.2808,
-          "2": 0.4487
+          "1": 0.2787,
+          "X": 0.2858,
+          "2": 0.4356
         }
       },
       "ucretsiz": false
@@ -740,13 +817,32 @@
       "ev_sahibi": "Brest",
       "deplasman": "Paris FC",
       "baslama_utc": "2026-11-27T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.294,
+        "X": 0.2753,
+        "2": 0.4307
+      },
+      "tahmin": "2",
+      "guven": 0.1367,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5224,
+          "alt": 0.4776
+        },
+        "tahmin": "ust",
+        "guven": 0.0448,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Brest–Paris FC maçında deplasman ekibi Paris FC hafif ama net bir üstünlükle öne çıkıyor; olasılıklar %43'e %29 biçiminde dengeli bir tablo çiziyor. Toplam gol tarafında 3 veya daha fazla gol %52 ile hafifçe önde; bu da Paris FC'nin son beş maçındaki gollü performansıyla uyumlu, çünkü bu dönemde 4 maçta 3 ve üzeri gol görüldü. Ligue 1 ortalaması olan %43 ev sahibi galibiyet ihtimalinin altında kalan Brest'in mevcut tablosu, ligin genel eğilimine kıyasla daha zayıf bir konum sunuyor. En olası ikinci sonuç %28 ile beraberlik; bu ihtimal, ligin ortalama beraberlik ihtimaline (%24) yakın seviyede duruyor.",
+      "ai_metinler": {
+        "en": "Brest–Paris FC match: the away side, Paris FC, stands out with a slight but clear edge; the probabilities paint a balanced picture of 43% to 29%. On total goals, 3 or more goals leads narrowly at 52%, which fits Paris FC's recent scoring form, as 3 or more goals were seen in 4 of their last five matches. Brest's current picture, with its home win probability sitting below the Ligue 1 average of 43%, presents a weaker position compared with the league's general trend. The second most likely result is a draw at 28%, a probability close to the league's average draw probability of 24%.",
+        "es": "El análisis del partido Brest–Paris FC destaca que el equipo visitante, Paris FC, sobresale con una ventaja ligera pero clara; las probabilidades dibujan un panorama equilibrado, con un 43% frente a un 29%. En cuanto al total de goles, la opción de 3 goles o más se sitúa ligeramente por delante con un 52%, lo cual concuerda con el rendimiento goleador de Paris FC en sus últimos cinco partidos, ya que en este periodo se vieron 3 goles o más en 4 encuentros. El Brest, cuya probabilidad de victoria local queda por debajo del 43% que es la media de la Ligue 1, presenta una posición más débil en comparación con la tendencia general de la liga. El segundo resultado más probable es el empate, con un 28%, un valor cercano a la probabilidad media de empate de la liga (24%).",
+        "de": "Das Spiel Brest–Paris FC: Der Gast Paris FC hebt sich mit einem leichten, aber klaren Vorteil hervor; die Wahrscheinlichkeiten zeichnen ein ausgewogenes Bild von 43% zu 29%. Bei den Toren liegt die Variante 3 oder mehr Tore mit 52% leicht vorn; das passt zur Torfreude von Paris FC in den letzten fünf Spielen, in denen in 4 Spielen 3 oder mehr Tore fielen. Brest liegt mit seiner aktuellen Ausgangslage unter der Heimsieg-Wahrscheinlichkeit von 43%, die dem Ligue-1-Durchschnitt entspricht, und bietet damit im Vergleich zum allgemeinen Trend der Liga eine schwächere Position. Das zweitwahrscheinlichste Ergebnis ist mit 28% ein Unentschieden; diese Wahrscheinlichkeit liegt nahe am Ligue-1-Durchschnitt für Unentschieden (24%).",
+        "it": "Nella partita Brest–Paris FC, la squadra ospite Paris FC emerge con un vantaggio leggero ma netto; le probabilità delineano un quadro equilibrato, con il 43% contro il 29%. Per il totale gol, 3 gol o più sono leggermente in vantaggio con il 52%; ciò è coerente con il rendimento ricco di reti del Paris FC nelle ultime cinque partite, dato che in questo periodo si sono viste 3 gol o più in 4 incontri. La probabilità di vittoria interna del Brest, pari al 43% e cioè la media della Ligue 1, risulta al di sotto di tale valore, e la sua situazione attuale appare più debole rispetto alla tendenza generale del campionato. Il secondo esito più probabile è il pareggio con il 28%; questa probabilità si mantiene vicina alla media di campionato per i pareggi (24%).",
+        "pt": "O confronto Brest–Paris FC mostra a equipe visitante, o Paris FC, em destaque com uma vantagem leve, mas clara; as probabilidades desenham um quadro equilibrado, de 43% contra 29%. No quesito total de gols, a opção de 3 gols ou mais está ligeiramente à frente, com 52%, o que combina com o desempenho com muitos gols do Paris FC nos últimos cinco jogos, já que nesse período foram vistos 3 gols ou mais em 4 partidas. Com uma probabilidade de vitória do mandante de 43%, a média da Ligue 1, o Brest aparece em uma posição mais fraca do que a tendência geral da liga. O segundo resultado mais provável é o empate, com 28%, um valor próximo da média de empates da liga (24%)."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -903,16 +999,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-25T05:37:24Z",
+        "son_utc": "2026-11-26T05:37:20Z",
         "ilk": {
           "1": 0.306,
           "X": 0.2714,
           "2": 0.4225
         },
         "son": {
-          "1": 0.295,
-          "X": 0.2741,
-          "2": 0.4309
+          "1": 0.294,
+          "X": 0.2753,
+          "2": 0.4307
         }
       },
       "ucretsiz": false
@@ -923,13 +1019,33 @@
       "ev_sahibi": "Nottingham Forest",
       "deplasman": "Chelsea",
       "baslama_utc": "2026-11-27T20:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3755,
+        "X": 0.2763,
+        "2": 0.3482
+      },
+      "tahmin": "1",
+      "guven": 0.0273,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5422,
+          "alt": 0.4578
+        },
+        "tahmin": "ust",
+        "guven": 0.0844,
+        "kaynak_sayisi": 17
+      },
+      "ai_metin": "Maçta Chelsea ve Nottingham Forest arasında dengeli bir tablo var; ev sahibi Forest yalnızca çok hafif önde (%38'e %35). Toplam golde 3 ve üzeri ihtimali %54 ile en fazla 2 golün önüne geçiyor, yani açık ve gollü bir karşılaşma senaryosu öne çıkıyor. Arşivimizdeki Premier Lig ortalamalarına göre (ev sahibi %43, deplasman %33) Forest'ın avantajı belirgin biçimde zayıf kalıyor. Öte yandan geçmişte bu güven seviyesindeki tahminlerimiz 18 maçta %33 isabet etti, bu da temkinli okunmasını gerektiriyor. En olası ikinci sonuç olan beraberlik (%28), kesin bir ihtimal olmamakla birlikte, iki takımın da gol bulabileceği bu maçta dikkate değer bir alternatif.",
+      "ai_metinler": {
+        "en": "The match shows a balanced picture between Chelsea and Nottingham Forest; the home side, Forest, holds only a very slight edge (38% to 35%). For total goals, the probability of 3 or more goals stands at 54%, which puts it ahead of at most 2 goals, so an open, high-scoring match scenario stands out. Compared with our archived Premier League averages (home side 43%, away side 33%), Forest's advantage remains noticeably weak. On the other hand, our past predictions at this confidence level hit the mark 33% of the time across 18 matches, which calls for a cautious reading. The second most likely outcome, a draw (28%), is not a certainty, but in a match where both teams can find the net, it is a notable alternative.",
+        "es": "En el partido hay un panorama equilibrado entre Chelsea y Nottingham Forest; el local, Forest, está solo ligeramente por delante (38% frente a 35%). En cuanto al total de goles, la probabilidad de 3 goles o más es del 54%, por encima de la de como máximo 2 goles, por lo que se perfila un escenario de partido abierto y con goles. Según los promedios de nuestro archivo de la Premier League (local 43%, visitante 33%), la ventaja de Forest se mantiene claramente débil. Por otro lado, en el pasado, nuestras predicciones con este nivel de confianza acertaron en el 33% de los 18 partidos, lo que aconseja una lectura prudente. El empate, el segundo resultado más probable (28%), no es una certeza, pero sí una alternativa notable en un partido en el que ambos equipos pueden marcar.",
+        "de": "Im Spiel zwischen Chelsea und Nottingham Forest zeigt sich ein ausgeglichenes Bild; der Heimvorteil von Forest ist nur sehr gering (38% zu 35%). Bei der Gesamttorzahl liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 54% und damit über der für höchstens 2 Tore, sodass ein offenes, torreiches Spielszenario im Vordergrund steht. Gemessen an unseren Archivdurchschnittswerten der Premier League (Heimteam 43%, Auswärtsteam 33%) fällt Forests Vorteil deutlich schwächer aus. Andererseits lag die Trefferquote unserer Prognosen mit vergleichbarem Konfidenzniveau in der Vergangenheit bei 33% aus 18 Spielen, weshalb eine vorsichtige Einordnung angebracht ist. Das zweitwahrscheinlichste Ergebnis, ein Unentschieden (28%), ist zwar keineswegs sicher, aber in diesem Spiel, in dem beide Teams Tore erzielen können, eine bemerkenswerte Alternative.",
+        "fr": "Le match oppose Chelsea à Nottingham Forest sur un tableau équilibré ; l'équipe à domicile, Forest, n'est que très légèrement devant (38 % contre 35 %). Pour le total de buts, la probabilité de 3 buts ou plus atteint 54 %, contre une probabilité de 2 buts au maximum, ce qui met en avant un scénario de rencontre ouverte et riche en buts. Selon nos moyennes d'archives de Premier League (domicile 43 %, extérieur 33 %), l'avantage de Forest reste nettement plus faible. En revanche, nos estimations passées à ce niveau de confiance ont atteint 33 % de réussite sur 18 matchs, ce qui impose une lecture prudente. Le match nul, deuxième issue la plus probable (28 %), n'est pas certain mais constitue une alternative notable dans une rencontre où les deux équipes peuvent marquer.",
+        "it": "Nella partita c'è un quadro equilibrato tra Chelsea e Nottingham Forest; la squadra di casa, Forest, è solo leggermente avanti (38% contro 35%). Per il totale gol, la probabilità di 3 o più gol è del 54%, più alta di quella di al massimo 2 gol, quindi emerge uno scenario di partita aperta e ricca di reti. Rispetto alle medie archiviate della Premier League (casa 43%, trasferta 33%), il vantaggio del Forest risulta chiaramente più debole. D'altra parte, in passato le nostre previsioni con questo livello di fiducia hanno avuto ragione nel 33% dei 18 casi, quindi è consigliabile una lettura prudente. Il pareggio, come secondo esito più probabile (28%), non è certo, ma rappresenta un'alternativa degna di attenzione in una partita in cui entrambe le squadre possono segnare.",
+        "pt": "Na partida há um quadro equilibrado entre Chelsea e Nottingham Forest; o Forest, mandante, está apenas muito levemente à frente (38% contra 35%). Para o total de gols, a probabilidade de 3 gols ou mais é de 54%, superando a de no máximo 2 gols, por isso desponta um cenário de jogo aberto e com muitos gols. Segundo as médias do nosso arquivo para a Premier League (mandante 43%, visitante 33%), a vantagem do Forest permanece claramente fraca. Por outro lado, nossas previsões com este nível de confiança acertaram 33% das vezes em 18 jogos, o que pede uma leitura cautelosa. O empate, segundo resultado mais provável (28%), não é uma certeza, mas é uma alternativa relevante neste jogo em que ambas as equipes podem marcar."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1086,16 +1202,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-23T05:37:22Z",
+        "son_utc": "2026-11-26T05:37:20Z",
         "ilk": {
           "1": 0.3416,
           "X": 0.2683,
           "2": 0.3901
         },
         "son": {
-          "1": 0.3427,
-          "X": 0.2745,
-          "2": 0.3828
+          "1": 0.3755,
+          "X": 0.2763,
+          "2": 0.3482
         }
       },
       "ucretsiz": false
@@ -1106,13 +1222,32 @@
       "ev_sahibi": "Levante",
       "deplasman": "Real Racing Club de Santander",
       "baslama_utc": "2026-11-27T20:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4575,
+        "X": 0.2447,
+        "2": 0.2978
+      },
+      "tahmin": "1",
+      "guven": 0.1597,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6473,
+          "alt": 0.3527
+        },
+        "tahmin": "ust",
+        "guven": 0.2946,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Levante'nin ev sahibi olarak %46 ile hafif önde olduğu, ancak farkın belirgin olmadığı bir maç bu. Olasılıklar 3 veya daha fazla golün %65 ile daha olası olduğunu gösteriyor; bu da açık ve gollü bir senaryoya işaret ediyor. Santander'in son 5 maçta 4 kez 3+ gol görmesi ve La Liga ortalaması olan %56'nın üzerindeki bu değer, gol beklentisini destekliyor. Beraberlik ihtimali %24, La Liga ortalamasıyla (%24) aynı; en olası ikinci sonuç ise Santander'in galibiyeti (%30) olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "This is a match where Levante, as the home side, is slightly ahead at 46%, though the gap is not pronounced. Probabilities show that 3 or more goals is more likely at 65%, pointing to an open, high-scoring scenario. Santander has seen 3+ goals in 4 of its last 5 matches, and this figure, above the La Liga average of 56%, supports the expectation of goals. The probability of a draw is 24%, the same as the La Liga average (24%); the second most likely result is a Santander win (30%).",
+        "es": "Es un partido en el que Levante, como local, está ligeramente por delante con un 46%, aunque la diferencia no es significativa. Las probabilidades indican que 3 goles o más son más probables, con un 65%, lo que apunta a un escenario abierto y con goles. El hecho de que Santander haya registrado 3 goles o más en 4 de sus últimos 5 partidos, y que este valor supere el 56% de la media de La Liga, respalda la expectativa de goles. La probabilidad de empate es del 24%, igual que la media de La Liga (24%); el segundo resultado más probable es la victoria de Santander, con un 30%.",
+        "fr": "Ce match semble assez équilibré, avec Levante légèrement en tête à domicile à 46 %, sans que l'écart soit marqué. Les probabilités indiquent que 3 buts ou plus sont plus probables, à 65 %, ce qui laisse présager un match ouvert et riche en buts. Santander a connu 3 buts ou plus à 4 reprises sur ses 5 derniers matchs, et cette valeur, supérieure à la moyenne de la Liga de 56 %, renforce l'attente d'un nombre élevé de buts. La probabilité de match nul est de 24 %, identique à la moyenne de la Liga (24 %) ; le deuxième résultat le plus probable est la victoire de Santander, à 30 %.",
+        "it": "Questa partita vede il Levante, in casa, leggermente in vantaggio con il 46%, ma la differenza non è netta. Le probabilità indicano che 3 o più goal abbiano una probabilità del 65%, il che suggerisce uno scenario aperto e ricco di reti. Il fatto che il Santander abbia visto 3 o più goal in 4 delle ultime 5 partite, e questo valore superi il 56% della media della Liga, sostiene l'aspettativa di goal. La probabilità di pareggio è del 24%, in linea con la media della Liga (24%); il secondo esito più probabile è invece la vittoria del Santander, con il 30%.",
+        "pt": "Esta partida tem o Levante, como mandante, levemente à frente com 46%, mas a diferença não é expressiva. As probabilidades indicam que 3 ou mais gols têm 65% de chance, o que aponta para um cenário aberto e com muitos gols. O Santander registrou 3 ou mais gols em 4 dos últimos 5 jogos, e esse índice, acima da média da La Liga de 56%, reforça a expectativa de gols. A probabilidade de empate é de 24%, igual à média da La Liga (24%); já o segundo resultado mais provável é a vitória do Santander, com 30%."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1269,16 +1404,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-23T05:37:22Z",
+        "son_utc": "2026-11-26T05:37:20Z",
         "ilk": {
           "1": 0.4558,
           "X": 0.2464,
           "2": 0.2978
         },
         "son": {
-          "1": 0.4548,
-          "X": 0.2477,
-          "2": 0.2976
+          "1": 0.4575,
+          "X": 0.2447,
+          "2": 0.2978
         }
       },
       "ucretsiz": false
