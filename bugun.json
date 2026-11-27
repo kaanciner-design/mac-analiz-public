@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T11:41:02Z",
+  "guncelleme_utc": "2026-11-27T11:44:06Z",
   "mac_sayisi": 31,
   "maclar": [
     {
@@ -7210,26 +7210,6 @@
         "tarih": "2026-11-27",
         "secimler": [
           {
-            "mac_id": "02ff879cf54f6d1fec2664efee0431db",
-            "lig": "soccer_france_ligue_one",
-            "ev_sahibi": "Brest",
-            "deplasman": "Paris FC",
-            "baslama_utc": "2026-11-27T19:45:00Z",
-            "kod": "X2",
-            "olasilik": 0.706,
-            "gerekce": "Paris FC'nin ligdeki 2. sırası, Brest'in evinde 2 mağlubiyeti ve Paris FC'nin son 5 maçta 4 galibiyeti yüksek olasılık sunuyor.",
-            "gerekce_ceviri": {
-              "en": "Paris FC's 2nd place in the league, Brest's 2 home defeats, and Paris FC's 4 wins in their last 5 matches point to a high probability.",
-              "es": "El segundo puesto de Paris FC en la liga, sus 2 derrotas como visitante ante Brest y sus 4 victorias en los últimos 5 partidos sugieren una alta probabilidad.",
-              "de": "Paris FC auf dem 2. Tabellenplatz der Liga, die 2 Heimniederlagen von Brest und die 4 Siege Paris FCs in den letzten 5 Spielen sprechen für eine hohe Wahrscheinlichkeit.",
-              "fr": "Le 2e rang de Paris FC en championnat, leurs 2 défaites à domicile face à Brest et leurs 4 victoires lors des 5 derniers matchs laissent entrevoir une probabilité élevée.",
-              "it": "Il secondo posto di Paris FC in campionato, le 2 sconfitte del Brest in casa e le 4 vittorie di Paris FC nelle ultime 5 partite indicano una probabilità elevata.",
-              "pt": "Paris FC ocupar o 2º lugar na liga, a derrota do Brest em casa em 2 ocasiões e as 4 vitórias do Paris FC nos últimos 5 jogos indicam uma alta probabilidade."
-            },
-            "skor": null,
-            "tuttu": null
-          },
-          {
             "mac_id": "e9a663f13e7503c0ac20a54804338b60",
             "lig": "soccer_italy_serie_a",
             "ev_sahibi": "Venezia",
@@ -7237,34 +7217,53 @@
             "baslama_utc": "2026-11-27T19:45:00Z",
             "kod": "X2",
             "olasilik": 0.7214,
-            "gerekce": "Bologna'nın son 5 maçta 4 galibiyeti ve 1 beraberliği, ligde kalma mücadelesi veren Venezia'ya karşı yüksek olasılıkla galibiyet getirebilir.",
+            "gerekce": "Bologna'nın son 5 maçta 4 galibiyet ve 1 beraberliği var. Venezia ise küme düşme hattında ve son maçında 4-0 yenildi.",
             "gerekce_ceviri": {
-              "en": "Bologna's 4 wins and 1 draw in their last 5 matches make a win against relegation-battling Venezia highly likely.",
-              "es": "Bolonia ha ganado 4 de sus últimos 5 partidos y empatado 1, por lo que tiene una alta probabilidad de vencer al Venecia, que lucha por mantenerse en la liga.",
-              "de": "Bologna hat in den letzten 5 Spielen 4 Siege und 1 Unentschieden erzielt, weshalb die Wahrscheinlichkeit für einen Sieg gegen Venezia, das im Abstiegskampf steckt, hoch ist.",
-              "fr": "Bologna, avec 4 victoires et 1 match nul lors de ses 5 derniers matchs, a une forte probabilité de l'emporter face à Venezia, qui lutte pour son maintien en championnat.",
-              "it": "Il Bologna, con 4 vittorie e 1 pareggio nelle ultime 5 partite, ha una probabilità elevata di conquistare la vittoria contro il Venezia, impegnato nella lotta per la permanenza in campionato.",
-              "pt": "O Bologna, com 4 vitórias e 1 empate nos últimos 5 jogos, tem alta probabilidade de vencer o Venezia, que luta para se manter na liga."
+              "en": "Bologna has won 4 and drawn 1 of its last 5 matches. Venezia, on the other hand, is in the relegation zone and lost 4-0 in its last match.",
+              "es": "Bolonia ha ganado 4 de sus últimos 5 partidos y ha empatado 1. El Venezia, por su parte, está en la zona de descenso y perdió 4-0 en su último partido.",
+              "de": "Bologna hat in den letzten 5 Spielen 4 Siege und 1 Unentschieden erzielt. Venezia dagegen steckt im Abstiegskampf und verlor sein letztes Spiel mit 0:4.",
+              "fr": "Bologna a remporté 4 victoires et fait 1 match nul lors de ses 5 derniers matchs. Venezia, quant à lui, se situe dans la zone de relégation et a subi une défaite 4-0 lors de son dernier match.",
+              "it": "Il Bologna ha vinto 4 delle ultime 5 partite e ne ha pareggiata 1. La Venezia, invece, si trova nella zona retrocessione e nell'ultima partita è stata sconfitta per 4-0.",
+              "pt": "Bologna tem 4 vitórias e 1 empate nos últimos 5 jogos. Já o Venezia está na zona de rebaixamento e perdeu por 4 a 0 em sua última partida."
             },
             "skor": null,
             "tuttu": null
           },
           {
-            "mac_id": "698f4a7967ead89e10205a68ceb4bda4",
-            "lig": "soccer_germany_bundesliga",
-            "ev_sahibi": "Werder Bremen",
-            "deplasman": "Borussia Monchengladbach",
-            "baslama_utc": "2026-11-27T19:30:00Z",
-            "kod": "kg_var",
-            "olasilik": 0.6162,
-            "gerekce": "Werder Bremen'in evinde 4-0'lık galibiyeti ve Mönchengladbach'ın deplasmanda 3-2'lik galibiyeti, iki takımın da gol atma olasılığını artırıyor.",
+            "mac_id": "02ff879cf54f6d1fec2664efee0431db",
+            "lig": "soccer_france_ligue_one",
+            "ev_sahibi": "Brest",
+            "deplasman": "Paris FC",
+            "baslama_utc": "2026-11-27T19:45:00Z",
+            "kod": "X2",
+            "olasilik": 0.706,
+            "gerekce": "Paris FC ligde 2. sırada ve şampiyonluk yarışında. Brest ise 6. sırada ve rakibine göre daha az motivasyonlu görünüyor.",
             "gerekce_ceviri": {
-              "en": "Werder Bremen's 4-0 home win and Mönchengladbach's 3-2 away win increase the probability that both teams score.",
-              "es": "Las victorias de 4-0 del Werder Bremen en casa y de 3-2 del Mönchengladbach a domicilio aumentan la probabilidad de que ambos equipos marquen.",
-              "de": "Werder Bremens 4:0-Heimsieg und Mönchengladbachs 3:2-Auswärtssieg erhöhen die Wahrscheinlichkeit, dass beide Teams treffen.",
-              "fr": "Le succès 4-0 du Werder Brême à domicile et la victoire 3-2 du Mönchengladbach à l'extérieur augmentent la probabilité que les deux équipes marquent.",
-              "it": "Dopo la vittoria per 4-0 del Werder Bremen in casa e il successo per 3-2 del Mönchengladbach in trasferta, la probabilità che entrambe le squadre segnino risulta più alta.",
-              "pt": "Vitória de 4-0 do Werder Bremen em casa e a vitória de 3-2 do Mönchengladbach fora de casa aumentam a probabilidade de os dois times marcarem gols."
+              "en": "Paris FC is in 2nd place in the league and in the title race. Brest, on the other hand, is in 6th place and appears less motivated than its opponent.",
+              "es": "Paris FC está en el 2.º puesto de la liga y en la lucha por el título. El Brest, en cambio, ocupa el 6.º lugar y parece menos motivado que su rival.",
+              "de": "Paris FC liegt in der Liga auf Platz 2 und ist im Meisterschaftsrennen dabei. Brest hingegen steht auf Platz 6 und wirkt im Vergleich zum Gegner weniger motiviert.",
+              "it": "Il Paris FC è al 2° posto in campionato e in corsa per il titolo. Il Brest, invece, è al 6° posto e appare meno motivato rispetto al suo avversario.",
+              "pt": "Paris FC está em 2º lugar na liga e na disputa pelo título. Já o Brest ocupa a 6ª posição e parece menos motivado do que o adversário."
+            },
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "80c92a163a81b69fef76530221e2edd0",
+            "lig": "soccer_spain_la_liga",
+            "ev_sahibi": "Levante",
+            "deplasman": "Real Racing Club de Santander",
+            "baslama_utc": "2026-11-27T20:00:00Z",
+            "kod": "kg_var",
+            "olasilik": 0.65,
+            "gerekce": "Levante'nin evinde gol atma potansiyeli var. Racing Santander ise formda ve gol bulma eğiliminde.",
+            "gerekce_ceviri": {
+              "en": "Levante has the potential to score at home. Racing Santander, meanwhile, are in form and have a tendency to find the back of the net.",
+              "es": "El Levante tiene potencial para marcar goles en su casa. Racing Santander, por su parte, está en forma y tiende a encontrar la red.",
+              "de": "Levante hat im eigenen Stadion Torpotential. Racing Santander ist derzeit in Form und neigt dazu, Tore zu erzielen.",
+              "fr": "Levante a un potentiel offensif à domicile. Racing Santander, de son côté, est en forme et a tendance à trouver le chemin des filets.",
+              "it": "Il Levante ha un potenziale offensivo in casa. Il Racing Santander, invece, è in forma e tende a trovare il gol.",
+              "pt": "O Levante tem potencial para marcar gols em casa. Já o Racing Santander está em boa forma e tem tendência a balançar as redes."
             },
             "skor": null,
             "tuttu": null
@@ -7277,30 +7276,14 @@
             "ev_sahibi": "Çaykur Rizespor",
             "deplasman": "Kasimpasa SK",
             "baslama_utc": "2026-11-27T17:00:00Z",
-            "neden": "Her iki takımda da önemli sakatlıklar ve şüpheli oyuncular var, bu da belirsizliği artırıyor.",
+            "neden": "Her iki takımda da önemli sakatlıklar ve şüpheli oyuncular var. Bu durum belirsizliği artırıyor.",
             "neden_ceviri": {
-              "en": "Both teams have significant injuries and doubtful players, which adds to the uncertainty.",
-              "es": "Ambos equipos tienen lesiones importantes y jugadores en duda, lo que aumenta la incertidumbre.",
-              "de": "Bei beiden Mannschaften gibt es wichtige Verletzungen und fragliche Spieler, was die Unsicherheit erhöht.",
-              "fr": "Les deux équipes comptent des blessures importantes et des joueurs incertains, ce qui accroît l'incertitude.",
-              "it": "Entrambe le squadre hanno infortuni importanti e giocatori in dubbio, il che aumenta l'incertezza.",
-              "pt": "Ambas as equipes têm lesões importantes e jogadores em dúvida, o que aumenta a incerteza."
-            }
-          },
-          {
-            "mac_id": "80c92a163a81b69fef76530221e2edd0",
-            "lig": "soccer_spain_la_liga",
-            "ev_sahibi": "Levante",
-            "deplasman": "Real Racing Club de Santander",
-            "baslama_utc": "2026-11-27T20:00:00Z",
-            "neden": "Levante'nin son dört maçta galibiyet alamaması ve Racing Santander'in formda olması, 1X seçeneğini riskli hale getiriyor.",
-            "neden_ceviri": {
-              "en": "Levante's failure to win any of its last four matches, combined with Racing Santander's good form, makes the 1X option risky.",
-              "es": "El hecho de que Levante no haya logrado ninguna victoria en sus últimos cuatro partidos, mientras que Racing Santander está en buena forma, hace que la opción 1X resulte arriesgada.",
-              "de": "Levante hat in den letzten vier Spielen keinen Sieg eingefahren, und Racing Santander ist in guter Form. Dadurch wird die Option 1X riskant.",
-              "fr": "Le fait que Levante n'ait pas remporté de victoire lors de ses quatre derniers matchs, alors que Racing Santander est en bonne forme, rend l'option 1X risquée.",
-              "it": "Il fatto che il Levante non vinca nelle ultime quattro partite e che il Racing Santander sia in forma rende l'opzione 1X rischiosa.",
-              "pt": "O Levante não venceu nos últimos quatro jogos e o Racing Santander está em boa fase, o que torna a opção 1X arriscada."
+              "en": "Both teams have significant injuries and doubtful players. This situation increases the uncertainty.",
+              "es": "Ambos equipos tienen lesiones importantes y jugadores en duda. Esta situación aumenta la incertidumbre.",
+              "de": "Bei beiden Mannschaften gibt es wichtige Verletzungen und fragliche Spieler. Diese Situation erhöht die Unsicherheit.",
+              "fr": "Les deux équipes comptent des blessures importantes ainsi que des joueurs incertains. Cette situation accroît l'incertitude.",
+              "it": "Entrambe le squadre hanno infortuni importanti e giocatori in dubbio. Questa situazione aumenta l'incertezza.",
+              "pt": "Ambos os times têm lesões importantes e jogadores em dúvida. Essa situação aumenta a incerteza."
             }
           },
           {
@@ -7309,14 +7292,30 @@
             "ev_sahibi": "Nottingham Forest",
             "deplasman": "Chelsea",
             "baslama_utc": "2026-11-27T20:00:00Z",
-            "neden": "Chelsea'nin önemli eksikleri ve son iki maçını kaybetmesi, Nottingham Forest'a karşı favori olmasını engelliyor.",
+            "neden": "Chelsea'nin önemli eksikleri ve son iki maçını kaybetmiş olması, Nottingham Forest'ın evinde direnebileceği ihtimalini güçlendiriyor.",
             "neden_ceviri": {
-              "en": "Chelsea's key absences and their loss in their last two matches prevent them from being the favorite against Nottingham Forest.",
-              "es": "El Chelsea tiene ausencias importantes y ha perdido sus dos últimos partidos, lo que impide que sea el favorito frente al Nottingham Forest.",
-              "de": "Chelsea fehlen wichtige Spieler, und die beiden letzten verlorenen Spiele verhindern, dass sie gegen Nottingham Forest als Favorit gelten.",
-              "fr": "Les absences importantes de Chelsea et ses deux dernières défaites l'empêchent d'être favori face à Nottingham Forest.",
-              "it": "Le importanti assenze del Chelsea e la sconfitta nelle ultime due partite le impediscono di essere la favorita contro il Nottingham Forest.",
-              "pt": "O Chelsea tem desfalques importantes e perdeu suas duas últimas partidas, o que impede que seja o favorito contra o Nottingham Forest."
+              "en": "Chelsea's key absences and their two consecutive defeats strengthen the possibility that Nottingham Forest can put up a fight at home.",
+              "es": "Las importantes bajas de Chelsea y el hecho de haber perdido sus dos últimos partidos refuerzan la probabilidad de que Nottingham Forest pueda resistir en su campo.",
+              "de": "Die wichtigen Ausfälle bei Chelsea und die zwei verlorenen letzten Spiele stärken die Wahrscheinlichkeit, dass Nottingham Forest auf eigenem Platz Widerstand leisten kann.",
+              "fr": "Les absences importantes de Chelsea et le fait qu'elle ait perdu ses deux derniers matchs renforcent la probabilité que Nottingham Forest puisse résister à domicile.",
+              "it": "Le importanti assenze del Chelsea e le ultime due partite perse aumentano la probabilità che il Nottingham Forest possa resistere in casa.",
+              "pt": "Os importantes desfalques do Chelsea e o fato de ter perdido seus dois últimos jogos fortalecem a probabilidade de o Nottingham Forest conseguir resistir em casa."
+            }
+          },
+          {
+            "mac_id": "698f4a7967ead89e10205a68ceb4bda4",
+            "lig": "soccer_germany_bundesliga",
+            "ev_sahibi": "Werder Bremen",
+            "deplasman": "Borussia Monchengladbach",
+            "baslama_utc": "2026-11-27T19:30:00Z",
+            "neden": "Werder Bremen'in evinde yenilmezlik serisi ve Borussia Mönchengladbach'ın ligdeki kötü durumu göz önüne alındığında, bu maçta sürpriz olasılığı yüksek.",
+            "neden_ceviri": {
+              "en": "Given Werder Bremen's unbeaten run at home and Borussia Mönchengladbach's poor form in the league, the probability of a surprise in this match is high.",
+              "es": "Dada la racha invicta de Werder Bremen en casa y la mala situación de Borussia Mönchengladbach en la liga, en este partido la probabilidad de una sorpresa es alta.",
+              "de": "Angesichts der Heimserie von Werder Bremen, die bisher ungeschlagen ist, und der schwachen Ligaform von Borussia Mönchengladbach ist in diesem Spiel die Wahrscheinlichkeit einer Überraschung hoch.",
+              "fr": "Compte tenu de la série d'invincibilité de Werder Brême à domicile et de la mauvaise passe de Borussia Mönchengladbach en championnat, la probabilité d'une surprise dans ce match est élevée.",
+              "it": "Data la serie di imbattibilità casalinga del Werder Brema e la difficile situazione del Borussia Mönchengladbach in campionato, in questa partita la probabilità di una sorpresa è elevata.",
+              "pt": "Considerando a sequência de invencibilidade do Werder Bremen em casa e a má fase do Borussia Mönchengladbach no campeonato, a probabilidade de surpresa nesta partida é alta."
             }
           }
         ],
@@ -7334,14 +7333,14 @@
             "baslama_utc": "2026-11-28T14:30:00Z",
             "kod": "2",
             "olasilik": 0.7571,
-            "gerekce": "Bayern'in ligdeki üstünlüğü, Hamburger SV'nin zayıf formu ve önemli eksikleri Bayern'in galibiyet olasılığını artırıyor.",
+            "gerekce": "Bayern Münih'in ligdeki konumu, rakibine göre daha yüksek gol beklentisi ve güncel araştırmadaki eksiklere rağmen favori olması nedeniyle Bayern Münih'in kazanması yüksek olasılık.",
             "gerekce_ceviri": {
-              "en": "Bayern's superiority in the league, together with Hamburger SV's poor form and significant absences, increases Bayern's probability of winning.",
-              "es": "La superioridad del Bayern en la liga, junto con la mala forma del Hamburger SV y sus importantes bajas, aumenta la probabilidad de victoria del Bayern.",
-              "de": "Bayerns Überlegenheit in der Liga sowie die schwache Form und die wichtigen Ausfälle beim Hamburger SV erhöhen die Wahrscheinlichkeit eines Sieges für Bayern.",
-              "fr": "La supériorité du Bayern en championnat, ainsi que la mauvaise forme du Hambourg SV et ses absences importantes, augmentent la probabilité de victoire du Bayern.",
-              "it": "Il dominio del Bayern in campionato, unito alla forma debole dell'Hamburger SV e alle importanti assenze, aumenta la probabilità di vittoria del Bayern.",
-              "pt": "A vantagem do Bayern na liga, a forma fraca do Hamburger SV e as ausências importantes aumentam a probabilidade de vitória do Bayern."
+              "en": "Bayern Munich's position in the league, their higher expected goal output compared with their opponent, and their status as favourites despite the injury absences in the latest reports make a Bayern Munich win a high-probability outcome.",
+              "es": "La posición del Bayern Múnich en la liga, su mayor expectativa de goles frente a su rival y el hecho de ser el favorito, a pesar de las bajas en la información más reciente, hacen que la victoria del Bayern Múnich tenga una alta probabilidad.",
+              "de": "Die Position von Bayern München in der Liga, die im Vergleich zum Gegner höhere erwartete Torzahl und die Tatsache, dass Bayern trotz der aktuellen Lücken in der Analyse der Favorit ist, machen einen Sieg von Bayern München sehr wahrscheinlich.",
+              "fr": "La position de Bayern Munich en championnat, son attente de buts supérieure à celle de son adversaire et son statut de favori, malgré les absences signalées dans les dernières informations, font de la victoire du Bayern une probabilité élevée.",
+              "it": "La posizione del Bayern Monaco in campionato, la maggiore attesa di gol rispetto all'avversario e il fatto di essere il favorito, nonostante le assenze emerse dalle ultime verifiche, rendono molto probabile la vittoria del Bayern Monaco.",
+              "pt": "A posição do Bayern de Munique na liga, a maior expectativa de gols em relação ao seu adversário e o fato de ser o favorito, apesar das lacunas no levantamento atual, tornam a vitória do Bayern de Munique uma possibilidade de alta probabilidade."
             },
             "skor": null,
             "tuttu": null
@@ -7354,14 +7353,14 @@
             "baslama_utc": "2026-11-28T17:30:00Z",
             "kod": "1X",
             "olasilik": 0.7548,
-            "gerekce": "Stuttgart'ın ev sahibi avantajı, Frankfurt'un deplasmanlardaki zorlanması ve iki takımın da gol atma potansiyeli bu seçeneği güçlendiriyor.",
+            "gerekce": "Stuttgart'ın ev sahibi avantajı, rakibine göre daha iyi form durumu ve güncel araştırmadaki eksiklerin azlığı göz önüne alındığında Stuttgart'ın kaybetmemesi yüksek olasılık.",
             "gerekce_ceviri": {
-              "en": "Stuttgart's home advantage, Frankfurt's difficulties on the road, and the goal-scoring potential of both teams strengthen this option.",
-              "es": "La ventaja de jugar en casa del Stuttgart, la dificultad del Frankfurt para jugar como visitante y el potencial goleador de ambos equipos refuerzan esta opción.",
-              "de": "Stuttgarts Heimvorteil, Frankfurts Schwierigkeiten auswärts und das Torpotenzial beider Mannschaften stärken diese Option.",
-              "fr": "L'avantage à domicile de Stuttgart, la difficulté de Francfort en déplacement et le potentiel offensif des deux équipes renforcent cette option.",
-              "it": "Il vantaggio casalingo dello Stoccarda, le difficoltà del Francoforte in trasferta e il potenziale offensivo di entrambe le squadre rafforzano questa previsione.",
-              "pt": "A vantagem de jogar em casa do Stuttgart, a dificuldade do Frankfurt fora de casa e o potencial de gols dos dois times fortalecem esta probabilidade."
+              "en": "Stuttgart's home advantage, their better recent form compared with their opponent, and the fewer absences in the latest team news make it highly probable that Stuttgart will not lose.",
+              "es": "La ventaja de jugar en casa del Stuttgart y su mejor estado de forma frente a su rival, junto con la escasez de bajas en la plantilla según la información más reciente, hacen que sea muy probable que el Stuttgart no pierda.",
+              "de": "Stuttgarts Heimvorteil, seine im Vergleich zum Gegner bessere Form und die geringe Zahl an Ausfällen in der aktuellen Analyse lassen darauf schließen, dass Stuttgart mit hoher Wahrscheinlichkeit nicht verlieren wird.",
+              "fr": "L'avantage de jouer à domicile du Stuttgart, sa meilleure forme par rapport à son adversaire et le faible nombre d'absences dans l'effectif actuel font que la probabilité que le Stuttgart ne perde pas est élevée.",
+              "it": "Il vantaggio di giocare in casa dello Stuttgart, la sua migliore forma rispetto all'avversario e il minor numero di assenze nelle ultime informazioni rendono molto probabile che lo Stuttgart non perda.",
+              "pt": "A vantagem de jogar em casa do Stuttgart, sua melhor forma em relação ao adversário e a pequena quantidade de desfalques no levantamento mais recente tornam muito provável que o Stuttgart não saia derrotado."
             },
             "skor": null,
             "tuttu": null
@@ -7374,14 +7373,14 @@
             "baslama_utc": "2026-11-28T20:00:00Z",
             "kod": "ust",
             "olasilik": 0.727,
-            "gerekce": "Real Madrid'in yüksek gol ortalaması, Alavés'in savunma zaafları ve iki takımın da gol bulma eğilimi 3+ gol olasılığını yükseltiyor.",
+            "gerekce": "Real Madrid'in yüksek gol beklentisi, son maçlardaki bol gollü skorları ve rakibin deplasmanlardaki zayıflığı dikkate alındığında 3 veya daha fazla gol olması yüksek olasılık.",
             "gerekce_ceviri": {
-              "en": "Real Madrid's high goal average, Alavés's defensive weaknesses, and the tendency of both teams to find the net raise the probability of 3 or more goals.",
-              "es": "El alto promedio de goles del Real Madrid, las debilidades defensivas del Alavés y la tendencia de ambos equipos a marcar elevan la probabilidad de 3 o más goles.",
-              "de": "Die hohe Torquote von Real Madrid, die Abwehrschwächen von Alavés und die Tendenz beider Teams, Tore zu erzielen, erhöhen die Wahrscheinlichkeit für 3 oder mehr Tore.",
-              "fr": "Le fort ratio de buts marqués par le Real Madrid, les faiblesses défensives de l'Alavés et la tendance des deux équipes à marquer augmentent la probabilité de 3 buts ou plus.",
-              "it": "La elevata media gol del Real Madrid, le debolezze difensive dell'Alavés e la tendenza di entrambe le squadre a segnare aumentano la probabilità di 3 o più gol.",
-              "pt": "O alto índice de gols do Real Madrid, as fragilidades defensivas do Alavés e a tendência das duas equipes de balançar as redes elevam a probabilidade de 3 ou mais gols."
+              "en": "Real Madrid's high expected goals, given their recent high-scoring matches and the opponent's weakness on the road, makes 3 or more goals a highly likely outcome.",
+              "es": "El alto promedio de goles esperado para Real Madrid, teniendo en cuenta sus marcadores con muchos goles en los últimos partidos y la debilidad del rival como visitante, hace que la probabilidad de que se marquen 3 o más goles sea alta.",
+              "de": "Real Madrids hohe Torerwartung spricht dafür, dass es 3 oder mehr Tore geben wird. Dabei sind die torreichen Ergebnisse der letzten Spiele und die Schwäche des Gegners auf fremdem Platz berücksichtigt, was eine hohe Wahrscheinlichkeit ergibt.",
+              "fr": "Le fort potentiel offensif du Real Madrid, les nombreux matchs riches en buts récemment et la faiblesse de l'adversaire à l'extérieur laissent penser qu'il y a une forte probabilité de 3 buts ou plus.",
+              "it": "Il alto numero di gol attesi per il Real Madrid, considerando i punteggi ricchi di reti nelle partite recenti e la debolezza dell'avversario in trasferta, rende molto probabile che si segnino 3 o più gol.",
+              "pt": "Real Madrid tem alta expectativa de gols, e, considerando os placares com muitos gols em jogos recentes e a fraqueza do adversário fora de casa, a probabilidade de saírem 3 ou mais gols é alta."
             },
             "skor": null,
             "tuttu": null
@@ -7394,14 +7393,14 @@
             "ev_sahibi": "Ipswich Town",
             "deplasman": "Aston Villa",
             "baslama_utc": "2026-11-28T17:30:00Z",
-            "neden": "Aston Villa'nın önemli eksikleri ve Ipswich'in küme hattındaki motivasyonu, X2 seçeneğini riskli hale getiriyor.",
+            "neden": "Her iki takımın da son maçlardaki kötü formu ve Aston Villa'nın yorgunluğu nedeniyle yüksek olasılıklı seçenekler elendi.",
             "neden_ceviri": {
-              "en": "Aston Villa's key absences and Ipswich's motivation in the relegation zone make the X2 option risky.",
-              "es": "Las importantes bajas del Aston Villa y la motivación de Ipswich en la zona de descenso hacen que la opción X2 sea arriesgada.",
-              "de": "Die wichtigen Ausfälle bei Aston Villa und die Motivation von Ipswich in der Abwehrreihe machen die Option X2 riskant.",
-              "fr": "Les absences importantes chez Aston Villa et la motivation de Ipswich dans la zone de relégation rendent l'option X2 risquée.",
-              "it": "Le importanti assenze dell'Aston Villa e la motivazione dell'Ipswich in zona retrocessione rendono l'opzione X2 una scelta rischiosa.",
-              "pt": "O Aston Villa está sem jogadores importantes e a motivação do Ipswich no meio-campo torna a opção X2 arriscada."
+              "en": "Due to the poor recent form of both teams and Aston Villa's fatigue, the high-probability options were ruled out.",
+              "es": "Debido a la mala forma reciente de ambos equipos y al cansancio del Aston Villa, se descartaron las opciones de alta probabilidad.",
+              "de": "Aufgrund der schwachen Form beider Mannschaften in den letzten Spielen und der Müdigkeit bei Aston Villa wurden die Optionen mit hoher Wahrscheinlichkeit ausgeschlossen.",
+              "fr": "Les options à forte probabilité ont été écartées en raison de la mauvaise forme récente des deux équipes et de la fatigue d'Aston Villa.",
+              "it": "A causa della cattiva forma recente di entrambe le squadre e della stanchezza dell'Aston Villa, le opzioni con probabilità elevata sono state escluse.",
+              "pt": "Devido à má forma recente das duas equipes e ao cansaço do Aston Villa, as opções de alta probabilidade foram descartadas."
             }
           },
           {
@@ -7410,14 +7409,14 @@
             "ev_sahibi": "Manchester United",
             "deplasman": "Brentford",
             "baslama_utc": "2026-11-28T15:00:00Z",
-            "neden": "Manchester United'ın kötü formu, kilit oyuncu eksiklikleri ve Brentford'un deplasmanlardaki zayıflığı 1X seçeneğini belirsizleştiriyor.",
+            "neden": "Manchester United'ın ligdeki kötü durumu, kilit oyuncu eksiklikleri ve Brentford'un formda olması nedeniyle yüksek olasılıklı seçenekler elendi.",
             "neden_ceviri": {
-              "en": "Manchester United's poor form, key player absences, and Brentford's weakness away from home make the 1X option uncertain.",
-              "es": "Manchester United, la mala racha de forma, las bajas de jugadores clave y la debilidad de Brentford como visitante hacen que la opción 1X resulte incierta.",
-              "de": "Manchester Uniteds schwache Form, wichtige Ausfälle von Schlüsselspielern und die Schwäche von Brentford auf fremden Plätzen machen die Option 1X unsicher.",
-              "fr": "La mauvaise forme de Manchester United, ses absences de joueurs clés et la faiblesse de Brentford à l'extérieur rendent l'option 1X incertaine.",
-              "it": "La cattiva forma del Manchester United, le assenze di giocatori chiave e la debolezza del Brentford in trasferta rendono incerta l'opzione 1X.",
-              "pt": "O mau momento do Manchester United, as ausências de jogadores-chave e a fraqueza do Brentford jogando fora de casa tornam a opção 1X incerta."
+              "en": "Manchester United's poor league form, key player absences, and Brentford's good form led us to rule out the high-probability options.",
+              "es": "El estado del Manchester United en la liga, sus importantes bajas de jugadores clave y la buena forma del Brentford han hecho que se descarten las opciones de alta probabilidad.",
+              "de": "Manchester Uniteds schwache Ligaform, wichtige Ausfälle bei Schlüsselspielern und die gute Form von Brentford haben dazu geführt, dass Optionen mit hoher Wahrscheinlichkeit ausgeschlossen wurden.",
+              "fr": "En raison de la mauvaise passe de Manchester United en championnat, de ses absences de joueurs clés et de la bonne forme de Brentford, les options à forte probabilité ont été écartées.",
+              "it": "Lo stato difficile del Manchester United in campionato, le assenze di giocatori chiave e la buona forma del Brentford hanno portato a escludere le opzioni con alta probabilità.",
+              "pt": "A situação ruim do Manchester United na liga, as ausências de jogadores-chave e a boa fase do Brentford fizeram com que as opções de alta probabilidade fossem descartadas."
             }
           },
           {
@@ -7426,14 +7425,14 @@
             "ev_sahibi": "Elche CF",
             "deplasman": "Atlético Madrid",
             "baslama_utc": "2026-11-28T17:30:00Z",
-            "neden": "Atlético Madrid'in rotasyon ihtimali ve Elche'nin evindeki direnci, 2 seçeneğinin olasılığını düşürüyor.",
+            "neden": "Atlético Madrid'in yorgunluğu ve Elche'nin motivasyonu göz önüne alındığında yüksek olasılıklı seçenekler elendi.",
             "neden_ceviri": {
-              "en": "Atlético Madrid's likelihood of rotating its squad and Elche's resilience at home reduce the probability of two of the options.",
-              "es": "El potencial de rotación del Atlético de Madrid y la resistencia del Elche en casa reducen la probabilidad de dos de sus opciones.",
-              "de": "Die Wahrscheinlichkeit von Rotationen bei Atlético Madrid und der Widerstand von Elche auf eigenem Platz verringern die Wahrscheinlichkeit von 2 seiner Möglichkeiten.",
-              "fr": "La probabilité d'une rotation de l'effectif de l'Atlético Madrid et la résistance d'Elche à domicile réduisent la probabilité de ses 2 options.",
-              "it": "Il rischio di turnover dell'Atlético Madrid e la tenuta dell'Elche in casa riducono la probabilità di due delle sue opzioni.",
-              "pt": "O risco de rotação do Atlético Madrid e a resistência do Elche em casa reduzem a probabilidade de 2 dos seus cenários."
+              "en": "Given Atlético Madrid's fatigue and Elche's motivation, the high-probability options were ruled out.",
+              "es": "Dado el cansancio del Atlético de Madrid y la motivación del Elche, se descartaron las opciones de alta probabilidad.",
+              "de": "Angesichts der Müdigkeit von Atlético Madrid und der Motivation von Elche wurden Optionen mit hoher Wahrscheinlichkeit ausgeschlossen.",
+              "fr": "L'épuisement d'Atlético Madrid et la motivation d'Elche étant pris en compte, les options à forte probabilité ont été écartées.",
+              "it": "A causa della stanchezza dell'Atlético Madrid e della motivazione dell'Elche, le opzioni con alta probabilità sono state scartate.",
+              "pt": "Considerando o cansaço do Atlético de Madrid e a motivação do Elche, as opções de alta probabilidade foram descartadas."
             }
           }
         ],
