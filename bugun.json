@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T20:30:46Z",
+  "guncelleme_utc": "2026-11-27T21:30:46Z",
   "mac_sayisi": 45,
   "maclar": [
     {
@@ -9480,123 +9480,6 @@
   "analiz_uclu": {
     "gunler": [
       {
-        "tarih": "2026-11-27",
-        "secimler": [
-          {
-            "mac_id": "e9a663f13e7503c0ac20a54804338b60",
-            "lig": "soccer_italy_serie_a",
-            "ev_sahibi": "Venezia",
-            "deplasman": "Bologna",
-            "baslama_utc": "2026-11-27T19:45:00Z",
-            "kod": "X2",
-            "olasilik": 0.7214,
-            "gerekce": "Bologna'nın son 5 maçta 4 galibiyet ve 1 beraberliği var. Venezia ise küme düşme hattında ve son maçında 4-0 yenildi.",
-            "gerekce_ceviri": {
-              "en": "Bologna has won 4 and drawn 1 of its last 5 matches. Venezia, on the other hand, is in the relegation zone and lost 4-0 in its last match.",
-              "es": "Bolonia ha ganado 4 de sus últimos 5 partidos y ha empatado 1. El Venezia, por su parte, está en la zona de descenso y perdió 4-0 en su último partido.",
-              "de": "Bologna hat in den letzten 5 Spielen 4 Siege und 1 Unentschieden erzielt. Venezia dagegen steckt im Abstiegskampf und verlor sein letztes Spiel mit 0:4.",
-              "fr": "Bologna a remporté 4 victoires et fait 1 match nul lors de ses 5 derniers matchs. Venezia, quant à lui, se situe dans la zone de relégation et a subi une défaite 4-0 lors de son dernier match.",
-              "it": "Il Bologna ha vinto 4 delle ultime 5 partite e ne ha pareggiata 1. La Venezia, invece, si trova nella zona retrocessione e nell'ultima partita è stata sconfitta per 4-0.",
-              "pt": "Bologna tem 4 vitórias e 1 empate nos últimos 5 jogos. Já o Venezia está na zona de rebaixamento e perdeu por 4 a 0 em sua última partida."
-            },
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "02ff879cf54f6d1fec2664efee0431db",
-            "lig": "soccer_france_ligue_one",
-            "ev_sahibi": "Brest",
-            "deplasman": "Paris FC",
-            "baslama_utc": "2026-11-27T19:45:00Z",
-            "kod": "X2",
-            "olasilik": 0.706,
-            "gerekce": "Paris FC ligde 2. sırada ve şampiyonluk yarışında. Brest ise 6. sırada ve rakibine göre daha az motivasyonlu görünüyor.",
-            "gerekce_ceviri": {
-              "en": "Paris FC is in 2nd place in the league and in the title race. Brest, on the other hand, is in 6th place and appears less motivated than its opponent.",
-              "es": "Paris FC está en el 2.º puesto de la liga y en la lucha por el título. El Brest, en cambio, ocupa el 6.º lugar y parece menos motivado que su rival.",
-              "de": "Paris FC liegt in der Liga auf Platz 2 und ist im Meisterschaftsrennen dabei. Brest hingegen steht auf Platz 6 und wirkt im Vergleich zum Gegner weniger motiviert.",
-              "it": "Il Paris FC è al 2° posto in campionato e in corsa per il titolo. Il Brest, invece, è al 6° posto e appare meno motivato rispetto al suo avversario.",
-              "pt": "Paris FC está em 2º lugar na liga e na disputa pelo título. Já o Brest ocupa a 6ª posição e parece menos motivado do que o adversário.",
-              "fr": "Paris FC est 2e du championnat et en lice pour le titre. Brest, lui, occupe la 6e place et semble moins motivé que son adversaire."
-            },
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "80c92a163a81b69fef76530221e2edd0",
-            "lig": "soccer_spain_la_liga",
-            "ev_sahibi": "Levante",
-            "deplasman": "Real Racing Club de Santander",
-            "baslama_utc": "2026-11-27T20:00:00Z",
-            "kod": "kg_var",
-            "olasilik": 0.65,
-            "gerekce": "Levante'nin evinde gol atma potansiyeli var. Racing Santander ise formda ve gol bulma eğiliminde.",
-            "gerekce_ceviri": {
-              "en": "Levante has the potential to score at home. Racing Santander, meanwhile, are in form and have a tendency to find the back of the net.",
-              "es": "El Levante tiene potencial para marcar goles en su casa. Racing Santander, por su parte, está en forma y tiende a encontrar la red.",
-              "de": "Levante hat im eigenen Stadion Torpotential. Racing Santander ist derzeit in Form und neigt dazu, Tore zu erzielen.",
-              "fr": "Levante a un potentiel offensif à domicile. Racing Santander, de son côté, est en forme et a tendance à trouver le chemin des filets.",
-              "it": "Il Levante ha un potenziale offensivo in casa. Il Racing Santander, invece, è in forma e tende a trovare il gol.",
-              "pt": "O Levante tem potencial para marcar gols em casa. Já o Racing Santander está em boa forma e tem tendência a balançar as redes."
-            },
-            "skor": null,
-            "tuttu": null
-          }
-        ],
-        "elenenler": [
-          {
-            "mac_id": "b50ce64bf9ca7a1a03eb6b9d534e93ce",
-            "lig": "soccer_turkey_super_league",
-            "ev_sahibi": "Çaykur Rizespor",
-            "deplasman": "Kasimpasa SK",
-            "baslama_utc": "2026-11-27T17:00:00Z",
-            "neden": "Her iki takımda da önemli sakatlıklar ve şüpheli oyuncular var. Bu durum belirsizliği artırıyor.",
-            "neden_ceviri": {
-              "en": "Both teams have significant injuries and doubtful players. This situation increases the uncertainty.",
-              "es": "Ambos equipos tienen lesiones importantes y jugadores en duda. Esta situación aumenta la incertidumbre.",
-              "de": "Bei beiden Mannschaften gibt es wichtige Verletzungen und fragliche Spieler. Diese Situation erhöht die Unsicherheit.",
-              "fr": "Les deux équipes comptent des blessures importantes ainsi que des joueurs incertains. Cette situation accroît l'incertitude.",
-              "it": "Entrambe le squadre hanno infortuni importanti e giocatori in dubbio. Questa situazione aumenta l'incertezza.",
-              "pt": "Ambos os times têm lesões importantes e jogadores em dúvida. Essa situação aumenta a incerteza."
-            }
-          },
-          {
-            "mac_id": "40d95e660c301c2d8a5a7a6317017b65",
-            "lig": "soccer_epl",
-            "ev_sahibi": "Nottingham Forest",
-            "deplasman": "Chelsea",
-            "baslama_utc": "2026-11-27T20:00:00Z",
-            "neden": "Chelsea'nin önemli eksikleri ve son iki maçını kaybetmiş olması, Nottingham Forest'ın evinde direnebileceği ihtimalini güçlendiriyor.",
-            "neden_ceviri": {
-              "en": "Chelsea's key absences and their two consecutive defeats strengthen the possibility that Nottingham Forest can put up a fight at home.",
-              "es": "Las importantes bajas de Chelsea y el hecho de haber perdido sus dos últimos partidos refuerzan la probabilidad de que Nottingham Forest pueda resistir en su campo.",
-              "de": "Die wichtigen Ausfälle bei Chelsea und die zwei verlorenen letzten Spiele stärken die Wahrscheinlichkeit, dass Nottingham Forest auf eigenem Platz Widerstand leisten kann.",
-              "fr": "Les absences importantes de Chelsea et le fait qu'elle ait perdu ses deux derniers matchs renforcent la probabilité que Nottingham Forest puisse résister à domicile.",
-              "it": "Le importanti assenze del Chelsea e le ultime due partite perse aumentano la probabilità che il Nottingham Forest possa resistere in casa.",
-              "pt": "Os importantes desfalques do Chelsea e o fato de ter perdido seus dois últimos jogos fortalecem a probabilidade de o Nottingham Forest conseguir resistir em casa."
-            }
-          },
-          {
-            "mac_id": "698f4a7967ead89e10205a68ceb4bda4",
-            "lig": "soccer_germany_bundesliga",
-            "ev_sahibi": "Werder Bremen",
-            "deplasman": "Borussia Monchengladbach",
-            "baslama_utc": "2026-11-27T19:30:00Z",
-            "neden": "Werder Bremen'in evinde yenilmezlik serisi ve Borussia Mönchengladbach'ın ligdeki kötü durumu göz önüne alındığında, bu maçta sürpriz olasılığı yüksek.",
-            "neden_ceviri": {
-              "en": "Given Werder Bremen's unbeaten run at home and Borussia Mönchengladbach's poor form in the league, the probability of a surprise in this match is high.",
-              "es": "Dada la racha invicta de Werder Bremen en casa y la mala situación de Borussia Mönchengladbach en la liga, en este partido la probabilidad de una sorpresa es alta.",
-              "de": "Angesichts der Heimserie von Werder Bremen, die bisher ungeschlagen ist, und der schwachen Ligaform von Borussia Mönchengladbach ist in diesem Spiel die Wahrscheinlichkeit einer Überraschung hoch.",
-              "fr": "Compte tenu de la série d'invincibilité de Werder Brême à domicile et de la mauvaise passe de Borussia Mönchengladbach en championnat, la probabilité d'une surprise dans ce match est élevée.",
-              "it": "Data la serie di imbattibilità casalinga del Werder Brema e la difficile situazione del Borussia Mönchengladbach in campionato, in questa partita la probabilità di una sorpresa è elevata.",
-              "pt": "Considerando a sequência de invencibilidade do Werder Bremen em casa e a má fase do Borussia Mönchengladbach no campeonato, a probabilidade de surpresa nesta partida é alta."
-            }
-          }
-        ],
-        "tutan": 0,
-        "sonuclanan": 0
-      },
-      {
         "tarih": "2026-11-28",
         "secimler": [
           {
@@ -9714,7 +9597,123 @@
         "sonuclanan": 0
       }
     ],
-    "dun": null,
+    "dun": {
+      "tarih": "2026-11-27",
+      "secimler": [
+        {
+          "mac_id": "e9a663f13e7503c0ac20a54804338b60",
+          "lig": "soccer_italy_serie_a",
+          "ev_sahibi": "Venezia",
+          "deplasman": "Bologna",
+          "baslama_utc": "2026-11-27T19:45:00Z",
+          "kod": "X2",
+          "olasilik": 0.7214,
+          "gerekce": "Bologna'nın son 5 maçta 4 galibiyet ve 1 beraberliği var. Venezia ise küme düşme hattında ve son maçında 4-0 yenildi.",
+          "gerekce_ceviri": {
+            "en": "Bologna has won 4 and drawn 1 of its last 5 matches. Venezia, on the other hand, is in the relegation zone and lost 4-0 in its last match.",
+            "es": "Bolonia ha ganado 4 de sus últimos 5 partidos y ha empatado 1. El Venezia, por su parte, está en la zona de descenso y perdió 4-0 en su último partido.",
+            "de": "Bologna hat in den letzten 5 Spielen 4 Siege und 1 Unentschieden erzielt. Venezia dagegen steckt im Abstiegskampf und verlor sein letztes Spiel mit 0:4.",
+            "fr": "Bologna a remporté 4 victoires et fait 1 match nul lors de ses 5 derniers matchs. Venezia, quant à lui, se situe dans la zone de relégation et a subi une défaite 4-0 lors de son dernier match.",
+            "it": "Il Bologna ha vinto 4 delle ultime 5 partite e ne ha pareggiata 1. La Venezia, invece, si trova nella zona retrocessione e nell'ultima partita è stata sconfitta per 4-0.",
+            "pt": "Bologna tem 4 vitórias e 1 empate nos últimos 5 jogos. Já o Venezia está na zona de rebaixamento e perdeu por 4 a 0 em sua última partida."
+          },
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "02ff879cf54f6d1fec2664efee0431db",
+          "lig": "soccer_france_ligue_one",
+          "ev_sahibi": "Brest",
+          "deplasman": "Paris FC",
+          "baslama_utc": "2026-11-27T19:45:00Z",
+          "kod": "X2",
+          "olasilik": 0.706,
+          "gerekce": "Paris FC ligde 2. sırada ve şampiyonluk yarışında. Brest ise 6. sırada ve rakibine göre daha az motivasyonlu görünüyor.",
+          "gerekce_ceviri": {
+            "en": "Paris FC is in 2nd place in the league and in the title race. Brest, on the other hand, is in 6th place and appears less motivated than its opponent.",
+            "es": "Paris FC está en el 2.º puesto de la liga y en la lucha por el título. El Brest, en cambio, ocupa el 6.º lugar y parece menos motivado que su rival.",
+            "de": "Paris FC liegt in der Liga auf Platz 2 und ist im Meisterschaftsrennen dabei. Brest hingegen steht auf Platz 6 und wirkt im Vergleich zum Gegner weniger motiviert.",
+            "it": "Il Paris FC è al 2° posto in campionato e in corsa per il titolo. Il Brest, invece, è al 6° posto e appare meno motivato rispetto al suo avversario.",
+            "pt": "Paris FC está em 2º lugar na liga e na disputa pelo título. Já o Brest ocupa a 6ª posição e parece menos motivado do que o adversário.",
+            "fr": "Paris FC est 2e du championnat et en lice pour le titre. Brest, lui, occupe la 6e place et semble moins motivé que son adversaire."
+          },
+          "skor": null,
+          "tuttu": null
+        },
+        {
+          "mac_id": "80c92a163a81b69fef76530221e2edd0",
+          "lig": "soccer_spain_la_liga",
+          "ev_sahibi": "Levante",
+          "deplasman": "Real Racing Club de Santander",
+          "baslama_utc": "2026-11-27T20:00:00Z",
+          "kod": "kg_var",
+          "olasilik": 0.65,
+          "gerekce": "Levante'nin evinde gol atma potansiyeli var. Racing Santander ise formda ve gol bulma eğiliminde.",
+          "gerekce_ceviri": {
+            "en": "Levante has the potential to score at home. Racing Santander, meanwhile, are in form and have a tendency to find the back of the net.",
+            "es": "El Levante tiene potencial para marcar goles en su casa. Racing Santander, por su parte, está en forma y tiende a encontrar la red.",
+            "de": "Levante hat im eigenen Stadion Torpotential. Racing Santander ist derzeit in Form und neigt dazu, Tore zu erzielen.",
+            "fr": "Levante a un potentiel offensif à domicile. Racing Santander, de son côté, est en forme et a tendance à trouver le chemin des filets.",
+            "it": "Il Levante ha un potenziale offensivo in casa. Il Racing Santander, invece, è in forma e tende a trovare il gol.",
+            "pt": "O Levante tem potencial para marcar gols em casa. Já o Racing Santander está em boa forma e tem tendência a balançar as redes."
+          },
+          "skor": null,
+          "tuttu": null
+        }
+      ],
+      "elenenler": [
+        {
+          "mac_id": "b50ce64bf9ca7a1a03eb6b9d534e93ce",
+          "lig": "soccer_turkey_super_league",
+          "ev_sahibi": "Çaykur Rizespor",
+          "deplasman": "Kasimpasa SK",
+          "baslama_utc": "2026-11-27T17:00:00Z",
+          "neden": "Her iki takımda da önemli sakatlıklar ve şüpheli oyuncular var. Bu durum belirsizliği artırıyor.",
+          "neden_ceviri": {
+            "en": "Both teams have significant injuries and doubtful players. This situation increases the uncertainty.",
+            "es": "Ambos equipos tienen lesiones importantes y jugadores en duda. Esta situación aumenta la incertidumbre.",
+            "de": "Bei beiden Mannschaften gibt es wichtige Verletzungen und fragliche Spieler. Diese Situation erhöht die Unsicherheit.",
+            "fr": "Les deux équipes comptent des blessures importantes ainsi que des joueurs incertains. Cette situation accroît l'incertitude.",
+            "it": "Entrambe le squadre hanno infortuni importanti e giocatori in dubbio. Questa situazione aumenta l'incertezza.",
+            "pt": "Ambos os times têm lesões importantes e jogadores em dúvida. Essa situação aumenta a incerteza."
+          }
+        },
+        {
+          "mac_id": "40d95e660c301c2d8a5a7a6317017b65",
+          "lig": "soccer_epl",
+          "ev_sahibi": "Nottingham Forest",
+          "deplasman": "Chelsea",
+          "baslama_utc": "2026-11-27T20:00:00Z",
+          "neden": "Chelsea'nin önemli eksikleri ve son iki maçını kaybetmiş olması, Nottingham Forest'ın evinde direnebileceği ihtimalini güçlendiriyor.",
+          "neden_ceviri": {
+            "en": "Chelsea's key absences and their two consecutive defeats strengthen the possibility that Nottingham Forest can put up a fight at home.",
+            "es": "Las importantes bajas de Chelsea y el hecho de haber perdido sus dos últimos partidos refuerzan la probabilidad de que Nottingham Forest pueda resistir en su campo.",
+            "de": "Die wichtigen Ausfälle bei Chelsea und die zwei verlorenen letzten Spiele stärken die Wahrscheinlichkeit, dass Nottingham Forest auf eigenem Platz Widerstand leisten kann.",
+            "fr": "Les absences importantes de Chelsea et le fait qu'elle ait perdu ses deux derniers matchs renforcent la probabilité que Nottingham Forest puisse résister à domicile.",
+            "it": "Le importanti assenze del Chelsea e le ultime due partite perse aumentano la probabilità che il Nottingham Forest possa resistere in casa.",
+            "pt": "Os importantes desfalques do Chelsea e o fato de ter perdido seus dois últimos jogos fortalecem a probabilidade de o Nottingham Forest conseguir resistir em casa."
+          }
+        },
+        {
+          "mac_id": "698f4a7967ead89e10205a68ceb4bda4",
+          "lig": "soccer_germany_bundesliga",
+          "ev_sahibi": "Werder Bremen",
+          "deplasman": "Borussia Monchengladbach",
+          "baslama_utc": "2026-11-27T19:30:00Z",
+          "neden": "Werder Bremen'in evinde yenilmezlik serisi ve Borussia Mönchengladbach'ın ligdeki kötü durumu göz önüne alındığında, bu maçta sürpriz olasılığı yüksek.",
+          "neden_ceviri": {
+            "en": "Given Werder Bremen's unbeaten run at home and Borussia Mönchengladbach's poor form in the league, the probability of a surprise in this match is high.",
+            "es": "Dada la racha invicta de Werder Bremen en casa y la mala situación de Borussia Mönchengladbach en la liga, en este partido la probabilidad de una sorpresa es alta.",
+            "de": "Angesichts der Heimserie von Werder Bremen, die bisher ungeschlagen ist, und der schwachen Ligaform von Borussia Mönchengladbach ist in diesem Spiel die Wahrscheinlichkeit einer Überraschung hoch.",
+            "fr": "Compte tenu de la série d'invincibilité de Werder Brême à domicile et de la mauvaise passe de Borussia Mönchengladbach en championnat, la probabilité d'une surprise dans ce match est élevée.",
+            "it": "Data la serie di imbattibilità casalinga del Werder Brema e la difficile situazione del Borussia Mönchengladbach in campionato, in questa partita la probabilità di una sorpresa è elevata.",
+            "pt": "Considerando a sequência de invencibilidade do Werder Bremen em casa e a má fase do Borussia Mönchengladbach no campeonato, a probabilidade de surpresa nesta partida é alta."
+          }
+        }
+      ],
+      "tutan": 0,
+      "sonuclanan": 0
+    },
     "genel": {
       "gun": 0,
       "tam_isabet_gun": 0,
