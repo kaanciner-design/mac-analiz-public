@@ -1,7 +1,44 @@
 {
-  "guncelleme_utc": "2026-11-27T17:30:43Z",
-  "mac_sayisi": 482,
+  "guncelleme_utc": "2026-11-27T19:30:45Z",
+  "mac_sayisi": 483,
   "maclar": [
+    {
+      "mac_id": "698f4a7967ead89e10205a68ceb4bda4",
+      "lig": "soccer_germany_bundesliga",
+      "ev_sahibi": "Werder Bremen",
+      "deplasman": "Borussia Monchengladbach",
+      "baslama_utc": "2026-11-27T19:30:00Z",
+      "olasiliklar": {
+        "1": 0.5509,
+        "X": 0.2261,
+        "2": 0.223
+      },
+      "tahmin": "1",
+      "guven": 0.3248,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6376,
+          "alt": 0.3624
+        },
+        "tahmin": "ust",
+        "guven": 0.2752,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Werder Bremen, ev sahibi avantajıyla net bir favori: %55 galibiyet olasılığına karşılık Borussia Mönchengladbach'ın %22'si var. Toplam gol tarafında 3 ve üzeri gol %64 ile öne çıkıyor; Bremen'in son 5 maçta 11 gol atıp 5 gol yemesi ve Gladbach'ın 8 gol yemesi, gollü bir senaryoyu destekliyor. Bundesliga ortalamasının (%45 ev sahibi galibiyeti, %67 üç ve üzeri gol) ve geçmiş tahminlerimizin isabet oranının (%76) yüksek değerleri de bu tabloyla uyumlu. İkinci olası sonuç beraberlik (%23) olarak öne çıkıyor; Gladbach'ın kazanma ihtimali ise %22 ile yakın ama bu sonuç, Gladbach'ın son 5 maçta 1 galibiyet alması göz önüne alındığında daha az beklenen bir senaryo.",
+      "ai_metinler": {
+        "en": "Werder Bremen is a clear favourite with home advantage: a 55% probability of victory, compared with 22% for Borussia Mönchengladbach. On total goals, 3 or more goals stands out at 64%. Bremen scoring 11 goals and conceding 5 in their last 5 matches, and Gladbach conceding 8, supports a high-scoring scenario. The high values for the Bundesliga average (45% home wins, 67% for 3 or more goals) and our past prediction accuracy rate (76%) are also consistent with this picture. The second most likely outcome is a draw (23%); Gladbach's probability of winning, at 22%, is close, but this result is less expected given that Gladbach have won only 1 of their last 5 matches.",
+        "it": "Werder Bremen, ev sahibi avantajıyla net bir favori: 55% probabilità di vittoria, contro il 22% di probabilità per il Borussia Mönchengladbach. Per i gol totali, 3 o più gol emergono con il 64%; il fatto che il Bremen abbia segnato 11 gol e subito 5 nelle ultime 5 partite, e che il Gladbach abbia subito 8 gol, supporta uno scenario ricco di reti. I valori alti della media della Bundesliga (45% di vittorie interne, 67% per 3 o più gol) e il tasso di successo delle nostre precedenti previsioni (76%) sono anch'essi coerenti con questo quadro. Il secondo esito più probabile è il pareggio (23%); la probabilità di vittoria del Gladbach, pari al 22%, è vicina, ma considerando che il Gladbach ha ottenuto 1 sola vittoria nelle ultime 5 partite, questo esito è uno scenario meno atteso.",
+        "pt": "O Werder Bremen é claramente favorito, com a vantagem de jogar em casa: há 55% de probabilidade de vitória, contra 22% para o Borussia Mönchengladbach. Nos gols totais, 3 ou mais gols se destacam com 64%; o fato de o Bremen ter marcado 11 gols e sofrido 5 nos últimos 5 jogos, e o Gladbach ter sofrido 8 gols, sustenta um cenário com muitos gols. Os valores altos da média da Bundesliga (45% de vitória do mandante e 67% para 3 ou mais gols) e a taxa de acerto de nossas previsões anteriores (76%) também são compatíveis com esse quadro. O segundo resultado mais provável é o empate (23%); já a probabilidade de vitória do Gladbach, com 22%, está próxima, mas esse resultado é um cenário menos esperado, considerando que o Gladbach conquistou apenas 1 vitória nos últimos 5 jogos.",
+        "es": "Werder Bremen, jugar en casa, es un claro favorito: tiene un 55% de probabilidad de victoria frente al 22% de Borussia Mönchengladbach. En cuanto al total de goles, 3 goles o más destacan con un 64%; que Bremen haya marcado 11 goles y recibido 5 en sus últimos 5 partidos, y que Gladbach haya recibido 8 goles, respalda un escenario con muchos goles. Los valores altos de la media de la Bundesliga (45% de victorias locales, 67% de 3 goles o más) y la tasa de acierto de nuestras predicciones anteriores (76%) también son coherentes con este panorama. El segundo resultado más probable es el empate (23%); la probabilidad de victoria de Gladbach, con un 22%, está cerca, pero este resultado resulta menos esperado dado que Gladbach ha ganado solo 1 de sus últimos 5 partidos."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": true
+    },
     {
       "mac_id": "ffcd87d9e41dbce42bd91952669b2e47",
       "lig": "soccer_turkey_super_league",
@@ -34,11 +71,11 @@
         "it": "La partita vede l'Alanyaspor leggermente in vantaggio come squadra di casa, ma la differenza non è netta: la squadra di casa ha una probabilità del 44% di vincere, mentre per la squadra in trasferta la probabilità è del 33%. Sul fronte dei gol totali, è previsto che si segnino 3 o più gol con una probabilità del 47%, mentre per al massimo 2 gol la probabilità è leggermente superiore, al 53%. La difesa dell'Alanyaspor, che nelle ultime 5 partite ha subito 14 gol, e le nostre precedenti previsioni sulle partite con 3 o più gol, azzeccate nel 69% dei casi, fanno pensare più a una partita in cui i gol possono arrivare che a uno scenario controllato con pochi gol. Il pareggio, con il 29%, è il secondo esito più probabile; rispetto alla vittoria del Torku Konyaspor, questa probabilità emerge come un'alternativa equilibrata.",
         "pt": "O Alanyaspor parece levemente à frente como equipe da casa, mas a diferença não é marcante: o time da casa vence com probabilidade de 44%, e a equipe visitante tem 33%. No quesito total de gols, a expectativa de 3 ou mais gols tem probabilidade de 47%, enquanto a de no máximo 2 gols aparece um pouco mais alta, com 53%. A defesa do Alanyaspor, que sofreu 14 gols nos últimos 5 jogos, e o nosso histórico de acerto de 69% nas partidas com 3 ou mais gols fazem o confronto lembrar mais um jogo com gols do que um cenário controlado e de poucos gols. O empate, com 29%, é o segundo resultado mais provável; comparado à vitória do Torku Konyaspor, essa possibilidade se destaca como uma alternativa equilibrada."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-2",
+      "toplam_gol": 3,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -73,11 +110,11 @@
         "it": "Çaykur Rizespor, una probabilità del 50%, appare nettamente in vantaggio; poiché la probabilità di vittoria interna nel nostro archivio della Süper Lig è del 44%, questa differenza è degna di nota. Per quanto riguarda il totale gol, 3 o più gol rappresentano lo scenario più probabile, con il 56%; a sostegno di questo quadro ci sono gli 11 gol segnati dal Kasimpasa nelle ultime 5 partite e i 7 gol subiti dal Rizespor nelle ultime 5 partite. Tuttavia, il fatto che il Rizespor abbia subito 8 gol nelle ultime 3 partite casalinghe indica che la difesa di casa potrebbe trovarsi di fronte a una prova difficile in questo incontro. La probabilità di vittoria del Kasimpasa è del 25%, quindi non è una possibilità remota; anche la probabilità di pareggio è dello stesso livello.",
         "pt": "O Çaykur Rizespor aparece claramente à frente, com 50% de probabilidade de vitória; como a probabilidade histórica de vitória do mandante no nosso arquivo da Süper Lig é de 44%, essa diferença chama a atenção. No quesito total de gols, 3 gols ou mais é um cenário mais provável, com 56%, apoiado pelo fato de o Kasimpasa ter marcado 11 gols nos últimos 5 jogos e o Rizespor ter sofrido 7 gols nos últimos 5 jogos. No entanto, o Rizespor sofreu 8 gols nos últimos 3 jogos em casa, o que indica que a defesa da equipe da casa pode enfrentar um teste difícil nesta partida. A probabilidade de vitória do Kasimpasa é de 25%, o que não é baixa, e a probabilidade de empate está no mesmo nível."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -10750,38 +10787,6 @@
       "toplam_gol": 4,
       "tuttu": false,
       "alt_ust_tuttu": false,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "1ec76c009147b63859f68c6b5a1dd77b",
-      "lig": "soccer_epl",
-      "ev_sahibi": "Hull City",
-      "deplasman": "Ipswich Town",
-      "baslama_utc": "2026-10-31T15:00:00Z",
-      "olasiliklar": {
-        "1": 0.3626,
-        "X": 0.2833,
-        "2": 0.3541
-      },
-      "tahmin": "1",
-      "guven": 0.0085,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5144,
-          "alt": 0.4856
-        },
-        "tahmin": "ust",
-        "guven": 0.0288,
-        "kaynak_sayisi": 18
-      },
-      "ai_metin": "Hull City, %36 kazanma olasılığıyla evinde çok hafif favori olsa da, %35 ile Ipswich Town galibiyeti ve %28 beraberlik ihtimaliyle oldukça dengeli bir maç bizi bekliyor. Maçın gollü geçme olasılığı (%51) az farkla önde; bu da iki takımın da gol bulabileceği açık bir senaryoya işaret ediyor. Geçmiş tahminlerimiz bu güven seviyesinde düşük isabet oranına sahipken, 25 kaynağın sonuç konusunda alışılmadık ölçüde hemfikir olması dikkat çekici. Ipswich'in son maçlarında daha gollü sonuçlar alması, bu maçta da karşılıklı gollerin beklenebileceğini düşündürüyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "X",
-      "skor": "2-2",
-      "toplam_gol": 4,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
       "ucretsiz": false
     }
   ]
