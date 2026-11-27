@@ -1,927 +1,7 @@
 {
-  "guncelleme_utc": "2026-11-27T19:30:45Z",
-  "mac_sayisi": 46,
+  "guncelleme_utc": "2026-11-27T20:30:46Z",
+  "mac_sayisi": 45,
   "maclar": [
-    {
-      "mac_id": "e9a663f13e7503c0ac20a54804338b60",
-      "lig": "soccer_italy_serie_a",
-      "ev_sahibi": "Venezia",
-      "deplasman": "Bologna",
-      "baslama_utc": "2026-11-27T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.2787,
-        "X": 0.2858,
-        "2": 0.4356
-      },
-      "tahmin": "2",
-      "guven": 0.1498,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.475,
-          "alt": 0.525
-        },
-        "tahmin": "alt",
-        "guven": 0.05,
-        "kaynak_sayisi": 18
-      },
-      "ai_metin": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde önde: %44'e %28 ve Bologna'nın son 4 deplasman maçını kazanmış olması bu üstünlüğü destekliyor. Toplam golde ise çizgi çok ince; 3 veya daha fazla gol %48, en fazla 2 gol %52 ile neredeyse dengede, bu yüzden açık bir gollü senaryo beklemek için neden yok. Venezia'nın son 5 maçta 9 gol yemesi ve Bologna'nın son 5 maçta 3 gollü maçların üçünde yer alması, ortalama olan %56'ya kıyasla bu maç için daha temkinli bir tabloya işaret ediyor. En olası ikinci sonuç olan beraberlik %29 ile ciddi bir ihtimal; Venezia'nın iç sahada son 3 maçta 3 gol atıp 3 yemesi bu senaryoyu akla getiriyor.",
-      "ai_metinler": {
-        "en": "Bologna has a clear edge even though it's an away match at Venezia: 44% against 28%, and Bologna's win in its last 4 away matches supports that advantage. On total goals the line is very thin: 3 or more goals at 48% and at most 2 goals at 52% are nearly balanced, so there's no strong reason to expect an open, high-scoring game. Venezia conceding 9 goals in its last 5 matches and Bologna appearing in three of the 3-goal games in its last 5, compared with the average of 56%, point to a more cautious picture for this match. A draw, the second most likely result at 29%, is a serious possibility; Venezia scoring 3 and conceding 3 in its last 3 home matches brings that scenario to mind.",
-        "es": "Bolonia, Venecia en su propio campo, claramente por delante: 44% frente a 28%, y que Bolonia haya ganado sus últimos 4 partidos como visitante respalda esa ventaja. En el total de goles, la línea es muy estrecha: 3 goles o más tiene un 48% y como máximo 2 goles un 52%, casi empatados, por lo que no hay motivo para esperar un escenario de muchos goles. Que Venecia haya recibido 9 goles en sus últimos 5 partidos y que Bolonia haya estado en tres de los partidos de 3 goles en sus últimos 5 apunta a un panorama más cauteloso para este encuentro, en comparación con el promedio de 56%. El empate, el segundo resultado más probable, con un 29%, es una posibilidad seria; que Venecia haya marcado 3 y recibido 3 en sus últimos 3 partidos en casa hace que este escenario sea plausible.",
-        "de": "Bologna ist auswärts gegen Venezia trotzdem deutlich im Vorteil: 44% zu 28%, und dass Bologna die letzten 4 Auswärtsspiele gewonnen hat, untermauert diese Überlegenheit. Bei der Gesamtzahl der Tore ist die Linie sehr knapp: 3 oder mehr Tore liegen bei 48%, höchstens 2 Tore bei 52%, also nahezu ausgeglichen. Es gibt daher keinen Grund, ein torreiches Spiel mit klarer Tendenz zu erwarten. Dass Venezia in den letzten 5 Spielen 9 Gegentore kassiert hat und Bologna in drei der letzten 5 Spiele an Partien mit 3 Toren beteiligt war, deutet im Vergleich zum Durchschnitt von 56% auf ein vorsichtigeres Bild für dieses Spiel hin. Das wahrscheinlichste zweite Ergebnis, ein Unentschieden, liegt bei 29% und ist somit eine ernsthafte Möglichkeit; dass Venezia in den letzten 3 Heimspielen jeweils 3 Tore geschossen und 3 Tore kassiert hat, lässt dieses Szenario ebenfalls naheliegend erscheinen.",
-        "fr": "Bologne est nettement en tête malgré le déplacement à Venise : 44 % contre 28 %, et le fait que Bologne ait remporté ses 4 derniers matchs à l'extérieur soutient cette supériorité. Pour le total de buts, la marge est très fine : 3 buts ou plus à 48 %, et au plus 2 buts à 52 %, presque à égalité, il n'y a donc pas de raison d'attendre un scénario riche en buts. Le fait que Venise ait encaissé 9 buts lors de ses 5 derniers matchs, et que Bologne ait été impliqué dans trois des matchs à 3 buts sur ses 5 dernières rencontres, indique un tableau plus prudent pour cette rencontre, comparé à la moyenne de 56 %. Le match nul, deuxième issue la plus probable, à 29 %, est une possibilité sérieuse ; le fait que Venise ait marqué 3 buts et en ait encaissé 3 lors de ses 3 derniers matchs à domicile rend ce scénario plausible.",
-        "it": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde önde: %44'e %28 ve Bologna'nın son 4 deplasman maçını kazanmış olması bu üstünlüğü destekliyor. Toplam golde ise çizgi çok ince; 3 veya daha fazla gol %48, en fazla 2 gol %52 ile neredeyse dengede, bu yüzden açık bir gollü senaryo beklemek için neden yok. Venezia'nın son 5 maçta 9 gol yemesi ve Bologna'nın son 5 maçta 3 gollü maçların üçünde yer alması, ortalama olan %56'ya kıyasla bu maç için daha temkinli bir tabloya işaret ediyor. En olası ikinci sonuç olan beraberlik %29 ile ciddi bir ihtimal; Venezia'nın iç sahada son 3 maçta 3 gol atıp 3 yemesi bu senaryoyu akla getiriyor.",
-        "pt": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde à frente: 44% contra 28%, e o fato de o Bologna ter vencido seus últimos 4 jogos fora de casa reforça essa vantagem. No total de gols, porém, a diferença é muito pequena: 3 gols ou mais tem 48%, e no máximo 2 gols tem 52%, praticamente empatados, por isso não há motivo para esperar um cenário de muitos gols. O fato de o Venezia ter sofrido 9 gols nos últimos 5 jogos e de o Bologna ter estado presente em três dos seus últimos 5 jogos com 3 gols, em comparação com a média de 56%, aponta para um quadro mais cauteloso para esta partida. O empate, segundo resultado mais provável, tem 29% e é uma possibilidade séria; o fato de o Venezia ter marcado 3 e sofrido 3 nos últimos 3 jogos em casa torna esse cenário plausível."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Juventus",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 4,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-06",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Udinese",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-01",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Como",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 1,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-28",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Inter Milan",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-25",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Genoa",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 1,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 4,
-            "atilan": 2,
-            "yenilen": 9,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 3,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 3,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 4,
-            "galibiyet": 0,
-            "beraberlik": 0,
-            "maglubiyet": 4,
-            "atilan": 1,
-            "yenilen": 9,
-            "ust25": 2
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Udinese",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-11-07",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Parma",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-31",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Monza",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-28",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "AC Milan",
-              "ic_saha": false,
-              "atilan": 4,
-              "yenilen": 2,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-24",
-              "lig": "soccer_italy_serie_a",
-              "rakip": "Cagliari",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 4,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 11,
-            "yenilen": 5,
-            "ust25": 3
-          },
-          "ic_saha": {
-            "mac": 3,
-            "galibiyet": 1,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 4,
-            "yenilen": 5,
-            "ust25": 2
-          },
-          "deplasman": {
-            "mac": 4,
-            "galibiyet": 4,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 10,
-            "yenilen": 4,
-            "ust25": 3
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-27T05:37:18Z",
-        "ilk": {
-          "1": 0.2513,
-          "X": 0.2669,
-          "2": 0.4818
-        },
-        "son": {
-          "1": 0.3069,
-          "X": 0.298,
-          "2": 0.3951
-        }
-      },
-      "baglam": {
-        "ev_sahibi": {
-          "sira": 20,
-          "puan": 6,
-          "kalan_mac": 26,
-          "durum": "kume_baskisi"
-        },
-        "deplasman": {
-          "sira": 9,
-          "puan": 18,
-          "kalan_mac": 26,
-          "durum": null,
-          "onemli_eksikler": [
-            {
-              "ad": "Juan Miranda",
-              "supheli": true,
-              "tur": "injury"
-            }
-          ]
-        }
-      },
-      "secim": {
-        "guclu": false,
-        "net_favori": false,
-        "secildi": false,
-        "elenme": null,
-        "elenme_nedeni": null,
-        "surpriz_ihtimali": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "02ff879cf54f6d1fec2664efee0431db",
-      "lig": "soccer_france_ligue_one",
-      "ev_sahibi": "Brest",
-      "deplasman": "Paris FC",
-      "baslama_utc": "2026-11-27T19:45:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.294,
-        "X": 0.2753,
-        "2": 0.4307
-      },
-      "tahmin": "2",
-      "guven": 0.1367,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5224,
-          "alt": 0.4776
-        },
-        "tahmin": "ust",
-        "guven": 0.0448,
-        "kaynak_sayisi": 14
-      },
-      "ai_metin": "Brest–Paris FC maçında deplasman ekibi Paris FC hafif ama net bir üstünlükle öne çıkıyor; olasılıklar %43'e %29 biçiminde dengeli bir tablo çiziyor. Toplam gol tarafında 3 veya daha fazla gol %52 ile hafifçe önde; bu da Paris FC'nin son beş maçındaki gollü performansıyla uyumlu, çünkü bu dönemde 4 maçta 3 ve üzeri gol görüldü. Ligue 1 ortalaması olan %43 ev sahibi galibiyet ihtimalinin altında kalan Brest'in mevcut tablosu, ligin genel eğilimine kıyasla daha zayıf bir konum sunuyor. En olası ikinci sonuç %28 ile beraberlik; bu ihtimal, ligin ortalama beraberlik ihtimaline (%24) yakın seviyede duruyor.",
-      "ai_metinler": {
-        "en": "Brest–Paris FC match: the away side, Paris FC, stands out with a slight but clear edge; the probabilities paint a balanced picture of 43% to 29%. On total goals, 3 or more goals leads narrowly at 52%, which fits Paris FC's recent scoring form, as 3 or more goals were seen in 4 of their last five matches. Brest's current picture, with its home win probability sitting below the Ligue 1 average of 43%, presents a weaker position compared with the league's general trend. The second most likely result is a draw at 28%, a probability close to the league's average draw probability of 24%.",
-        "es": "El análisis del partido Brest–Paris FC destaca que el equipo visitante, Paris FC, sobresale con una ventaja ligera pero clara; las probabilidades dibujan un panorama equilibrado, con un 43% frente a un 29%. En cuanto al total de goles, la opción de 3 goles o más se sitúa ligeramente por delante con un 52%, lo cual concuerda con el rendimiento goleador de Paris FC en sus últimos cinco partidos, ya que en este periodo se vieron 3 goles o más en 4 encuentros. El Brest, cuya probabilidad de victoria local queda por debajo del 43% que es la media de la Ligue 1, presenta una posición más débil en comparación con la tendencia general de la liga. El segundo resultado más probable es el empate, con un 28%, un valor cercano a la probabilidad media de empate de la liga (24%).",
-        "de": "Das Spiel Brest–Paris FC: Der Gast Paris FC hebt sich mit einem leichten, aber klaren Vorteil hervor; die Wahrscheinlichkeiten zeichnen ein ausgewogenes Bild von 43% zu 29%. Bei den Toren liegt die Variante 3 oder mehr Tore mit 52% leicht vorn; das passt zur Torfreude von Paris FC in den letzten fünf Spielen, in denen in 4 Spielen 3 oder mehr Tore fielen. Brest liegt mit seiner aktuellen Ausgangslage unter der Heimsieg-Wahrscheinlichkeit von 43%, die dem Ligue-1-Durchschnitt entspricht, und bietet damit im Vergleich zum allgemeinen Trend der Liga eine schwächere Position. Das zweitwahrscheinlichste Ergebnis ist mit 28% ein Unentschieden; diese Wahrscheinlichkeit liegt nahe am Ligue-1-Durchschnitt für Unentschieden (24%).",
-        "it": "Nella partita Brest–Paris FC, la squadra ospite Paris FC emerge con un vantaggio leggero ma netto; le probabilità delineano un quadro equilibrato, con il 43% contro il 29%. Per il totale gol, 3 gol o più sono leggermente in vantaggio con il 52%; ciò è coerente con il rendimento ricco di reti del Paris FC nelle ultime cinque partite, dato che in questo periodo si sono viste 3 gol o più in 4 incontri. La probabilità di vittoria interna del Brest, pari al 43% e cioè la media della Ligue 1, risulta al di sotto di tale valore, e la sua situazione attuale appare più debole rispetto alla tendenza generale del campionato. Il secondo esito più probabile è il pareggio con il 28%; questa probabilità si mantiene vicina alla media di campionato per i pareggi (24%).",
-        "pt": "O confronto Brest–Paris FC mostra a equipe visitante, o Paris FC, em destaque com uma vantagem leve, mas clara; as probabilidades desenham um quadro equilibrado, de 43% contra 29%. No quesito total de gols, a opção de 3 gols ou mais está ligeiramente à frente, com 52%, o que combina com o desempenho com muitos gols do Paris FC nos últimos cinco jogos, já que nesse período foram vistos 3 gols ou mais em 4 partidas. Com uma probabilidade de vitória do mandante de 43%, a média da Ligue 1, o Brest aparece em uma posição mais fraca do que a tendência geral da liga. O segundo resultado mais provável é o empate, com 28%, um valor próximo da média de empates da liga (24%).",
-        "fr": "Le match Brest–Paris FC voit l'équipe visiteuse, Paris FC, se détacher légèrement mais nettement, avec des probabilités qui dessinent un tableau équilibré : 43 % contre 29 %. Côté total de buts, 3 buts ou plus ressortent légèrement en tête à 52 %, ce qui correspond à la production offensive de Paris FC lors de ses cinq derniers matchs, où l'on a vu 3 buts ou plus dans 4 rencontres. Avec une probabilité de victoire à domicile de 43 %, moyenne de la Ligue 1, Brest se retrouve dans une position plus fragile que la tendance générale du championnat. Le deuxième résultat le plus probable est le match nul à 28 %, un niveau proche de la moyenne de la ligue pour les matchs nuls (24 %)."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-21",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Strasbourg",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-08",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Lyon",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-02",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Lorient",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-23",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Nice",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-17",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Lille",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 3,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 7,
-            "yenilen": 3,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 3,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 3,
-            "galibiyet": 2,
-            "beraberlik": 1,
-            "maglubiyet": 0,
-            "atilan": 4,
-            "yenilen": 1,
-            "ust25": 0
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Angers",
-              "ic_saha": true,
-              "atilan": 4,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-07",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Auxerre",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-01",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "AS Monaco",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-24",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "RC Lens",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-18",
-              "lig": "soccer_france_ligue_one",
-              "rakip": "Rennes",
-              "ic_saha": true,
-              "atilan": 4,
-              "yenilen": 3,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 4,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 13,
-            "yenilen": 6,
-            "ust25": 4
-          },
-          "ic_saha": {
-            "mac": 3,
-            "galibiyet": 3,
-            "beraberlik": 0,
-            "maglubiyet": 0,
-            "atilan": 11,
-            "yenilen": 4,
-            "ust25": 3
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 2,
-            "ust25": 1
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-27T05:37:18Z",
-        "ilk": {
-          "1": 0.3002,
-          "X": 0.276,
-          "2": 0.4239
-        },
-        "son": {
-          "1": 0.279,
-          "X": 0.2826,
-          "2": 0.4384
-        }
-      },
-      "baglam": {
-        "ev_sahibi": {
-          "sira": 6,
-          "puan": 18,
-          "kalan_mac": 23,
-          "durum": null
-        },
-        "deplasman": {
-          "sira": 2,
-          "puan": 23,
-          "kalan_mac": 23,
-          "durum": "sampiyonluk_yarisi",
-          "onemli_eksikler": [
-            {
-              "ad": "Nhoa Sangui",
-              "supheli": false,
-              "tur": "injury"
-            }
-          ]
-        }
-      },
-      "secim": {
-        "guclu": false,
-        "net_favori": false,
-        "secildi": false,
-        "elenme": null,
-        "elenme_nedeni": null,
-        "surpriz_ihtimali": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "40d95e660c301c2d8a5a7a6317017b65",
-      "lig": "soccer_epl",
-      "ev_sahibi": "Nottingham Forest",
-      "deplasman": "Chelsea",
-      "baslama_utc": "2026-11-27T20:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.3755,
-        "X": 0.2763,
-        "2": 0.3482
-      },
-      "tahmin": "1",
-      "guven": 0.0273,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.5422,
-          "alt": 0.4578
-        },
-        "tahmin": "ust",
-        "guven": 0.0844,
-        "kaynak_sayisi": 17
-      },
-      "ai_metin": "Maçta Chelsea ve Nottingham Forest arasında dengeli bir tablo var; ev sahibi Forest yalnızca çok hafif önde (%38'e %35). Toplam golde 3 ve üzeri ihtimali %54 ile en fazla 2 golün önüne geçiyor, yani açık ve gollü bir karşılaşma senaryosu öne çıkıyor. Arşivimizdeki Premier Lig ortalamalarına göre (ev sahibi %43, deplasman %33) Forest'ın avantajı belirgin biçimde zayıf kalıyor. Öte yandan geçmişte bu güven seviyesindeki tahminlerimiz 18 maçta %33 isabet etti, bu da temkinli okunmasını gerektiriyor. En olası ikinci sonuç olan beraberlik (%28), kesin bir ihtimal olmamakla birlikte, iki takımın da gol bulabileceği bu maçta dikkate değer bir alternatif.",
-      "ai_metinler": {
-        "en": "The match shows a balanced picture between Chelsea and Nottingham Forest; the home side, Forest, holds only a very slight edge (38% to 35%). For total goals, the probability of 3 or more goals stands at 54%, which puts it ahead of at most 2 goals, so an open, high-scoring match scenario stands out. Compared with our archived Premier League averages (home side 43%, away side 33%), Forest's advantage remains noticeably weak. On the other hand, our past predictions at this confidence level hit the mark 33% of the time across 18 matches, which calls for a cautious reading. The second most likely outcome, a draw (28%), is not a certainty, but in a match where both teams can find the net, it is a notable alternative.",
-        "es": "En el partido hay un panorama equilibrado entre Chelsea y Nottingham Forest; el local, Forest, está solo ligeramente por delante (38% frente a 35%). En cuanto al total de goles, la probabilidad de 3 goles o más es del 54%, por encima de la de como máximo 2 goles, por lo que se perfila un escenario de partido abierto y con goles. Según los promedios de nuestro archivo de la Premier League (local 43%, visitante 33%), la ventaja de Forest se mantiene claramente débil. Por otro lado, en el pasado, nuestras predicciones con este nivel de confianza acertaron en el 33% de los 18 partidos, lo que aconseja una lectura prudente. El empate, el segundo resultado más probable (28%), no es una certeza, pero sí una alternativa notable en un partido en el que ambos equipos pueden marcar.",
-        "de": "Im Spiel zwischen Chelsea und Nottingham Forest zeigt sich ein ausgeglichenes Bild; der Heimvorteil von Forest ist nur sehr gering (38% zu 35%). Bei der Gesamttorzahl liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 54% und damit über der für höchstens 2 Tore, sodass ein offenes, torreiches Spielszenario im Vordergrund steht. Gemessen an unseren Archivdurchschnittswerten der Premier League (Heimteam 43%, Auswärtsteam 33%) fällt Forests Vorteil deutlich schwächer aus. Andererseits lag die Trefferquote unserer Prognosen mit vergleichbarem Konfidenzniveau in der Vergangenheit bei 33% aus 18 Spielen, weshalb eine vorsichtige Einordnung angebracht ist. Das zweitwahrscheinlichste Ergebnis, ein Unentschieden (28%), ist zwar keineswegs sicher, aber in diesem Spiel, in dem beide Teams Tore erzielen können, eine bemerkenswerte Alternative.",
-        "fr": "Le match oppose Chelsea à Nottingham Forest sur un tableau équilibré ; l'équipe à domicile, Forest, n'est que très légèrement devant (38 % contre 35 %). Pour le total de buts, la probabilité de 3 buts ou plus atteint 54 %, contre une probabilité de 2 buts au maximum, ce qui met en avant un scénario de rencontre ouverte et riche en buts. Selon nos moyennes d'archives de Premier League (domicile 43 %, extérieur 33 %), l'avantage de Forest reste nettement plus faible. En revanche, nos estimations passées à ce niveau de confiance ont atteint 33 % de réussite sur 18 matchs, ce qui impose une lecture prudente. Le match nul, deuxième issue la plus probable (28 %), n'est pas certain mais constitue une alternative notable dans une rencontre où les deux équipes peuvent marquer.",
-        "it": "Nella partita c'è un quadro equilibrato tra Chelsea e Nottingham Forest; la squadra di casa, Forest, è solo leggermente avanti (38% contro 35%). Per il totale gol, la probabilità di 3 o più gol è del 54%, più alta di quella di al massimo 2 gol, quindi emerge uno scenario di partita aperta e ricca di reti. Rispetto alle medie archiviate della Premier League (casa 43%, trasferta 33%), il vantaggio del Forest risulta chiaramente più debole. D'altra parte, in passato le nostre previsioni con questo livello di fiducia hanno avuto ragione nel 33% dei 18 casi, quindi è consigliabile una lettura prudente. Il pareggio, come secondo esito più probabile (28%), non è certo, ma rappresenta un'alternativa degna di attenzione in una partita in cui entrambe le squadre possono segnare.",
-        "pt": "Na partida há um quadro equilibrado entre Chelsea e Nottingham Forest; o Forest, mandante, está apenas muito levemente à frente (38% contra 35%). Para o total de gols, a probabilidade de 3 gols ou mais é de 54%, superando a de no máximo 2 gols, por isso desponta um cenário de jogo aberto e com muitos gols. Segundo as médias do nosso arquivo para a Premier League (mandante 43%, visitante 33%), a vantagem do Forest permanece claramente fraca. Por outro lado, nossas previsões com este nível de confiança acertaram 33% das vezes em 18 jogos, o que pede uma leitura cautelosa. O empate, segundo resultado mais provável (28%), não é uma certeza, mas é uma alternativa relevante neste jogo em que ambas as equipes podem marcar."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-21",
-              "lig": "soccer_epl",
-              "rakip": "Bournemouth",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-07",
-              "lig": "soccer_epl",
-              "rakip": "Manchester City",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-31",
-              "lig": "soccer_epl",
-              "rakip": "Brentford",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-23",
-              "lig": "soccer_epl",
-              "rakip": "Ipswich Town",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-18",
-              "lig": "soccer_epl",
-              "rakip": "Arsenal",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 1,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 1,
-            "beraberlik": 1,
-            "maglubiyet": 3,
-            "atilan": 4,
-            "yenilen": 7,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 3,
-            "yenilen": 2,
-            "ust25": 1
-          },
-          "deplasman": {
-            "mac": 4,
-            "galibiyet": 0,
-            "beraberlik": 1,
-            "maglubiyet": 3,
-            "atilan": 2,
-            "yenilen": 8,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-21",
-              "lig": "soccer_epl",
-              "rakip": "Leeds United",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 4,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-11-08",
-              "lig": "soccer_epl",
-              "rakip": "Sunderland",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 1,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-31",
-              "lig": "soccer_epl",
-              "rakip": "Manchester United",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-24",
-              "lig": "soccer_epl",
-              "rakip": "Tottenham Hotspur",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-17",
-              "lig": "soccer_epl",
-              "rakip": "Everton",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 0,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 3,
-            "atilan": 5,
-            "yenilen": 7,
-            "ust25": 1
-          },
-          "ic_saha": {
-            "mac": 4,
-            "galibiyet": 2,
-            "beraberlik": 0,
-            "maglubiyet": 2,
-            "atilan": 8,
-            "yenilen": 7,
-            "ust25": 2
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 1,
-            "ust25": 0
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-27T05:37:17Z",
-        "ilk": {
-          "1": 0.3376,
-          "X": 0.2726,
-          "2": 0.3898
-        },
-        "son": {
-          "1": 0.3728,
-          "X": 0.2859,
-          "2": 0.3413
-        }
-      },
-      "baglam": {
-        "ev_sahibi": {
-          "sira": 17,
-          "puan": 9,
-          "kalan_mac": 27,
-          "durum": "kume_baskisi"
-        },
-        "deplasman": {
-          "sira": 8,
-          "puan": 16,
-          "kalan_mac": 27,
-          "durum": null,
-          "onemli_eksikler": [
-            {
-              "ad": "João Pedro",
-              "supheli": false,
-              "tur": "injury"
-            }
-          ]
-        }
-      },
-      "secim": {
-        "guclu": false,
-        "net_favori": false,
-        "secildi": false,
-        "elenme": null,
-        "elenme_nedeni": null,
-        "surpriz_ihtimali": null
-      },
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "80c92a163a81b69fef76530221e2edd0",
-      "lig": "soccer_spain_la_liga",
-      "ev_sahibi": "Levante",
-      "deplasman": "Real Racing Club de Santander",
-      "baslama_utc": "2026-11-27T20:00:00Z",
-      "durum": "ok",
-      "olasiliklar": {
-        "1": 0.4575,
-        "X": 0.2447,
-        "2": 0.2978
-      },
-      "tahmin": "1",
-      "guven": 0.1597,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.6473,
-          "alt": 0.3527
-        },
-        "tahmin": "ust",
-        "guven": 0.2946,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Levante'nin ev sahibi olarak %46 ile hafif önde olduğu, ancak farkın belirgin olmadığı bir maç bu. Olasılıklar 3 veya daha fazla golün %65 ile daha olası olduğunu gösteriyor; bu da açık ve gollü bir senaryoya işaret ediyor. Santander'in son 5 maçta 4 kez 3+ gol görmesi ve La Liga ortalaması olan %56'nın üzerindeki bu değer, gol beklentisini destekliyor. Beraberlik ihtimali %24, La Liga ortalamasıyla (%24) aynı; en olası ikinci sonuç ise Santander'in galibiyeti (%30) olarak öne çıkıyor.",
-      "ai_metinler": {
-        "en": "This is a match where Levante, as the home side, is slightly ahead at 46%, though the gap is not pronounced. Probabilities show that 3 or more goals is more likely at 65%, pointing to an open, high-scoring scenario. Santander has seen 3+ goals in 4 of its last 5 matches, and this figure, above the La Liga average of 56%, supports the expectation of goals. The probability of a draw is 24%, the same as the La Liga average (24%); the second most likely result is a Santander win (30%).",
-        "es": "Es un partido en el que Levante, como local, está ligeramente por delante con un 46%, aunque la diferencia no es significativa. Las probabilidades indican que 3 goles o más son más probables, con un 65%, lo que apunta a un escenario abierto y con goles. El hecho de que Santander haya registrado 3 goles o más en 4 de sus últimos 5 partidos, y que este valor supere el 56% de la media de La Liga, respalda la expectativa de goles. La probabilidad de empate es del 24%, igual que la media de La Liga (24%); el segundo resultado más probable es la victoria de Santander, con un 30%.",
-        "fr": "Ce match semble assez équilibré, avec Levante légèrement en tête à domicile à 46 %, sans que l'écart soit marqué. Les probabilités indiquent que 3 buts ou plus sont plus probables, à 65 %, ce qui laisse présager un match ouvert et riche en buts. Santander a connu 3 buts ou plus à 4 reprises sur ses 5 derniers matchs, et cette valeur, supérieure à la moyenne de la Liga de 56 %, renforce l'attente d'un nombre élevé de buts. La probabilité de match nul est de 24 %, identique à la moyenne de la Liga (24 %) ; le deuxième résultat le plus probable est la victoire de Santander, à 30 %.",
-        "it": "Questa partita vede il Levante, in casa, leggermente in vantaggio con il 46%, ma la differenza non è netta. Le probabilità indicano che 3 o più goal abbiano una probabilità del 65%, il che suggerisce uno scenario aperto e ricco di reti. Il fatto che il Santander abbia visto 3 o più goal in 4 delle ultime 5 partite, e questo valore superi il 56% della media della Liga, sostiene l'aspettativa di goal. La probabilità di pareggio è del 24%, in linea con la media della Liga (24%); il secondo esito più probabile è invece la vittoria del Santander, con il 30%.",
-        "pt": "Esta partida tem o Levante, como mandante, levemente à frente com 46%, mas a diferença não é expressiva. As probabilidades indicam que 3 ou mais gols têm 65% de chance, o que aponta para um cenário aberto e com muitos gols. O Santander registrou 3 ou mais gols em 4 dos últimos 5 jogos, e esse índice, acima da média da La Liga de 56%, reforça a expectativa de gols. A probabilidade de empate é de 24%, igual à média da La Liga (24%); já o segundo resultado mais provável é a vitória do Santander, com 30%."
-      },
-      "form": {
-        "ev_sahibi": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-23",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Elche CF",
-              "ic_saha": true,
-              "atilan": 1,
-              "yenilen": 1,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-11-08",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Celta Vigo",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 0,
-              "sonuc": "B"
-            },
-            {
-              "tarih": "2026-10-31",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Atlético Madrid",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-25",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Real Sociedad",
-              "ic_saha": false,
-              "atilan": 1,
-              "yenilen": 2,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-21",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Athletic Bilbao",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 1,
-              "sonuc": "G"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 1,
-            "beraberlik": 2,
-            "maglubiyet": 2,
-            "atilan": 5,
-            "yenilen": 6,
-            "ust25": 2
-          },
-          "ic_saha": {
-            "mac": 4,
-            "galibiyet": 1,
-            "beraberlik": 2,
-            "maglubiyet": 1,
-            "atilan": 7,
-            "yenilen": 7,
-            "ust25": 2
-          },
-          "deplasman": {
-            "mac": 3,
-            "galibiyet": 0,
-            "beraberlik": 2,
-            "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 3,
-            "ust25": 1
-          }
-        },
-        "deplasman": {
-          "son_maclar": [
-            {
-              "tarih": "2026-11-22",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Real Sociedad",
-              "ic_saha": true,
-              "atilan": 3,
-              "yenilen": 2,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-07",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Málaga",
-              "ic_saha": false,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-11-01",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Real Madrid",
-              "ic_saha": true,
-              "atilan": 0,
-              "yenilen": 3,
-              "sonuc": "M"
-            },
-            {
-              "tarih": "2026-10-24",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "Espanyol",
-              "ic_saha": true,
-              "atilan": 2,
-              "yenilen": 1,
-              "sonuc": "G"
-            },
-            {
-              "tarih": "2026-10-18",
-              "lig": "soccer_spain_la_liga",
-              "rakip": "CA Osasuna",
-              "ic_saha": false,
-              "atilan": 0,
-              "yenilen": 2,
-              "sonuc": "M"
-            }
-          ],
-          "son": {
-            "mac": 5,
-            "galibiyet": 3,
-            "beraberlik": 0,
-            "maglubiyet": 2,
-            "atilan": 7,
-            "yenilen": 9,
-            "ust25": 4
-          },
-          "ic_saha": {
-            "mac": 4,
-            "galibiyet": 2,
-            "beraberlik": 1,
-            "maglubiyet": 1,
-            "atilan": 7,
-            "yenilen": 8,
-            "ust25": 4
-          },
-          "deplasman": {
-            "mac": 2,
-            "galibiyet": 1,
-            "beraberlik": 0,
-            "maglubiyet": 1,
-            "atilan": 2,
-            "yenilen": 3,
-            "ust25": 1
-          }
-        }
-      },
-      "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-27T05:37:18Z",
-        "ilk": {
-          "1": 0.4569,
-          "X": 0.2504,
-          "2": 0.2927
-        },
-        "son": {
-          "1": 0.4772,
-          "X": 0.243,
-          "2": 0.2798
-        }
-      },
-      "baglam": {
-        "ev_sahibi": {
-          "sira": 15,
-          "puan": 12,
-          "kalan_mac": 25,
-          "durum": "kume_baskisi"
-        },
-        "deplasman": {
-          "sira": 7,
-          "puan": 17,
-          "kalan_mac": 25,
-          "durum": null
-        }
-      },
-      "secim": {
-        "guclu": false,
-        "net_favori": false,
-        "secildi": false,
-        "elenme": null,
-        "elenme_nedeni": null,
-        "surpriz_ihtimali": null
-      },
-      "ucretsiz": false
-    },
     {
       "mac_id": "f0f0492939c4f06ff9a4f1b9334d510f",
       "lig": "soccer_turkey_super_league",
@@ -9781,6 +8861,561 @@
           "1": 0.4539,
           "X": 0.2457,
           "2": 0.3004
+        }
+      },
+      "baglam": null,
+      "secim": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "3876ad367184af2f8fc04a544fc894aa",
+      "lig": "soccer_italy_serie_a",
+      "ev_sahibi": "Como",
+      "deplasman": "Juventus",
+      "baslama_utc": "2026-11-29T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-24",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "AEK Athens",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-21",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Cagliari",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Inter Milan",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-04",
+              "lig": "soccer_uefa_champs_league",
+              "rakip": "RC Lens",
+              "ic_saha": false,
+              "atilan": 9,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Venezia",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 4,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 13,
+            "yenilen": 3,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 5,
+            "galibiyet": 5,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 10,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 5,
+            "galibiyet": 3,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 17,
+            "yenilen": 8,
+            "ust25": 4
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-22",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Venezia",
+              "ic_saha": true,
+              "atilan": 4,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Fiorentina",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 2,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Napoli",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-28",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Genoa",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_italy_serie_a",
+              "rakip": "Lecce",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 3,
+            "beraberlik": 1,
+            "maglubiyet": 1,
+            "atilan": 10,
+            "yenilen": 4,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 2,
+            "beraberlik": 0,
+            "maglubiyet": 1,
+            "atilan": 6,
+            "yenilen": 3,
+            "ust25": 2
+          },
+          "deplasman": {
+            "mac": 4,
+            "galibiyet": 1,
+            "beraberlik": 2,
+            "maglubiyet": 1,
+            "atilan": 5,
+            "yenilen": 5,
+            "ust25": 1
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
+        "ilk": {
+          "1": 0.4219,
+          "X": 0.2741,
+          "2": 0.304
+        },
+        "son": {
+          "1": 0.4866,
+          "X": 0.27,
+          "2": 0.2434
+        }
+      },
+      "baglam": null,
+      "secim": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "ca8aa566e27e1d05b47e8151b2066f9a",
+      "lig": "soccer_france_ligue_one",
+      "ev_sahibi": "Lyon",
+      "deplasman": "AS Monaco",
+      "baslama_utc": "2026-11-29T19:45:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-21",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lille",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Brest",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Angers",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-26",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Paris Saint Germain",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Nice",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 3,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 5,
+            "yenilen": 5,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 2,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 4,
+            "yenilen": 1,
+            "ust25": 1
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 1,
+            "yenilen": 4,
+            "ust25": 0
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-21",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Auxerre",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Le Mans FC",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Paris FC",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lille",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_france_ligue_one",
+              "rakip": "Lorient",
+              "ic_saha": false,
+              "atilan": 0,
+              "yenilen": 1,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 0,
+            "beraberlik": 3,
+            "maglubiyet": 2,
+            "atilan": 4,
+            "yenilen": 7,
+            "ust25": 1
+          },
+          "ic_saha": {
+            "mac": 2,
+            "galibiyet": 0,
+            "beraberlik": 2,
+            "maglubiyet": 0,
+            "atilan": 2,
+            "yenilen": 2,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 2,
+            "atilan": 2,
+            "yenilen": 5,
+            "ust25": 1
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
+        "ilk": {
+          "1": 0.4221,
+          "X": 0.2711,
+          "2": 0.3068
+        },
+        "son": {
+          "1": 0.4024,
+          "X": 0.287,
+          "2": 0.3106
+        }
+      },
+      "baglam": null,
+      "secim": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "f892ea6d5eca105c36ca9468b12857f2",
+      "lig": "soccer_spain_la_liga",
+      "ev_sahibi": "Real Sociedad",
+      "deplasman": "Sevilla",
+      "baslama_utc": "2026-11-29T20:00:00Z",
+      "durum": "yetersiz_veri",
+      "olasiliklar": null,
+      "tahmin": null,
+      "guven": null,
+      "alt_ust": null,
+      "ai_metin": null,
+      "ai_metinler": null,
+      "form": {
+        "ev_sahibi": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-22",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Real Racing Club de Santander",
+              "ic_saha": false,
+              "atilan": 2,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-11-08",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Rayo Vallecano",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Athletic Bilbao",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 2,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-25",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Levante",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 1,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Málaga",
+              "ic_saha": false,
+              "atilan": 5,
+              "yenilen": 2,
+              "sonuc": "G"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 3,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 11,
+            "yenilen": 8,
+            "ust25": 4
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 3,
+            "beraberlik": 0,
+            "maglubiyet": 0,
+            "atilan": 6,
+            "yenilen": 3,
+            "ust25": 2
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 1,
+            "beraberlik": 0,
+            "maglubiyet": 2,
+            "atilan": 8,
+            "yenilen": 7,
+            "ust25": 3
+          }
+        },
+        "deplasman": {
+          "son_maclar": [
+            {
+              "tarih": "2026-11-21",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Real Betis",
+              "ic_saha": true,
+              "atilan": 1,
+              "yenilen": 1,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-06",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Alavés",
+              "ic_saha": true,
+              "atilan": 0,
+              "yenilen": 0,
+              "sonuc": "B"
+            },
+            {
+              "tarih": "2026-11-01",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Getafe",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 3,
+              "sonuc": "M"
+            },
+            {
+              "tarih": "2026-10-26",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "CA Osasuna",
+              "ic_saha": true,
+              "atilan": 2,
+              "yenilen": 0,
+              "sonuc": "G"
+            },
+            {
+              "tarih": "2026-10-18",
+              "lig": "soccer_spain_la_liga",
+              "rakip": "Real Madrid",
+              "ic_saha": false,
+              "atilan": 1,
+              "yenilen": 4,
+              "sonuc": "M"
+            }
+          ],
+          "son": {
+            "mac": 5,
+            "galibiyet": 1,
+            "beraberlik": 2,
+            "maglubiyet": 2,
+            "atilan": 5,
+            "yenilen": 8,
+            "ust25": 2
+          },
+          "ic_saha": {
+            "mac": 3,
+            "galibiyet": 1,
+            "beraberlik": 2,
+            "maglubiyet": 0,
+            "atilan": 3,
+            "yenilen": 1,
+            "ust25": 0
+          },
+          "deplasman": {
+            "mac": 3,
+            "galibiyet": 0,
+            "beraberlik": 1,
+            "maglubiyet": 2,
+            "atilan": 5,
+            "yenilen": 10,
+            "ust25": 3
+          }
+        }
+      },
+      "hareket": {
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
+        "ilk": {
+          "1": 0.4491,
+          "X": 0.2697,
+          "2": 0.2813
+        },
+        "son": {
+          "1": 0.4508,
+          "X": 0.2655,
+          "2": 0.2837
         }
       },
       "baglam": null,
