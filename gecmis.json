@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T21:30:46Z",
+  "guncelleme_utc": "2026-11-27T22:30:46Z",
   "mac_sayisi": 487,
   "maclar": [
     {
@@ -34,11 +34,11 @@
         "it": "Nella partita c'è un quadro equilibrato tra Chelsea e Nottingham Forest; la squadra di casa, Forest, è solo leggermente avanti (38% contro 35%). Per il totale gol, la probabilità di 3 o più gol è del 54%, più alta di quella di al massimo 2 gol, quindi emerge uno scenario di partita aperta e ricca di reti. Rispetto alle medie archiviate della Premier League (casa 43%, trasferta 33%), il vantaggio del Forest risulta chiaramente più debole. D'altra parte, in passato le nostre previsioni con questo livello di fiducia hanno avuto ragione nel 33% dei 18 casi, quindi è consigliabile una lettura prudente. Il pareggio, come secondo esito più probabile (28%), non è certo, ma rappresenta un'alternativa degna di attenzione in una partita in cui entrambe le squadre possono segnare.",
         "pt": "Na partida há um quadro equilibrado entre Chelsea e Nottingham Forest; o Forest, mandante, está apenas muito levemente à frente (38% contra 35%). Para o total de gols, a probabilidade de 3 gols ou mais é de 54%, superando a de no máximo 2 gols, por isso desponta um cenário de jogo aberto e com muitos gols. Segundo as médias do nosso arquivo para a Premier League (mandante 43%, visitante 33%), a vantagem do Forest permanece claramente fraca. Por outro lado, nossas previsões com este nível de confiança acertaram 33% das vezes em 18 jogos, o que pede uma leitura cautelosa. O empate, segundo resultado mais provável (28%), não é uma certeza, mas é uma alternativa relevante neste jogo em que ambas as equipes podem marcar."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "3-2",
+      "toplam_gol": 5,
+      "tuttu": true,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -72,11 +72,11 @@
         "it": "Questa partita vede il Levante, in casa, leggermente in vantaggio con il 46%, ma la differenza non è netta. Le probabilità indicano che 3 o più goal abbiano una probabilità del 65%, il che suggerisce uno scenario aperto e ricco di reti. Il fatto che il Santander abbia visto 3 o più goal in 4 delle ultime 5 partite, e questo valore superi il 56% della media della Liga, sostiene l'aspettativa di goal. La probabilità di pareggio è del 24%, in linea con la media della Liga (24%); il secondo esito più probabile è invece la vittoria del Santander, con il 30%.",
         "pt": "Esta partida tem o Levante, como mandante, levemente à frente com 46%, mas a diferença não é expressiva. As probabilidades indicam que 3 ou mais gols têm 65% de chance, o que aponta para um cenário aberto e com muitos gols. O Santander registrou 3 ou mais gols em 4 dos últimos 5 jogos, e esse índice, acima da média da La Liga de 56%, reforça a expectativa de gols. A probabilidade de empate é de 24%, igual à média da La Liga (24%); já o segundo resultado mais provável é a vitória do Santander, com 30%."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "2",
+      "skor": "1-3",
+      "toplam_gol": 4,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -111,11 +111,11 @@
         "it": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde önde: %44'e %28 ve Bologna'nın son 4 deplasman maçını kazanmış olması bu üstünlüğü destekliyor. Toplam golde ise çizgi çok ince; 3 veya daha fazla gol %48, en fazla 2 gol %52 ile neredeyse dengede, bu yüzden açık bir gollü senaryo beklemek için neden yok. Venezia'nın son 5 maçta 9 gol yemesi ve Bologna'nın son 5 maçta 3 gollü maçların üçünde yer alması, ortalama olan %56'ya kıyasla bu maç için daha temkinli bir tabloya işaret ediyor. En olası ikinci sonuç olan beraberlik %29 ile ciddi bir ihtimal; Venezia'nın iç sahada son 3 maçta 3 gol atıp 3 yemesi bu senaryoyu akla getiriyor.",
         "pt": "Bologna, Venezia'ya karşı deplasmanda da olsa belirgin şekilde à frente: 44% contra 28%, e o fato de o Bologna ter vencido seus últimos 4 jogos fora de casa reforça essa vantagem. No total de gols, porém, a diferença é muito pequena: 3 gols ou mais tem 48%, e no máximo 2 gols tem 52%, praticamente empatados, por isso não há motivo para esperar um cenário de muitos gols. O fato de o Venezia ter sofrido 9 gols nos últimos 5 jogos e de o Bologna ter estado presente em três dos seus últimos 5 jogos com 3 gols, em comparação com a média de 56%, aponta para um quadro mais cauteloso para esta partida. O empate, segundo resultado mais provável, tem 29% e é uma possibilidade séria; o fato de o Venezia ter marcado 3 e sofrido 3 nos últimos 3 jogos em casa torna esse cenário plausível."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "0-0",
+      "toplam_gol": 0,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": false
     },
     {
@@ -150,11 +150,11 @@
         "pt": "O confronto Brest–Paris FC mostra a equipe visitante, o Paris FC, em destaque com uma vantagem leve, mas clara; as probabilidades desenham um quadro equilibrado, de 43% contra 29%. No quesito total de gols, a opção de 3 gols ou mais está ligeiramente à frente, com 52%, o que combina com o desempenho com muitos gols do Paris FC nos últimos cinco jogos, já que nesse período foram vistos 3 gols ou mais em 4 partidas. Com uma probabilidade de vitória do mandante de 43%, a média da Ligue 1, o Brest aparece em uma posição mais fraca do que a tendência geral da liga. O segundo resultado mais provável é o empate, com 28%, um valor próximo da média de empates da liga (24%).",
         "fr": "Le match Brest–Paris FC voit l'équipe visiteuse, Paris FC, se détacher légèrement mais nettement, avec des probabilités qui dessinent un tableau équilibré : 43 % contre 29 %. Côté total de buts, 3 buts ou plus ressortent légèrement en tête à 52 %, ce qui correspond à la production offensive de Paris FC lors de ses cinq derniers matchs, où l'on a vu 3 buts ou plus dans 4 rencontres. Avec une probabilité de victoire à domicile de 43 %, moyenne de la Ligue 1, Brest se retrouve dans une position plus fragile que la tendance générale du championnat. Le deuxième résultat le plus probable est le match nul à 28 %, un niveau proche de la moyenne de la ligue pour les matchs nuls (24 %)."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "1",
+      "skor": "1-0",
+      "toplam_gol": 1,
+      "tuttu": false,
+      "alt_ust_tuttu": false,
       "ucretsiz": false
     },
     {
@@ -187,11 +187,11 @@
         "pt": "O Werder Bremen é claramente favorito, com a vantagem de jogar em casa: há 55% de probabilidade de vitória, contra 22% para o Borussia Mönchengladbach. Nos gols totais, 3 ou mais gols se destacam com 64%; o fato de o Bremen ter marcado 11 gols e sofrido 5 nos últimos 5 jogos, e o Gladbach ter sofrido 8 gols, sustenta um cenário com muitos gols. Os valores altos da média da Bundesliga (45% de vitória do mandante e 67% para 3 ou mais gols) e a taxa de acerto de nossas previsões anteriores (76%) também são compatíveis com esse quadro. O segundo resultado mais provável é o empate (23%); já a probabilidade de vitória do Gladbach, com 22%, está próxima, mas esse resultado é um cenário menos esperado, considerando que o Gladbach conquistou apenas 1 vitória nos últimos 5 jogos.",
         "es": "Werder Bremen, jugar en casa, es un claro favorito: tiene un 55% de probabilidad de victoria frente al 22% de Borussia Mönchengladbach. En cuanto al total de goles, 3 goles o más destacan con un 64%; que Bremen haya marcado 11 goles y recibido 5 en sus últimos 5 partidos, y que Gladbach haya recibido 8 goles, respalda un escenario con muchos goles. Los valores altos de la media de la Bundesliga (45% de victorias locales, 67% de 3 goles o más) y la tasa de acierto de nuestras predicciones anteriores (76%) también son coherentes con este panorama. El segundo resultado más probable es el empate (23%); la probabilidad de victoria de Gladbach, con un 22%, está cerca, pero este resultado resulta menos esperado dado que Gladbach ha ganado solo 1 de sus últimos 5 partidos."
       },
-      "gercek_sonuc": null,
-      "skor": null,
-      "toplam_gol": null,
-      "tuttu": null,
-      "alt_ust_tuttu": null,
+      "gercek_sonuc": "X",
+      "skor": "3-3",
+      "toplam_gol": 6,
+      "tuttu": false,
+      "alt_ust_tuttu": true,
       "ucretsiz": true
     },
     {
