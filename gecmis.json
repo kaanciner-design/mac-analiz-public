@@ -1,7 +1,85 @@
 {
-  "guncelleme_utc": "2026-11-27T14:30:47Z",
-  "mac_sayisi": 480,
+  "guncelleme_utc": "2026-11-27T17:30:43Z",
+  "mac_sayisi": 482,
   "maclar": [
+    {
+      "mac_id": "ffcd87d9e41dbce42bd91952669b2e47",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Alanyaspor",
+      "deplasman": "Torku Konyaspor",
+      "baslama_utc": "2026-11-27T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.3757,
+        "X": 0.2897,
+        "2": 0.3346
+      },
+      "tahmin": "1",
+      "guven": 0.0411,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4683,
+          "alt": 0.5317
+        },
+        "tahmin": "alt",
+        "guven": 0.0634,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Maçta Alanyaspor ev sahibi olarak hafifçe önde görünüyor, ancak fark belirgin değil: ev sahibi %44 ihtimalle kazanır, deplasman takımı için %33 var. Toplam gol tarafında 3 veya daha fazla gol %47 olasılıkla beklenirken, en fazla 2 gol %53 ile biraz daha yüksek. Son 5 maçta 14 gol yiyen Alanyaspor'un savunma tablosu ve 3+ gollü maçların %69 isabetle tutturulan geçmiş tahminlerimiz, kontrollü ve az gollü bir senaryodan çok, gollerin çıkabileceği bir maçı akla getiriyor. Beraberlik %29 ile en olası ikinci sonuç; Torku Konyaspor'un galibiyetine kıyasla bu ihtimal dengeli bir alternatif olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "The match sees Alanyaspor slightly ahead as the home side, but the gap is not pronounced: the home team has a 44% probability of winning, while the away side has 33%. On total goals, 3 or more goals is expected with a 47% probability, whereas at most 2 goals is slightly higher at 53%. Alanyaspor's defensive record, conceding 14 goals in their last 5 matches, and our past predictions for matches with 3+ goals, which hit at 69%, suggest a game where goals are likely to come, rather than a controlled, low-scoring scenario. A draw, at 29%, is the second most likely result; compared with Torku Konyaspor's win, this possibility stands out as a balanced alternative.",
+        "es": "En el partido, el Alanyaspor aparece ligeramente por delante como local, pero la diferencia no es marcada: el equipo local gana con una probabilidad del 44%, mientras que para el equipo visitante hay un 33%. En cuanto al total de goles, se espera 3 goles o más con una probabilidad del 47%, mientras que que haya como máximo 2 goles tiene un 53%, algo más alta. La tabla defensiva del Alanyaspor, que ha recibido 14 goles en los últimos 5 partidos, y nuestro historial de pronósticos acertados en el 69% de los partidos con 3 goles o más, sugieren un encuentro en el que podrían llegar goles, más que un escenario controlado y de pocos goles. El empate, con un 29%, es el segundo resultado más probable; frente a la victoria del Torku Konyaspor, esta probabilidad destaca como una alternativa equilibrada.",
+        "de": "Alanyaspor scheint als Heimmannschaft im Spiel leicht im Vorteil zu sein, der Unterschied ist jedoch nicht deutlich: Die Wahrscheinlichkeit, dass der Gastgeber gewinnt, liegt bei 44%, für die Auswärtsmannschaft bei 33%. Bei der Anzahl der Tore wird mit einer Wahrscheinlichkeit von 47% mit 3 oder mehr Toren gerechnet, während höchstens 2 Tore mit 53% etwas wahrscheinlicher sind. Die Abwehrbilanz von Alanyaspor mit 14 Gegentoren in den letzten 5 Spielen sowie unsere bisherigen Einschätzungen für Spiele mit 3 oder mehr Toren, die mit einer Treffergenauigkeit von 69% erfasst wurden, lassen eher an ein Spiel mit möglichen Toren denken als an ein kontrolliertes Spiel mit wenigen Treffern. Ein Unentschieden ist mit 29% das zweitwahrscheinlichste Ergebnis; im Vergleich zum Sieg von Torku Konyaspor erscheint diese Möglichkeit als ausgewogene Alternative.",
+        "fr": "Le match voit Alanyaspor légèrement favori en tant qu'équipe à domicile, mais l'écart n'est pas marqué : l'équipe à domicile a 44 % de probabilité de gagner, contre 33 % pour l'équipe visiteuse. Côté total de buts, la probabilité de 3 buts ou plus est de 47 %, tandis que celle de 2 buts au maximum est légèrement plus élevée, à 53 %. La défense d'Alanyaspor, qui a encaissé 14 buts lors de ses 5 derniers matchs, ainsi que nos précédentes prévisions de matchs à 3 buts ou plus, réussies à 69 %, évoquent davantage un match où les buts pourraient tomber qu'un scénario contrôlé et pauvre en buts. Le match nul, à 29 %, constitue le deuxième résultat le plus probable ; comparé à la victoire de Torku Konyaspor, ce scénario apparaît comme une alternative équilibrée.",
+        "it": "La partita vede l'Alanyaspor leggermente in vantaggio come squadra di casa, ma la differenza non è netta: la squadra di casa ha una probabilità del 44% di vincere, mentre per la squadra in trasferta la probabilità è del 33%. Sul fronte dei gol totali, è previsto che si segnino 3 o più gol con una probabilità del 47%, mentre per al massimo 2 gol la probabilità è leggermente superiore, al 53%. La difesa dell'Alanyaspor, che nelle ultime 5 partite ha subito 14 gol, e le nostre precedenti previsioni sulle partite con 3 o più gol, azzeccate nel 69% dei casi, fanno pensare più a una partita in cui i gol possono arrivare che a uno scenario controllato con pochi gol. Il pareggio, con il 29%, è il secondo esito più probabile; rispetto alla vittoria del Torku Konyaspor, questa probabilità emerge come un'alternativa equilibrata.",
+        "pt": "O Alanyaspor parece levemente à frente como equipe da casa, mas a diferença não é marcante: o time da casa vence com probabilidade de 44%, e a equipe visitante tem 33%. No quesito total de gols, a expectativa de 3 ou mais gols tem probabilidade de 47%, enquanto a de no máximo 2 gols aparece um pouco mais alta, com 53%. A defesa do Alanyaspor, que sofreu 14 gols nos últimos 5 jogos, e o nosso histórico de acerto de 69% nas partidas com 3 ou mais gols fazem o confronto lembrar mais um jogo com gols do que um cenário controlado e de poucos gols. O empate, com 29%, é o segundo resultado mais provável; comparado à vitória do Torku Konyaspor, essa possibilidade se destaca como uma alternativa equilibrada."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
+    {
+      "mac_id": "b50ce64bf9ca7a1a03eb6b9d534e93ce",
+      "lig": "soccer_turkey_super_league",
+      "ev_sahibi": "Çaykur Rizespor",
+      "deplasman": "Kasimpasa SK",
+      "baslama_utc": "2026-11-27T17:00:00Z",
+      "olasiliklar": {
+        "1": 0.4975,
+        "X": 0.2511,
+        "2": 0.2514
+      },
+      "tahmin": "1",
+      "guven": 0.2461,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.563,
+          "alt": 0.437
+        },
+        "tahmin": "ust",
+        "guven": 0.126,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Çaykur Rizespor, %50 olasılıkla kazanmasıyla belirgin biçimde önde görünüyor; Süper Lig arşivimizdeki ev sahibi galibiyet olasılığı %44 olduğundan bu fark dikkat çekici. Toplam gol tarafında 3 veya daha fazla gol %56 ile daha olası bir senaryo; Kasimpasa'nın son 5 maçta 11 gol atması ve Rizespor'un son 5 maçta 7 gol yemesi bu tabloyu destekliyor. Ancak Rizespor'un iç sahada son 3 maçta 8 gol yemesi, ev sahibinin savunmasının bu maçta zor bir sınavla karşılaşabileceğini gösteriyor. Kasimpasa'nın kazanma ihtimali %25 olup düşük bir ihtimal değil; beraberlik ihtimali de aynı düzeyde.",
+      "ai_metinler": {
+        "en": "Çaykur Rizespor appears clearly ahead with a 50% probability of winning; since the home win probability in our Süper Lig archive is 44%, this gap stands out. On total goals, 3 or more goals is the more likely scenario at 56%, supported by Kasımpaşa scoring 11 goals in their last 5 matches and Rizespor conceding 7 goals in their last 5 matches. However, Rizespor conceding 8 goals in their last 3 home matches suggests the home side's defense may face a difficult test in this match. Kasımpaşa's probability of winning is 25%, which is not a low probability, and the probability of a draw is at the same level.",
+        "es": "Çaykur Rizespor, un 50% de probabilidad de ganar, lo que lo sitúa claramente por delante; este margen llama la atención porque en nuestro archivo de la Süper Lig la probabilidad de victoria del equipo local es del 44%. En cuanto al total de goles, los 3 goles o más son un escenario más probable, con un 56%; esta tabla se apoya en que Kasımpaşa ha marcado 11 goles en sus últimos 5 partidos y Rizespor ha encajado 7 goles en esos mismos 5 encuentros. Sin embargo, que Rizespor haya encajado 8 goles en sus últimos 3 partidos como local indica que la defensa del equipo anfitrión podría enfrentarse a una prueba difícil en este partido. La probabilidad de victoria de Kasımpaşa es del 25%, lo que no es una probabilidad baja, y la probabilidad de empate es del mismo nivel.",
+        "de": "Çaykur Rizespor erscheint mit einer Siegwahrscheinlichkeit von 50% deutlich im Vorteil; da die Heimsieg-Wahrscheinlichkeit in unserem Süper-Lig-Archiv bei 44% liegt, fällt dieser Unterschied ins Auge. Bei der Gesamttorzahl ist das Szenario „3 oder mehr Tore“ mit 56% das wahrscheinlichere; dafür sprechen Kasimpasas 11 Tore in den letzten 5 Spielen und die 7 Gegentore Rizespors in den letzten 5 Partien. Allerdings hat Rizespor in den letzten 3 Heimspielen 8 Gegentore kassiert, was darauf hindeutet, dass die Heimabwehr in diesem Spiel vor eine schwierige Aufgabe gestellt werden könnte. Die Wahrscheinlichkeit für einen Sieg Kasimpasas liegt bei 25% und ist damit keineswegs gering; die Wahrscheinlichkeit für ein Unentschieden liegt auf demselben Niveau.",
+        "fr": "Çaykur Rizespor apparaît nettement favori avec une probabilité de victoire de 50 %, un écart notable puisque la probabilité de victoire à domicile dans notre archive de Süper Lig est de 44 %. Côté total de buts, 3 buts ou plus constituent un scénario plus probable à 56 %, appuyé par les 11 buts marqués par Kasimpasa lors de ses 5 derniers matchs et les 7 buts encaissés par Rizespor lors de ses 5 derniers matchs. Toutefois, les 8 buts encaissés par Rizespor à domicile lors de ses 3 derniers matchs indiquent que la défense du club local pourrait être mise à rude épreuve dans cette rencontre. La probabilité de victoire de Kasimpasa est de 25 %, ce qui n'est pas une probabilité faible ; la probabilité de match nul est du même niveau.",
+        "it": "Çaykur Rizespor, una probabilità del 50%, appare nettamente in vantaggio; poiché la probabilità di vittoria interna nel nostro archivio della Süper Lig è del 44%, questa differenza è degna di nota. Per quanto riguarda il totale gol, 3 o più gol rappresentano lo scenario più probabile, con il 56%; a sostegno di questo quadro ci sono gli 11 gol segnati dal Kasimpasa nelle ultime 5 partite e i 7 gol subiti dal Rizespor nelle ultime 5 partite. Tuttavia, il fatto che il Rizespor abbia subito 8 gol nelle ultime 3 partite casalinghe indica che la difesa di casa potrebbe trovarsi di fronte a una prova difficile in questo incontro. La probabilità di vittoria del Kasimpasa è del 25%, quindi non è una possibilità remota; anche la probabilità di pareggio è dello stesso livello.",
+        "pt": "O Çaykur Rizespor aparece claramente à frente, com 50% de probabilidade de vitória; como a probabilidade histórica de vitória do mandante no nosso arquivo da Süper Lig é de 44%, essa diferença chama a atenção. No quesito total de gols, 3 gols ou mais é um cenário mais provável, com 56%, apoiado pelo fato de o Kasimpasa ter marcado 11 gols nos últimos 5 jogos e o Rizespor ter sofrido 7 gols nos últimos 5 jogos. No entanto, o Rizespor sofreu 8 gols nos últimos 3 jogos em casa, o que indica que a defesa da equipe da casa pode enfrentar um teste difícil nesta partida. A probabilidade de vitória do Kasimpasa é de 25%, o que não é baixa, e a probabilidade de empate está no mesmo nível."
+      },
+      "gercek_sonuc": null,
+      "skor": null,
+      "toplam_gol": null,
+      "tuttu": null,
+      "alt_ust_tuttu": null,
+      "ucretsiz": false
+    },
     {
       "mac_id": "14007bc0605bce3bd164b132254ba24c",
       "lig": "soccer_uefa_champs_league",
@@ -10702,70 +10780,6 @@
       "gercek_sonuc": "X",
       "skor": "2-2",
       "toplam_gol": 4,
-      "tuttu": false,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "24400b6372faf9f4996cd5704d707374",
-      "lig": "soccer_germany_bundesliga",
-      "ev_sahibi": "Augsburg",
-      "deplasman": "SC Freiburg",
-      "baslama_utc": "2026-10-31T14:30:00Z",
-      "olasiliklar": {
-        "1": 0.3149,
-        "X": 0.2469,
-        "2": 0.4382
-      },
-      "tahmin": "2",
-      "guven": 0.1233,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.647,
-          "alt": 0.353
-        },
-        "tahmin": "ust",
-        "guven": 0.294,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Bu dengeli maçta deplasman ekibi Freiburg, %44 kazanma olasılığıyla çok hafif önde görünüyor. Yüksek gol beklentisi (%65 ihtimalle 3 veya daha fazla gol) maçın açık ve gollü geçeceğine işaret ediyor. Geçmiş tahminlerimiz benzer güven seviyesinde %51 isabet sağlarken, bu maçta da potansiyel var. Beraberlik %25 ile ikinci en olası sonuç.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "1-2",
-      "toplam_gol": 3,
-      "tuttu": true,
-      "alt_ust_tuttu": true,
-      "ucretsiz": false
-    },
-    {
-      "mac_id": "a7ba9b844f121a4a8777d87b1f863137",
-      "lig": "soccer_germany_bundesliga",
-      "ev_sahibi": "Bayer Leverkusen",
-      "deplasman": "VfB Stuttgart",
-      "baslama_utc": "2026-10-31T14:30:00Z",
-      "olasiliklar": {
-        "1": 0.5321,
-        "X": 0.218,
-        "2": 0.2499
-      },
-      "tahmin": "1",
-      "guven": 0.2822,
-      "alt_ust": {
-        "cizgi": 2.5,
-        "olasiliklar": {
-          "ust": 0.724,
-          "alt": 0.276
-        },
-        "tahmin": "ust",
-        "guven": 0.448,
-        "kaynak_sayisi": 3
-      },
-      "ai_metin": "Bayer Leverkusen, %53 kazanma olasılığıyla bu maçın net favorisi. Maçın %72 ihtimalle 3 veya daha fazla golle geçmesi beklenirken, favori Leverkusen'in gollü bir galibiyet alması olası. Stuttgart'ın son 4 maçının yarısında 3 veya daha fazla gol olması bu senaryoyu destekliyor. Beraberlik %22, Stuttgart galibiyeti ise %25 ihtimalle daha düşük olasılıklar olarak öne çıkıyor.",
-      "ai_metinler": null,
-      "gercek_sonuc": "2",
-      "skor": "2-4",
-      "toplam_gol": 6,
       "tuttu": false,
       "alt_ust_tuttu": true,
       "ucretsiz": false
