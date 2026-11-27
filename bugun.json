@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T08:30:32Z",
+  "guncelleme_utc": "2026-11-27T08:45:40Z",
   "mac_sayisi": 29,
   "maclar": [
     {
@@ -2830,7 +2830,8 @@
         "es": "Como equipo local, Paderborn tiene una ligera ventaja, aunque las probabilidades están equilibradas: 38% para el local, 35% para el visitante y 27% para el empate. Ambos equipos ocupan la zona de descenso a falta de 24 partidos; en los últimos cinco encuentros, Paderborn marcó 5 goles y recibió 8, mientras que el Schalke solo logró marcar 1 y encajó 5, por lo que la tabla de forma juega en contra del Schalke. La razón por la que este partido no aparece en la lista de pronósticos destacados es que las probabilidades están muy próximas entre sí, y aunque la tasa de acierto en pronósticos anteriores se ha mantenido por encima de lo esperado, ese nivel de confianza no se percibe con suficiente claridad.",
         "de": "Paderborn liegt als Gastgeber leicht vorn, doch die Wahrscheinlichkeiten sind ausgeglichen: 38% für den Heimsieg, 35% für den Auswärtssieg und 27% für ein Unentschieden. Beide Teams befinden sich 24 Spiele vor Saisonende in der Abstiegszone; Paderborn hat in den letzten fünf Spielen 5 Tore erzielt und 8 kassiert, während Schalke nur 1 Tor schoss und 5 hinnehmen musste, weshalb die Formkurve gegen Schalke spricht. Dass die Partie nicht auf die Liste der starken Vorhersagen gesetzt wurde, liegt daran, dass die Wahrscheinlichkeiten eng beieinanderliegen und das Vertrauen in diese Einschätzung trotz einer über den Erwartungen liegenden Trefferquote früherer Vorhersagen nicht deutlich genug ausgeprägt ist.",
         "it": "Paderborn gioca in casa e parte leggermente in vantaggio, ma le probabilità sono equilibrate: 38% vittoria casalinga, 35% vittoria ospite e 27% pareggio. Entrambe le squadre si trovano nella zona retrocessione con 24 partite ancora da giocare; negli ultimi cinque incontri Paderborn ha segnato 5 gol e ne ha subiti 8, mentre lo Schalke ha segnato solo 1 gol e ne ha subiti 5, quindi l'andamento di forma gioca a sfavore dello Schalke. La partita non è stata inserita nell'elenco dei pronostici forti perché le probabilità sono molto vicine tra loro e, pur essendo la percentuale di risultati corretti nelle previsioni passate superiore alle attese, questo livello di fiducia non appare sufficientemente marcato per questo incontro.",
-        "pt": "Paderborn, como mandante, tem uma leve vantagem, mas as probabilidades estão equilibradas: 38% para o mandante, 35% para o visitante e 27% para o empate. As duas equipes estão na zona de rebaixamento, com 24 rodadas restantes; nas últimas cinco partidas, o Paderborn marcou 5 gols e sofreu 8, enquanto o Schalke marcou apenas 1 e sofreu 5, o que deixa a tabela de forma desfavorável ao Schalke. A partida não foi incluída na lista de probabilidades fortes porque as probabilidades estão muito próximas umas das outras e, embora a taxa de acerto em previsões anteriores tenha ficado acima do esperado, esse nível de confiança não se mostra suficientemente evidente."
+        "pt": "Paderborn, como mandante, tem uma leve vantagem, mas as probabilidades estão equilibradas: 38% para o mandante, 35% para o visitante e 27% para o empate. As duas equipes estão na zona de rebaixamento, com 24 rodadas restantes; nas últimas cinco partidas, o Paderborn marcou 5 gols e sofreu 8, enquanto o Schalke marcou apenas 1 e sofreu 5, o que deixa a tabela de forma desfavorável ao Schalke. A partida não foi incluída na lista de probabilidades fortes porque as probabilidades estão muito próximas umas das outras e, embora a taxa de acerto em previsões anteriores tenha ficado acima do esperado, esse nível de confiança não se mostra suficientemente evidente.",
+        "fr": "Paderborn joue à domicile et part légèrement favori, mais les probabilités restent équilibrées : 38 % pour l'équipe à domicile, 35 % pour l'équipe visiteuse et 27 % pour le match nul. Les deux équipes sont à la lutte pour éviter la relégation, à 24 matchs de la fin. Paderborn a marqué 5 buts et en a encaissé 8 lors de ses cinq derniers matchs, tandis que Schalke n'a marqué qu'1 but et en a concédé 5, ce qui fait pencher la balance des résultats récents en défaveur de Schalke. Ce match n'a pas été retenu dans la liste des pronostics forts, car les probabilités sont proches les unes des autres et, bien que le taux de réussite des pronostics passés reste supérieur à ce qui était attendu, ce niveau de confiance n'apparaît pas suffisamment marqué pour cette rencontre."
       },
       "form": {
         "ev_sahibi": {
@@ -6846,19 +6847,35 @@
             "baslama_utc": "2026-11-27T19:30:00Z",
             "kod": "1X",
             "olasilik": 0.777,
-            "gerekce": "Werder Bremen'in ev sahibi avantajı ve Borussia Mönchengladbach'ın ligdeki kötü durumu göz önüne alındığında, Werder Bremen'in kaybetmeme olasılığı yüksek.",
+            "gerekce": "Werder Bremen'in ev sahibi avantajı ve Borussia Mönchengladbach'ın ligdeki kötü durumu göz önüne alındığında, ev sahibinin kaybetmeme olasılığı yüksek.",
+            "gerekce_ceviri": {
+              "en": "Given Werder Bremen's home advantage and Borussia Mönchengladbach's poor form in the league, the probability that the home side does not lose is high.",
+              "es": "Teniendo en cuenta la ventaja de jugar en casa del Werder Bremen y la mala situación del Borussia Mönchengladbach en la liga, la probabilidad de que el equipo local no pierda es alta.",
+              "de": "Angesichts des Heimvorteils von Werder Bremen und der schwachen Formlage von Borussia Mönchengladbach in der Liga ist die Wahrscheinlichkeit hoch, dass der Gastgeber nicht verliert.",
+              "fr": "Compte tenu de l'avantage du terrain de Werder Brême et de la mauvaise passe de Borussia Mönchengladbach en championnat, la probabilité que l'équipe à domicile ne perde pas est élevée.",
+              "it": "Dato il vantaggio casalingo del Werder Brema e la difficile situazione del Borussia Mönchengladbach in campionato, la probabilità che la squadra di casa non perda è elevata.",
+              "pt": "Considerando a vantagem de jogar em casa do Werder Bremen e a má fase do Borussia Mönchengladbach no campeonato, a probabilidade de o time da casa não perder é alta."
+            },
             "skor": null,
             "tuttu": null
           },
           {
-            "mac_id": "80c92a163a81b69fef76530221e2edd0",
-            "lig": "soccer_spain_la_liga",
-            "ev_sahibi": "Levante",
-            "deplasman": "Real Racing Club de Santander",
-            "baslama_utc": "2026-11-27T20:00:00Z",
+            "mac_id": "b50ce64bf9ca7a1a03eb6b9d534e93ce",
+            "lig": "soccer_turkey_super_league",
+            "ev_sahibi": "Çaykur Rizespor",
+            "deplasman": "Kasimpasa SK",
+            "baslama_utc": "2026-11-27T17:00:00Z",
             "kod": "1X",
-            "olasilik": 0.7022,
-            "gerekce": "Levante'nin küme hattında olmasına rağmen evinde oynayacak olması ve Real Racing Club de Santander'in ligdeki konumu, Levante'nin kaybetmeme olasılığını artırıyor.",
+            "olasilik": 0.7486,
+            "gerekce": "Çaykur Rizespor'un evindeki performansı ve Kasımpaşa'nın deplasmanlardaki istikrarsızlığı, ev sahibinin kaybetmeme olasılığını güçlendiriyor.",
+            "gerekce_ceviri": {
+              "en": "Çaykur Rizespor's home form and Kasımpaşa's inconsistency away from home strengthen the probability that the home side does not lose.",
+              "es": "El rendimiento de Çaykur Rizespor en casa y la inestabilidad de Kasımpaşa como visitante refuerzan la probabilidad de que el local no pierda.",
+              "de": "Die Heimleistung von Çaykur Rizespor und die Unbeständigkeit von Kasımpaşa auf fremden Plätzen stärken die Wahrscheinlichkeit, dass der Gastgeber nicht verliert.",
+              "fr": "La performance de Çaykur Rizespor à domicile et l'instabilité de Kasımpaşa en déplacement renforcent la probabilité que l'équipe locale ne perde pas.",
+              "it": "Il rendimento casalingo del Çaykur Rizespor e l'instabilità del Kasımpaşa in trasferta rafforzano la probabilità che la squadra di casa non perda.",
+              "pt": "O desempenho do Çaykur Rizespor em casa e a instabilidade do Kasımpaşa fora de casa fortalecem a probabilidade de o mandante não perder."
+            },
             "skor": null,
             "tuttu": null
           },
@@ -6870,27 +6887,35 @@
             "baslama_utc": "2026-11-27T19:45:00Z",
             "kod": "X2",
             "olasilik": 0.7214,
-            "gerekce": "Bologna'nın ligdeki konumu ve Venezia'nın küme hattında olması, Bologna'nın kaybetmeme olasılığını destekliyor.",
+            "gerekce": "Venezia'nın küme hattındaki konumu ve Bologna'nın genel olarak daha iyi form durumu, Bologna'nın kaybetmeme olasılığını artırıyor.",
+            "gerekce_ceviri": {
+              "en": "Venezia's position in the relegation zone and Bologna's generally better form increase the probability that Bologna does not lose.",
+              "es": "La posición de Venezia en la zona de descenso y el mejor momento de forma general del Bologna aumentan la probabilidad de que el Bologna no pierda.",
+              "de": "Die Tabellenposition von Venezia im Abstiegskampf und die insgesamt bessere Formkurve von Bologna erhöhen die Wahrscheinlichkeit, dass Bologna nicht verliert.",
+              "fr": "La position de Venezia dans le classement de la Serie A et la meilleure forme générale de Bologne augmentent la probabilité que Bologne ne perde pas.",
+              "it": "La posizione di Venezia in classifica e la forma generalmente migliore del Bologna aumentano la probabilità che il Bologna non perda.",
+              "pt": "A posição do Venezia na zona de rebaixamento e a melhor forma geral do Bologna aumentam a probabilidade de o Bologna não perder."
+            },
             "skor": null,
             "tuttu": null
           }
         ],
         "elenenler": [
           {
-            "mac_id": "b50ce64bf9ca7a1a03eb6b9d534e93ce",
-            "lig": "soccer_turkey_super_league",
-            "ev_sahibi": "Çaykur Rizespor",
-            "deplasman": "Kasimpasa SK",
-            "baslama_utc": "2026-11-27T17:00:00Z",
-            "neden": "Kasimpasa SK'nin ligdeki üst sıralarda yer alması ve Çaykur Rizespor'un orta sıralarda olması, Kasimpasa'nın kaybetmeme olasılığını düşürüyor."
-          },
-          {
-            "mac_id": "ffcd87d9e41dbce42bd91952669b2e47",
-            "lig": "soccer_turkey_super_league",
-            "ev_sahibi": "Alanyaspor",
-            "deplasman": "Torku Konyaspor",
-            "baslama_utc": "2026-11-27T17:00:00Z",
-            "neden": "Alanyaspor ve Torku Konyaspor'un ligdeki konumları ve son maç performansları, iki takımın da kaybetmeme olasılığını düşürüyor."
+            "mac_id": "80c92a163a81b69fef76530221e2edd0",
+            "lig": "soccer_spain_la_liga",
+            "ev_sahibi": "Levante",
+            "deplasman": "Real Racing Club de Santander",
+            "baslama_utc": "2026-11-27T20:00:00Z",
+            "neden": "Levante'nin küme hattında olması ve Real Racing'in ligdeki üst sıralarda yer alması, belirsizlik yaratıyor.",
+            "neden_ceviri": {
+              "en": "Levante's position near the relegation zone and Real Racing's standing in the upper part of the table create an element of uncertainty.",
+              "es": "El hecho de que el Levante esté en la zona de descenso y que el Real Racing ocupe posiciones altas en la liga genera incertidumbre.",
+              "de": "Dass Levante in der Abstiegszone steht, während Real Racing in der Liga weiter oben platziert ist, sorgt für Unsicherheit.",
+              "fr": "Le fait que Levante soit en zone de relégation et que Real Racing occupe les places du haut du classement crée une certaine incertitude.",
+              "it": "Il fatto che il Levante sia in zona retrocessione e che il Real Racing occupi le posizioni di vertice della classifica crea un certo grado di incertezza.",
+              "pt": "A posição do Levante na zona de rebaixamento e a presença do Real Racing nas primeiras colocações da liga criam incerteza."
+            }
           },
           {
             "mac_id": "40d95e660c301c2d8a5a7a6317017b65",
@@ -6898,7 +6923,31 @@
             "ev_sahibi": "Nottingham Forest",
             "deplasman": "Chelsea",
             "baslama_utc": "2026-11-27T20:00:00Z",
-            "neden": "Nottingham Forest'ın küme hattında olması ve Chelsea'nin ligdeki konumu, Nottingham Forest'ın kaybetmeme olasılığını düşürüyor."
+            "neden": "Nottingham Forest'ın küme hattında olması ve Chelsea'nin önemli eksikleri, maçın sonucunu tahmin etmeyi zorlaştırıyor.",
+            "neden_ceviri": {
+              "en": "Nottingham Forest's position in the relegation zone and Chelsea's significant absences make it difficult to predict the outcome of the match.",
+              "es": "El hecho de que el Nottingham Forest esté en la zona de descenso y las importantes bajas del Chelsea hacen que sea difícil predecir el resultado del partido.",
+              "de": "Die Tatsache, dass Nottingham Forest im Abstiegskampf steckt und Chelsea wichtige Ausfälle hat, macht es schwierig, den Ausgang der Partie vorherzusagen.",
+              "fr": "La présence de Nottingham Forest dans le bas du classement et les absences importantes chez Chelsea rendent le résultat du match difficile à prévoir.",
+              "it": "Il fatto che il Nottingham Forest sia in zona retrocessione e che il Chelsea debba fare a meno di assenze importanti rende difficile prevedere l'esito della partita.",
+              "pt": "O fato de o Nottingham Forest estar na zona de rebaixamento e as importantes ausências do Chelsea tornam difícil prever o resultado da partida."
+            }
+          },
+          {
+            "mac_id": "02ff879cf54f6d1fec2664efee0431db",
+            "lig": "soccer_france_ligue_one",
+            "ev_sahibi": "Brest",
+            "deplasman": "Paris FC",
+            "baslama_utc": "2026-11-27T19:45:00Z",
+            "neden": "Paris FC'nin şampiyonluk yarışı ve Brest'in ligdeki konumu, maçın çekişmeli geçeceğini gösteriyor.",
+            "neden_ceviri": {
+              "en": "Paris FC's title race and Brest's position in the league suggest the match will be a closely contested one.",
+              "es": "La carrera por el título del Paris FC y la posición de Brest en la liga indican que el partido será muy disputado.",
+              "de": "Die Meisterschaftsambitionen von Paris FC und die Position von Brest in der Liga deuten darauf hin, dass das Spiel umkämpft verlaufen wird.",
+              "fr": "Le parcours de Paris FC dans la course au titre et la position de Brest en championnat laissent présager une rencontre serrée.",
+              "it": "Il duello per il titolo del Paris FC e la posizione del Brest in classifica indicano che la partita sarà equilibrata.",
+              "pt": "A corrida pelo título do Paris FC e a posição do Brest na liga indicam que a partida deve ser disputada de forma acirrada."
+            }
           }
         ],
         "tutan": 0,
@@ -6915,7 +6964,15 @@
             "baslama_utc": "2026-11-28T20:00:00Z",
             "kod": "ust",
             "olasilik": 0.727,
-            "gerekce": "Real Madrid'in yüksek beklenen gol ortalaması (3.1) ve son maçlardaki skorları, bu maçta 3 veya daha fazla gol olma olasılığını artırıyor.",
+            "gerekce": "Real Madrid'in evinde yüksek gol ortalaması ve Alavés'in son deplasman maçlarındaki gollü skorları, 3+ gol olasılığını güçlendiriyor.",
+            "gerekce_ceviri": {
+              "en": "Real Madrid's high goal average at home and Alavés' goal-filled scorelines in their recent away matches strengthen the probability of 3 or more goals.",
+              "es": "El promedio alto de goles de Real Madrid en casa y los marcadores con goles de Alavés en sus últimos partidos fuera de casa refuerzan la probabilidad de 3 o más goles.",
+              "de": "Die hohe Torquote von Real Madrid im eigenen Stadion und die torreichen Ergebnisse von Alavés in den letzten Auswärtsspielen stärken die Wahrscheinlichkeit für 3 oder mehr Tore.",
+              "fr": "Le haut total de buts à domicile du Real Madrid et les scores riches en buts de l'Alavés lors de ses derniers matchs à l'extérieur renforcent la probabilité de 3 buts ou plus.",
+              "it": "Le elevate medie gol di Real Madrid in casa e i punteggi ricchi di reti nelle recenti trasferte dell'Alavés rafforzano la probabilità di 3 o più gol.",
+              "pt": "Real Madrid jogando em casa tem média alta de gols, e os recentes placares com gols do Alavés em jogos fora de casa reforçam a probabilidade de 3 ou mais gols."
+            },
             "skor": null,
             "tuttu": null
           },
@@ -6927,19 +6984,35 @@
             "baslama_utc": "2026-11-28T14:30:00Z",
             "kod": "2",
             "olasilik": 0.7571,
-            "gerekce": "Bayern Münih'in ligdeki konumu (2.), şampiyonluk yarışı ve yüksek beklenen gol ortalaması (2.8), galibiyet olasılığını yükseltiyor.",
+            "gerekce": "Bayern Münih'in şampiyonluk yarışı ve yüksek gol ortalaması, Hamburger SV'nin eksiklerine rağmen galibiyet olasılığını artırıyor.",
+            "gerekce_ceviri": {
+              "en": "Bayern Munich's title race and high goal average increase their probability of winning despite Hamburger SV's absences.",
+              "es": "El campeonato del Bayern Múnich y su alto promedio de goles aumentan la probabilidad de victoria, a pesar de las bajas del Hamburger SV.",
+              "de": "Die Meisterschaftsrennen und der hohe Torschnitt von Bayern München erhöhen die Siegwahrscheinlichkeit trotz der Lücken beim Hamburger SV.",
+              "fr": "Le championnat de Bayern Munich et sa forte moyenne de buts augmentent la probabilité de victoire, malgré les absences de Hambourg SV.",
+              "it": "Il vantaggio del Bayern Monaco nella corsa al titolo e la sua alta media gol aumentano la probabilità di vittoria, nonostante le assenze dell'Hamburger SV.",
+              "pt": "O histórico de títulos do Bayern Munique e sua média alta de gols, apesar das ausências do Hamburger SV, aumentam a probabilidade de vitória."
+            },
             "skor": null,
             "tuttu": null
           },
           {
-            "mac_id": "5d838190a8f5932d7fcfbcc26bacdd9c",
-            "lig": "soccer_germany_bundesliga",
-            "ev_sahibi": "VfB Stuttgart",
-            "deplasman": "Eintracht Frankfurt",
+            "mac_id": "40236ab976955345ebd1edb72abf6b22",
+            "lig": "soccer_spain_la_liga",
+            "ev_sahibi": "Elche CF",
+            "deplasman": "Atlético Madrid",
             "baslama_utc": "2026-11-28T17:30:00Z",
-            "kod": "ust",
-            "olasilik": 0.7497,
-            "gerekce": "VfB Stuttgart ve Eintracht Frankfurt'un beklenen gol ortalamaları (2.34-1.56) ve son maçlardaki skorları, 3 veya daha fazla gol olma olasılığını destekliyor.",
+            "kod": "2",
+            "olasilik": 0.6528,
+            "gerekce": "Atlético Madrid'in ligdeki konumu ve Elche CF'nin küme hattında olması, deplasmanda galibiyet olasılığını yüksek kılıyor.",
+            "gerekce_ceviri": {
+              "en": "Atlético Madrid's position in the league and Elche CF's situation near the relegation zone make an away win a high-probability outcome.",
+              "es": "El posicionamiento del Atlético Madrid en la liga y el hecho de que el Elche CF esté en la zona de descenso hacen que la probabilidad de victoria visitante sea alta.",
+              "de": "Atlético Madrids Position in der Liga und die Tatsache, dass Elche CF im Abstiegskampf steckt, machen einen Auswärtssieg wahrscheinlich.",
+              "fr": "Le classement d'Atlético Madrid en championnat et la position d'Elche CF, proche de la zone de relégation, rendent la probabilité d'une victoire à l'extérieur élevée.",
+              "it": "L'attuale posizione di classifica dell'Atlético Madrid e il fatto che l'Elche CF sia in zona retrocessione rendono alta la probabilità di una vittoria in trasferta.",
+              "pt": "A posição do Atlético Madrid na liga e o fato de o Elche CF estar na zona de rebaixamento tornam a probabilidade de vitória fora de casa bastante alta."
+            },
             "skor": null,
             "tuttu": null
           }
@@ -6951,7 +7024,15 @@
             "ev_sahibi": "Real Betis",
             "deplasman": "Rayo Vallecano",
             "baslama_utc": "2026-11-28T13:00:00Z",
-            "neden": "Real Betis'in ligdeki konumu iyi olsa da, Rayo Vallecano'nun küme hattında olması ve önemli eksikleri maçın gidişatını etkileyebilir."
+            "neden": "Rayo Vallecano'nun küme hattında olması ve önemli eksikleri, Real Betis'in kaybetmeme olasılığını düşürüyor.",
+            "neden_ceviri": {
+              "en": "Rayo Vallecano's position on the relegation line and their significant absences are lowering Real Betis's probability of not losing.",
+              "es": "El hecho de que el Rayo Vallecano esté en la zona de descenso y tenga importantes bajas reduce la probabilidad de que el Real Betis no pierda.",
+              "de": "Rayo Vallecanos Platzierung im Abstiegsbereich und seine wichtigen Ausfälle verringern die Wahrscheinlichkeit, dass Real Betis nicht verliert.",
+              "fr": "Le fait que Rayo Vallecano se trouve dans la zone de relégation et compte des absences importantes réduit la probabilité que Real Betis ne perde pas.",
+              "it": "Il fatto che il Rayo Vallecano sia nella zona retrocessione e abbia assenze importanti riduce la probabilità che il Real Betis non perda.",
+              "pt": "O fato de o Rayo Vallecano estar na zona de rebaixamento e ter importantes ausências reduz a probabilidade de o Real Betis não perder."
+            }
           },
           {
             "mac_id": "9d23f6ad21946dd258869ebc22236cf0",
@@ -6959,7 +7040,15 @@
             "ev_sahibi": "Ipswich Town",
             "deplasman": "Aston Villa",
             "baslama_utc": "2026-11-28T17:30:00Z",
-            "neden": "Ipswich Town'ın küme hattında olması ve Aston Villa'nın ligdeki konumu, maçın sonucunu belirsiz kılabilir."
+            "neden": "Ipswich Town'ın küme hattında olması ve Aston Villa'nın eksikleri, Aston Villa'nın kaybetmeme olasılığını düşürüyor.",
+            "neden_ceviri": {
+              "en": "Ipswich Town's position in the relegation zone and Aston Villa's absentees reduce Aston Villa's probability of not losing.",
+              "es": "El hecho de que el Ipswich Town esté en la zona de descenso y las bajas del Aston Villa reducen la probabilidad de que el Aston Villa no pierda.",
+              "de": "Ipswich Towns Platz im Abstiegskampf und die Ausfälle bei Aston Villa senken die Wahrscheinlichkeit, dass Aston Villa ungeschlagen bleibt.",
+              "fr": "Le fait qu'Ipswich Town soit dans la zone de relégation et que Aston Villa doive composer avec des absences réduit la probabilité que Aston Villa ne perde pas.",
+              "it": "Il fatto che l'Ipswich Town sia nella zona retrocessione e l'assenza di alcuni giocatori dell'Aston Villa riducono la probabilità che l'Aston Villa non perda.",
+              "pt": "A presença do Ipswich Town na zona de rebaixamento e os desfalques do Aston Villa reduzem a probabilidade de o Aston Villa não perder."
+            }
           },
           {
             "mac_id": "ab87184803a63f7b679f1d12b01c3271",
@@ -6967,7 +7056,15 @@
             "ev_sahibi": "Manchester United",
             "deplasman": "Brentford",
             "baslama_utc": "2026-11-28T15:00:00Z",
-            "neden": "Manchester United'ın küme hattında olması ve önemli eksikleri, Brentford karşısında galibiyet olasılığını düşürebilir."
+            "neden": "Manchester United'ın küme hattında olması ve önemli eksikleri, Brentford karşısında kaybetmeme olasılığını düşürüyor.",
+            "neden_ceviri": {
+              "en": "Manchester United's place in the relegation zone and their key absences reduce the probability of them avoiding defeat against Brentford.",
+              "es": "El hecho de que el Manchester United esté en la zona de descenso y tenga importantes bajas reduce la probabilidad de que no pierda ante el Brentford.",
+              "de": "Die Tatsache, dass Manchester United in der Abwehr wichtige Ausfälle hat und die Mannschaft in dieser Konstellation spielt, senkt die Wahrscheinlichkeit, dass Manchester United gegen Brentford nicht verliert.",
+              "fr": "Le fait que Manchester United soit dans la zone de relégation et qu'il manque plusieurs joueurs importants réduit la probabilité qu'il ne perde pas face à Brentford.",
+              "it": "Il fatto che il Manchester United sia coinvolto nella lotta per non retrocedere e abbia importanti assenze riduce la probabilità che non perda contro il Brentford.",
+              "pt": "O fato de o Manchester United estar na zona de rebaixamento e ter desfalques importantes reduz a probabilidade de não perder para o Brentford."
+            }
           }
         ],
         "tutan": 0,
