@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-26T22:30:42Z",
+  "guncelleme_utc": "2026-11-27T05:37:17Z",
   "mac_sayisi": 29,
   "maclar": [
     {
@@ -191,16 +191,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-21T05:37:21Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.3945,
           "X": 0.2794,
           "2": 0.3261
         },
         "son": {
-          "1": 0.3757,
-          "X": 0.2897,
-          "2": 0.3346
+          "1": 0.3492,
+          "X": 0.3021,
+          "2": 0.3486
         }
       },
       "baglam": {
@@ -416,16 +416,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-21T05:37:21Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.4202,
           "X": 0.2621,
           "2": 0.3176
         },
         "son": {
-          "1": 0.4975,
-          "X": 0.2511,
-          "2": 0.2514
+          "1": 0.4899,
+          "X": 0.2533,
+          "2": 0.2568
         }
       },
       "baglam": {
@@ -638,17 +638,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.541,
-          "X": 0.2286,
-          "2": 0.2305
+          "1": 0.5416,
+          "X": 0.2276,
+          "2": 0.2308
         },
         "son": {
-          "1": 0.5509,
-          "X": 0.2261,
-          "2": 0.223
+          "1": 0.5567,
+          "X": 0.2241,
+          "2": 0.2192
         }
       },
       "baglam": {
@@ -883,16 +883,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
           "1": 0.2594,
           "X": 0.2636,
           "2": 0.477
         },
         "son": {
-          "1": 0.2787,
-          "X": 0.2858,
-          "2": 0.4356
+          "1": 0.3125,
+          "X": 0.292,
+          "2": 0.3955
         }
       },
       "baglam": {
@@ -1114,17 +1114,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.306,
-          "X": 0.2714,
-          "2": 0.4225
+          "1": 0.3061,
+          "X": 0.2716,
+          "2": 0.4223
         },
         "son": {
-          "1": 0.294,
-          "X": 0.2753,
-          "2": 0.4307
+          "1": 0.2859,
+          "X": 0.2779,
+          "2": 0.4362
         }
       },
       "baglam": {
@@ -1347,16 +1347,16 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.3416,
           "X": 0.2683,
           "2": 0.3901
         },
         "son": {
-          "1": 0.3755,
-          "X": 0.2763,
-          "2": 0.3482
+          "1": 0.3749,
+          "X": 0.2806,
+          "2": 0.3445
         }
       },
       "baglam": {
@@ -1577,17 +1577,17 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4558,
-          "X": 0.2464,
-          "2": 0.2978
+          "1": 0.4539,
+          "X": 0.2478,
+          "2": 0.2983
         },
         "son": {
-          "1": 0.4575,
-          "X": 0.2447,
-          "2": 0.2978
+          "1": 0.4728,
+          "X": 0.2411,
+          "2": 0.286
         }
       },
       "baglam": {
@@ -1620,13 +1620,31 @@
       "ev_sahibi": "Samsunspor",
       "deplasman": "Genclerbirligi SK",
       "baslama_utc": "2026-11-28T13:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5035,
+        "X": 0.2615,
+        "2": 0.2351
+      },
+      "tahmin": "1",
+      "guven": 0.242,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5158,
+          "alt": 0.4842
+        },
+        "tahmin": "ust",
+        "guven": 0.0316,
+        "kaynak_sayisi": 14
+      },
+      "ai_metin": "Samsunspor, ev sahibi olarak %50 kazanma olasılığıyla belirgin biçimde önde; ancak Samsunspor'un ligde 17. sırada olması ve son 5 maçta yalnızca 1 galibiyet alması bu üstünlüğü dengeliyor. Genclerbirligi'nin 14 puanla 12. sırada ve son 5 maçta 2 galibiyetle daha dengeli bir formda olması, maçın %24'lük deplasman olasılığını ve 3 veya daha fazla gol ihtimalini (%52) güçlendiriyor. Bu maç, olasılık aralığı ve eleme koşulları açısından uygun olduğu için güçlü tahmin listesine alındı.",
+      "ai_metinler": {
+        "en": "Samsunspor, as the home side, is clearly ahead with a 50% probability of winning; however, Samsunspor sitting 17th in the league and winning only 1 of its last 5 matches offsets that advantage. Genclerbirligi, with 14 points in 12th place and 2 wins in its last 5 matches, is in more balanced form, which strengthens its 24% probability of an away win and the probability of 3 or more goals (52%). This match was placed on the strong probability list because it fits the probability range and elimination criteria.",
+        "es": "Samsunspor, como equipo local, tiene una clara ventaja con una probabilidad de victoria del 50%; sin embargo, el hecho de que Samsunspor ocupe el 17.º puesto en la liga y haya ganado solo 1 partido en sus últimos 5 encuentros equilibra esa ventaja. Genclerbirligi, que es 12.º con 14 puntos y ha ganado 2 partidos en sus últimos 5, muestra una forma más equilibrada, lo que refuerza la probabilidad de victoria visitante del 24% y la probabilidad de 3 goles o más (52%). Este partido se incluyó en la lista de pronósticos destacados por ser adecuado en cuanto al rango de probabilidades y a las condiciones de selección.",
+        "de": "Samsunspor ist als Gastgeber mit einer Siegwahrscheinlichkeit von 50% deutlich im Vorteil; doch dass Samsunspor in der Liga auf Platz 17 steht und in den letzten 5 Spielen nur 1 Sieg geholt hat, gleicht diese Überlegenheit aus. Genclerbirligi, das mit 14 Punkten auf Platz 12 steht und in den letzten 5 Spielen 2 Siege geholt hat, zeigt eine ausgeglichenere Form, was die Auswärtswahrscheinlichkeit von 24% und die Wahrscheinlichkeit für 3 oder mehr Tore (52%) stärkt. Diese Partie wurde in die Liste der starken Prognosen aufgenommen, da sie hinsichtlich Wahrscheinlichkeitsspanne und Ausschlusskriterien geeignet ist.",
+        "pt": "Samsunspor, em casa, está claramente na frente com probabilidade de 50% de vitória; porém, o fato de o Samsunspor estar em 17º lugar na liga e ter vencido apenas 1 partida nos últimos 5 jogos equilibra essa vantagem. O Genclerbirligi, em 12º lugar com 14 pontos e com 2 vitórias nos últimos 5 jogos, apresenta uma forma mais equilibrada, o que reforça a probabilidade de vitória fora de casa de 24% e a probabilidade de 3 gols ou mais (52%). Este jogo foi incluído na lista de destaques, pois se encaixa bem na faixa de probabilidade e nas condições de seleção."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1783,20 +1801,47 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-22T05:37:26Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.4914,
           "X": 0.2635,
           "2": 0.2451
         },
         "son": {
-          "1": 0.504,
-          "X": 0.2606,
-          "2": 0.2354
+          "1": 0.5035,
+          "X": 0.2615,
+          "2": 0.2351
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 17,
+          "puan": 7,
+          "kalan_mac": 22,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Celil Yüksel",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 12,
+          "puan": 14,
+          "kalan_mac": 22,
+          "durum": null
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -1805,13 +1850,33 @@
       "ev_sahibi": "Real Betis",
       "deplasman": "Rayo Vallecano",
       "baslama_utc": "2026-11-28T13:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.5982,
+        "X": 0.219,
+        "2": 0.1828
+      },
+      "tahmin": "1",
+      "guven": 0.3792,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6061,
+          "alt": 0.3939
+        },
+        "tahmin": "ust",
+        "guven": 0.2122,
+        "kaynak_sayisi": 5
+      },
+      "ai_metin": "Real Betis, ligde 4. sıradaki konumu ve son 5 maçta 3 galibiyet alan formuyla belirgin favori; ev sahibi olarak iç sahada da 4 galibiyet almış olması bu üstünlüğü destekliyor. Rayo Vallecano ise 16. sırada, küme düşme hattına yakın ve Augusto Batalla'nın yokluğuyla deplasmanda zor bir görev bekliyor. Yine de olasılık, 3 veya daha fazla gol ihtimalinin %61 olduğu açık bir gollü tabloya işaret ediyor; bu maç güçlü tahmin listesine, olasılığın seçim aralığında olması ve eleme koşullarının hiçbirinin bulunmaması nedeniyle alındı.",
+      "ai_metinler": {
+        "en": "Real Betis is the clear favorite, sitting 4th in the league and bringing a form of 3 wins from its last 5 matches; having also won 4 home games supports this advantage. Rayo Vallecano, on the other hand, is 16th, close to the relegation zone, and faces a difficult away task without Augusto Batalla. Even so, the probability points to a clearly high-scoring picture, with a 61% probability of 3 or more goals. This match was included in the strong prediction list because the probability falls within the selection range and none of the elimination conditions apply.",
+        "es": "Real Betis, liga tablosunda 4. sıradaki konumu ve son 5 maçta 3 galibiyet alan formuyla belirgin favori; ev sahibi olarak iç sahada da 4 galibiyet almış olması bu üstünlüğü destekliyor. Rayo Vallecano ise 16. sırada, küme düşme hattına yakın ve Augusto Batalla'nın yokluğuyla deplasmanda zor bir görev bekliyor. Yine de olasılık, 3 veya daha fazla gol ihtimalinin %61 olduğu açık bir gollü tabloya işaret ediyor; bu maç güçlü tahmin listesine, olasılığın seçim aralığında olması ve eleme koşullarının hiçbirinin bulunmaması nedeniyle alındı.",
+        "de": "Real Betis ist mit dem 4. Tabellenplatz in der Liga und einer Form von 3 Siegen aus den letzten 5 Spielen klarer Favorit; die 4 Heimsiege im eigenen Stadion untermauern diese Überlegenheit. Rayo Vallecano hingegen steht auf dem 16. Platz nahe der Abstiegszone und muss ohne Augusto Batalla auswärts eine schwierige Aufgabe bewältigen. Dennoch deutet die Wahrscheinlichkeit auf ein torreiches Spiel hin: Die Wahrscheinlichkeit für 3 oder mehr Tore liegt bei 61%. Diese Partie wurde in die Liste der starken Prognosen aufgenommen, da die Wahrscheinlichkeit im ausgewählten Bereich liegt und keine der Ausschlussbedingungen zutrifft.",
+        "fr": "Le Real Betis, qui occupe la 4e place du championnat et affiche une forme de 3 victoires lors de ses 5 derniers matchs, fait figure de favori net ; ses 4 victoires à domicile renforcent encore cette supériorité. Le Rayo Vallecano, 16e, proche de la zone de relégation, s'annonce pour sa part comme une tâche difficile en déplacement, d'autant plus avec l'absence d'Augusto Batalla. Néanmoins, la probabilité de 3 buts ou plus atteint 61 %, ce qui indique un match nettement riche en buts ; cette rencontre a été retenue dans la liste des pronostics forts, la probabilité se situant dans la plage de sélection et aucune condition d'élimination n'étant présente.",
+        "it": "Il Real Betis, che occupa il 4° posto in classifica e arriva da 3 vittorie nelle ultime 5 partite, è nettamente favorito; anche le 4 vittorie ottenute in casa a sostegno di questa superiorità. Il Rayo Vallecano è invece 16°, vicino alla zona retrocessione, e in trasferta dovrà affrontare un compito difficile senza Augusto Batalla. Tuttavia, la probabilità indica uno scenario ricco di gol, con una probabilità del 61% di 3 gol o più; questa partita è stata inserita nell'elenco delle previsioni forti perché la probabilità rientra nell'intervallo selezionato e non sussiste alcuna delle condizioni di esclusione.",
+        "pt": "Real Betis, ligde 4. sıradaki konumu ve son 5 maçta 3 galibiyet alan formuyla belirgin favori; ev sahibi olarak iç sahada da 4 galibiyet almış olması bu üstünlüğü destekliyor. Rayo Vallecano ise 16. sırada, küme düşme hattına yakın ve Augusto Batalla'nın yokluğuyla deplasmanda zor bir görev bekliyor. Yine de olasılık, 3 veya daha fazla gol ihtimalinin %61 olduğu açık bir gollü tabloya işaret ediyor; bu maç güçlü tahmin listesine, olasılığın seçim aralığında olması ve eleme koşullarının hiçbirinin bulunmaması nedeniyle alındı."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -1967,21 +2032,48 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.6282,
-          "X": 0.2078,
-          "2": 0.164
+          "1": 0.628,
+          "X": 0.2076,
+          "2": 0.1644
         },
         "son": {
-          "1": 0.6014,
-          "X": 0.2184,
-          "2": 0.1802
+          "1": 0.5982,
+          "X": 0.219,
+          "2": 0.1828
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 4,
+          "puan": 27,
+          "kalan_mac": 25,
+          "durum": null
+        },
+        "deplasman": {
+          "sira": 16,
+          "puan": 12,
+          "kalan_mac": 26,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Augusto Batalla",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -1990,13 +2082,33 @@
       "ev_sahibi": "Frosinone",
       "deplasman": "Parma",
       "baslama_utc": "2026-11-28T14:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6387,
+        "X": 0.1923,
+        "2": 0.169
+      },
+      "tahmin": "1",
+      "guven": 0.4464,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6866,
+          "alt": 0.3134
+        },
+        "tahmin": "ust",
+        "guven": 0.3732,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Frosinone, ligde 7. sırada ve lidere 12 puan yakın olmasına karşın ev sahibi olarak belirgin biçimde önde; son üç iç saha maçını kazanıp 11 gol atması bu üstünlüğü destekliyor. Parma ise 17. sırada, küme düşme hattında ve deplasmanda son üç maçta yalnızca bir galibiyet aldı; David Romero'nun yokluğu da ev sahibi lehine tabloyu güçlendiriyor. Bu maç, olasılık aralığı ve eleme koşullarından hiçbirine takılmadığı için güçlü tahmin listesinde yer alıyor.",
+      "ai_metinler": {
+        "en": "Frosinone, ranked 7th in the league and only 12 points behind the leader, still stands out clearly as the home side; their last three home matches produced three wins and 11 goals, which supports this advantage. Parma, in 17th place and in the relegation zone, have taken just one win from their last three away matches, and the absence of David Romero further strengthens the picture in the host's favour. Because this match passes the probability range and elimination criteria without any issues, it is included in the strong probability list.",
+        "es": "Frosinone, la liga, ocupa el 7.º puesto y, aunque está a solo 12 puntos del líder, es claramente superior como equipo local; sus últimas tres victorias en casa, con 11 goles anotados, respaldan esa ventaja. Parma, por su parte, ocupa el 17.º puesto, en la zona de descenso, y en sus últimos tres partidos como visitante solo ha logrado una victoria; además, la ausencia de David Romero fortalece aún más la posición del equipo local. Este partido figura en la lista de pronósticos sólidos porque no incumple ninguno de los criterios de probabilidad ni de las condiciones de eliminación.",
+        "de": "Frosinone belegt in der Liga Platz 7 und liegt nur 12 Punkte hinter dem Spitzenreiter, doch als Heimmannschaft ist es deutlich favorisiert; die letzten drei Heimspiele wurden gewonnen, dabei fielen 11 Tore. Parma steht auf Platz 17, also in der Abstiegszone, und hat auswärts in den letzten drei Spielen nur einen Sieg geholt; auch das Fehlen von David Romero stärkt die Lage zugunsten des Gastgebers. Da diese Partie weder bei der Wahrscheinlichkeitsspanne noch bei den Ausschlusskriterien auffällt, steht sie auf der Liste der starken Prognosen.",
+        "fr": "Frosinone, 7e du championnat et à seulement 12 points du leader, n'en reste pas moins nettement favori en tant qu'équipe à domicile ; sa victoire lors des trois derniers matchs à domicile, avec 11 buts marqués, renforce cet avantage. Parma, de son côté, occupe la 17e place, en zone de relégation, et n'a remporté qu'une seule victoire lors de ses trois derniers déplacements ; l'absence de David Romero accentue encore l'avantage de l'équipe locale. Ce match figure dans la liste des pronostics forts, car il ne présente aucun des critères d'exclusion ni aucun écart jugé hors de la plage de probabilité retenue.",
+        "it": "Frosinone, al 7° posto della classifica e nonostante sia a soli 12 punti dalla vetta, è nettamente favorito in quanto squadra di casa; a sostenere questa superiorità c'è il fatto che nelle ultime tre partite casalinghe ha vinto tutte e tre e segnato 11 gol. Il Parma, invece, è 17° in classifica, in zona retrocessione, e in trasferta ha ottenuto una sola vittoria nelle ultime tre gare; anche l'assenza di David Romero rafforza il quadro a favore dei padroni di casa. Questa partita rientra nell'elenco dei pronostici più solidi, poiché non rientra in nessuno dei criteri di intervallo di probabilità e di esclusione.",
+        "pt": "Frosinone, a 7ª posição da liga e apenas 12 pontos atrás do líder, mesmo assim aparece nitidamente à frente como mandante; a vitória nos últimos três jogos em casa e os 11 gols marcados sustentam essa vantagem. Já o Parma ocupa a 17ª posição, na zona de rebaixamento, e fora de casa venceu apenas uma das últimas três partidas; a ausência de David Romero também fortalece o quadro favorável ao mandante. Esta partida está na lista de previsões fortes, pois não se enquadra em nenhuma das faixas de probabilidade nem nas condições de eliminação."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2153,20 +2265,54 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
           "1": 0.6335,
           "X": 0.1993,
           "2": 0.1672
         },
         "son": {
-          "1": 0.64,
-          "X": 0.1931,
-          "2": 0.1669
+          "1": 0.6387,
+          "X": 0.1923,
+          "2": 0.169
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 7,
+          "puan": 20,
+          "kalan_mac": 26,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Antonio Raimondo",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 17,
+          "puan": 8,
+          "kalan_mac": 26,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "David Romero",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": true,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -2175,13 +2321,33 @@
       "ev_sahibi": "1. FC Köln",
       "deplasman": "Elversberg",
       "baslama_utc": "2026-11-28T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4785,
+        "X": 0.248,
+        "2": 0.2734
+      },
+      "tahmin": "1",
+      "guven": 0.2051,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6017,
+          "alt": 0.3983
+        },
+        "tahmin": "ust",
+        "guven": 0.2034,
+        "kaynak_sayisi": 6
+      },
+      "ai_metin": "Köln ev sahibi olarak belirgin biçimde önde görünüyor; ancak Skhiri ve Dallinga'nın eksikliği ve son beş maçtaki zayıf form (3 gol attı, 5 gol yedi) bu üstünlüğü sınırlıyor. Elversberg'in son maçlardaki gol üretimi ve ligde 9. sıradaki konumu, maçın açık geçebileceğine işaret ediyor. Bu maç, eksik oyuncular ve belirsiz kadro nedeniyle güçlü tahmin listesine alınmadı.",
+      "ai_metinler": {
+        "en": "Köln is clearly appearing ahead as the home side; however, the absence of Skhiri and Dallinga and the weak recent form (3 goals scored, 5 conceded in the last five matches) limit that advantage. Elversberg's goal output in recent matches and their 9th-place position in the league suggest the match could be open. This match has not been included in the strong probability list due to the missing players and an uncertain squad.",
+        "es": "Colonia aparece claramente como favorito como equipo local; sin embargo, las ausencias de Skhiri y Dallinga y su débil forma en los últimos cinco partidos (3 goles marcados, 5 recibidos) limitan esa ventaja. La producción goleadora del Elversberg en los últimos encuentros y su 9.º puesto en la liga indican que el partido podría ser abierto. Este encuentro no ha sido incluido en la lista de pronósticos destacados debido a los jugadores ausentes y a la incertidumbre en la alineación.",
+        "de": "Köln erscheint als Gastgeber klar im Vorteil; allerdings schränken das Fehlen von Skhiri und Dallinga sowie die schwache Form der letzten fünf Spiele (3 Tore erzielt, 5 Tore kassiert) diesen Vorteil ein. Die Torproduktion von Elversberg in den letzten Spielen und der 9. Tabellenplatz in der Liga deuten darauf hin, dass die Partie offen verlaufen könnte. Diese Begegnung wurde aufgrund der fehlenden Spieler und des unsicheren Kaders nicht in die Liste der starken Empfehlungen aufgenommen.",
+        "fr": "Cologne apparaît nettement favori à domicile ; cependant, l'absence de Skhiri et de Dallinga, ainsi qu'une mauvaise forme sur les cinq derniers matchs (3 buts marqués, 5 buts encaissés), limitent cet avantage. La production offensive récente d'Elversberg et sa 9e place en championnat laissent penser que la rencontre pourrait être ouverte. Ce match n'a pas été retenu dans la liste des pronostics solides en raison des joueurs absents et d'un effectif incertain.",
+        "it": "Colonia appare chiaramente favorita in casa; tuttavia, l'assenza di Skhiri e Dallinga e il deludente rendimento nelle ultime cinque partite (3 gol segnati, 5 subiti) ne limitano il vantaggio. La produzione offensiva recente dell'Elversberg e la sua 9ª posizione in classifica indicano che la partita potrebbe essere aperta. Questo incontro non è stato inserito nell'elenco delle previsioni più solide, a causa dei giocatori assenti e di una formazione incerta.",
+        "pt": "Köln, ev sahibi olarak belirgin şekilde öne çıkıyor; ancak Skhiri ve Dallinga'nın yokluğu ile son beş maçtaki zayıf form (3 gol attı, 5 gol yedi) bu üstünlüğü sınırlıyor. Elversberg'in son maçlardaki gol üretimi ve ligde 9. sırada olması, maçın açık geçebileceğine işaret ediyor. Eksik oyuncular ve belirsiz kadro nedeniyle bu maç, güçlü öngörü listesine alınmadı."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2337,21 +2503,66 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.482,
-          "X": 0.2407,
-          "2": 0.2773
+          "1": 0.4804,
+          "X": 0.2435,
+          "2": 0.2762
         },
         "son": {
-          "1": 0.4787,
-          "X": 0.2472,
-          "2": 0.2741
+          "1": 0.4785,
+          "X": 0.248,
+          "2": 0.2734
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "onemli_eksikler": [
+            {
+              "ad": "Ellyes Skhiri",
+              "supheli": false,
+              "tur": "injury"
+            },
+            {
+              "ad": "Thijs Dallinga",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 9,
+          "puan": 13,
+          "kalan_mac": 24,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Noah Darvich",
+              "supheli": true,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": [
+          {
+            "kod": "onemli_eksikler",
+            "takim": "ev_sahibi",
+            "oyuncular": [
+              "Ellyes Skhiri",
+              "Thijs Dallinga"
+            ],
+            "sayi": 2
+          }
+        ],
+        "elenme_nedeni": "Önemli eksikler: 1. FC Köln kadrosunda Ellyes Skhiri, Thijs Dallinga yok ya da şüpheli",
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -2360,13 +2571,33 @@
       "ev_sahibi": "Hamburger SV",
       "deplasman": "Bayern Munich",
       "baslama_utc": "2026-11-28T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1002,
+        "X": 0.1427,
+        "2": 0.7571
+      },
+      "tahmin": "2",
+      "guven": 0.6144,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7237,
+          "alt": 0.2763
+        },
+        "tahmin": "ust",
+        "guven": 0.4474,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Bayern Munich, deplasmanda belirgin favori: %76 galibiyet olasılığıyla Hamburger SV'ye karşı çok daha güçlü bir konumda. Bayern'in ligde ikinci sırada, liderle arasında yalnızca 2 puan bulunması ve deplasmanda son 5 maçta 3 galibiyet alması bu üstünlüğü destekliyor. Hamburger SV'nin Lokonga ve Poulsen'in yokluğu ile 12. sırada olması, ev sahibinin zorlanabileceğine işaret ediyor. Maç, 3 veya daha fazla gol olasılığının %72 olmasıyla yüksek skorlu bir karşılaşma beklentisi taşıyor; bu tahmin, geçmiş benzer güven seviyesindeki tahminlerin isabetiyle birlikte güçlü tahmin listesine alındı.",
+      "ai_metinler": {
+        "en": "Bayern Munich are clear favourites away from home: with a 76% probability of winning, they hold a much stronger position against Hamburger SV. Bayern's second place in the league, just 2 points behind the leader, and 3 wins in their last 5 away matches support this advantage. Hamburger SV sitting 12th, with Lokonga and Poulsen unavailable, suggests the home side could struggle. The match carries an expectation of a high-scoring encounter, with a 72% probability of 3 or more goals; this prediction has been added to the strong picks list alongside the track record of past predictions at a similar confidence level.",
+        "es": "Bayern Múnich, como visitante, es el claro favorito: con una probabilidad de victoria del 76%, se encuentra en una posición mucho más sólida frente al Hamburger SV. El segundo puesto del Bayern en la liga, con solo 2 puntos de diferencia con el líder, y sus 3 victorias en los últimos 5 partidos fuera de casa respaldan esta superioridad. La ausencia de Lokonga y Poulsen en el Hamburger SV, que ocupa el 12.º puesto, apunta a que el equipo local podría tener dificultades. El partido presenta la expectativa de un encuentro con goles, con una probabilidad del 72% de 3 goles o más; esta predicción se incluyó en la lista de predicciones fuertes junto con el acierto de pronósticos previos de nivel de confianza similar.",
+        "de": "Bayern München ist auswärts der klare Favorit: Mit einer Siegwahrscheinlichkeit von 76 % steht die Mannschaft gegen den Hamburger SV deutlich stärker da. Bayerns Platz zwei in der Liga, nur 2 Punkte hinter dem Spitzenreiter, und 3 Siege aus den letzten 5 Auswärtsspielen untermauern diese Überlegenheit. Dass der Hamburger SV ohne Lokonga und Poulsen auf Platz 12 steht, deutet darauf hin, dass der Gastgeber Schwierigkeiten haben könnte. Die Begegnung verspricht ein torreiches Spiel: Die Wahrscheinlichkeit für 3 oder mehr Tore liegt bei 72 %. Diese Einschätzung wurde zusammen mit der Trefferquote vergleichbarer Einschätzungen mit ähnlichem Vertrauensniveau in die Liste der starken Empfehlungen aufgenommen.",
+        "fr": "Bayern Munich, à l'extérieur, est le favori net : avec une probabilité de victoire de 76 %, il se trouve dans une position bien plus forte face au Hamburger SV. La deuxième place de Bayern en championnat, à seulement 2 points du leader, et ses 3 victoires en déplacement lors des 5 derniers matchs renforcent cette supériorité. Le Hamburger SV, classé 12e en l'absence de Lokonga et Poulsen, laisse penser que l'équipe locale pourrait éprouver des difficultés. La rencontre laisse entrevoir un match à nombreux buts, avec une probabilité de 3 buts ou plus de 72 % ; cette estimation, associée à la précision des pronostics similaires passés à niveau de confiance comparable, a été retenue dans la sélection des pronostics forts.",
+        "it": "Bayern Monaco, trasferta, è il chiaro favorito: con una probabilità di vittoria del 76% si trova in una posizione di gran lunga superiore rispetto all'Hamburger SV. Il secondo posto del Bayern in campionato, con soli 2 punti di distacco dalla vetta, e le 3 vittorie nelle ultime 5 partite in trasferta rafforzano questa superiorità. Il fatto che l'Hamburger SV sia 12° in classifica, senza Lokonga e Poulsen, indica che il padrone di casa potrebbe incontrare difficoltà. La partita presenta la prospettiva di un incontro ad alto punteggio, con una probabilità del 72% di 3 o più gol; questa previsione è stata inserita nell'elenco delle previsioni più solide, insieme alla precisione di previsioni passate con un livello di fiducia simile.",
+        "pt": "Bayern Munich, visitante, é claramente o favorito: com probabilidade de 76% de vitória, está em uma posição muito mais forte contra o Hamburger SV. Estar em segundo lugar na liga, a apenas 2 pontos do líder, e ter conquistado 3 vitórias nos últimos 5 jogos fora de casa sustentam essa superioridade. O Hamburger SV, em 12º lugar e sem Lokonga e Poulsen, sinaliza que o anfitrião pode ter dificuldades. A partida tem expectativa de um jogo de muitos gols, com probabilidade de 72% de 3 gols ou mais; essa previsão foi incluída na lista de destaques, junto com o histórico de acertos de previsões semelhantes com nível de confiança parecido."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2522,21 +2753,60 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.0605,
-          "X": 0.0969,
-          "2": 0.8426
+          "1": 0.0607,
+          "X": 0.0958,
+          "2": 0.8435
         },
         "son": {
-          "1": 0.0993,
+          "1": 0.1002,
           "X": 0.1427,
-          "2": 0.758
+          "2": 0.7571
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 12,
+          "puan": 12,
+          "kalan_mac": 24,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Albert Sambi Lokonga",
+              "supheli": false,
+              "tur": "injury"
+            },
+            {
+              "ad": "Yussuf Poulsen",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 2,
+          "puan": 22,
+          "kalan_mac": 24,
+          "durum": "sampiyonluk_yarisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Luis Díaz",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -2545,13 +2815,32 @@
       "ev_sahibi": "SC Paderborn",
       "deplasman": "FC Schalke 04",
       "baslama_utc": "2026-11-28T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3763,
+        "X": 0.2748,
+        "2": 0.3489
+      },
+      "tahmin": "1",
+      "guven": 0.0274,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5399,
+          "alt": 0.4601
+        },
+        "tahmin": "ust",
+        "guven": 0.0798,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Paderborn ev sahibi olarak hafif önde, ancak olasılıklar dengeli: %38 ev sahibi, %35 deplasman ve %27 beraberlik. İki takım da 24 maç kala küme düşme hattında yer alıyor; Paderborn son beş maçta 5 gol atıp 8 gol yerken, Schalke sadece 1 gol atabildi ve 5 gol yedi, bu yüzden form tablosu Schalke aleyhine. Maçın güçlü tahmin listesine alınmamasının nedeni, olasılıkların birbirine yakın olması ve geçmiş tahminlerdeki isabet oranının beklenenin üzerinde kalmasına rağmen bu güven düzeyinin yeterince belirgin görülmemesi.",
+      "ai_metinler": {
+        "en": "Paderborn has a slight edge as the home side, but the probabilities are balanced: 38% home win, 35% away win and 27% draw. Both teams sit in the relegation zone with 24 matches remaining. Over their last five matches, Paderborn have scored 5 goals and conceded 8, while Schalke have managed only 1 goal and conceded 5, so the recent form table favors Paderborn. The match was not included in the strong prediction list because the probabilities are close together, and although the hit rate of past predictions has stayed above expectations, that level of confidence is not clearly enough to justify it.",
+        "es": "Como equipo local, Paderborn tiene una ligera ventaja, aunque las probabilidades están equilibradas: 38% para el local, 35% para el visitante y 27% para el empate. Ambos equipos ocupan la zona de descenso a falta de 24 partidos; en los últimos cinco encuentros, Paderborn marcó 5 goles y recibió 8, mientras que el Schalke solo logró marcar 1 y encajó 5, por lo que la tabla de forma juega en contra del Schalke. La razón por la que este partido no aparece en la lista de pronósticos destacados es que las probabilidades están muy próximas entre sí, y aunque la tasa de acierto en pronósticos anteriores se ha mantenido por encima de lo esperado, ese nivel de confianza no se percibe con suficiente claridad.",
+        "de": "Paderborn liegt als Gastgeber leicht vorn, doch die Wahrscheinlichkeiten sind ausgeglichen: 38% für den Heimsieg, 35% für den Auswärtssieg und 27% für ein Unentschieden. Beide Teams befinden sich 24 Spiele vor Saisonende in der Abstiegszone; Paderborn hat in den letzten fünf Spielen 5 Tore erzielt und 8 kassiert, während Schalke nur 1 Tor schoss und 5 hinnehmen musste, weshalb die Formkurve gegen Schalke spricht. Dass die Partie nicht auf die Liste der starken Vorhersagen gesetzt wurde, liegt daran, dass die Wahrscheinlichkeiten eng beieinanderliegen und das Vertrauen in diese Einschätzung trotz einer über den Erwartungen liegenden Trefferquote früherer Vorhersagen nicht deutlich genug ausgeprägt ist.",
+        "it": "Paderborn gioca in casa e parte leggermente in vantaggio, ma le probabilità sono equilibrate: 38% vittoria casalinga, 35% vittoria ospite e 27% pareggio. Entrambe le squadre si trovano nella zona retrocessione con 24 partite ancora da giocare; negli ultimi cinque incontri Paderborn ha segnato 5 gol e ne ha subiti 8, mentre lo Schalke ha segnato solo 1 gol e ne ha subiti 5, quindi l'andamento di forma gioca a sfavore dello Schalke. La partita non è stata inserita nell'elenco dei pronostici forti perché le probabilità sono molto vicine tra loro e, pur essendo la percentuale di risultati corretti nelle previsioni passate superiore alle attese, questo livello di fiducia non appare sufficientemente marcato per questo incontro.",
+        "pt": "Paderborn, como mandante, tem uma leve vantagem, mas as probabilidades estão equilibradas: 38% para o mandante, 35% para o visitante e 27% para o empate. As duas equipes estão na zona de rebaixamento, com 24 rodadas restantes; nas últimas cinco partidas, o Paderborn marcou 5 gols e sofreu 8, enquanto o Schalke marcou apenas 1 e sofreu 5, o que deixa a tabela de forma desfavorável ao Schalke. A partida não foi incluída na lista de probabilidades fortes porque as probabilidades estão muito próximas umas das outras e, embora a taxa de acerto em previsões anteriores tenha ficado acima do esperado, esse nível de confiança não se mostra suficientemente evidente."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2707,21 +2996,41 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4018,
-          "X": 0.271,
-          "2": 0.3272
+          "1": 0.402,
+          "X": 0.2706,
+          "2": 0.3274
         },
         "son": {
-          "1": 0.3892,
-          "X": 0.2732,
-          "2": 0.3376
+          "1": 0.3763,
+          "X": 0.2748,
+          "2": 0.3489
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 15,
+          "puan": 10,
+          "kalan_mac": 24,
+          "durum": "kume_baskisi"
+        },
+        "deplasman": {
+          "sira": 16,
+          "puan": 7,
+          "kalan_mac": 24,
+          "durum": "kume_baskisi"
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -2730,13 +3039,33 @@
       "ev_sahibi": "FSV Mainz 05",
       "deplasman": "Union Berlin",
       "baslama_utc": "2026-11-28T14:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6336,
+        "X": 0.2053,
+        "2": 0.1611
+      },
+      "tahmin": "1",
+      "guven": 0.4283,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6189,
+          "alt": 0.3811
+        },
+        "tahmin": "ust",
+        "guven": 0.2378,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "FSV Mainz 05'in ev sahibi olarak belirgin favori olduğu bu maçta olasılık %63 ile ev sahibinden yana. İki takım da küme düşme hattına yakın ve son beş maçta Mainz'ın 6 gol atıp 12 gol yemesi, Union Berlin'in ise defansif sorunlarının sürmesi maçta gollü bir senaryoyu öne çıkarıyor. Union Berlin'in Juranović'siz olması da deplasman tarafındaki zayıflığı artırıyor. Maçın güçlü tahmin listesine alınma nedeni, olasılığın seçim aralığında olması ve eleme koşullarının hiçbirinin geçerli olmaması; 3 veya daha fazla gol olasılığı da %62.",
+      "ai_metinler": {
+        "en": "FSV Mainz 05 is the clear favorite as the home side in this match, with a probability of 63% in favor of the home team. Both teams are close to the relegation zone, and over the last five matches Mainz have scored 6 goals and conceded 12, while Union Berlin's ongoing defensive problems point toward a high-scoring scenario. Union Berlin being without Juranović also weakens their away side further. The match was included in the strong prediction list because the probability falls within the selection range and none of the exclusion conditions apply; the probability of 3 or more goals is 62%.",
+        "es": "El partido en el que el FSV Mainz 05 es claramente favorito como equipo local, la probabilidad se sitúa en un 63% a favor del local. Ambos equipos se encuentran cerca de la zona de descenso, y en los últimos cinco partidos el Mainz ha marcado 6 goles y ha recibido 12, mientras que el Union Berlín sigue arrastrando problemas defensivos; estos factores destacan un escenario con goles. La ausencia de Juranović en el Union Berlín también aumenta su debilidad como visitante. La razón por la que este partido figura en la lista de pronósticos fuertes es que la probabilidad está dentro del rango de selección y ninguna de las condiciones de eliminación se cumple; la probabilidad de 3 goles o más es del 62%.",
+        "de": "Das Spiel gilt als klarer Favorit für den Gastgeber FSV Mainz 05, und die Wahrscheinlichkeit spricht mit 63% für die Heimmannschaft. Beide Teams bewegen sich nahe der Abstiegszone, und Mainz hat in den letzten fünf Spielen 6 Tore geschossen und 12 Gegentore kassiert. Da Union Berlin weiterhin mit defensiven Problemen zu kämpfen hat, deutet vieles auf ein torreiches Spiel hin. Ohne Juranović wird die Schwäche von Union Berlin auswärts zusätzlich verstärkt. Dass das Spiel in die Liste der starken Prognosen aufgenommen wurde, liegt daran, dass die Wahrscheinlichkeit im Auswahlbereich liegt und keine der Ausschlussbedingungen zutrifft. Die Wahrscheinlichkeit für 3 oder mehr Tore liegt bei 62%.",
+        "fr": "Dans ce match où le FSV Mainz 05 est nettement favori à domicile, la probabilité penche en faveur de l'équipe à domicile, à 63 %. Les deux équipes se situent près de la zone de relégation, et sur les cinq derniers matchs, Mainz a marqué 6 buts et en a encaissé 12, tandis que Union Berlin continue de montrer des problèmes défensifs. Ces éléments mettent en avant un scénario riche en buts. L'absence de Juranović chez Union Berlin accentue également la fragilité de l'équipe à l'extérieur. La rencontre a été retenue dans la liste des pronostics forts parce que sa probabilité se situe dans la fourchette de sélection et qu'aucune des conditions d'exclusion ne s'applique. La probabilité de 3 buts ou plus est de 62 %.",
+        "it": "La partita vede il Mainz 05 come netto favorito in casa, con una probabilità del 63% a favore della squadra di casa. Entrambe le squadre sono vicine alla zona retrocessione e, nelle ultime cinque partite, il Mainz ha segnato 6 gol e ne ha subiti 12, mentre l'Union Berlin continua ad avere problemi difensivi: ciò rende plausibile uno scenario ricco di gol. L'assenza di Juranović nell'Union Berlin aumenta inoltre la debolezza della squadra in trasferta. La partita è stata inserita nell'elenco delle selezioni più solide perché la probabilità rientra nell'intervallo selezionato e nessuna delle condizioni di esclusione è valida; la probabilità di 3 o più gol è del 62%.",
+        "pt": "O FSV Mainz 05 é o claro favorito como mandante neste jogo, com probabilidade de 63% a favor da equipe da casa. As duas equipes estão perto da zona de rebaixamento, e nos últimos cinco jogos o Mainz marcou 6 gols e sofreu 12, enquanto o Union Berlin continua com problemas defensivos. Isso aponta para um cenário com muitos gols. A ausência de Juranović no Union Berlin também enfraquece o time visitante. O jogo foi incluído na lista de previsões fortes porque a probabilidade está dentro da faixa selecionada e nenhuma das condições de exclusão se aplica; a probabilidade de 3 ou mais gols é de 62%."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -2892,21 +3221,48 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.6377,
-          "X": 0.2044,
-          "2": 0.1579
+          "1": 0.6373,
+          "X": 0.2043,
+          "2": 0.1585
         },
         "son": {
-          "1": 0.635,
-          "X": 0.2047,
-          "2": 0.1603
+          "1": 0.6336,
+          "X": 0.2053,
+          "2": 0.1611
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 13,
+          "puan": 10,
+          "kalan_mac": 24,
+          "durum": "kume_baskisi"
+        },
+        "deplasman": {
+          "sira": 17,
+          "puan": 7,
+          "kalan_mac": 24,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Josip Juranović",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -2915,13 +3271,33 @@
       "ev_sahibi": "Manchester United",
       "deplasman": "Brentford",
       "baslama_utc": "2026-11-28T15:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.4515,
+        "X": 0.2528,
+        "2": 0.2958
+      },
+      "tahmin": "1",
+      "guven": 0.1557,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6038,
+          "alt": 0.3962
+        },
+        "tahmin": "ust",
+        "guven": 0.2076,
+        "kaynak_sayisi": 9
+      },
+      "ai_metin": "Manchester United ev sahibi olarak önde görünüyor, ancak %45'lik kazanma olasılığı belirgin bir üstünlük sayılmaz; Brentford'un %30'u da hafife alınmayacak bir ihtimal. Ligde 19. sırada olan United'ın Baleba, Šeško ve şüpheli Rashford ile kadrosundaki eksikler, ev sahibi avantajını sınırlıyor. Üç veya daha fazla golün %60 olasılıkla beklenmesi gol üretimi yüksek bir maç ihtimalini gösteriyor, ancak bu maç güçlü tahmin listesine, önemli eksikler nedeniyle alınmadı.",
+      "ai_metinler": {
+        "en": "Manchester United leads as the home side, but a 45% probability of winning is not considered a clear advantage, and Brentford's 30% chance is not to be underestimated. Sitting 19th in the league, United's squad gaps, including Baleba, Šeško and a doubtful Rashford, limit the home advantage. A 60% probability of seeing 3 or more goals points to a match with high goal output, but this game was not included in the strong prediction list due to the significant absences.",
+        "es": "Manchester United parte como local con ventaja, pero una probabilidad de victoria del 45% no se considera una superioridad clara; el 30% de Brentford tampoco es una posibilidad que deba subestimarse. Ocupando el puesto 19 en la liga, el United tiene ausencias en su plantilla, como Baleba, Šeško y un Rashford con dudas, lo que limita la ventaja de jugar en casa. Que se espere que haya 3 goles o más con una probabilidad del 60% indica un partido con alta producción de goles, aunque este encuentro no se incluyó en la lista de pronósticos destacados debido a las importantes ausencias.",
+        "de": "Manchester United liegt als Heimmannschaft vorn, doch eine Siegwahrscheinlichkeit von 45% gilt nicht als deutlicher Vorsprung; auch die 30% für Brentford sind nicht zu unterschätzen. Manchester United belegt in der Liga Platz 19, und die Ausfälle im Kader – Baleba, Šeško und der fragliche Rashford – schränken den Heimvorteil ein. Die Wahrscheinlichkeit von 60% für 3 oder mehr Tore deutet auf eine torreiche Begegnung hin, doch diese Partie wurde wegen der wichtigen Ausfälle nicht in die Liste der starken Empfehlungen aufgenommen.",
+        "fr": "Manchester United joue à domicile et apparaît en tête, mais une probabilité de victoire de 45 % ne constitue pas un avantage net ; les 30 % de Brentford ne sont pas non plus à négliger. Classée 19e du championnat, la formation de United est limitée par ses absences, notamment Baleba, Šeško et Rashford, dont la présence est incertaine, ce qui réduit l'avantage du terrain. La probabilité de 3 buts ou plus, estimée à 60 %, indique un match à forte production de buts, mais cette rencontre n'a pas été retenue dans la liste des pronostics solides en raison des absences importantes.",
+        "it": "Manchester United appare in vantaggio come squadra di casa, ma una probabilità di vittoria del 45% non può essere considerata un vantaggio netto; anche la probabilità del 30% per il Brentford non va sottovalutata. Il United, al 19° posto in classifica, è limitato dalle assenze in rosa, tra cui Baleba, Šeško e il dubbio Rashford, che riducono il vantaggio di giocare in casa. La probabilità del 60% di vedere 3 o più gol indica una partita con una produzione offensiva elevata, ma questo incontro non è stato inserito nell'elenco delle previsioni più solide proprio a causa delle importanti assenze.",
+        "pt": "Manchester United joga em casa e aparece na frente, mas a probabilidade de vitória de 45% não pode ser considerada uma vantagem clara; a probabilidade de 30% do Brentford também não deve ser subestimada. O United, que está em 19º lugar na liga, tem limitações em seu elenco com as ausências de Baleba, Šeško e Rashford, cuja condição é duvidosa, o que restringe a vantagem de jogar em casa. A probabilidade de 60% de que haja 3 ou mais gols indica um jogo com alta produção de gols, mas essa partida não foi incluída na lista de previsões fortes devido às ausências importantes."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3078,20 +3454,75 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.4841,
           "X": 0.2453,
           "2": 0.2706
         },
         "son": {
-          "1": 0.4502,
-          "X": 0.2537,
-          "2": 0.2961
+          "1": 0.4515,
+          "X": 0.2528,
+          "2": 0.2958
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 19,
+          "puan": 8,
+          "kalan_mac": 27,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Carlos Baleba",
+              "supheli": false,
+              "tur": "injury"
+            },
+            {
+              "ad": "Benjamin Šeško",
+              "supheli": false,
+              "tur": "injury"
+            },
+            {
+              "ad": "Marcus Rashford",
+              "supheli": true,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 6,
+          "puan": 17,
+          "kalan_mac": 27,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Igor Thiago",
+              "supheli": false,
+              "tur": "suspension"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": [
+          {
+            "kod": "onemli_eksikler",
+            "takim": "ev_sahibi",
+            "oyuncular": [
+              "Carlos Baleba",
+              "Benjamin Šeško",
+              "Marcus Rashford"
+            ],
+            "sayi": 3
+          }
+        ],
+        "elenme_nedeni": "Önemli eksikler: Manchester United kadrosunda Carlos Baleba, Benjamin Šeško, Marcus Rashford yok ya da şüpheli",
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -3100,13 +3531,33 @@
       "ev_sahibi": "Leeds United",
       "deplasman": "Coventry City",
       "baslama_utc": "2026-11-28T15:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.6433,
+        "X": 0.2086,
+        "2": 0.1481
+      },
+      "tahmin": "1",
+      "guven": 0.4347,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5643,
+          "alt": 0.4357
+        },
+        "tahmin": "ust",
+        "guven": 0.1286,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Leeds United, ev sahibi avantajıyla ve %64 olasılıkla belirgin favori; Coventry City ise 14. sırada, küme düşme hattına yakın ve Caleb Yirenkyi'nin durumu şüpheli olduğu için deplasmanda zorlanması bekleniyor. İki takımın son beş maç formu gol üretiminde ayrışıyor: Coventry'nin savunması son dönemde ciddi gol yedi (10 gol), Leeds'in hücum tablosu ise daha dengeli. Bu maç, olasılık eşiği ve bağlamdaki koşullar açısından güçlü tahmin listesine alınmış durumda.",
+      "ai_metinler": {
+        "en": "Leeds United, with home advantage and a 64% probability, is the clear favourite; Coventry City, on the other hand, sit 14th, close to the relegation zone, and are expected to struggle away from home given Caleb Yirenkyi's uncertain status. The last five matches of both teams show a clear divergence in goal production: Coventry's defence has conceded heavily of late (10 goals), while Leeds' attacking record is more balanced. This match has been placed on the strong prediction list in terms of its probability threshold and the surrounding circumstances.",
+        "es": "Leeds United, con la ventaja de jugar en casa y con una probabilidad del 64%, es el claro favorito; Coventry City, en el puesto 14 y cerca de la zona de descenso, deberá sufrir para puntuar como visitante, ya que la situación de Caleb Yirenkyi es dudosa. En la forma de los últimos cinco partidos, las dos escuadras se diferencian en la producción de goles: la defensa del Coventry ha encajado muchos goles recientemente (10 goles), mientras que el ataque del Leeds presenta un balance más equilibrado. Este partido ha sido incluido en la lista de pronósticos fuertes por su umbral de probabilidad y las condiciones del contexto.",
+        "de": "Leeds United ist dank des Heimvorteils und mit einer Wahrscheinlichkeit von 64% klarer Favorit; Coventry City steht dagegen auf Platz 14, nahe der Abstiegszone, und dürfte auswärts Schwierigkeiten haben, da die Situation von Caleb Yirenkyi unsicher ist. Die Formkurve beider Teams der letzten fünf Spiele zeigt deutliche Unterschiede bei der Torproduktion: Die Abwehr von Coventry hat zuletzt erheblich Gegentore kassiert (10 Gegentore), während das Angriffsspiel von Leeds ausgeglichener wirkt. Diese Partie wurde aufgrund des Wahrscheinlichkeitsschwellenwerts und der Rahmenbedingungen in die Liste der starken Vorhersagen aufgenommen.",
+        "fr": "Leeds United, grâce à l'avantage du terrain et avec une probabilité de 64 %, est nettement favori ; Coventry City, quant à lui, occupe la 14e place, proche de la zone de relégation, et devrait éprouver des difficultés à l'extérieur, la situation de Caleb Yirenkyi étant incertaine. La forme des deux équipes sur les cinq derniers matchs diverge en matière de production offensive : la défense de Coventry a récemment encaissé beaucoup de buts (10 buts), tandis que l'attaque de Leeds présente un bilan plus équilibré. Cette rencontre figure sur la liste des pronostics solides au regard du seuil de probabilité et des conditions du contexte.",
+        "it": "Leeds United, gücünü ev sahibi avantajıyla birleştirerek %64 olasılıkla belirgin favori; Coventry City ise 14. sırada, küme düşme hattına yakın ve Caleb Yirenkyi'nin durumu şüpheli olduğu için deplasmanda zorlanması bekleniyor. İki takımın son beş maç formu gol üretiminde ayrışıyor: Coventry'nin savunması son dönemde ciddi gol yedi (10 gol), Leeds'in hücum tablosu ise daha dengeli. Bu maç, olasılık eşiği ve bağlamdaki koşullar açısından güçlü tahmin listesine alınmış durumda.",
+        "pt": "Leeds United, mandante e com 64% de probabilidade, é o favorito claro; já o Coventry City está em 14º lugar, perto da zona de rebaixamento, e deve enfrentar dificuldades fora de casa, já que a situação de Caleb Yirenkyi é incerta. A forma das duas equipes nos últimos cinco jogos mostra diferenças na produção de gols: a defesa do Coventry tem sofrido muitos gols recentemente (10 gols), enquanto o ataque do Leeds apresenta um desempenho mais equilibrado. Esta partida foi incluída na lista de previsões fortes considerando o limite de probabilidade e as condições do contexto."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3263,20 +3714,47 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.6022,
           "X": 0.2262,
           "2": 0.1717
         },
         "son": {
-          "1": 0.6449,
-          "X": 0.207,
-          "2": 0.1482
+          "1": 0.6433,
+          "X": 0.2086,
+          "2": 0.1481
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 7,
+          "puan": 17,
+          "kalan_mac": 27,
+          "durum": null
+        },
+        "deplasman": {
+          "sira": 14,
+          "puan": 12,
+          "kalan_mac": 27,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Caleb Yirenkyi",
+              "supheli": true,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": true,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -3285,13 +3763,33 @@
       "ev_sahibi": "Málaga",
       "deplasman": "Athletic Bilbao",
       "baslama_utc": "2026-11-28T15:15:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2002,
+        "X": 0.2493,
+        "2": 0.5505
+      },
+      "tahmin": "2",
+      "guven": 0.3012,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5126,
+          "alt": 0.4874
+        },
+        "tahmin": "ust",
+        "guven": 0.0252,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Athletic Bilbao'nun deplasmanda belirgin favori olduğu bu maçta, ev sahibi Málaga küme düşme hattına yakın 20. sırada ve son beş maçında galibiyet alamadı; Adam Aznou'nun yokluğu da ev sahibini zayıflatıyor. Bilbao'nun lig konumu daha istikrarlı olsa da deplasmandaki son üç maçta galibiyeti olmaması, sonucu %55 olasılıkla sınırlı tutuyor. Maç, güçlü tahmin listesine %55 olasılık ve eleme koşullarına takılmadığı için alındı.",
+      "ai_metinler": {
+        "en": "In this match where Athletic Bilbao are clear favourites away from home, the hosts Málaga, placed 20th near the relegation zone, have not won in their last five matches, and the absence of Adam Aznou further weakens the home side. Although Bilbao's league position is more stable, their lack of away wins in their last three matches keeps the outcome limited to a 55% probability. The match was selected for the strong prediction list because it carries a 55% probability and does not fall under the elimination conditions.",
+        "es": "En el partido en el que el Athletic Bilbao es claramente favorito como visitante, el anfitrión Málaga se ubica en el puesto 20, cerca de la zona de descenso, y no ha logrado ninguna victoria en sus últimos cinco partidos; además, la ausencia de Adam Aznou debilita al equipo local. Aunque la posición del Bilbao en la liga es más estable, el hecho de que no haya conseguido victorias en sus últimos tres partidos como visitante limita el resultado, con una probabilidad del 55%. El partido fue incluido en la lista de pronósticos destacados porque tiene una probabilidad del 55% y no ha sido descartado por las condiciones de eliminación.",
+        "de": "Athletic Bilbao ist in diesem Auswärtsspiel klarer Favorit, während der Gastgeber Málaga auf dem 20. Tabellenplatz nahe der Abstiegszone steht und in den letzten fünf Spielen keinen Sieg holen konnte; zudem schwächt das Fehlen von Adam Aznou den Gastgeber zusätzlich. Auch wenn Bilbao in der Liga stabiler dasteht, bedeutet der fehlende Sieg in den letzten drei Auswärtsspielen, dass das Ergebnis mit einer Wahrscheinlichkeit von 55% begrenzt bleibt. Die Partie wurde in die Liste der starken Einschätzungen aufgenommen, weil sie eine Wahrscheinlichkeit von 55% aufweist und nicht an den Ausschlusskriterien hängen geblieben ist.",
+        "fr": "Dans ce match à l'extérieur où Athletic Bilbao est nettement favori, Málaga, à la 20e place proche de la zone de relégation, n'a pas remporté la moindre victoire lors de ses cinq derniers matchs, et l'absence d'Adam Aznou affaiblit encore l'équipe locale. Bien que la position de Bilbao en championnat soit plus stable, l'absence de victoire lors de ses trois derniers déplacements limite le résultat, avec une probabilité de 55 %. Ce match a été retenu dans la liste des pronostics forts car sa probabilité atteint 55 % et qu'il ne remplit pas les conditions d'élimination.",
+        "it": "Nella partita in trasferta dell'Athletic Bilbao, chiaro favorito, la squadra di casa Málaga si trova al 20° posto, vicino alla zona retrocessione, e non ha vinto nelle ultime cinque partite; anche l'assenza di Adam Aznou indebolisce i padroni di casa. Sebbene la posizione in classifica del Bilbao sia più stabile, la mancanza di vittorie nelle ultime tre trasferte fa sì che l'esito sia limitato con una probabilità del 55%. La partita è stata inserita nell'elenco delle partite più probabili perché presenta una probabilità del 55% e non rientra nelle condizioni di esclusione.",
+        "pt": "Neste jogo, em que o Athletic Bilbao é claramente favorito como visitante, o Málaga, mandante, ocupa a 20ª posição, perto da zona de rebaixamento, e não venceu nos últimos cinco jogos; a ausência de Adam Aznou também enfraquece o time da casa. Embora a posição do Bilbao na liga seja mais estável, a falta de vitórias nos últimos três jogos fora de casa mantém a probabilidade de resultado limitada a 55%. A partida foi incluída na lista de previsões fortes por ter uma probabilidade de 55% e por não ter sido afetada pelas condições de eliminação."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3447,21 +3945,48 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2094,
+          "1": 0.2095,
           "X": 0.2566,
-          "2": 0.534
+          "2": 0.5339
         },
         "son": {
-          "1": 0.2024,
-          "X": 0.2515,
-          "2": 0.5461
+          "1": 0.2002,
+          "X": 0.2493,
+          "2": 0.5505
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 20,
+          "puan": 5,
+          "kalan_mac": 25,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Adam Aznou",
+              "supheli": false,
+              "tur": "suspension"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 8,
+          "puan": 16,
+          "kalan_mac": 26,
+          "durum": null
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -3470,13 +3995,33 @@
       "ev_sahibi": "Gazişehir Gaziantep",
       "deplasman": "Amed SK",
       "baslama_utc": "2026-11-28T16:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2806,
+        "X": 0.2578,
+        "2": 0.4616
+      },
+      "tahmin": "2",
+      "guven": 0.181,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5627,
+          "alt": 0.4373
+        },
+        "tahmin": "ust",
+        "guven": 0.1254,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Deplasman takımı Amed SK, %46 olasılıkla galibiyete daha yakın görünüyor; ev sahibi Gazişehir Gaziantep'in son beş maçta galibiyet alamaması ve küme düşme hattına yakın durması bu farkı destekliyor. Amed SK'nın Samuel Ballet ve Lumbardh Dellova'dan yoksun olması ise belirsizliği artırıyor. Bu nedenle maç güçlü tahmin listesine alınmadı.",
+      "ai_metinler": {
+        "en": "The away side, Amed SK, appears closer to victory with a 46% probability; this is supported by the home side, Gazişehir Gaziantep, failing to win any of its last five matches and sitting close to the relegation zone. The absence of Samuel Ballet and Lumbardh Dellova for Amed SK, however, increases the uncertainty. For this reason, the match has not been included in the strong predictions list.",
+        "es": "El equipo visitante, Amed SK, aparece con una probabilidad del 46% de ganar el partido; la situación del local, Gazişehir Gaziantep, que no ha logrado ninguna victoria en sus últimos cinco partidos y se encuentra cerca de la zona de descenso, respalda esta diferencia. La ausencia de Samuel Ballet y Lumbardh Dellova en Amed SK, sin embargo, aumenta la incertidumbre. Por ello, el partido no se ha incluido en la lista de pronósticos fuertes.",
+        "de": "Die Gastmannschaft Amed SK wirkt mit einer Wahrscheinlichkeit von 46% eher siegreich; dafür spricht, dass der Gastgeber Gazişehir Gaziantep in den letzten fünf Spielen keinen Sieg holen konnte und sich nahe der Abstiegszone befindet. Dass Amed SK auf Samuel Ballet und Lumbardh Dellova verzichten muss, erhöht jedoch die Unsicherheit. Deshalb wurde die Partie nicht in die Liste der starken Empfehlungen aufgenommen.",
+        "fr": "L'équipe visiteuse, Amed SK, apparaît plus proche de la victoire avec une probabilité de 46 %; le fait que le club hôte, Gazişehir Gaziantep, n'ait pas remporté le moindre match lors de ses cinq dernières rencontres et se trouve près de la zone de relégation renforce cet écart. L'absence de Samuel Ballet et de Lumbardh Dellova chez Amed SK accroît toutefois l'incertitude. C'est pourquoi cette rencontre n'a pas été retenue dans la liste des pronostics forts.",
+        "it": "La squadra in trasferta Amed SK appare più vicina alla vittoria con una probabilità del 46%; a sostenere questa differenza c'è il fatto che la squadra di casa, Gazişehir Gaziantep, non ottiene una vittoria da cinque partite e si trova vicina alla zona retrocessione. L'assenza di Samuel Ballet e Lumbardh Dellova in casa Amed SK aumenta invece l'incertezza. Per questo motivo la partita non è stata inserita nell'elenco dei pronostici forti.",
+        "pt": "A equipe visitante, Amed SK, aparece com 46% de probabilidade de vitória; o time da casa, Gazişehir Gaziantep, não venceu nenhuma das últimas cinco partidas e está perto da zona de rebaixamento, o que reforça essa diferença. A ausência de Samuel Ballet e Lumbardh Dellova no Amed SK, porém, aumenta a incerteza. Por isso, a partida não foi incluída na lista de destaques de maior probabilidade."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3633,20 +4178,62 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-22T05:37:26Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.2743,
           "X": 0.2572,
           "2": 0.4685
         },
         "son": {
-          "1": 0.2808,
-          "X": 0.2579,
-          "2": 0.4612
+          "1": 0.2806,
+          "X": 0.2578,
+          "2": 0.4616
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 16,
+          "puan": 8,
+          "kalan_mac": 22,
+          "durum": "kume_baskisi"
+        },
+        "deplasman": {
+          "sira": 4,
+          "puan": 23,
+          "kalan_mac": 22,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Samuel Ballet",
+              "supheli": false,
+              "tur": "suspension"
+            },
+            {
+              "ad": "Lumbardh Dellova",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": [
+          {
+            "kod": "onemli_eksikler",
+            "takim": "deplasman",
+            "oyuncular": [
+              "Samuel Ballet",
+              "Lumbardh Dellova"
+            ],
+            "sayi": 2
+          }
+        ],
+        "elenme_nedeni": "Önemli eksikler: Amed SK kadrosunda Samuel Ballet, Lumbardh Dellova yok ya da şüpheli",
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -3655,13 +4242,33 @@
       "ev_sahibi": "Angers",
       "deplasman": "RC Lens",
       "baslama_utc": "2026-11-28T16:15:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2018,
+        "X": 0.2325,
+        "2": 0.5657
+      },
+      "tahmin": "2",
+      "guven": 0.3332,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5789,
+          "alt": 0.4211
+        },
+        "tahmin": "ust",
+        "guven": 0.1578,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Lens, deplasmanda belirgin favori: maçı kazanma olasılığı %57, Angers'ın %20. Angers'ın ev sahibi avantajı son dönemde iç sahada da kâr getirmiyor; küme düşme hattına yakın olması ve son 5 maçta 13 gol yemesi, Lens'in gol üretme eğilimiyle birleşince 3 veya daha fazla gol ihtimali öne çıkıyor. Bu maç, bağlamdaki verilerin olasılıklarla tutarlı olması nedeniyle güçlü tahmin listesinde yer alıyor.",
+      "ai_metinler": {
+        "en": "Lens is the clear favorite on the road, with a 57% probability of winning the match, compared with 20% for Angers. Angers' home advantage has not been paying off recently, even at their own ground. With the club close to the relegation zone and having conceded 13 goals in their last 5 matches, combined with Lens' tendency to score, the probability of 3 or more goals stands out. This match features on the strong predictions list because the probabilities are consistent with the data in the context.",
+        "es": "Lens, deplasmanda belirgin favori: maçı kazanma olasılığı %57, Angers'ın %20. Angers'ın ev sahibi avantajı son dönemde iç sahada da kâr getirmiyor; küme düşme hattına yakın olması ve son 5 maçta 13 gol yemesi, Lens'in gol üretme eğilimiyle birleşince 3 veya daha fazla gol ihtimali öne çıkıyor. Bu maç, bağlamdaki verilerin olasılıklarla tutarlı olması nedeniyle güçlü tahmin listesinde yer alıyor.",
+        "de": "Lens ist auswärts der klare Favorit: Die Wahrscheinlichkeit, dass sie das Spiel gewinnen, liegt bei 57 %, für Angers bei 20 %. Der Heimvorteil von Angers bringt in letzter Zeit auch im eigenen Stadion keine Punkte; die Nähe zum Abstiegsbereich und 13 Gegentore in den letzten 5 Spielen sprechen zusammen mit Lens' Tendenz, selbst viele Tore zu erzielen, für eine hohe Wahrscheinlichkeit von 3 oder mehr Toren. Diese Partie steht auf der Liste der starken Prognosen, da die Wahrscheinlichkeiten aus den vorliegenden Daten gut zusammenpassen.",
+        "fr": "Lens, déplacement, favori nettement identifié : probabilité de victoire de 57 %, contre 20 % pour Angers. L'avantage du terrain d'Angers ne lui a pas rapporté de points ces derniers temps, même à domicile ; sa proximité avec la zone de relégation et les 13 buts encaissés lors de ses 5 derniers matchs, combinés à la tendance de Lens à marquer, font ressortir une probabilité de 3 buts ou plus. Cette rencontre figure dans la liste des pronostics forts, les données du contexte étant cohérentes avec ces probabilités.",
+        "it": "Lens, deplasmanda belirgin favori: maçı kazanma probabilità è del 57%, contro il 20% dell'Angers. Il vantaggio casalingo dell'Angers non ha portato punti nemmeno in casa nell'ultimo periodo; la vicinanza alla zona retrocessione e i 13 gol subiti nelle ultime 5 partite, unite alla tendenza del Lens a segnare, rendono più probabile la probabilità di 3 o più gol. Questa partita rientra nell'elenco dei pronostici più solidi perché i dati del contesto sono coerenti con le probabilità indicate.",
+        "pt": "Lens, deplasmanda belirgente favori: partida vencer probabilidade de 57%, contra 20% do Angers. A vantagem de jogar em casa do Angers não tem gerado resultados nem mesmo em seus jogos em casa recentemente; estar perto da zona de rebaixamento e ter sofrido 13 gols nos últimos 5 jogos, somados à tendência do Lens de marcar gols, faz com que a probabilidade de 3 ou mais gols se destaque. Este jogo está na lista de palpites fortes porque os dados do contexto são coerentes com essas probabilidades."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -3817,21 +4424,41 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2141,
-          "X": 0.2325,
-          "2": 0.5534
+          "1": 0.2147,
+          "X": 0.234,
+          "2": 0.5513
         },
         "son": {
-          "1": 0.1994,
-          "X": 0.2318,
-          "2": 0.5689
+          "1": 0.2018,
+          "X": 0.2325,
+          "2": 0.5657
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 17,
+          "puan": 8,
+          "kalan_mac": 23,
+          "durum": "kume_baskisi"
+        },
+        "deplasman": {
+          "sira": 11,
+          "puan": 14,
+          "kalan_mac": 23,
+          "durum": null
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -3840,13 +4467,33 @@
       "ev_sahibi": "Torino",
       "deplasman": "Lazio",
       "baslama_utc": "2026-11-28T17:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2714,
+        "X": 0.2748,
+        "2": 0.4537
+      },
+      "tahmin": "2",
+      "guven": 0.1789,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5078,
+          "alt": 0.4922
+        },
+        "tahmin": "ust",
+        "guven": 0.0156,
+        "kaynak_sayisi": 18
+      },
+      "ai_metin": "Lazio, ligde lider konumuyla ve deplasmandaki güçlü formuyla maçın açık favorisi; olasılıklar da bunu %45'e karşı %27 olarak yansıtıyor. Torino ise 13. sırada, lidere 18 puan uzakta ve son beş maçında sadece bir galibiyet almış durumda. Lazio'da Nuno Tavares ve Mattia Zaccagni'nin eksikliği, maçın bu favorilik farkını bir ölçüde açabilecek bir unsur olarak dikkate alınmalı. Bu maç güçlü tahmin listesine, Lazio kadrosundaki Tavares ve Zaccagni eksiklerinin belirsizliği nedeniyle alınmadı.",
+      "ai_metinler": {
+        "en": "Lazio, league leader with a strong away form, is the clear favorite for this match; the probabilities reflect this at 45% against 27%. Torino, meanwhile, sit 13th, 18 points behind the leader, and have won only one of their last five matches. Lazio's absence of Nuno Tavares and Mattia Zaccagni should be considered a factor that could widen this gap in favorites to some extent. This match was not included in the strong predictions list due to the uncertainty surrounding Lazio's absences of Tavares and Zaccagni.",
+        "es": "Lazio, liga lideri konumu y su fuerte forma como visitante lo convierten en el claro favorito del partido; las probabilidades lo reflejan con un 45% frente a un 27%. Por su parte, el Torino ocupa el puesto 13, está a 18 puntos del líder y solo ha conseguido una victoria en sus últimos cinco partidos. La ausencia de Nuno Tavares y Mattia Zaccagni en la plantilla de la Lazio debe considerarse un factor que podría reducir en cierta medida esa diferencia de favoritismo. Este partido no se incluyó en la lista de pronósticos destacados debido a la incertidumbre en torno a las bajas de Tavares y Zaccagni en la Lazio.",
+        "de": "Lazio ist mit seiner Tabellenführung und der starken Auswärtsform klarer Favorit für das Spiel; die Wahrscheinlichkeiten spiegeln das mit 45% gegenüber 27% wider. Torino dagegen steht auf Platz 13, liegt 18 Punkte hinter dem Spitzenreiter und hat in den letzten fünf Spielen nur einen Sieg geholt. Die Ausfälle von Nuno Tavares und Mattia Zaccagni bei Lazio sollten als Faktor berücksichtigt werden, der den Favoritenvorsprung etwas verringern könnte. Diese Partie wurde wegen der Unsicherheit um die Ausfälle von Tavares und Zaccagni im Lazio-Kader nicht in die Liste der starken Empfehlungen aufgenommen.",
+        "fr": "Lazio, avec sa place de leader du championnat et sa solide forme à l'extérieur, est le grand favori de la rencontre ; les probabilités traduisent d'ailleurs cet avantage avec 45 % contre 27 %. Torino, de son côté, occupe la 13e place, à 18 points du leader, et n'a remporté qu'une seule victoire lors de ses cinq derniers matchs. L'absence de Nuno Tavares et de Mattia Zaccagni chez Lazio doit être prise en compte comme un facteur susceptible de réduire quelque peu cet écart de favoritisme. Ce match n'a pas été retenu dans la liste des pronostics forts, en raison de l'incertitude entourant les absences de Tavares et Zaccagni dans l'effectif de Lazio.",
+        "it": "Lazio, con la sua posizione di testa in classifica e la forte forma in trasferta, è il netto favorito della partita; le probabilità lo riflettono, con il 45% contro il 27%. Il Torino, invece, è al 13° posto, a 18 punti di distanza dalla capolista, e nelle ultime cinque partite ha ottenuto una sola vittoria. Le assenze di Nuno Tavares e Mattia Zaccagni nella Lazio vanno considerate un elemento che potrebbe in parte ampliare questo divario di favore. Questa partita non è stata inserita nell'elenco delle previsioni più solide, a causa dell'incertezza legata alle assenze di Tavares e Zaccagni nella rosa della Lazio.",
+        "pt": "Lazio, na liderança da liga e com uma forte fase fora de casa, é o favorito claro para a partida; as probabilidades refletem isso com 45% contra 27%. Já o Torino está em 13º lugar, a 18 pontos do líder, e somou apenas uma vitória nos últimos cinco jogos. A ausência de Nuno Tavares e Mattia Zaccagni na Lazio deve ser considerada um fator que pode reduzir um pouco essa diferença de favoritismo. Este jogo não foi incluído na lista de palpites fortes devido à incerteza sobre as ausências de Tavares e Zaccagni no elenco da Lazio."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4003,20 +4650,62 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
           "1": 0.2694,
           "X": 0.2742,
           "2": 0.4564
         },
         "son": {
-          "1": 0.2709,
-          "X": 0.2736,
-          "2": 0.4555
+          "1": 0.2714,
+          "X": 0.2748,
+          "2": 0.4537
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 13,
+          "puan": 14,
+          "kalan_mac": 26,
+          "durum": null
+        },
+        "deplasman": {
+          "sira": 1,
+          "puan": 32,
+          "kalan_mac": 26,
+          "durum": "sampiyonluk_yarisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Nuno Tavares",
+              "supheli": false,
+              "tur": "injury"
+            },
+            {
+              "ad": "Mattia Zaccagni",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": [
+          {
+            "kod": "onemli_eksikler",
+            "takim": "deplasman",
+            "oyuncular": [
+              "Nuno Tavares",
+              "Mattia Zaccagni"
+            ],
+            "sayi": 2
+          }
+        ],
+        "elenme_nedeni": "Önemli eksikler: Lazio kadrosunda Nuno Tavares, Mattia Zaccagni yok ya da şüpheli",
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -4025,13 +4714,33 @@
       "ev_sahibi": "Ipswich Town",
       "deplasman": "Aston Villa",
       "baslama_utc": "2026-11-28T17:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2718,
+        "X": 0.2473,
+        "2": 0.4809
+      },
+      "tahmin": "2",
+      "guven": 0.2091,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6207,
+          "alt": 0.3793
+        },
+        "tahmin": "ust",
+        "guven": 0.2414,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Aston Villa, deplasmanda olmasına rağmen belirgin biçimde önde görünüyor; olasılık %48 ile Ipswich Town'ın %27'sinin neredeyse iki katı. Ipswich'in son beş maçta galibiyeti olmaması ve küme düşme hattına yakın durması, ev sahibinin tabloda zayıf bir konumda olduğunu gösteriyor. Amadou Onana'nın eksikliği Villa'nın orta sahasını etkileyebilir, ancak bu maçın güçlü tahmin listesine alınmamasının nedeni bağlamda net biçimde belirtilmiyor; bu yüzden değerlendirmeyi sınırlı güvenle okumak gerekir.",
+      "ai_metinler": {
+        "en": "Aston Villa appears clearly ahead despite playing away; their probability of 48% is nearly double Ipswich Town's 27%. Ipswich's lack of a win in their last five matches and their position close to the relegation zone suggest the home side is in a weak position in the table. The absence of Amadou Onana could affect Villa's midfield, but the reason this match was not included in the strong prediction list is not clearly stated in the context, so this assessment should be read with limited confidence.",
+        "es": "Aston Villa parece claramente favorito a pesar de jugar como visitante; la probabilidad es del 48%, casi el doble del 27% de Ipswich Town. Que Ipswich no haya ganado en los últimos cinco partidos y esté cerca de la zona de descenso indica que el local ocupa una posición débil en la tabla. La ausencia de Amadou Onana podría afectar al centro del campo de Villa, aunque el contexto no explica con claridad por qué este partido no se incluyó en la lista de pronósticos destacados, así que esta valoración debe leerse con confianza limitada.",
+        "de": "Aston Villa wirkt trotz des Auswärtsspiels deutlich im Vorteil; die Wahrscheinlichkeit liegt bei 48 % und ist damit fast doppelt so hoch wie die 27 % von Ipswich Town. Dass Ipswich in den letzten fünf Spielen keinen Sieg einfahren konnte und nahe an der Abstiegszone steht, zeigt, dass der Gastgeber in der Tabelle eine schwache Position hat. Das Fehlen von Amadou Onana könnte das Mittelfeld von Villa beeinflussen, doch warum dieses Spiel nicht in die Liste der starken Einschätzungen aufgenommen wurde, wird im Kontext nicht klar benannt; deshalb sollte man die Einschätzung nur mit begrenzter Sicherheit lesen.",
+        "fr": "Aston Villa apparaît nettement favori malgré le fait de jouer à l'extérieur ; sa probabilité, à 48 %, est presque le double de celle d'Ipswich Town, à 27 %. L'absence de victoire d'Ipswich lors des cinq derniers matchs et sa proximité avec la zone de relégation indiquent que l'équipe recevante occupe une position fragile au classement. L'absence d'Amadou Onana pourrait peser sur le milieu de terrain de Villa, mais les raisons pour lesquelles ce match n'a pas été retenu dans la liste des pronostics forts ne sont pas clairement précisées dans le contexte ; il convient donc de lire cette évaluation avec une confiance limitée.",
+        "it": "Aston Villa, deplasmanda olmasına rağmen belirgin biçimde önde görünüyor; olasılık %48 ile Ipswich Town'ın %27'sinin neredeyse iki katı. Ipswich'in son beş maçta galibiyeti olmaması ve küme düşme hattına yakın durması, ev sahibinin tabloda zayıf bir konumda olduğunu gösteriyor. Amadou Onana'nın eksikliği Villa'nın orta sahasını etkileyebilir, ancak bu maçın güçlü tahmin listesine alınmamasının nedeni bağlamda net biçimde belirtilmiyor; bu yüzden değerlendirmeyi sınırlı güvenle okumak gerekir.",
+        "pt": "Aston Villa aparece claramente à frente, apesar de jogar fora de casa; a probabilidade de 48% é quase o dobro dos 27% do Ipswich Town. O fato de o Ipswich não ter vencido nos últimos cinco jogos e estar perto da zona de rebaixamento indica que o time da casa está em uma posição fraca na tabela. A ausência de Amadou Onana pode afetar o meio-campo do Villa, mas o motivo pelo qual este jogo não foi incluído na lista de palpites fortes não é claramente explicado no contexto; por isso, a avaliação deve ser lida com confiança limitada."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4188,20 +4897,47 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
           "1": 0.2815,
           "X": 0.2453,
           "2": 0.4732
         },
         "son": {
-          "1": 0.2654,
-          "X": 0.246,
-          "2": 0.4886
+          "1": 0.2718,
+          "X": 0.2473,
+          "2": 0.4809
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 16,
+          "puan": 11,
+          "kalan_mac": 27,
+          "durum": "kume_baskisi"
+        },
+        "deplasman": {
+          "sira": 12,
+          "puan": 14,
+          "kalan_mac": 27,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Amadou Onana",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -4210,13 +4946,33 @@
       "ev_sahibi": "Elche CF",
       "deplasman": "Atlético Madrid",
       "baslama_utc": "2026-11-28T17:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.1483,
+        "X": 0.1989,
+        "2": 0.6528
+      },
+      "tahmin": "2",
+      "guven": 0.4539,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6086,
+          "alt": 0.3914
+        },
+        "tahmin": "ust",
+        "guven": 0.2172,
+        "kaynak_sayisi": 5
+      },
+      "ai_metin": "Atlético Madrid, Elche'yi deplasmanda %65 olasılıkla yenmeye daha yakın görünüyor; Atlético'nun ligde 3. sırada olması ve son beş deplasman maçında 4 galibiyet alması bu farkı destekliyor. Elche ise 19. sırada ve küme düşme hattına çok yakın, iç sahada son üç maçında gol bulamadı. Atlético'da Cristian Romero'nun şüpheli, Marc Pubill'in yok olması nedeniyle maç güçlü tahmin listesine alınmadı.",
+      "ai_metinler": {
+        "en": "Atlético Madrid appears closer to winning away at Elche with a 65% probability, a view supported by Atlético's 3rd-place position in the league and their 4 wins in their last five away matches. Elche, however, sit 19th and very close to the relegation zone, and they have failed to score in their last three home matches. Cristian Romero is doubtful and Marc Pubill is absent for Atlético, so the match has not been included in the strong prediction list.",
+        "es": "Atlético Madrid parece más cerca de vencer a Elche como visitante, con una probabilidad del 65%; el hecho de que el Atlético esté 3.º en la liga y haya ganado 4 de sus últimos cinco partidos como visitante respalda esta diferencia. Elche, por su parte, ocupa el 19.º puesto y está muy cerca de la zona de descenso, y en sus últimos tres partidos en casa no ha marcado goles. En el Atlético, Cristian Romero está en duda y Marc Pubill está ausente, por lo que el partido no se ha incluido en la lista de pronósticos fuertes.",
+        "de": "Atlético Madrid scheint auswärts bei Elche mit einer Wahrscheinlichkeit von 65% die Oberhand zu behalten; für diesen Unterschied sprechen Atléticos dritter Tabellenplatz in der Liga und seine 4 Siege aus den letzten fünf Auswärtsspielen. Elche steht dagegen auf Platz 19 und damit sehr nah an der Abstiegszone, und im Heimspiel hat die Mannschaft in den letzten drei Partien kein Tor erzielt. Bei Atlético ist Cristian Romero fraglich, und Marc Pubill fehlt, weshalb die Partie nicht auf die Liste der stark eingeschätzten Vorhersagen gesetzt wurde.",
+        "fr": "Atlético Madrid semble plus proche de s'imposer à l'extérieur face à Elche, avec une probabilité de 65 %, soutenue par sa 3e place au classement et par ses 4 victoires lors de ses cinq derniers déplacements. Elche, en revanche, occupe la 19e place, très proche de la zone de relégation, et n'a pas marqué lors de ses trois derniers matchs à domicile. Chez Atlético, Cristian Romero est incertain et Marc Pubill est absent, raison pour laquelle cette rencontre n'a pas été retenue dans la liste des matchs les plus sûrs.",
+        "it": "Atlético Madrid, Elche'yi deplasmanda %65 olasılıkla yenmeye daha yakın görünüyor; Atlético'nun ligde 3. sırada olması ve son beş deplasman maçında 4 galibiyet alması bu farkı destekliyor. Elche ise 19. sırada ve küme düşme hattına çok yakın, iç sahada son üç maçında gol bulamadı. Atlético'da Cristian Romero'nun şüpheli, Marc Pubill'in yok olması nedeniyle maç güçlü tahmin listesine alınmadı.",
+        "pt": "Atlético Madrid parece mais próximo de vencer o Elche fora de casa, com uma probabilidade de 65%; o fato de o Atlético estar em 3º lugar na liga e ter conquistado 4 vitórias nos últimos cinco jogos como visitante sustenta essa diferença. O Elche, por sua vez, está em 19º lugar, muito perto da zona de rebaixamento, e não marcou gols nos últimos três jogos em casa. No Atlético, Cristian Romero está em dúvida e Marc Pubill está fora, motivo pelo qual a partida não foi incluída na lista de destaques de previsões fortes."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4372,21 +5128,63 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.1854,
-          "X": 0.2227,
-          "2": 0.5919
+          "1": 0.1847,
+          "X": 0.2229,
+          "2": 0.5925
         },
         "son": {
-          "1": 0.1523,
-          "X": 0.2021,
-          "2": 0.6457
+          "1": 0.1483,
+          "X": 0.1989,
+          "2": 0.6528
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 19,
+          "puan": 11,
+          "kalan_mac": 25,
+          "durum": "kume_baskisi"
+        },
+        "deplasman": {
+          "sira": 3,
+          "puan": 31,
+          "kalan_mac": 25,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Cristian Romero",
+              "supheli": true,
+              "tur": "injury"
+            },
+            {
+              "ad": "Marc Pubill",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": [
+          {
+            "kod": "onemli_eksikler",
+            "takim": "deplasman",
+            "oyuncular": [
+              "Cristian Romero",
+              "Marc Pubill"
+            ],
+            "sayi": 2
+          }
+        ],
+        "elenme_nedeni": "Önemli eksikler: Atlético Madrid kadrosunda Cristian Romero, Marc Pubill yok ya da şüpheli",
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -4395,13 +5193,33 @@
       "ev_sahibi": "VfB Stuttgart",
       "deplasman": "Eintracht Frankfurt",
       "baslama_utc": "2026-11-28T17:30:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.544,
+        "X": 0.2108,
+        "2": 0.2452
+      },
+      "tahmin": "1",
+      "guven": 0.2988,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.7497,
+          "alt": 0.2503
+        },
+        "tahmin": "ust",
+        "guven": 0.4994,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "VfB Stuttgart ev sahibi olarak %54 ile hafif önde görünüyor, ancak Frankfurt'un %25'lik ihtimali de göz ardı edilemez. Stiller'in yokluğu ve Stuttgart'ın son beş maçta yedi gol yemesi, ev sahibinin avantajını sınırlıyor; iki takımın da lige yakın konumda olması maçın açık oynanmasına işaret ediyor. Bu maç güçlü tahmin listesine, olasılığın seçim aralığında olması ve eleme koşullarının bulunmaması nedeniyle alındı.",
+      "ai_metinler": {
+        "en": "VfB Stuttgart, playing at home, appears slightly ahead with a 54% probability, but Frankfurt's 25% probability cannot be ignored. Stiller's absence and Stuttgart conceding seven goals in their last five matches limit the home advantage; both teams being close to each other in the league points to an open game. This match was included in the strong picks list because its probability falls within the selection range and there are no exclusion conditions.",
+        "es": "VfB Stuttgart como local aparece ligeramente por delante con un 54%, pero la probabilidad del 25% del Frankfurt tampoco puede pasarse por alto. La ausencia de Stiller y el hecho de que Stuttgart haya encajado siete goles en los últimos cinco partidos limitan la ventaja del local; que ambos equipos estén cerca de la zona de la liga apunta a un partido abierto. Este encuentro se incluyó en la lista de pronósticos destacados porque la probabilidad está dentro del rango seleccionado y no existen condiciones de exclusión.",
+        "de": "Als Gastgeber wirkt der VfB Stuttgart mit 54% leicht im Vorteil, doch die Wahrscheinlichkeit von 25% für Frankfurt darf nicht übersehen werden. Das Fehlen von Stiller und die sieben Gegentore des Teams in den letzten fünf Spielen schränken den Heimvorteil ein; dass beide Mannschaften in der Tabelle nah beieinander liegen, deutet darauf hin, dass die Partie offen gestaltet sein dürfte. Diese Begegnung wurde in die Liste der starken Vorhersagen aufgenommen, da die Wahrscheinlichkeit im Auswahlbereich liegt und keine Ausschlussbedingungen vorliegen.",
+        "fr": "VfB Stuttgart apparaît légèrement favori à domicile avec 54 %, mais la probabilité de 25 % pour Frankfurt ne peut pas être ignorée. L'absence de Stiller et le fait que Stuttgart ait encaissé sept buts lors de ses cinq derniers matchs limitent l'avantage du équipe à domicile ; le fait que les deux équipes soient proches du milieu de classement laisse présager une rencontre ouverte. Ce match a été retenu dans la liste des pronostics forts, la probabilité se situant dans la fourchette de sélection et aucune condition d'élimination n'étant présente.",
+        "it": "VfB Stoccarda, in casa, appare leggermente favorito con il 54%, ma la probabilità del 25% per il Francoforte non può essere ignorata. L'assenza di Stiller e il fatto che lo Stoccarda abbia subito sette gol nelle ultime cinque partite limitano il vantaggio della squadra di casa; il fatto che entrambe le squadre siano vicine in classifica suggerisce che la partita sarà aperta. Questa partita è stata inserita nell'elenco delle previsioni solide, poiché la probabilità rientra nell'intervallo di selezione e non sono presenti condizioni di esclusione.",
+        "pt": "VfB Stuttgart, como mandante, aparece levemente à frente com 54%, mas a probabilidade de 25% do Frankfurt também não pode ser ignorada. A ausência de Stiller e o fato de o Stuttgart ter sofrido sete gols nos últimos cinco jogos limitam a vantagem do time da casa; o fato de as duas equipes estarem próximas na tabela indica que a partida deve ser aberta. Este jogo foi incluído na lista de destaques, pois sua probabilidade está dentro da faixa de seleção e não há condições de eliminação."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4557,21 +5375,48 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.5684,
-          "X": 0.2051,
-          "2": 0.2265
+          "1": 0.5637,
+          "X": 0.207,
+          "2": 0.2293
         },
         "son": {
-          "1": 0.5432,
-          "X": 0.2115,
-          "2": 0.2453
+          "1": 0.544,
+          "X": 0.2108,
+          "2": 0.2452
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 8,
+          "puan": 13,
+          "kalan_mac": 24,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Angelo Stiller",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 7,
+          "puan": 15,
+          "kalan_mac": 24,
+          "durum": null
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -4580,13 +5425,33 @@
       "ev_sahibi": "Inter Milan",
       "deplasman": "Genoa",
       "baslama_utc": "2026-11-28T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7247,
+        "X": 0.1714,
+        "2": 0.1039
+      },
+      "tahmin": "1",
+      "guven": 0.5533,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6036,
+          "alt": 0.3964
+        },
+        "tahmin": "ust",
+        "guven": 0.2072,
+        "kaynak_sayisi": 7
+      },
+      "ai_metin": "Inter Milan, ev sahibi avantajıyla belirgin favori; olasılıklar Inter'in galibiyetini %72 olarak gösteriyor. Inter'in ligde 4. sırada olması ve lidere 5 puan uzaklıkta bulunması, Genoa'nın ise 10. sırada, lidere 16 puan geride olmasıyla birlikte değerlendirildiğinde bu fark somut bir zemine dayanıyor. Maç, güçlü tahmin listesine bağlamdaki olasılık aralığı ve eleme koşullarına takılmama durumuna göre alınmış; ancak 24 veri kaynağı arasındaki görüş farkı nedeniyle belirsizlik normalin üzerinde olduğundan sonuca kesinlik gözüyle bakılmamalı.",
+      "ai_metinler": {
+        "en": "Inter Milan are clear favourites thanks to home advantage; the probabilities put Inter's win at 72%. Inter sit 4th in the league, 5 points behind the leader, while Genoa are 10th, 16 points off the top. Judged against these standings, the gap rests on a concrete basis. The match was selected for the strong picks list based on its probability range and whether it avoided the elimination criteria; however, because the 24 data sources disagree to a greater extent than usual, uncertainty is above normal and the conclusion should not be viewed as certain.",
+        "es": "Inter Milan, con la ventaja de jugar en casa, es un favorito claro; las probabilidades sitúan la victoria de Inter en un 72%. Que Inter ocupe el 4.º puesto en la liga y esté a 5 puntos del líder, mientras que Genoa está en el 10.º puesto, a 16 puntos del líder, da a esta diferencia una base concreta. El partido fue seleccionado para la lista de pronósticos destacados según el rango de probabilidad del contexto y si cumple las condiciones de eliminación; sin embargo, dado que las 24 fuentes de datos discrepan más de lo normal, la incertidumbre es superior a lo habitual y el resultado no debe considerarse seguro.",
+        "de": "Inter Mailand ist mit Heimvorteil der klare Favorit; die Wahrscheinlichkeiten weisen einen Sieg für Inter mit 72% aus. Dass Inter in der Liga auf Platz 4 steht und 5 Punkte hinter dem Spitzenreiter liegt, während Genoa auf Platz 10 steht und 16 Punkte hinter dem Spitzenreiter zurückliegt, stützt diese Einschätzung auf eine konkrete Grundlage. Die Partie wurde im Hinblick auf die Wahrscheinlichkeitsspanne im Kontext und die Ausschlussbedingungen in die starke Vorhersageliste aufgenommen; da die 24 Datenquellen jedoch deutlich voneinander abweichen, liegt die Unsicherheit über dem Normalniveau, weshalb das Ergebnis nicht mit Gewissheit betrachtet werden sollte.",
+        "fr": "Inter Milan, avec l'avantage du terrain, est nettement favori ; les probabilités donnent à Inter une victoire à 72 %. Le fait qu'Inter occupe la 4e place du championnat, à 5 points du leader, et que Genoa soit 10e, à 16 points du leader, donne à cet écart une base concrète. Ce match a été retenu pour la liste des pronostics forts en fonction de la fourchette de probabilités du contexte et de l'absence de conditions d'élimination ; cependant, en raison de l'écart d'opinions entre les 24 sources de données, l'incertitude est supérieure à la normale, et ce résultat ne doit pas être considéré comme certain.",
+        "it": "Inter Milano, col vantaggio di giocare in casa, è nettamente favorita; le probabilità indicano una vittoria dell'Inter nel 72% dei casi. Il fatto che l'Inter sia al 4° posto in campionato, a 5 punti dalla vetta, mentre il Genoa è al 10° posto, a 16 punti dal primo, rende questa differenza fondata su basi concrete. La partita è stata inserita nell'elenco delle previsioni più solide in base all'intervallo di probabilità del contesto e alla condizione di non essere esclusa dai criteri di selezione; tuttavia, poiché la divergenza di opinioni tra le 24 fonti di dati è superiore al normale, l'incertezza è elevata e il risultato non va considerato come certo.",
+        "pt": "Inter Milan, mandante com vantagem, é nitidamente o favorito; as probabilidades indicam uma vitória do Inter em 72%. O Inter estar em 4º lugar no campeonato e a 5 pontos do líder, enquanto o Genoa ocupa a 10ª posição, a 16 pontos do líder, faz essa diferença ter uma base concreta. A partida foi incluída na lista de palpites fortes considerando a faixa de probabilidade do contexto e a condição de não ter sido eliminada; porém, como a diferença de opinião entre as 24 fontes de dados deixa a incerteza acima do normal, o resultado não deve ser encarado com certeza."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4743,21 +5608,41 @@
       },
       "hareket": {
         "ilk_utc": "2026-11-20T05:37:19Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
           "1": 0.7525,
           "X": 0.1585,
           "2": 0.089
         },
         "son": {
-          "1": 0.7198,
-          "X": 0.1744,
-          "2": 0.1058
+          "1": 0.7247,
+          "X": 0.1714,
+          "2": 0.1039
         }
       },
-      "baglam": null,
-      "secim": null,
-      "ucretsiz": false
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 4,
+          "puan": 27,
+          "kalan_mac": 26,
+          "durum": null
+        },
+        "deplasman": {
+          "sira": 10,
+          "puan": 16,
+          "kalan_mac": 26,
+          "durum": null
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": true,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
+      "ucretsiz": true
     },
     {
       "mac_id": "f96c1137c9d3f7e2e691275a2988fa1d",
@@ -4765,13 +5650,33 @@
       "ev_sahibi": "Le Havre",
       "deplasman": "Strasbourg",
       "baslama_utc": "2026-11-28T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.3057,
+        "X": 0.2662,
+        "2": 0.4281
+      },
+      "tahmin": "2",
+      "guven": 0.1224,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5683,
+          "alt": 0.4317
+        },
+        "tahmin": "ust",
+        "guven": 0.1366,
+        "kaynak_sayisi": 11
+      },
+      "ai_metin": "Strasbourg'un deplasmanda hafif öne çıktığı, ancak bunun belirgin bir üstünlük olmadığı dengeli bir maç bekleniyor. İki takım da küme düşme hattına yakın; Le Havre son beş maçta galibiyet alamadı ve iç sahada da sıkıntılı, Strasbourg ise Panichelli'nin yokluğuyla çalışacak. Bu tabloda maçın yüksek skorlu olma eğilimi taşıdığı görülüyor (3 veya daha fazla gol %57). Geçmiş tahminlerimizin bu güven seviyesinde beklenenin biraz altında kaldığını da belirtmek gerekir; bu nedenle maç güçlü tahmin listesine alınmamış durumda.",
+      "ai_metinler": {
+        "en": "A balanced match is expected, with Strasbourg holding a slight edge on the road, though this does not amount to a clear advantage. Both teams are close to the relegation zone: Le Havre has not won in its last five matches and has also struggled at home, while Strasbourg will have to work without Panichelli. Given this picture, the match shows a tendency toward a high-scoring game (3 or more goals at 57%). It should also be noted that our past predictions at this confidence level have fallen somewhat short of expectations, so the match has not been included in the strong predictions list.",
+        "es": "El Strasbourg parece tener una ligera ventaja como visitante, pero no es una superioridad clara, así que se espera un partido equilibrado. Ambos equipos están cerca de la zona de descenso; el Le Havre no ha logrado ninguna victoria en sus últimos cinco partidos y también tiene problemas jugando en casa, mientras que el Strasbourg tendrá que trabajar sin Panichelli. En este escenario se observa una tendencia a que el partido sea de muchos goles (3 goles o más con una probabilidad del 57%). También cabe señalar que nuestras predicciones anteriores con este nivel de confianza quedaron algo por debajo de lo esperado; por ello, el partido no ha sido incluido en la lista de predicciones fuertes.",
+        "de": "Ein ausgeglichenes Spiel wird erwartet, bei dem Strasbourg auswärts leicht im Vorteil ist, dieser Vorteil jedoch nicht deutlich ausfällt. Beide Mannschaften befinden sich nahe der Abstiegszone; Le Havre hat in den letzten fünf Spielen keinen Sieg eingefahren und tut sich auch auf eigenem Platz schwer, während Strasbourg ohne Panichelli auskommen muss. Vor diesem Hintergrund zeigt sich eine Tendenz zu einem torreichen Spiel (3 oder mehr Tore mit 57%). Es ist außerdem anzumerken, dass unsere bisherigen Vorhersagen auf diesem Vertrauensniveau etwas unter den Erwartungen geblieben sind; deshalb wurde das Spiel nicht in die Liste der starken Vorhersagen aufgenommen.",
+        "fr": "Un match équilibré est attendu, avec un léger avantage pour Strasbourg à l'extérieur, mais sans supériorité nette. Les deux équipes sont proches de la zone de relégation ; Le Havre n'a pas remporté le moindre succès lors de ses cinq derniers matchs et connaît des difficultés à domicile également, tandis que Strasbourg devra composer sans Panichelli. Dans ce contexte, la probabilité que la rencontre soit riche en buts ressort clairement (3 buts ou plus : 57 %). Il convient également de noter que les résultats de nos précédentes prévisions à ce niveau de confiance ont été légèrement inférieurs aux attentes ; c'est pourquoi ce match n'a pas été retenu dans la liste des pronostics forts.",
+        "it": "Si prevede una partita equilibrata, con lo Strasbourg leggermente favorito in trasferta, ma senza un vantaggio netto. Entrambe le squadre sono vicine alla zona retrocessione: il Le Havre non vince da cinque partite e anche in casa sta attraversando difficoltà, mentre lo Strasbourg dovrà fare a meno di Panichelli. In questo quadro, la partita mostra una tendenza verso un punteggio elevato, con una probabilità del 57% di 3 o più gol. Va inoltre precisato che le nostre precedenti previsioni con questo livello di affidabilità hanno avuto un rendimento leggermente inferiore alle attese; per questo motivo la partita non è stata inserita nell'elenco dei pronostici più solidi.",
+        "pt": "Espera-se um jogo equilibrado, com o Strasbourg levemente à frente fora de casa, mas sem uma superioridade clara. As duas equipes estão perto da zona de rebaixamento; o Le Havre não venceu nenhuma das últimas cinco partidas e também passa por dificuldades em casa, enquanto o Strasbourg terá que trabalhar sem Panichelli. Nesse cenário, o confronto mostra tendência a ser um jogo de muitos gols, com probabilidade de 3 ou mais gols de 57%. Vale também registrar que nossas previsões anteriores com esse nível de confiança ficaram um pouco abaixo do esperado; por isso, a partida não foi incluída na lista de previsões fortes."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -4927,21 +5832,48 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.3249,
-          "X": 0.2547,
-          "2": 0.4203
+          "1": 0.3262,
+          "X": 0.2549,
+          "2": 0.4189
         },
         "son": {
-          "1": 0.3053,
-          "X": 0.2651,
-          "2": 0.4296
+          "1": 0.3057,
+          "X": 0.2662,
+          "2": 0.4281
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 18,
+          "puan": 2,
+          "kalan_mac": 23,
+          "durum": "kume_baskisi"
+        },
+        "deplasman": {
+          "sira": 16,
+          "puan": 10,
+          "kalan_mac": 23,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Joaquín Panichelli",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -4950,13 +5882,33 @@
       "ev_sahibi": "Le Mans FC",
       "deplasman": "Lille",
       "baslama_utc": "2026-11-28T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.2556,
+        "X": 0.2777,
+        "2": 0.4667
+      },
+      "tahmin": "2",
+      "guven": 0.189,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.4649,
+          "alt": 0.5351
+        },
+        "tahmin": "alt",
+        "guven": 0.0702,
+        "kaynak_sayisi": 15
+      },
+      "ai_metin": "Lille, puan durumunda lidere 5 puan yakın olmasına karşın Le Mans'ın 13. sırada ve küme düşme hattına yakın konumu nedeniyle deplasmanda belirgin favori; olasılıklar %47 Lille galibiyeti ve %26 Le Mans galibiyeti yönünde. Lille'in Tiago Santos ve Hamza Igamane'ın şüpheli olması, maçın kadro durumuna bağlı bir belirsizlik taşıdığını gösteriyor. Bu nedenle maç güçlü tahmin listesine alınmadı.",
+      "ai_metinler": {
+        "en": "Lille is only 5 points behind the leader, but Le Mans sit 13th and close to the relegation zone, which makes Lille the clear favourite on the road; the probabilities point to a 47% chance of a Lille win and a 26% chance of a Le Mans win. Lille's doubtful players Tiago Santos and Hamza Igamane signal an uncertainty tied to the squad situation, so this match was not included in the strong prediction list.",
+        "es": "Lille, a pesar de estar a solo 5 puntos del líder de la tabla, es claramente el favorito como visitante frente a Le Mans, que ocupa el 13.º puesto y se encuentra cerca de la zona de descenso; la probabilidad apunta a una victoria del Lille en un 47% y a una victoria del Le Mans en un 26%. Que Tiago Santos y Hamza Igamane sean dudosos para el Lille muestra que el partido tiene una incertidumbre ligada al estado de la plantilla. Por ese motivo, el encuentro no se ha incluido en la lista de pronósticos fuertes.",
+        "de": "Lille ist trotz eines Rückstands von 5 Punkten auf den Tabellenführer und des 13. Platzes von Le Mans, das nahe der Abstiegszone steht, auswärts der klare Favorit; die Wahrscheinlichkeiten liegen bei 47% für einen Sieg von Lille und 26% für einen Sieg von Le Mans. Dass Tiago Santos und Hamza Igamane bei Lille fraglich sind, zeigt eine Unsicherheit, die vom Kaderstatus abhängt. Deshalb wurde das Spiel nicht in die Liste der starken Prognosen aufgenommen.",
+        "fr": "Lille, malgré un écart de 5 points avec le leader au classement, est nettement favori à l'extérieur face au Mans, 13e et proche de la zone de relégation ; les probabilités penchent à %47 pour une victoire de Lille et à %26 pour une victoire du Mans. Le statut incertain de Tiago Santos et Hamza Igamane chez Lille montre que le match dépend de la composition de l'équipe. C'est pourquoi cette rencontre n'a pas été retenue dans la liste des pronostics forts.",
+        "it": "Lille, pur essendo a soli 5 punti dal primo posto in classifica, è nettamente favorito in trasferta contro il Le Mans, 13°, vicino alla zona retrocessione; le probabilità indicano una vittoria del Lille al 47% e una vittoria del Le Mans al 26%. Il fatto che Tiago Santos e Hamza Igamane siano in dubbio mostra che la partita presenta un'incertezza legata alla situazione della rosa. Per questo motivo la partita non è stata inserita nell'elenco delle previsioni più solide.",
+        "pt": "Lille, puan durumunda lidere 5 puan yakın olmasına karşın Le Mans'ın 13. sırada ve küme düşme hattına yakın konumu nedeniyle deplasmanda belirgin favori; olasılıklar %47 Lille galibiyeti ve %26 Le Mans galibiyeti yönünde. Lille'in Tiago Santos ve Hamza Igamane'ın şüpheli olması, maçın kadro durumuna bağlı bir belirsizlik taşıdığını gösteriyor. Bu nedenle maç forte previsões lista'ya alınmadı."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -5112,21 +6064,70 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2323,
-          "X": 0.2653,
-          "2": 0.5024
+          "1": 0.2314,
+          "X": 0.2664,
+          "2": 0.5022
         },
         "son": {
-          "1": 0.2553,
-          "X": 0.2785,
-          "2": 0.4662
+          "1": 0.2556,
+          "X": 0.2777,
+          "2": 0.4667
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 13,
+          "puan": 11,
+          "kalan_mac": 23,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Adil Bourabaa",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 3,
+          "puan": 21,
+          "kalan_mac": 23,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Tiago Santos",
+              "supheli": false,
+              "tur": "injury"
+            },
+            {
+              "ad": "Hamza Igamane",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": [
+          {
+            "kod": "onemli_eksikler",
+            "takim": "deplasman",
+            "oyuncular": [
+              "Tiago Santos",
+              "Hamza Igamane"
+            ],
+            "sayi": 2
+          }
+        ],
+        "elenme_nedeni": "Önemli eksikler: Lille kadrosunda Tiago Santos, Hamza Igamane yok ya da şüpheli",
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -5135,13 +6136,33 @@
       "ev_sahibi": "Paris Saint Germain",
       "deplasman": "Lorient",
       "baslama_utc": "2026-11-28T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.7875,
+        "X": 0.1336,
+        "2": 0.0789
+      },
+      "tahmin": "1",
+      "guven": 0.6539,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.6619,
+          "alt": 0.3381
+        },
+        "tahmin": "ust",
+        "guven": 0.3238,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "PSG, Ligue 1'de lider konumunda ve ev sahibi olarak belirgin favori; kazanma olasılığı %79, Lorient'ın galibiyet olasılığı ise %8. Ev sahibinin son 5 maçtaki 17 golü ve bu maçların 4'ünde 3 veya daha fazla gol çıkması, maçın golcü bir akışa sahip olabileceğini gösteriyor; Lorient'ın son 5 maçta 3 ve üzeri gol görmemiş olması ise bu tabloyu biraz dengeliyor. Gol tarafında 3 veya daha fazla gol olasılığı %66; bu tahmin güçlü tahmin listesine, geçmiş benzer güven seviyesindeki tahminlerin %69 isabetle sonuçlanmasına dayanarak alındı.",
+      "ai_metinler": {
+        "en": "PSG sit at the top of Ligue 1 and are the clear favourite as hosts; their probability of winning is 79%, while Lorient's probability of winning is 8%. The home side's 17 goals in their last 5 matches, with 3 or more goals scored in 4 of those games, suggest the match could have a high-scoring flow; Lorient not having seen 3 or more goals in their last 5 matches balances this picture slightly. The probability of 3 or more goals in the match is 66%; this prediction was placed on the strong prediction list based on past predictions at a similar confidence level having been correct 69% of the time.",
+        "es": "PSG, en la Ligue 1 ocupa el liderato y, como local, es el claro favorito; la probabilidad de que gane es del 79%, mientras que la probabilidad de victoria del Lorient es del 8%. Los 17 goles del equipo local en sus últimos 5 partidos, y el hecho de que en 4 de esos encuentros se marcaron 3 goles o más, indican que el partido podría tener un ritmo goleador. Por otro lado, que el Lorient no haya visto 3 goles o más en sus últimos 5 partidos equilibra un poco este panorama. En cuanto a los goles, la probabilidad de 3 goles o más es del 66%; esta predicción se incluyó en la lista de predicciones fuertes, basándose en que predicciones anteriores con un nivel de confianza similar acertaron el 69% de las veces.",
+        "de": "PSG steht in der Ligue 1 an der Tabellenspitze und ist als Gastgeber klarer Favorit; die Wahrscheinlichkeit für einen Sieg liegt bei 79%, die Wahrscheinlichkeit für einen Sieg von Lorient bei 8%. Die 17 Tore des Gastgebers in den letzten 5 Spielen und die Tatsache, dass in 4 dieser Partien 3 oder mehr Tore fielen, deuten darauf hin, dass das Spiel torreich verlaufen könnte; dass Lorient in den letzten 5 Spielen nie 3 oder mehr Tore gesehen hat, gleicht dieses Bild jedoch etwas aus. Bei den Toren liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 66%; diese Einschätzung wurde in die Liste der starken Einschätzungen aufgenommen, da ähnlich sichere Einschätzungen in der Vergangenheit in 69% der Fälle zutrafen.",
+        "fr": "PSG est en tête de la Ligue 1 et nettement favori en tant qu'équipe à domicile ; la probabilité qu'elle l'emporte est de 79 %, tandis que celle d'une victoire de Lorient est de 8 %. Les 17 buts marqués par l'équipe à domicile lors de ses 5 derniers matchs, dont 4 de ces matchs ont vu 3 buts ou plus, indiquent que la rencontre pourrait connaître un déroulement riche en buts ; en revanche, le fait que Lorient n'ait pas vu 3 buts ou plus lors de ses 5 derniers matchs tempère quelque peu cette tendance. Concernant les buts, la probabilité de 3 buts ou plus est de 66 % ; cette estimation a été retenue dans la liste des pronostics solides, en s'appuyant sur le fait que des pronostics antérieurs de niveau de confiance similaire se sont révélés justes dans 69 % des cas.",
+        "it": "PSG è in testa alla Ligue 1 e, giocando in casa, è nettamente favorito; la probabilità di vittoria è del 79%, mentre quella del Lorient di vincere è dell'8%. I 17 gol segnati dalla squadra di casa nelle ultime 5 partite e il fatto che in 4 di queste gare siano stati segnati 3 o più gol indicano che la partita potrebbe avere un ritmo ricco di reti; il fatto che il Lorient, nelle ultime 5 gare, non abbia mai visto 3 o più gol attenua un po' questo quadro. La probabilità di 3 o più gol è del 66%; questa previsione è stata inserita nell'elenco delle previsioni forti, sulla base del fatto che previsioni passate con un livello di fiducia simile hanno avuto un'accuratezza del 69%.",
+        "pt": "PSG está na liderança da Ligue 1 e é o favorito claro como mandante; a probabilidade de vitória é de 79%, enquanto a probabilidade de vitória do Lorient é de 8%. Os 17 gols do time da casa nas últimas 5 partidas, com 3 ou mais gols em 4 desses jogos, indicam que a partida pode ter um fluxo de gols intenso; já o fato de o Lorient não ter visto 3 ou mais gols nas últimas 5 partidas equilibra um pouco esse cenário. No quesito gols, a probabilidade de 3 ou mais gols é de 66%; essa estimativa foi incluída na lista de previsões fortes, com base no fato de que previsões anteriores de nível de confiança semelhante acertaram em 69% dos casos."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -5297,21 +6318,60 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.778,
+          "1": 0.7781,
           "X": 0.1406,
-          "2": 0.0814
+          "2": 0.0813
         },
         "son": {
-          "1": 0.7826,
-          "X": 0.1367,
-          "2": 0.0807
+          "1": 0.7875,
+          "X": 0.1336,
+          "2": 0.0789
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 1,
+          "puan": 26,
+          "kalan_mac": 23,
+          "durum": "sampiyonluk_yarisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Khvicha Kvaratskhelia",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 10,
+          "puan": 16,
+          "kalan_mac": 23,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Souleymane Touré",
+              "supheli": false,
+              "tur": "injury"
+            },
+            {
+              "ad": "Panos Katseris",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -5320,13 +6380,33 @@
       "ev_sahibi": "Nice",
       "deplasman": "Troyes",
       "baslama_utc": "2026-11-28T19:45:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.57,
+        "X": 0.2341,
+        "2": 0.1959
+      },
+      "tahmin": "1",
+      "guven": 0.3359,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.5687,
+          "alt": 0.4313
+        },
+        "tahmin": "ust",
+        "guven": 0.1374,
+        "kaynak_sayisi": 12
+      },
+      "ai_metin": "Nice, evinde Troyes karşısında belirgin favori: olasılıklar Nice'in kazanmasına %57, Troyes'in kazanmasına %20 veriyor ve bağlamda Nice'in 7. sırada, Troyes'in 14. sırada ve küme düşme hattına yakın olması bu farkı destekliyor. Nice'in son 5 maçta 12 gol atması ve 3 veya daha fazla golün bu maçların 4'ünde görülmesi, maçın gollü geçebileceğini gösteriyor; bu yüzden 3 veya daha fazla gol olasılığı %57. Maç, Ligue 1 ortalamalarının üzerinde güçlü bir tahmin adayı olarak öne çıkıyor.",
+      "ai_metinler": {
+        "en": "Nice holds a clear favourite status at home against Troyes: the probabilities give Nice a 57% chance of winning and Troyes a 20% chance, and the context supports this gap, with Nice 7th in the table and Troyes 14th, close to the relegation zone. Nice scoring 12 goals in their last 5 matches, and 3 or more goals occurring in 4 of those games, suggests this match could be high-scoring, so the probability of 3 or more goals is 57%. The match stands out as a strong prediction candidate above the Ligue 1 averages.",
+        "es": "Nice es claramente el favorito en casa frente al Troyes: las probabilidades dan un 57% de victoria para el Nice y un 20% para el Troyes, y el contexto respalda esta diferencia, ya que el Nice ocupa el 7.º puesto mientras que el Troyes está en el 14.º, cerca de la zona de descenso. Que el Nice haya marcado 12 goles en sus últimos 5 partidos y que se hayan visto 3 o más goles en 4 de esos encuentros sugiere que el partido podría ser goleador, por lo que la probabilidad de 3 o más goles es del 57%. El encuentro destaca como una opción de pronóstico sólida por encima de los promedios de la Ligue 1.",
+        "de": "Nice ist im Duell gegen Troyes der klare Favorit: Die Wahrscheinlichkeiten liegen bei 57% für einen Sieg von Nice und 20% für einen Sieg von Troyes. Der Kontext stützt diese Einschätzung, denn Nice steht auf Platz 7, während Troyes auf Platz 14 und damit nahe der Abstiegszone liegt. Dass Nice in den letzten 5 Spielen 12 Tore erzielt hat und 3 oder mehr Tore in 4 dieser Partien fielen, deutet darauf hin, dass das Spiel torreich verlaufen könnte; deshalb liegt die Wahrscheinlichkeit für 3 oder mehr Tore bei 57%. Die Partie sticht als aussichtsreicher Kandidat hervor, der deutlich über dem Ligue-1-Durchschnitt liegt.",
+        "fr": "Nice est nettement favori à domicile face à Troyes : les probabilités donnent une victoire de Nice à 57 %, contre 20 % pour une victoire de Troyes. Le contexte appuie cet écart, Nice occupant la 7e place alors que Troyes est 14e, proche de la zone de relégation. Par ailleurs, Nice a marqué 12 buts lors de ses 5 derniers matchs, et 3 buts ou plus ont été inscrits dans 4 de ces rencontres, ce qui laisse penser que la partie pourrait être riche en buts ; la probabilité de 3 buts ou plus est ainsi de 57 %. Cette rencontre se distingue comme une projection particulièrement solide, au-dessus des moyennes de la Ligue 1.",
+        "it": "Nice, in casa contro il Troyes, è nettamente favorito: le probabilità assegnano al Nice una vittoria del 57% e al Troyes una vittoria del 20%, e il contesto supporta questa differenza, con il Nice al 7° posto e il Troyes al 14° posto, vicino alla zona retrocessione. Il fatto che il Nice abbia segnato 12 gol nelle ultime 5 partite e che in 4 di queste gare si siano viste 3 o più reti suggerisce che l'incontro possa essere ricco di gol; per questo la probabilità di 3 o più gol è del 57%. La partita emerge come una candidata forte, al di sopra delle medie della Ligue 1.",
+        "pt": "O Nice é claramente favorito em casa contra o Troyes: a probabilidade de vitória do Nice é de 57%, enquanto a do Troyes é de 20%, e o contexto reforça essa diferença, já que o Nice ocupa a 7ª posição e o Troyes a 14ª, próximo da zona de rebaixamento. O Nice marcou 12 gols nos últimos 5 jogos, e 3 ou mais gols ocorreram em 4 desses jogos, o que indica que a partida pode ser movimentada; por isso, a probabilidade de 3 ou mais gols é de 57%. O jogo se destaca como uma opção de previsão forte, acima das médias da Ligue 1."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -5482,21 +6562,55 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.5692,
+          "1": 0.5691,
           "X": 0.2345,
-          "2": 0.1963
+          "2": 0.1964
         },
         "son": {
-          "1": 0.5686,
-          "X": 0.2348,
-          "2": 0.1966
+          "1": 0.57,
+          "X": 0.2341,
+          "2": 0.1959
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 7,
+          "puan": 17,
+          "kalan_mac": 23,
+          "durum": null,
+          "onemli_eksikler": [
+            {
+              "ad": "Antoine Mendy",
+              "supheli": false,
+              "tur": "injury"
+            }
+          ]
+        },
+        "deplasman": {
+          "sira": 14,
+          "puan": 11,
+          "kalan_mac": 23,
+          "durum": "kume_baskisi",
+          "onemli_eksikler": [
+            {
+              "ad": "Michel Diaz",
+              "supheli": false,
+              "tur": "suspension"
+            }
+          ]
+        }
+      },
+      "secim": {
+        "guclu": true,
+        "net_favori": false,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     },
     {
@@ -5505,13 +6619,33 @@
       "ev_sahibi": "Real Madrid",
       "deplasman": "Alavés",
       "baslama_utc": "2026-11-28T20:00:00Z",
-      "durum": "yetersiz_veri",
-      "olasiliklar": null,
-      "tahmin": null,
-      "guven": null,
-      "alt_ust": null,
-      "ai_metin": null,
-      "ai_metinler": null,
+      "durum": "ok",
+      "olasiliklar": {
+        "1": 0.8455,
+        "X": 0.1013,
+        "2": 0.0532
+      },
+      "tahmin": "1",
+      "guven": 0.7442,
+      "alt_ust": {
+        "cizgi": 2.5,
+        "olasiliklar": {
+          "ust": 0.727,
+          "alt": 0.273
+        },
+        "tahmin": "ust",
+        "guven": 0.454,
+        "kaynak_sayisi": 3
+      },
+      "ai_metin": "Real Madrid, Alavés karşısında belirgin favori; ev sahibinin yüzde 85 kazanma olasılığı, son beş maçtaki beş galibiyeti ve iç sahadaki güçlü formuyla destekleniyor. Alavés'in deplasmandaki zayıf performansı ve 20 puanlık geriliği, konuğun bu maçta zor bir sınavla karşılaşacağını gösteriyor. Ev sahibinin 3 veya daha fazla gol atma olasılığı yüzde 73 olarak hesaplanıyor, ancak bu maç güçlü tahmin listesine alınmadı çünkü sonucu çoğu kişi zaten bekliyor ve belirsizlik normalden yüksek.",
+      "ai_metinler": {
+        "en": "Real Madrid are clear favourites against Alavés; the home side's 85% probability of winning is supported by their five wins from the last five matches and their strong home form. Alavés' weak away performance and 20-point deficit suggest the visitors face a difficult test in this match. The probability of the home side scoring 3 or more goals is calculated at 73%, but this match was not included in the strong picks list because most people already expect the outcome and the uncertainty is higher than usual.",
+        "es": "Real Madrid es claramente el favorito frente al Alavés; la probabilidad de victoria del equipo local es del 85%, respaldada por sus cinco victorias en los últimos cinco partidos y su sólida forma en casa. El mal rendimiento del Alavés como visitante y su desventaja de 20 puntos indican que el equipo visitante se enfrentará a una prueba difícil en este encuentro. La probabilidad de que el equipo local marque 3 o más goles se calcula en un 73%, pero este partido no se incluyó en la lista de selecciones destacadas, ya que el resultado es algo que la mayoría ya espera y la incertidumbre es superior a lo habitual.",
+        "de": "Real Madrid ist im Spiel gegen Alavés der klare Favorit; die Wahrscheinlichkeit eines Heimsiegs liegt bei 85%, gestützt durch fünf Siege in den letzten fünf Partien und die starke Heimform. Die schwache Auswärtsleistung von Alavés und der Rückstand von 20 Punkten zeigen, dass der Gast in dieser Partie vor einer schwierigen Aufgabe steht. Die Wahrscheinlichkeit, dass der Gastgeber 3 oder mehr Tore erzielt, wird auf 73% geschätzt. Diese Partie wurde jedoch nicht in die Liste der starken Empfehlungen aufgenommen, da das Ergebnis von den meisten ohnehin erwartet wird und die Unsicherheit ungewöhnlich hoch ist.",
+        "fr": "Real Madrid est un favori net face à Alavés ; la probabilité de victoire de l'équipe à domicile est de 85 %, soutenue par ses cinq victoires lors des cinq derniers matchs et sa bonne forme à domicile. La performance faible d'Alavés à l'extérieur et son retard de 20 points montrent que l'équipe visiteuse devrait affronter un défi difficile dans ce match. La probabilité que l'équipe à domicile marque 3 buts ou plus est calculée à 73 %, mais ce match n'a pas été retenu dans la liste des pronostics forts, car le résultat est déjà attendu par la plupart des gens et l'incertitude est supérieure à la normale.",
+        "it": "Real Madrid è nettamente favorito contro l'Alavés; la probabilità di vittoria del padrone di casa è dell'85%, sostenuta dalle cinque vittorie consecutive nelle ultime cinque partite e da una forma solida davanti al proprio pubblico. La prestazione debole dell'Alavés in trasferta e il distacco di 20 punti indicano che la squadra ospite dovrà affrontare una prova difficile. La probabilità che il padrone di casa segni 3 o più gol è stimata al 73%, ma questa partita non è stata inserita nell'elenco delle previsioni più solide, perché il risultato è già dato per scontato da molti e l'incertezza è superiore al normale.",
+        "pt": "Real Madrid é claramente o favorito contra o Alavés; a probabilidade de vitória da equipe da casa é de 85%, apoiada pelas cinco vitórias nas últimas cinco partidas e por sua forte fase em casa. O fraco desempenho do Alavés fora de casa e a desvantagem de 20 pontos indicam que o visitante deve enfrentar um desafio difícil nesta partida. A probabilidade de o mandante marcar 3 ou mais gols é calculada em 73%, mas este jogo não foi incluído na lista de destaques, pois o resultado já é esperado pela maioria das pessoas e a incerteza está acima do normal."
+      },
       "form": {
         "ev_sahibi": {
           "son_maclar": [
@@ -5667,26 +6801,90 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-19T05:37:20Z",
-        "son_utc": "2026-11-26T05:37:20Z",
+        "ilk_utc": "2026-11-20T05:37:19Z",
+        "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.8268,
-          "X": 0.1129,
-          "2": 0.0602
+          "1": 0.8277,
+          "X": 0.1131,
+          "2": 0.0592
         },
         "son": {
-          "1": 0.8415,
-          "X": 0.1034,
-          "2": 0.0551
+          "1": 0.8455,
+          "X": 0.1013,
+          "2": 0.0532
         }
       },
-      "baglam": null,
-      "secim": null,
+      "baglam": {
+        "ev_sahibi": {
+          "sira": 2,
+          "puan": 33,
+          "kalan_mac": 25,
+          "durum": "sampiyonluk_yarisi"
+        },
+        "deplasman": {
+          "sira": 9,
+          "puan": 16,
+          "kalan_mac": 25,
+          "durum": null
+        }
+      },
+      "secim": {
+        "guclu": false,
+        "net_favori": true,
+        "secildi": false,
+        "elenme": null,
+        "elenme_nedeni": null,
+        "surpriz_ihtimali": null
+      },
       "ucretsiz": false
     }
   ],
   "en_guclu_3": {
-    "gunler": [],
+    "gunler": [
+      {
+        "tarih": "2026-11-28",
+        "maclar": [
+          {
+            "mac_id": "f128c19fa7af43e30dbe3c373e7bc27e",
+            "lig": "soccer_italy_serie_a",
+            "ev_sahibi": "Inter Milan",
+            "deplasman": "Genoa",
+            "baslama_utc": "2026-11-28T19:45:00Z",
+            "tahmin": "1",
+            "olasilik": 0.7247,
+            "guven": 0.5533,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "af3432ca724da03d38f0ff4e62045e4c",
+            "lig": "soccer_italy_serie_a",
+            "ev_sahibi": "Frosinone",
+            "deplasman": "Parma",
+            "baslama_utc": "2026-11-28T14:00:00Z",
+            "tahmin": "1",
+            "olasilik": 0.6387,
+            "guven": 0.4464,
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "0bc17a3c7d8153e72b94688960cc603a",
+            "lig": "soccer_epl",
+            "ev_sahibi": "Leeds United",
+            "deplasman": "Coventry City",
+            "baslama_utc": "2026-11-28T15:00:00Z",
+            "tahmin": "1",
+            "olasilik": 0.6433,
+            "guven": 0.4347,
+            "skor": null,
+            "tuttu": null
+          }
+        ],
+        "tutan": 0,
+        "sonuclanan": 0
+      }
+    ],
     "dun": null,
     "genel": {
       "gun": 15,
