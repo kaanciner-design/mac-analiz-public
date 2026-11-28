@@ -1,5 +1,5 @@
 {
-  "guncelleme_utc": "2026-11-27T22:30:46Z",
+  "guncelleme_utc": "2026-11-28T00:16:20Z",
   "mac_sayisi": 45,
   "maclar": [
     {
@@ -421,12 +421,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.6406,
-          "X": 0.2056,
-          "2": 0.1538
+          "1": 0.6367,
+          "X": 0.207,
+          "2": 0.1563
         },
         "son": {
           "1": 0.6094,
@@ -653,12 +653,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.6465,
-          "X": 0.1969,
-          "2": 0.1566
+          "1": 0.6432,
+          "X": 0.1978,
+          "2": 0.159
         },
         "son": {
           "1": 0.6522,
@@ -892,12 +892,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4851,
-          "X": 0.2455,
-          "2": 0.2694
+          "1": 0.4845,
+          "X": 0.2449,
+          "2": 0.2706
         },
         "son": {
           "1": 0.4831,
@@ -1132,12 +1132,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.052,
-          "X": 0.0881,
-          "2": 0.8599
+          "1": 0.0822,
+          "X": 0.127,
+          "2": 0.7908
         },
         "son": {
           "1": 0.0895,
@@ -1376,12 +1376,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4017,
-          "X": 0.275,
-          "2": 0.3234
+          "1": 0.4014,
+          "X": 0.2755,
+          "2": 0.323
         },
         "son": {
           "1": 0.3743,
@@ -1601,12 +1601,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.6503,
+          "1": 0.6465,
           "X": 0.2019,
-          "2": 0.1478
+          "2": 0.1515
         },
         "son": {
           "1": 0.6464,
@@ -1833,12 +1833,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.489,
-          "X": 0.2474,
-          "2": 0.2636
+          "1": 0.4897,
+          "X": 0.2494,
+          "2": 0.261
         },
         "son": {
           "1": 0.4543,
@@ -2082,12 +2082,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.6132,
-          "X": 0.2255,
-          "2": 0.1613
+          "1": 0.6124,
+          "X": 0.2247,
+          "2": 0.1629
         },
         "son": {
           "1": 0.6563,
@@ -2314,12 +2314,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.1995,
-          "X": 0.2586,
-          "2": 0.5419
+          "1": 0.1994,
+          "X": 0.2602,
+          "2": 0.5404
         },
         "son": {
           "1": 0.19,
@@ -2783,12 +2783,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2048,
-          "X": 0.2344,
-          "2": 0.5608
+          "1": 0.204,
+          "X": 0.2357,
+          "2": 0.5603
         },
         "son": {
           "1": 0.1916,
@@ -3008,12 +3008,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2617,
-          "X": 0.2785,
-          "2": 0.4598
+          "1": 0.2654,
+          "X": 0.2769,
+          "2": 0.4576
         },
         "son": {
           "1": 0.2638,
@@ -3245,12 +3245,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.2744,
-          "X": 0.2474,
-          "2": 0.4782
+          "1": 0.2741,
+          "X": 0.2479,
+          "2": 0.478
         },
         "son": {
           "1": 0.2642,
@@ -3477,12 +3477,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.174,
-          "X": 0.222,
-          "2": 0.604
+          "1": 0.1748,
+          "X": 0.2222,
+          "2": 0.6031
         },
         "son": {
           "1": 0.1371,
@@ -3714,12 +3714,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.5737,
-          "X": 0.2059,
-          "2": 0.2204
+          "1": 0.574,
+          "X": 0.2064,
+          "2": 0.2196
         },
         "son": {
           "1": 0.5528,
@@ -3946,12 +3946,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.7683,
-          "X": 0.1526,
-          "2": 0.0791
+          "1": 0.7668,
+          "X": 0.1535,
+          "2": 0.0797
         },
         "son": {
           "1": 0.7402,
@@ -4171,12 +4171,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.3215,
-          "X": 0.258,
-          "2": 0.4205
+          "1": 0.3218,
+          "X": 0.2572,
+          "2": 0.421
         },
         "son": {
           "1": 0.2997,
@@ -4403,12 +4403,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2222,
-          "X": 0.2695,
-          "2": 0.5083
+          "1": 0.2252,
+          "X": 0.267,
+          "2": 0.5078
         },
         "son": {
           "1": 0.2473,
@@ -4647,12 +4647,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.7944,
-          "X": 0.1339,
-          "2": 0.0717
+          "1": 0.7901,
+          "X": 0.138,
+          "2": 0.072
         },
         "son": {
           "1": 0.8039,
@@ -4891,12 +4891,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.5787,
-          "X": 0.2348,
-          "2": 0.1865
+          "1": 0.5784,
+          "X": 0.2336,
+          "2": 0.188
         },
         "son": {
           "1": 0.5796,
@@ -5130,12 +5130,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.8436,
-          "X": 0.1056,
-          "2": 0.0508
+          "1": 0.8416,
+          "X": 0.1064,
+          "2": 0.052
         },
         "son": {
           "1": 0.8611,
@@ -5520,12 +5520,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2828,
-          "X": 0.2688,
-          "2": 0.4484
+          "1": 0.282,
+          "X": 0.2675,
+          "2": 0.4505
         },
         "son": {
           "1": 0.2995,
@@ -5705,12 +5705,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.2693,
-          "X": 0.2657,
-          "2": 0.465
+          "1": 0.2686,
+          "X": 0.2646,
+          "2": 0.4668
         },
         "son": {
           "1": 0.2056,
@@ -6075,12 +6075,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4412,
-          "X": 0.2893,
-          "2": 0.2695
+          "1": 0.44,
+          "X": 0.2874,
+          "2": 0.2726
         },
         "son": {
           "1": 0.4452,
@@ -6260,12 +6260,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.1973,
-          "X": 0.225,
-          "2": 0.5777
+          "1": 0.1982,
+          "X": 0.226,
+          "2": 0.5758
         },
         "son": {
           "1": 0.1941,
@@ -6445,12 +6445,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.2374,
-          "X": 0.2393,
-          "2": 0.5233
+          "1": 0.2377,
+          "X": 0.2396,
+          "2": 0.5227
         },
         "son": {
           "1": 0.2401,
@@ -6630,12 +6630,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.3616,
-          "X": 0.2725,
-          "2": 0.3659
+          "1": 0.3614,
+          "X": 0.2743,
+          "2": 0.3643
         },
         "son": {
           "1": 0.3421,
@@ -6815,12 +6815,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.6197,
-          "X": 0.2111,
-          "2": 0.1692
+          "1": 0.6184,
+          "X": 0.2118,
+          "2": 0.1698
         },
         "son": {
           "1": 0.6229,
@@ -7000,12 +7000,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.5203,
-          "X": 0.2526,
-          "2": 0.2271
+          "1": 0.5212,
+          "X": 0.2515,
+          "2": 0.2273
         },
         "son": {
           "1": 0.5109,
@@ -7185,12 +7185,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.2865,
-          "X": 0.2834,
-          "2": 0.4301
+          "1": 0.2884,
+          "X": 0.2826,
+          "2": 0.429
         },
         "son": {
           "1": 0.2489,
@@ -7370,12 +7370,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.376,
-          "X": 0.2459,
-          "2": 0.3782
+          "1": 0.3755,
+          "X": 0.2466,
+          "2": 0.378
         },
         "son": {
           "1": 0.3496,
@@ -7555,12 +7555,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
           "1": 0.0963,
-          "X": 0.1569,
-          "2": 0.7468
+          "X": 0.1558,
+          "2": 0.7478
         },
         "son": {
           "1": 0.0826,
@@ -7925,12 +7925,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.3746,
-          "X": 0.259,
-          "2": 0.3665
+          "1": 0.3754,
+          "X": 0.2598,
+          "2": 0.3649
         },
         "son": {
           "1": 0.3724,
@@ -8110,12 +8110,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:17Z",
         "ilk": {
-          "1": 0.4691,
-          "X": 0.2597,
-          "2": 0.2712
+          "1": 0.4678,
+          "X": 0.2613,
+          "2": 0.2709
         },
         "son": {
           "1": 0.4884,
@@ -8295,12 +8295,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.573,
-          "X": 0.207,
-          "2": 0.22
+          "1": 0.5711,
+          "X": 0.2083,
+          "2": 0.2206
         },
         "son": {
           "1": 0.5667,
@@ -8480,12 +8480,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.7832,
-          "X": 0.1382,
-          "2": 0.0787
+          "1": 0.7798,
+          "X": 0.1396,
+          "2": 0.0806
         },
         "son": {
           "1": 0.809,
@@ -8665,12 +8665,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.3502,
-          "X": 0.2775,
-          "2": 0.3723
+          "1": 0.3493,
+          "X": 0.2784,
+          "2": 0.3724
         },
         "son": {
           "1": 0.3436,
@@ -8850,12 +8850,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4551,
-          "X": 0.245,
-          "2": 0.2999
+          "1": 0.4524,
+          "X": 0.2479,
+          "2": 0.2997
         },
         "son": {
           "1": 0.4539,
@@ -9035,12 +9035,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4219,
-          "X": 0.2741,
-          "2": 0.304
+          "1": 0.4223,
+          "X": 0.2745,
+          "2": 0.3032
         },
         "son": {
           "1": 0.4866,
@@ -9220,12 +9220,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:23Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4221,
-          "X": 0.2711,
-          "2": 0.3068
+          "1": 0.4189,
+          "X": 0.2718,
+          "2": 0.3093
         },
         "son": {
           "1": 0.4024,
@@ -9405,12 +9405,12 @@
         }
       },
       "hareket": {
-        "ilk_utc": "2026-11-20T05:37:19Z",
+        "ilk_utc": "2026-11-21T05:37:22Z",
         "son_utc": "2026-11-27T05:37:18Z",
         "ilk": {
-          "1": 0.4491,
-          "X": 0.2697,
-          "2": 0.2813
+          "1": 0.449,
+          "X": 0.2695,
+          "2": 0.2814
         },
         "son": {
           "1": 0.4508,
@@ -9490,14 +9490,34 @@
             "baslama_utc": "2026-11-28T14:30:00Z",
             "kod": "2",
             "olasilik": 0.7571,
-            "gerekce": "Bayern Münih'in ligdeki konumu, rakibine göre daha yüksek gol beklentisi ve güncel araştırmadaki eksiklere rağmen favori olması nedeniyle Bayern Münih'in kazanması yüksek olasılık.",
+            "gerekce": "Bayern Münih'in hem ligdeki konumu hem de rakibine göre daha güçlü kadrosu ve form durumu, galibiyet olasılığını yükseltiyor.",
             "gerekce_ceviri": {
-              "en": "Bayern Munich's position in the league, their higher expected goal output compared with their opponent, and their status as favourites despite the injury absences in the latest reports make a Bayern Munich win a high-probability outcome.",
-              "es": "La posición del Bayern Múnich en la liga, su mayor expectativa de goles frente a su rival y el hecho de ser el favorito, a pesar de las bajas en la información más reciente, hacen que la victoria del Bayern Múnich tenga una alta probabilidad.",
-              "de": "Die Position von Bayern München in der Liga, die im Vergleich zum Gegner höhere erwartete Torzahl und die Tatsache, dass Bayern trotz der aktuellen Lücken in der Analyse der Favorit ist, machen einen Sieg von Bayern München sehr wahrscheinlich.",
-              "fr": "La position de Bayern Munich en championnat, son attente de buts supérieure à celle de son adversaire et son statut de favori, malgré les absences signalées dans les dernières informations, font de la victoire du Bayern une probabilité élevée.",
-              "it": "La posizione del Bayern Monaco in campionato, la maggiore attesa di gol rispetto all'avversario e il fatto di essere il favorito, nonostante le assenze emerse dalle ultime verifiche, rendono molto probabile la vittoria del Bayern Monaco.",
-              "pt": "A posição do Bayern de Munique na liga, a maior expectativa de gols em relação ao seu adversário e o fato de ser o favorito, apesar das lacunas no levantamento atual, tornam a vitória do Bayern de Munique uma possibilidade de alta probabilidade."
+              "en": "Bayern Munich's stronger squad and current form, both in the league standings and relative to their opponent, raise their probability of winning.",
+              "es": "El Bayern Múnich tiene una probabilidad mayor de victoria gracias a su posición en la liga, a su plantilla más fuerte frente a su rival y a su buen momento de forma.",
+              "de": "Bayerns Position in der Liga sowie sein im Vergleich zum Gegner stärkerer Kader und seine aktuelle Form erhöhen die Wahrscheinlichkeit eines Sieges.",
+              "fr": "La position de Bayern Munich en championnat, ainsi que son effectif plus fort que celui de son adversaire et sa forme actuelle, augmentent sa probabilité de victoire.",
+              "it": "Il Bayern Monaco è favorito: sia la sua posizione in classifica sia la forza della rosa rispetto all'avversario, insieme alla forma attuale, aumentano la probabilità di vittoria.",
+              "pt": "O Bayern Munique tem probabilidade maior de vitória, graças à sua posição no campeonato, a um elenco mais forte em comparação ao adversário e ao seu bom momento de forma."
+            },
+            "skor": null,
+            "tuttu": null
+          },
+          {
+            "mac_id": "f128c19fa7af43e30dbe3c373e7bc27e",
+            "lig": "soccer_italy_serie_a",
+            "ev_sahibi": "Inter Milan",
+            "deplasman": "Genoa",
+            "baslama_utc": "2026-11-28T19:45:00Z",
+            "kod": "1",
+            "olasilik": 0.7247,
+            "gerekce": "Inter Milan'ın ev sahibi avantajı, rakibine göre daha iyi form durumu ve ligdeki konumu galibiyet olasılığını artırıyor.",
+            "gerekce_ceviri": {
+              "en": "Inter Milan's home advantage and better current form compared with its opponent, along with its position in the league, increase its probability of winning.",
+              "es": "El principal factor de Inter Milan es la ventaja de jugar en casa, junto con su mejor forma reciente y su posición en la liga, lo que aumenta la probabilidad de victoria.",
+              "de": "Der Heimvorteil von Inter Mailand sowie seine im Vergleich zum Gegner bessere Form und Tabellensituation in der Liga erhöhen die Wahrscheinlichkeit eines Sieges.",
+              "fr": "L'avantage du terrain de l'Inter Milan, sa meilleure forme par rapport à son adversaire et sa position en championnat augmentent la probabilité d'une victoire.",
+              "it": "L'vantaggio di giocare in casa dell'Inter Milan, unito a una forma migliore rispetto all'avversario e alla sua posizione in classifica, aumenta la probabilità di vittoria.",
+              "pt": "A vantagem de jogar em casa do Inter Milan e sua melhor fase de forma em comparação com o adversário, além da posição na liga, aumentam a probabilidade de vitória."
             },
             "skor": null,
             "tuttu": null
@@ -9508,36 +9528,16 @@
             "ev_sahibi": "VfB Stuttgart",
             "deplasman": "Eintracht Frankfurt",
             "baslama_utc": "2026-11-28T17:30:00Z",
-            "kod": "1X",
-            "olasilik": 0.7548,
-            "gerekce": "Stuttgart'ın ev sahibi avantajı, rakibine göre daha iyi form durumu ve güncel araştırmadaki eksiklerin azlığı göz önüne alındığında Stuttgart'ın kaybetmemesi yüksek olasılık.",
-            "gerekce_ceviri": {
-              "en": "Stuttgart's home advantage, their better recent form compared with their opponent, and the fewer absences in the latest team news make it highly probable that Stuttgart will not lose.",
-              "es": "La ventaja de jugar en casa del Stuttgart y su mejor estado de forma frente a su rival, junto con la escasez de bajas en la plantilla según la información más reciente, hacen que sea muy probable que el Stuttgart no pierda.",
-              "de": "Stuttgarts Heimvorteil, seine im Vergleich zum Gegner bessere Form und die geringe Zahl an Ausfällen in der aktuellen Analyse lassen darauf schließen, dass Stuttgart mit hoher Wahrscheinlichkeit nicht verlieren wird.",
-              "fr": "L'avantage de jouer à domicile du Stuttgart, sa meilleure forme par rapport à son adversaire et le faible nombre d'absences dans l'effectif actuel font que la probabilité que le Stuttgart ne perde pas est élevée.",
-              "it": "Il vantaggio di giocare in casa dello Stuttgart, la sua migliore forma rispetto all'avversario e il minor numero di assenze nelle ultime informazioni rendono molto probabile che lo Stuttgart non perda.",
-              "pt": "A vantagem de jogar em casa do Stuttgart, sua melhor forma em relação ao adversário e a pequena quantidade de desfalques no levantamento mais recente tornam muito provável que o Stuttgart não saia derrotado."
-            },
-            "skor": null,
-            "tuttu": null
-          },
-          {
-            "mac_id": "c99772cba1418e72f2eded26e4afeb59",
-            "lig": "soccer_spain_la_liga",
-            "ev_sahibi": "Real Madrid",
-            "deplasman": "Alavés",
-            "baslama_utc": "2026-11-28T20:00:00Z",
             "kod": "ust",
-            "olasilik": 0.727,
-            "gerekce": "Real Madrid'in yüksek gol beklentisi, son maçlardaki bol gollü skorları ve rakibin deplasmanlardaki zayıflığı dikkate alındığında 3 veya daha fazla gol olması yüksek olasılık.",
+            "olasilik": 0.7497,
+            "gerekce": "Her iki takımın da son maçlarındaki gol ortalamaları ve hücum potansiyelleri, maçta 3 veya daha fazla gol olma olasılığını destekliyor.",
             "gerekce_ceviri": {
-              "en": "Real Madrid's high expected goals, given their recent high-scoring matches and the opponent's weakness on the road, makes 3 or more goals a highly likely outcome.",
-              "es": "El alto promedio de goles esperado para Real Madrid, teniendo en cuenta sus marcadores con muchos goles en los últimos partidos y la debilidad del rival como visitante, hace que la probabilidad de que se marquen 3 o más goles sea alta.",
-              "de": "Real Madrids hohe Torerwartung spricht dafür, dass es 3 oder mehr Tore geben wird. Dabei sind die torreichen Ergebnisse der letzten Spiele und die Schwäche des Gegners auf fremdem Platz berücksichtigt, was eine hohe Wahrscheinlichkeit ergibt.",
-              "fr": "Le fort potentiel offensif du Real Madrid, les nombreux matchs riches en buts récemment et la faiblesse de l'adversaire à l'extérieur laissent penser qu'il y a une forte probabilité de 3 buts ou plus.",
-              "it": "Il alto numero di gol attesi per il Real Madrid, considerando i punteggi ricchi di reti nelle partite recenti e la debolezza dell'avversario in trasferta, rende molto probabile che si segnino 3 o più gol.",
-              "pt": "Real Madrid tem alta expectativa de gols, e, considerando os placares com muitos gols em jogos recentes e a fraqueza do adversário fora de casa, a probabilidade de saírem 3 ou mais gols é alta."
+              "en": "Both teams' goal averages and attacking potential in their recent matches support the probability of 3 or more goals in the match.",
+              "es": "Las estadísticas de goles y el potencial ofensivo de los últimos partidos de ambos equipos respaldan la probabilidad de que se marquen 3 goles o más en el encuentro.",
+              "de": "Die Tore-Durchschnittswerte und das Offensivpotenzial beider Teams in ihren letzten Spielen sprechen für eine Wahrscheinlichkeit von 3 oder mehr Toren in diesem Spiel.",
+              "fr": "Les moyennes de buts et le potentiel offensif des deux équipes lors de leurs derniers matchs soutiennent la probabilité de voir 3 buts ou plus dans cette rencontre.",
+              "it": "Entrambe le squadre, nelle loro ultime partite, presentano medie gol e potenziale offensivo che sostengono la probabilità di 3 o più gol nella partita.",
+              "pt": "A média de gols e o potencial ofensivo das duas equipes nas partidas mais recentes sustentam a probabilidade de haver 3 ou mais gols na partida."
             },
             "skor": null,
             "tuttu": null
@@ -9545,35 +9545,19 @@
         ],
         "elenenler": [
           {
-            "mac_id": "9d23f6ad21946dd258869ebc22236cf0",
-            "lig": "soccer_epl",
-            "ev_sahibi": "Ipswich Town",
-            "deplasman": "Aston Villa",
-            "baslama_utc": "2026-11-28T17:30:00Z",
-            "neden": "Her iki takımın da son maçlardaki kötü formu ve Aston Villa'nın yorgunluğu nedeniyle yüksek olasılıklı seçenekler elendi.",
+            "mac_id": "c99772cba1418e72f2eded26e4afeb59",
+            "lig": "soccer_spain_la_liga",
+            "ev_sahibi": "Real Madrid",
+            "deplasman": "Alavés",
+            "baslama_utc": "2026-11-28T20:00:00Z",
+            "neden": "Real Madrid'in Şampiyonlar Ligi maçı sonrası yorgunluğu ve Alavés'in son haftalardaki toparlanması, yüksek olasılığa rağmen risk taşıyor.",
             "neden_ceviri": {
-              "en": "Due to the poor recent form of both teams and Aston Villa's fatigue, the high-probability options were ruled out.",
-              "es": "Debido a la mala forma reciente de ambos equipos y al cansancio del Aston Villa, se descartaron las opciones de alta probabilidad.",
-              "de": "Aufgrund der schwachen Form beider Mannschaften in den letzten Spielen und der Müdigkeit bei Aston Villa wurden die Optionen mit hoher Wahrscheinlichkeit ausgeschlossen.",
-              "fr": "Les options à forte probabilité ont été écartées en raison de la mauvaise forme récente des deux équipes et de la fatigue d'Aston Villa.",
-              "it": "A causa della cattiva forma recente di entrambe le squadre e della stanchezza dell'Aston Villa, le opzioni con probabilità elevata sono state escluse.",
-              "pt": "Devido à má forma recente das duas equipes e ao cansaço do Aston Villa, as opções de alta probabilidade foram descartadas."
-            }
-          },
-          {
-            "mac_id": "ab87184803a63f7b679f1d12b01c3271",
-            "lig": "soccer_epl",
-            "ev_sahibi": "Manchester United",
-            "deplasman": "Brentford",
-            "baslama_utc": "2026-11-28T15:00:00Z",
-            "neden": "Manchester United'ın ligdeki kötü durumu, kilit oyuncu eksiklikleri ve Brentford'un formda olması nedeniyle yüksek olasılıklı seçenekler elendi.",
-            "neden_ceviri": {
-              "en": "Manchester United's poor league form, key player absences, and Brentford's good form led us to rule out the high-probability options.",
-              "es": "El estado del Manchester United en la liga, sus importantes bajas de jugadores clave y la buena forma del Brentford han hecho que se descarten las opciones de alta probabilidad.",
-              "de": "Manchester Uniteds schwache Ligaform, wichtige Ausfälle bei Schlüsselspielern und die gute Form von Brentford haben dazu geführt, dass Optionen mit hoher Wahrscheinlichkeit ausgeschlossen wurden.",
-              "fr": "En raison de la mauvaise passe de Manchester United en championnat, de ses absences de joueurs clés et de la bonne forme de Brentford, les options à forte probabilité ont été écartées.",
-              "it": "Lo stato difficile del Manchester United in campionato, le assenze di giocatori chiave e la buona forma del Brentford hanno portato a escludere le opzioni con alta probabilità.",
-              "pt": "A situação ruim do Manchester United na liga, as ausências de jogadores-chave e a boa fase do Brentford fizeram com que as opções de alta probabilidade fossem descartadas."
+              "en": "Real Madrid's fatigue after their Champions League match and Alavés's recovery over recent weeks carry risk, despite a high probability.",
+              "es": "El cansancio del Real Madrid tras su partido de Champions League y la recuperación del Alavés en las últimas semanas conllevan riesgo, a pesar de la alta probabilidad.",
+              "de": "Die Müdigkeit von Real Madrid nach dem Champions-League-Spiel und die Erholung von Alavés in den letzten Wochen bergen trotz der hohen Wahrscheinlichkeit ein Risiko.",
+              "fr": "La fatigue du Real Madrid après son match de Ligue des champions et le redressement de l'Alavés ces dernières semaines comportent un risque, malgré une probabilité élevée.",
+              "it": "La stanchezza del Real Madrid dopo la partita di Champions League e la ripresa dell'Alavés nelle ultime settimane comportano dei rischi, nonostante l'elevata probabilità.",
+              "pt": "O cansaço do Real Madrid após o jogo da Liga dos Campeões e a recuperação do Alavés nas últimas semanas, apesar da alta probabilidade, carregam risco."
             }
           },
           {
@@ -9582,14 +9566,30 @@
             "ev_sahibi": "Elche CF",
             "deplasman": "Atlético Madrid",
             "baslama_utc": "2026-11-28T17:30:00Z",
-            "neden": "Atlético Madrid'in yorgunluğu ve Elche'nin motivasyonu göz önüne alındığında yüksek olasılıklı seçenekler elendi.",
+            "neden": "Atlético Madrid'in hem yorgunluğu hem de yaklaşan Barcelona maçı öncesi rotasyon ihtimali, galibiyet olasılığını düşürüyor.",
             "neden_ceviri": {
-              "en": "Given Atlético Madrid's fatigue and Elche's motivation, the high-probability options were ruled out.",
-              "es": "Dado el cansancio del Atlético de Madrid y la motivación del Elche, se descartaron las opciones de alta probabilidad.",
-              "de": "Angesichts der Müdigkeit von Atlético Madrid und der Motivation von Elche wurden Optionen mit hoher Wahrscheinlichkeit ausgeschlossen.",
-              "fr": "L'épuisement d'Atlético Madrid et la motivation d'Elche étant pris en compte, les options à forte probabilité ont été écartées.",
-              "it": "A causa della stanchezza dell'Atlético Madrid e della motivazione dell'Elche, le opzioni con alta probabilità sono state scartate.",
-              "pt": "Considerando o cansaço do Atlético de Madrid e a motivação do Elche, as opções de alta probabilidade foram descartadas."
+              "en": "Atlético Madrid's fatigue, along with the possibility of rotation ahead of the upcoming Barcelona match, is lowering their probability of winning.",
+              "es": "El cansancio del Atlético de Madrid y la posibilidad de rotaciones antes del próximo partido contra el Barcelona reducen su probabilidad de victoria.",
+              "de": "Atléticos Müdigkeit sowie die mögliche Rotation vor dem bevorstehenden Spiel gegen Barcelona verringern die Wahrscheinlichkeit eines Sieges.",
+              "fr": "L'état de fatigue de l'Atlético Madrid, combiné à la possibilité d'une rotation avant le match à venir contre le Barcelone, fait baisser sa probabilité de victoire.",
+              "it": "L'affaticamento dell'Atlético Madrid e la possibilità di rotazioni in vista della prossima partita contro il Barcellona stanno riducendo la probabilità di vittoria.",
+              "pt": "O cansaço do Atlético de Madrid e a possibilidade de rodízio antes do próximo jogo contra o Barcelona reduzem a probabilidade de vitória."
+            }
+          },
+          {
+            "mac_id": "ab87184803a63f7b679f1d12b01c3271",
+            "lig": "soccer_epl",
+            "ev_sahibi": "Manchester United",
+            "deplasman": "Brentford",
+            "baslama_utc": "2026-11-28T15:00:00Z",
+            "neden": "Manchester United'ın kötü formu ve önemli eksikleri, Brentford'un ise Avrupa kupaları hedefiyle formda olması, yüksek olasılığa rağmen riskli.",
+            "neden_ceviri": {
+              "en": "Manchester United's poor form and key absences, while Brentford are in good form with their European qualification target, make this a risky pick despite its high probability.",
+              "es": "El mal momento de forma de Manchester United y sus importantes bajas, frente a un Brentford en buena forma con la meta de las competiciones europeas, hacen que, pese a la alta probabilidad, sea un escenario arriesgado.",
+              "de": "Manchester Uniteds schwache Form und wichtige Ausfälle sowie die gute Form von Brentford mit dem Ziel eines Europapokalplatzes machen das Spiel trotz der hohen Wahrscheinlichkeit riskant.",
+              "fr": "La mauvaise forme de Manchester United et ses absences importantes, face à un Brentford en bonne condition dans la perspective d'une qualification pour les coupes européennes, rendent ce match risqué malgré une probabilité élevée.",
+              "it": "Il cattivo momento di forma e le importanti assenze del Manchester United, unite alla buona forma del Brentford con l'obiettivo delle coppe europee, rendono lo scenario rischioso nonostante l'elevata probabilità.",
+              "pt": "A forma ruim do Manchester United e suas importantes ausências, enquanto o Brentford está em boa fase com a meta de disputar competições europeias, tornam a previsão arriscada, apesar da alta probabilidade."
             }
           }
         ],
